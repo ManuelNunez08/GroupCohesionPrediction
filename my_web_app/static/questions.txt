@@ -1,0 +1,83 @@
+Task cohesion
+
+1. Does the team seem to share the responsibility for the task?
+
+2. Do you feel that team members share the same purpose/goal/intentions?
+
+3. Overall, how enthusiastic is the group?
+
+4. How is the morale of the team?
+
+5. Overall, do the members give each other a lot of feedback?
+
+6. Overall, do the team members appear to be collaborative?
+
+7. Does every team member seem to have sufficient time to make their contribution?
+
+Social Cohesion
+
+1. Overall, do you feel that the work group operates spontaneously?
+
+2. Overall, how involved/engaged in the discussion do the participants seem?
+
+3. Do the team members seem to enjoy each other's company?
+
+4. Does the team seem to have a good rapport?
+
+5. Overall, does the atmosphere of the group seem more jovial or serious? 
+
+6. Overall, does the work group appear to be in tune/in sync with each other?
+
+7. Overall, does there appear to be equal participation from the group? 
+
+8. Overall, do the group members listen attentively to each other?
+
+9. Overall, does the team appear to be integrated? 
+
+10. Do the team members appear to be receptive to each other? 
+
+11. Do the participants appear comfortable or uncomfortable with each other?
+
+12. Is there a strong sense of belonging in the work group? 
+
+13. Overall, does the atmosphere seem tense or relaxed?
+
+14. Does the work group appear to have a strong bond?
+
+15. How is the pace of the conversation?
+
+16. Overall do the team members seem to be supportive towards each other?
+
+17. How well do you think the participants know each other?
+
+Miscellaneous
+
+1. Is there a leader in the group? 
+
+2. If you answered YES, does the leader bring the rest of the group together?
+
+3. Overall, how cohesive does the group appear?
+
+
+
+
+<p>This application allows you to explore Graph Neural Networks in the classification of cohesion in coversational
+            settings using data from the AMI corpus. Below are a series of questions used by annotators to evaluate two minute
+            snippets of
+            conversation held by groups of four participants who were tasked with proposing, designing, and deploying a remote
+            control. <br><br>
+        
+            Questions are meant to provide insight into either Social or Task Cohesion. The last three questions don't
+            correspond to either category.
+            All questions, barrring M1, are scored on a sclae of 1-7, where higher scores are indicative of higher group
+            cohesion. <br><br>
+        
+            Data has been extracted from each two minute snippet to build a conversational graph outlining the linguistic
+            features of participant interaction.
+            These features describe pariticipants (nodes) as well as the dynamics of each pair's interaction (direceted edges).
+            <br><br>
+        
+            Select a question from the categories below, or a cohesion category as a whole, to build a GNN that predicts
+            cohseion scores using this data.
+            Additionally, choose whether you would like to perform a regression or binary classification task using the model.
+</p>

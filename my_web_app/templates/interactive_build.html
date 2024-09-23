@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model Generation</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='interactive_build.css') }}">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+
+    <!-- Add the header for the page -->
+    <header class="text-center mt-3">
+        <a href="/" style="text-decoration: none; color: inherit;">
+            <h1>Exploring Group Cohesion Using GNNs</h1>
+        </a>
+        <h3>Data Selection</h3>
+    </header>
+
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Sidebar: Tabs for Data Suites and Hyperparameters -->
+            <div class="col-md-4 bg-light sidebar-border">
+                <ul class="nav nav-tabs flex-column" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="data-suites-tab" data-toggle="tab" href="#dataSuites"
+                            role="tab">Data
+                            Suites</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="model-hyperparameters-tab" data-toggle="tab" href="#modelHyperparams"
+                            role="tab">Training Hyperparameters</a>
+                    </li>
+                </ul>
+
+                <!-- Tab Content for Data Suites -->
+                <div class="tab-content mt-3">
+                    <div class="tab-pane fade show active" id="dataSuites" role="tabpanel">
+                        <p>Below are the current training and testing suites.
+                            If you find the training distribution to be too skewed, please regenerate a random split
+                            and set an accompanying alpha parameter. Save your test and training suite when you're
+                            satisfied with your selection. </p>
+
+                            <form id="updateAlphaForm">
+                        
+                            <label for="alpha"><strong>Alpha Weight (Recommmended: <span id="Alpha_rec">{{alpha}}</span> ):</strong></label>
+                            <input type="number" class="form-control" id="alpha" name="alpha" value="0.0" min="0.0" max="2.0" step="0.01"
+                                onkeydown="return false;">
+                            </form>
+                            <button id="save-alpha-btn" class="btn btn-secondary mt-3" style="width: 60%;" type="button">Save Current
+                                Selection</button><br><br>
+                        
+                        </form>
+
+                            <label for="Distributions"><strong>Data Distributions:</strong></label><br>
+
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <button id="regenerate-split-btn" class="btn btn-primary mt-3" style="width: 80%; height: 80%;">Regenerate Data
+                                        Split</button>
+                                </div>
+                                <div class="col-md-6">
+                                    <button id="save-split-btn" class="btn btn-secondary mt-3" style="width: 80%; height: 80%;">Save Current Data
+                                        Split</button>
+                                </div>
+                            </div><br>
+                            <div class="row">
+                                <div id="training_data"></div>
+                            </div>
+                            <div class="row">
+                                <div id="testing_data"></div><br>
+                            </div>
+                    </div>
+
+                    <!-- Tab Content for Hyperparameters -->
+                    <div class="tab-pane fade" id="modelHyperparams" role="tabpanel">
+                        <p>Below are the training hyperparameters. Set them to your liking and save your selection when
+                            ready.
+                        </p>
+                        <form id="hyperparamsForm">
+                            <label for="batch_size"><strong>Batch Size:</strong></label>
+                            <input type="number" class="form-control" id="batch_size" name="batch_size" value="4"
+                                min="1" max="10" step="1" onkeydown="return false;"><br>
+
+                            <label for="epochs"><strong>Epochs:</strong></label>
+                            <input type="number" class="form-control" id="epochs" name="epochs" value="250" min="50"
+                                max="500" step="10" onkeydown="return false;"><br>
+
+                            <label for="learning_rate"><strong>Learning Rate:</strong></label>
+                            <input type="number" class="form-control" id="learning_rate" name="learning_rate"
+                                value="0.01" min="0.001" max="0.1" step="0.001" onkeydown="return false;"><br>
+
+                            <label for="dropout_rate"><strong>Dropout Rate:</strong></label>
+                            <input type="number" class="form-control" id="dropout_rate" name="dropout_rate" value="0.5"
+                                min="0.0" max="1.0" step="0.1" onkeydown="return false;"><br>
+                            
+                            <button id="save-hyperparams-btn" class="btn btn-secondary btn-lg" style="width: 80%;">Save
+                                Current Selection</button><br><br>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Main content: Training Log and Model Results -->
+            <div class="col-md-8 main-content-border">
+                <div class="row">
+                <div id="model-results" class="card card-body mt-3">
+                    <!-- Two columns: Current Data Selection and Hyperparameters -->
+                    <div class="row">
+                        <!-- Left column: Current Data Selection -->
+                        <div class="col-md-9">
+                            <h4>Saved Data Selection</h4>
+                            <p>
+                                <strong>Alpha Weight:</strong> <span id="savedAlpha">{{ model_metadata['hyperparameters']['alpha_weight'] }}</span>
+                            </p>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div id="training_data_main"></div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div id="testing_data_main"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Right column: Current Parameter Selection -->
+                        <div class="col-md-3" style="border-left: 1px solid #ccc;">
+                            <h4>Saved Parameter Selection</h4>
+                            <ul class="list-unstyled">
+                                <li><strong>Batch Size:</strong> <span id="savedBatchSize">{{ model_metadata['hyperparameters']['batch_size']
+                                        }}</span></li>
+                                <li><strong>Epochs:</strong> <span id="savedEpochs">{{ model_metadata['hyperparameters']['n_epochs'] }}</span></li>
+                                <li><strong>Learning Rate:</strong> <span id="savedLearningRate">{{
+                                        model_metadata['hyperparameters']['learning_rate'] }}</span></li>
+                                <li><strong>Dropout Rate:</strong> <span id="savedDropoutRate">{{ model_metadata['hyperparameters']['dropout_rate']
+                                        }}</span></li>
+                            </ul>
+                        </div>
+                        </div>
+                        </div>
+                        </div>
+                    
+                    <div id="train-model" class="card card-body mt-3 align-items-center">
+                        <div id="train-row" class="row" style="display: block;">
+                            <!-- Green Button below both columns -->
+                            <div class="d-flex justify-content-center align-items-center mt-4">
+                                <button id="model-output-btn" class="btn btn-success btn-lg">Train and Test
+                                    Model With Saved Data and Parameter Selection</button><br>
+                            </div>
+                            
+                        </div>
+                        <div class="row">
+                            <div id="model-results-header" class="mt-3"></div>
+                        </div>
+                        <div class="row">
+                            <div id="model-results-tabs" class="mt-3"></div>
+                        </div>
+
+
+                        <div id="retrain-row" class="row" style="display: none;">
+                            <!-- Green Button below both columns -->
+                            <div class="d-flex justify-content-center align-items-center mt-4">
+                                <button id="model-retrain" class="btn btn-secondary btn-lg">Retrain Model</button><br>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+<script type="text/javascript">
+    // Sidebar Plot for Training Data
+    var dataTrainSidebar = {{ data_train_JSON | safe }};
+    var layoutTrainSidebar = {{ layout_train_JSON | safe }};
+    var configTrainSidebar = {{ config_train_JSON | safe }};
+    Plotly.newPlot('training_data', dataTrainSidebar, layoutTrainSidebar, configTrainSidebar);
+
+    // Sidebar Plot for Testing Data
+    var dataTestSidebar = {{ data_test_JSON | safe }};
+    var layoutTestSidebar = {{ layout_test_JSON | safe }};
+    var configTestSidebar = {{ config_test_JSON | safe }};
+    Plotly.newPlot('testing_data', dataTestSidebar, layoutTestSidebar, configTestSidebar);
+
+    // Main content Plot for Training Data
+    var dataTrainMain = {{ data_train_JSON | safe }};
+    var layoutTrainMain = {{ layout_train_JSON | safe }};
+    var configTrainMain = {{ config_train_JSON | safe }};
+    Plotly.newPlot('training_data_main', dataTrainMain, layoutTrainMain, configTrainMain);
+
+    // Main content Plot for Testing Data
+    var dataTestMain = {{ data_test_JSON | safe }};
+    var layoutTestMain = {{ layout_test_JSON | safe }};
+    var configTestMain = {{ config_test_JSON | safe }};
+    Plotly.newPlot('testing_data_main', dataTestMain, layoutTestMain, configTestMain);
+</script>
+
+
+<script src="{{ url_for('static', filename='interactive_build.js') }}"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</html>

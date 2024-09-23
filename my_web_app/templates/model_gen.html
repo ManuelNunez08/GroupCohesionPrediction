@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model Generation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+
+    <header>
+        <a href="/" style="text-decoration: none; color: inherit;">
+            <h1>Exploring Group Cohesion Using GNNs</h1>
+        </a>
+    </header>
+    <div class ="row">
+        <div class="intro">
+        <p>Below are the distributions for the training and testing data suites that will be employed by the model. 
+        Set model hyperparameters to your liking, keeping in mind the size and distribution of the training suite when doing so. 
+        Continue with model selection whne you're satisfied with your selection. </p>
+        </div>
+    </div>
+
+    <form id="hyperparamsForm" action="/kmodels" method="POST">
+        <div class="container">
+            <div class="row">
+                <div class="column">
+                    <img src="data:image/png;base64,{{ img_base64_train }}" alt="Training Data Distribution">
+                </div>
+
+                <div class="column">
+                    <img src="data:image/png;base64,{{ img_base64_test }}" alt="Test Data Distribution">
+                </div>
+
+                <div class="column">
+                    <h2>Model Hyperparameters</h2>
+                
+                    <label for="batch_size">Batch Size:</label>
+                    <input type="number" id="batch_size" name="batch_size" value="4" min="1"><br><br>
+                
+                    <label for="save_loss_interval">Save Loss Interval:</label>
+                    <input type="number" id="save_loss_interval" name="save_loss_interval" value="10" min="1"><br><br>
+                
+                    <label for="print_interval">Print Interval:</label>
+                    <input type="number" id="print_interval" name="print_interval" value="50" min="1"><br><br>
+                
+                    <label for="n_epochs">Number of Epochs:</label>
+                    <input type="number" id="n_epochs" name="n_epochs" value="250" min="1"><br><br>
+                
+                    <label for="learning_rate">Learning Rate:</label>
+                    <input type="number" step="0.001" id="learning_rate" name="learning_rate" value="0.005" min="0"><br><br>
+                </div>
+
+            </div>
+            <div class="row">
+                <button id="train-model-btn" class="large-button" type="submit">Train Model</button>
+            </div>
+            </div>
+        </form>
+
+        <form id="resample_data" action="/model_gen" method="POST">
+            <div class="row"></div>
+                <button id="resample_data_button" class="large-button" type="submit">Resample Data</button>
+            </div>
+
+        </form>
+
+
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+
+</html>
