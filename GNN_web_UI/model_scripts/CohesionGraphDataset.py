@@ -79,7 +79,7 @@ class CohesionGraphDataset(Dataset):
 
 # =================== BELOW WE READ IN ALL DATA FROM PICKLES ==============
 # Load the graphs data from file
-with open('../GNNs/data/annotations_graphs_new.pkl', 'rb') as f:
+with open('../graphs/data/annotations_graphs_new.pkl', 'rb') as f:
     graphs_cohesion_data = pickle.load(f)
 
 # Load question-level scores df 
