@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Cohesion Questionnaire</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='interactive_build.css') }}">
+</head>
+
+<body id="homePage">
+    <!-- Add the header for the page -->
+    <header class="text-center mt-3">
+        <a href="/" style="text-decoration: none; color: inherit;">
+            <h1>Exploring Group Cohesion Using GNNs</h1>
+        </a><br>
+        <h3>Home</h3>
+    </header>
+
+    <div class="container-fluid">
+        <!-- Introductory text -->
+        <div class="row">
+            <div class="col-md-12">
+                <p>This application allows you to explore Graph Neural Networks in the classification of cohesion in
+                    conversational
+                    settings using data from the AMI corpus. Below are a series of questions used by annotators to
+                    evaluate
+                    two-minute snippets of conversation held by groups of four participants who were tasked with
+                    proposing,
+                    designing, and deploying a remote control.</p>
+                <p>Questions are meant to provide insight into either Social or Task Cohesion. The last three questions
+                    don't correspond to either category.
+                    All questions, except for M1, are scored on a scale of 1-7, where higher scores indicate higher
+                    group cohesion.</p>
+                <p>Select a question from the categories below, or a cohesion category as a whole, to build a GNN that
+                    predicts cohesion scores using this data.
+                    Additionally, choose whether you would like to perform a regression or binary classification task
+                    using the model.</p>
+            </div>
+        </div>
+
+        <!-- Dropdowns and Button Row -->
+        <div class="row justify-content-center mb-4">
+            <!-- First Dropdown: Questions and Categories -->
+            <div class="col-md-4">
+                <label for="questionSelect"><strong> Select a Question or Category </strong></label>
+                <select class="form-control" id="questionSelect">
+                    <optgroup label="Social Cohesion">
+                        <option value="S1" onclick="selectQuestion('S1', this)">S1: Overall, do you feel that the work group operates
+                            spontaneously?</option>
+                        <option value="S2" onclick="selectQuestion('S2', this)">S2: Overall, how involved/engaged in the discussion do
+                            the participants seem?</option>
+                        <option value="S3" onclick="selectQuestion('S3', this)">S3: Do the team members seem to enjoy each other's
+                            company?</option>
+                        <option value="S4" onclick="selectQuestion('S4', this)">S4: Does the team seem to have a good rapport?</option>
+                        <option value="S5" onclick="selectQuestion('S5', this)">S5: Overall, does the atmosphere of the group seem more
+                            jovial or serious?</option>
+                        <option value="S6" onclick="selectQuestion('S6', this)">S6: Overall, does the work group appear to be in tune/in
+                            sync with each other?</option>
+                        <option value="S7" onclick="selectQuestion('S7', this)">S7: Overall, does there appear to be equal participation
+                            from the group?</option>
+                        <option value="S8" onclick="selectQuestion('S8', this)">S8: Overall, do the group members listen attentively to
+                            each other?</option>
+                        <option value="S9" onclick="selectQuestion('S9', this)">S9: Overall, does the team appear to be integrated?
+                        </option>
+                        <option value="S10" onclick="selectQuestion('S10', this)">S10: Do the team members appear to be receptive to
+                            each other?</option>
+                        <option value="S11" onclick="selectQuestion('S11', this)">S11: Do the participants appear comfortable or
+                            uncomfortable with each other?</option>
+                        <option value="S12" onclick="selectQuestion('S12', this)">S12: Is there a strong sense of belonging in the work
+                            group?</option>
+                        <option value="S13" onclick="selectQuestion('S13', this)">S13: Overall, does the atmosphere seem tense or
+                            relaxed?</option>
+                        <option value="S14" onclick="selectQuestion('S14', this)">S14: Does the work group appear to have a strong bond?
+                        </option>
+                        <option value="S15" onclick="selectQuestion('S15', this)">S15: How is the pace of the conversation?</option>
+                        <option value="S16" onclick="selectQuestion('S16', this)">S16: Overall do the team members seem to be supportive
+                            towards each other?</option>
+                        <option value="S17" onclick="selectQuestion('S17', this)">S17: How well do you think the participants know each
+                            other?</option>
+                    </optgroup>
+                
+                    <optgroup label="Task Cohesion">
+                        <option value="T1" onclick="selectQuestion('T1', this)">T1: Does the team seem to share the responsibility for
+                            the task?</option>
+                        <option value="T2" onclick="selectQuestion('T2', this)">T2: Do you feel that team members share the same
+                            purpose/goal/intentions?</option>
+                        <option value="T3" onclick="selectQuestion('T3', this)">T3: Overall, how enthusiastic is the group?</option>
+                        <option value="T4" onclick="selectQuestion('T4', this)">T4: How is the morale of the team?</option>
+                        <option value="T5" onclick="selectQuestion('T5', this)">T5: Overall, do the members give each other a lot of
+                            feedback?</option>
+                        <option value="T6" onclick="selectQuestion('T6', this)">T6: Overall, do the team members appear to be
+                            collaborative?</option>
+                        <option value="T7" onclick="selectQuestion('T7', this)">T7: Does every team member seem to have sufficient time
+                            to make their contribution?</option>
+                    </optgroup>
+                
+                    <optgroup label="Miscellaneous">
+                        <option value="M1" onclick="selectQuestion('M1', this)">M1: Is there a leader in the group?</option>
+                        <option value="M2" onclick="selectQuestion('M2', this)">M2: If you answered YES, does the leader bring the rest
+                            of the group together?</option>
+                        <option value="M3" onclick="selectQuestion('M3', this)">M3: Overall, how cohesive does the group appear?
+                        </option>
+                    </optgroup>
+                
+                    <optgroup label="General Categories">
+                        <option value="General Cohesion" onclick="selectCategory('General Cohesion', this)">General Cohesion (averages
+                            across all Task and Social Questions)</option>
+                        <option value="Task Cohesion" onclick="selectCategory('Task Cohesion', this)">Task Cohesion (averages across all
+                            Task Questions)</option>
+                        <option value="Social Cohesion" onclick="selectCategory('Social Cohesion', this)">Social Cohesion (averages
+                            across all Social Questions)</option>
+                    </optgroup>
+                </select>
+
+            </div>
+
+            <!-- Second Dropdown: Model Types -->
+            <div class="col-md-4">
+                <label for="modelTypeSelect"><strong>Select a Model Type</strong></label>
+                <select class="form-control" id="modelTypeSelect">
+                    <option value="binary" onclick="selectModelType('binary', this)">Binary Classification</option>
+                    <option value="regress" onclick="selectModelType('regress', this)">Continuous Regression</option>
+                </select>
+            </div>
+
+            <!-- Continue Button -->
+            <div class="col-md-2 align-self-end">
+                <button id="continue-btn" class="btn btn-success btn-block">Continue Building
+                    Model</button>
+            </div>
+        </div>
+
+        <div class="row justify-content-center mb-4">
+            <img src="static/home_image.png" alt="Description of the image" height="400" width="1500" style="border: 2px solid black;"></img>
+        </div>
+
+        <!-- Continue form, kept unchanged -->
+        <form id="continueForm" method="POST">
+            <!-- Hidden inputs to hold the selected question or category and model type -->
+            <input type="hidden" id="selectedQuestion" name="question">
+            <input type="hidden" id="selectedCategory" name="category">
+            <input type="hidden" id="selectedModel" name="model_type">
+
+            <!-- Pass in defaults for graphing -->
+            <input type="hidden" id="floor" name="floor">
+            <input type="hidden" id="ceiling" name="ceiling">
+            <input type="hidden" id="threshold_std" name="threshold_std">
+            <input type="hidden" id="threshold_kappa" name="threshold_kappa">
+        </form>
+
+    </div>
+
+    <script src="{{ url_for('static', filename='home.js') }}"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>

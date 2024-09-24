@@ -1,0 +1,94 @@
+.container-fluid {
+    padding: 20px;
+}
+
+.sidebar {
+    width: 35%;
+    /* Make the sidebar take up 35% of the page */
+    float: left;
+    /* Ensure the sidebar stays on the left */
+    border-right: 2px solid #ddd;
+}
+
+.col-md-9 {
+    width: 65%;
+    /* Adjust the main content area to fit the rest of the page width */
+    float: right;
+}
+
+.col-md-3 {
+    width: 35%;
+    /* Adjust the main content area to fit the rest of the page width */
+    float: left;
+}
+
+.nav-tabs .nav-link {
+    font-size: 16px;
+}
+
+#training-log,
+#model-results {
+    height: 400px;
+    overflow-y: auto;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+img.img-fluid {
+    border: 1px solid #ddd;
+    margin-bottom: 15px;
+}
+
+button {
+    width: 500%;
+    height: 500%;
+    margin-top: 10px;
+}
+
+#model-output-btn {
+    width: 50%;
+    /* Adjust the width of the button */
+    height: 200px;
+    /* Adjust the height of the button */
+    font-size: 1.5rem;
+    /* Increase the font size */
+    margin: auto;
+}
+
+/* Adds a border to separate the sidebar and main content */
+.sidebar-border {
+    border-right: 2px solid #ddd !important;
+
+}
+
+.main-content-border {
+    border-left: 2px solid #ddd !important;
+}
+
+/* Centers the button vertically and horizontally */
+#model-output-btn {
+    width: 80%;
+    height: 80px;
+    margin: auto;
+}
+
+header {
+    border-bottom: 5px solid #ddd !important;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+#training_data,
+#testing_data {
+    width: 100%;
+    /* Full width */
+    height: 300px;
+    /* Fixed height */
+    margin: 0 auto;
+    /* Center the graph */
+    display: block;
+    /* Ensure they are visible */
+    visibility: visible;
+    /* Ensure visibility */
+}
