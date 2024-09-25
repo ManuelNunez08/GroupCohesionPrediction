@@ -1,0 +1,2304 @@
+Start,End,Speaker,Speech,meeting
+2.13,13.18,B,"Okay , well I think we're ready to begin . Right , my name's Adam Duguid , we're here because of real reaction , um , we have in the group",ES2003a
+13.24,18.34,C,"Oh , Ebenezer Ademesoye . Would you like me to spell that ? S",ES2003a
+18.43,20.56,B,"Um , yeah , go for it mate .",ES2003a
+20.58,21.52,C,"Um , N_E_Z_",ES2003a
+21.97,24.41,B,N_ E_ Z_,ES2003a
+23.09,23.7,C,E_R_ .,ES2003a
+24.41,26.16,B,. Ebenezer . And your role is ?,ES2003a
+26.3,28.26,C,I'm the Marketing Expert .,ES2003a
+28.5,34.18,B,"You're the Marketing Expert , okay . Next we have ?",ES2003a
+34.34,36.3,D,Tarik Rahman . T_A_R_I_K_ .,ES2003a
+36.52,39.75,B,T_ R_ I_ K_ . And your role in this is ?,ES2003a
+39.84,40.86,D,Industrial Designer .,ES2003a
+41.01,41.95,B,Industrial Designer .,ES2003a
+47.69,49.09,B,"And , lastly we have ?",ES2003a
+49.38,50.77,A,"Uh , Dave Cochrane .",ES2003a
+53.02,54.55,B,And you're going to be the User Interface,ES2003a
+54.24,54.59,A,User,ES2003a
+54.55,54.65,B,", is",ES2003a
+54.59,54.94,A,Interface,ES2003a
+54.65,55.07,B,it,ES2003a
+54.94,55.31,A,Defin,ES2003a
+55.07,55.62,B,? Designer,ES2003a
+55.31,55.69,A,Designer,ES2003a
+55.62,57.21,B,. Okay,ES2003a
+55.69,56.06,A,", yes .",ES2003a
+57.21,100.18,B,". Right . This is the agenda for today's meeting . As you can see , w opening , acquaintance , tool training , project plan discussion , and closing . Um , we already got n through opening , and partially through acquaintance . So , the reason we're here , we're gonna design a new remote control , as you probably all know . The very broad overview is original , trendy , and user-friendly . Course , we'll have to go into a bit more um detail than that , but uh personally I think that the original is gonna be a very key aspect to this design . Um , there's a lot of remote controls out there anyway , so we're gonna need something that's really gonna set it apart .",ES2003a
+105.69,143.48,B,"This is how today seems to be going to work . We're gonna have the three kay phases , as you've probably already been told , the functional , architectural , and the detailed design . Um First one's gonna be covering the user requirement spec , technical functions , working design . Second seems to be conceptual components , properties , materials , and the last one is a detailed analysis of our design so far . Of course , you've all got the similar emails , I believe , right . What can I say ? Ebenezer , you wanna have a you wanna draw your favourite animal ?",ES2003a
+143.48,162.66,C,"Sure . Whiteboard . 'Kay . S okay . I will make this quick , since we don't have much time . Um .",ES2003a
+212.3,241.71,C,"'Kay , so it's not the best picture in the world . Here we have an elephant . First point , begins with an E_ , same like Ebenezer . Also , elephants have a very good memory , much like myself , and I can't remember back when I used to live back in Nigeria , but I think I used to have a pet elephant . So elephants are big , strong and gentle , and they have great memories , and they begin with the letter E_ , just like Ebenezer .",ES2003a
+243.68,244.76,B,Brilliantly done,ES2003a
+244.72,244.92,C,Thank,ES2003a
+244.76,244.98,B,. Thank,ES2003a
+244.92,245.55,C,you,ES2003a
+244.98,247.45,B,you,ES2003a
+245.55,245.55,C,.,ES2003a
+247.45,252.65,B,". Tarik , would you like to have a shot at a bit of artistry ?",ES2003a
+255.136,255.136,D,.,ES2003a
+255.89,256.69,C,Oh,ES2003a
+256.21,256.72,B,"Oh , um",ES2003a
+256.69,257.75,C,. Oh,ES2003a
+256.72,256.84,B,", you",ES2003a
+256.77,256.85,D,Do,ES2003a
+256.84,256.98,B,can,ES2003a
+256.85,257.15,D,we take,ES2003a
+256.98,257.2,B,clip,ES2003a
+257.15,257.26,D,them,ES2003a
+257.2,257.32,B,them,ES2003a
+257.26,258.29,D,off,ES2003a
+257.32,257.93,B,to your belt,ES2003a
+257.75,257.96,C,oh I,ES2003a
+257.93,257.93,B,.,ES2003a
+257.96,258.65,C,think you,ES2003a
+258.29,258.68,D,? Oh right,ES2003a
+258.65,259.03,C,ga,ES2003a
+258.68,258.96,D,", okay .",ES2003a
+259.01,260.26,B,You should also l um,ES2003a
+260.02,261.25,C,The,ES2003a
+260.26,261.31,B,have your the,ES2003a
+261.25,261.51,C,little,ES2003a
+261.31,262.62,B,lapel mic on as well .,ES2003a
+263.78,264.31,D,Ah-ha,ES2003a
+263.84,264.25,C,The the,ES2003a
+264.31,264.31,D,.,ES2003a
+266.0,271.26,C,"Oh that's good , we can clip them on . Okay . Yeah , there was this microphone as well that you",ES2003a
+273.26,274.03,D,Now where do I put the,ES2003a
+274.37,276.04,C,Just um somewhere,ES2003a
+284.51,291.32,B,"Yep , the , it's just across there , that's it . Yep .",ES2003a
+299.95,301.08,D,Is this supposed to be clipped as well ?,ES2003a
+301.31,301.69,C,I think so,ES2003a
+301.67,301.96,B,Yeah,ES2003a
+301.69,301.69,C,.,ES2003a
+301.96,303.25,B,. It'll follow you if you,ES2003a
+303.94,305.76,C,Yeah . There you go .,ES2003a
+308.26,312.85,B,"You can probably just stick it in your pocket for now , I wouldn't worry too much . Should have good range .",ES2003a
+317.08,318.81,D,"Uh , destroying your elephant here .",ES2003a
+393.91,428.15,D,"Uh , here we have a tiger . Uh I've always loved tigers . They're just they're big , they're biggest cats , uh I did a project on cats in the wild when I was a kid and uh it was my favourite cat , just 'cause it was looks the best , the stripes , orange . My dad used to talk about he's from Bangladesh so he used to tell me all about them when he was when I was a kid . And uh they're just the most feared of of uh animals in the wild . So uh that's why I like them . Didn't say an anything about me really but",ES2003a
+428.23,433.99,B,"Excellent , thank you very much . Dave , if you'd like to uh have a dash .",ES2003a
+439.24,439.79,A,Um,ES2003a
+561.23,597.92,A,"Um , the monkey , um . The one f uh in fact this is a somewhat oblique reference in fact to uh well my I have a three uh three y year old daughter who h who who who is affectionately known as Miss Monkey . Um , monkeys have attitude . Which I think is a good thing . And I mean fr and from uh from the point of view of sort of the study of human evolution they and other primates are terribly interesting . Um , so I like monkeys . And and th th th th thi thi this one seems to have perhaps more attitude than most .",ES2003a
+606.19,606.62,B,Cheers .,ES2003a
+656.53,674.43,B,"Hardly what I'd call the best drawing in the world but it'll do for now . Also not quite as feared as your average tiger , but uh cats are one of my favourite animals , they're very independent , they're snotty as hell at the best of times , and uh , what can you say , you got to love those qualities in an animal .",ES2003a
+680.46,702.35,B,"Right . I think we've all managed to master the whiteboard there by looks of it , so , on to it . Project finance . As you can see , twelve point five Euros per unit . That's not a terrible lot as far as I'm aware , and we're hoping to sell them for twenty five . If we're aiming for fifty million Euros we're gonna have to be selling an awful lot of them .",ES2003a
+705.6,710.55,C,"Oh , that was profiting , that was an amount , so that's the amount made",ES2003a
+710.0,711.12,B,Yep,ES2003a
+710.55,710.77,C,", okay .",ES2003a
+711.12,717.62,B,". Well , fifty million , and if you're making twelve point five Euros on each one , then",ES2003a
+717.09,717.26,C,Yeah .,ES2003a
+717.62,735.08,B,", awful lot need to be sold . Okay . Now we better actually just get on with the uh the meat of the project . So I'm gonna guess that we've all used remote controls . Any ideas of where you think a new remote control could go into this market ?",ES2003a
+736.97,790.71,A,"Well , one thing I'm aware of is , th there uh um at the sort of v very high price end of the market there's there's a em emerging market for sort of touch screen L_C_D_ remotes that can be uh programmed in m much more sophisticated ways than sort of conventional models , so you get the sort of you get um you you can redesign the interface to your own needs , you can programme in macros , and you get a much greater degree um um I mean you get in these sort of three in one , five in one , whatevers , but you can get integration between the different uh the the the diff the different things that it's designed to control , to a much greater extent , and you can have one uh you know one macro to turn the uh you know turn the T_V_ to the right channel , get the uh re uh rewind the tape in the V_C_R_ and get it to play once it's rewound , for instance",ES2003a
+790.07,790.66,B,Okay .,ES2003a
+790.71,811.36,A,. Um b it occurs to me there might be a niche for uh for a remote that aimed towards some of that sort of functionality but using a just conventional push button design . And therefore putting it into a um well much lower price bracket .,ES2003a
+812.69,819.38,B,"Okay , yeah , tha that's true , with the price range we're looking at , going for a touch screen would probably be possibly",ES2003a
+819.18,819.58,A,Absolutely,ES2003a
+819.38,819.61,B,out of,ES2003a
+819.58,820.42,A,prohibitive,ES2003a
+819.61,821.2,B,our yeah,ES2003a
+820.42,821.06,A,", yeah",ES2003a
+820.69,820.86,C,Oh .,ES2003a
+821.06,821.06,A,.,ES2003a
+821.2,825.7,B,. But you think uh again something to control multiple units in uh a simple fashion .,ES2003a
+825.96,844.61,A,"Yeah , I mean I wouldn't like to say you g I mean you get ones that you can switch between multiple units , but something that could um operate between multiple units in a more integrated fashion . Some and ideally something into which it would have some at least limited facility for um running macros .",ES2003a
+845.65,853.75,B,"Would the the idea something along the lines of , one on button would turn on say the video recorder , the T_V_ , maybe the sound system as well , all in one go , is that",ES2003a
+853.68,853.94,A,For,ES2003a
+853.75,854.0,B,kind,ES2003a
+853.94,855.26,A,instance,ES2003a
+854.0,854.29,B,of,ES2003a
+855.26,869.67,A,", um let's say oh oh um , or um you know you pr uh you press uh say the play button for the D_V_D_ player and it turns the T_V_ on and onto the right channel as well , um",ES2003a
+870.89,871.78,B,"Okay , that",ES2003a
+871.65,871.94,C,'Kay,ES2003a
+871.78,879.72,B,sounds like a a good strong idea . Um Any takes on this,ES2003a
+879.52,879.99,C,Well,ES2003a
+879.72,879.72,B,?,ES2003a
+879.99,894.52,C,"um I've noticed that uh gaming c is becoming quite popular with television , um when I was younger we used to e play games using our cable , using the cable subscribed the cable providers",ES2003a
+894.13,894.44,A,Mm-hmm .,ES2003a
+894.52,903.44,C,", but our remote controls would get worn out really easily , and the remote control was not a great kind of keyboar , um keypad , for playing games . So",ES2003a
+903.32,903.67,B,Okay,ES2003a
+903.44,903.78,C,perhaps,ES2003a
+903.67,903.67,B,.,ES2003a
+903.78,925.34,C,"one that was more um specialised for game playing or interactive television . They they've recently brought out this new remote control , for people to set their favourite channels , or um to record things . Instead of people entering in what time things start , you simply stri slide a bar to say what time it begins , and slide",ES2003a
+925.19,925.56,B,Okay,ES2003a
+925.34,925.64,C,another,ES2003a
+925.56,925.56,B,.,ES2003a
+925.64,927.68,C,"bar to say what time it ends , you know that's",ES2003a
+927.99,928.91,B,Yeah I've heard I've seen the,ES2003a
+928.82,929.23,D,Mm,ES2003a
+928.91,929.35,B,bar-code,ES2003a
+929.23,929.23,D,.,ES2003a
+929.35,930.25,B,"design before , yeah",ES2003a
+930.23,930.51,A,Mm-hmm,ES2003a
+930.25,930.25,B,.,ES2003a
+930.48,930.7,C,Yeah,ES2003a
+930.51,930.51,A,.,ES2003a
+930.7,952.37,C,", it's it's taken out the Y you don't have to be uh really clever to use a remote control . I think for gaming , you know you want you want some big buttons for up , down , left and right , shoot . Uh , you wanna be able to change angles in interactive television , so you need buttons to change the television angle , the camera angles and stuff like that .",ES2003a
+953.03,953.54,B,Okay,ES2003a
+953.24,953.59,D,'Kay,ES2003a
+953.54,953.76,B,", well",ES2003a
+953.59,953.59,D,.,ES2003a
+953.76,955.48,B,"we're beginning to run out of time now , so",ES2003a
+955.24,955.5,C,Yeah,ES2003a
+955.48,955.64,B,", we've",ES2003a
+955.5,955.5,C,.,ES2003a
+955.64,983.25,B,"got a couple of ideas , we can we'll have to work fast , um , alright as you can see we've got thirty minutes until the next meeting , so we'll have to try and decide on some of the basic functionality , um , how the user interface might work , that'll be a key aspect especially if the idea of um some kind of macros facility because you have to program it , you have to have a lot of response back , or at least some kind",ES2003a
+982.47,982.8,A,Mm-hmm .,ES2003a
+983.25,990.5,B,. Um And we're gonna maybe n try and have to figure out,ES2003a
+991.23,992.27,C,What the user wants,ES2003a
+992.08,992.28,B,what,ES2003a
+992.27,992.37,C,uh,ES2003a
+992.28,992.7,B,the user,ES2003a
+992.37,992.37,C,.,ES2003a
+992.7,994.44,B,"wants , yes",ES2003a
+993.45,993.78,C,Okay .,ES2003a
+994.44,1001.2,B,". Um , right . Has anybody got anything they'd like to add at this stage , anything they think that might have been missed so far ?",ES2003a
+1002.36,1008.8,D,"Well when you're talking about gaming and stuff , do you think they should have some sort of stick on it , rather than",ES2003a
+1008.75,1009.44,C,Oh,ES2003a
+1008.8,1009.3,D,buttons ?,ES2003a
+1009.44,1010.32,C,. Okay,ES2003a
+1010.16,1011.08,D,Like,ES2003a
+1010.32,1010.32,C,", .",ES2003a
+1011.08,1013.8,D,"uh control pads , you know of games , but",ES2003a
+1013.59,1013.84,C,Mm-hmm,ES2003a
+1013.8,1013.88,D,or,ES2003a
+1013.84,1013.84,C,.,ES2003a
+1013.88,1015.55,D,is that a bit ridiculous ?,ES2003a
+1016.96,1026.87,B,"I I don't see why not , almost everybody is probably used to a console by now , and all of them incorporate small keypads on them , in fact even the mobile phones these days are beginning to use them as well , so",ES2003a
+1026.16,1026.51,D,Yeah .,ES2003a
+1026.87,1037.74,B,"it's probably an interface that most people are used to . Um and that could allow n easy navigation , used as a joystick as well .",ES2003a
+1045.78,1072.96,A,"Mm-hmm . The other key feature that uh that would be a good idea built into it is t is is to make something you know fairly sort of ergonomic , something that just fits fits as comfortably as possible into the hand . But of course , uh al al also allows for the possibility of a more sort of slightly unconventional or attractive uh sha",ES2003a
+1072.5,1072.89,B,Okay .,ES2003a
+1072.96,1074.55,A,"shape for it overall , .",ES2003a
+1075.58,1077.48,B,"So , small",ES2003a
+1077.09,1077.59,A,A,ES2003a
+1077.48,1079.36,B,", stylish",ES2003a
+1077.59,1080.04,A,"curve , mm-hmm",ES2003a
+1079.36,1080.22,B,", and something that's",ES2003a
+1080.04,1080.41,A,. Something,ES2003a
+1080.22,1080.42,B,just,ES2003a
+1080.41,1080.79,A,sort,ES2003a
+1080.42,1080.85,B,a little,ES2003a
+1080.79,1080.98,A,of,ES2003a
+1080.85,1081.24,B,different,ES2003a
+1080.98,1081.41,A,sort of sl,ES2003a
+1081.24,1081.24,B,.,ES2003a
+1081.41,1088.16,A,"slightly sort of biomorphic in form , uh which it would need to be to sort of conform to the shape of the hand more efficiently anyway .",ES2003a
+1088.53,1109.16,B,"Okay . That's definitely something that we should be able to do quite easily . I would I would have hoped so anyway . Um , right . I'd say we finish this one up , we get started , I'll get in , I'll write up what we've um kind of quickly done , and I'll get that out to everybody .",ES2003a
+1109.99,1111.08,C,'Kay,ES2003a
+1110.46,1111.74,B,Yeah,ES2003a
+1111.08,1111.28,C,. So .,ES2003a
+1111.74,1112.12,B,? Okay .,ES2003a
+1118.131,1118.131,D,.,ES2003a
+1118.446,1118.446,C,.,ES2003a
+1118.69,1126.69,B,"Um , as far as I'm aware we leave the microphones here , um unless we get told otherwise , and just take the laptops with us .",ES2003a
+4.35,6.51,C,Just put it on the deskt desktop .,ES2003b
+7.05,17.49,B,No on the desktop you'll find you should find that there's a project documents link . A well actually just there,ES2003b
+16.4,17.52,C,"Project documents , yeah",ES2003b
+17.49,17.75,B,. Yeah,ES2003b
+17.52,17.52,C,.,ES2003b
+17.75,19.41,B,. That's it . If you dump it in there .,ES2003b
+19.59,20.32,C,What's your username ?,ES2003b
+21.55,22.21,B,Your username .,ES2003b
+22.6,23.87,C,What's your username and password ?,ES2003b
+29.12,29.49,C,Mm-hmm .,ES2003b
+34.52,40.28,C,Sorry . Okay,ES2003b
+39.62,42.83,B,Okay,ES2003b
+40.28,42.21,C,. There we go .,ES2003b
+42.83,122.0,B,". Excellent . Right . Hopefully that's us ready to uh to go . So . Functional design meeting . We'll have to flesh out some of the uh stuff . Um we'll start with the minutes of the last meeting . Not a lot thankfully to say . We introduced ourselves , discussed the possibility of a macro facility , interac interacting the T_V_ a bit more , um mentioning of bar-code , joystick for user manipulation , um and ergonomics of the remote control as well . Um it's come to my attention the following . Teletext has become outdated due to the populat popularity of the internet . Remote control should only be used for the T_V_ . Um due for uh time to market and possibly also cost issues . Um also key is the corporate image should stay recognisable , um f uh your colour and slogan of course is down at the bottom there . Um . Now . Just to say quickly uh I would have thought that only being used for a television the macro facility may now not be required",ES2003b
+121.21,121.63,A,Mm .,ES2003b
+122.0,144.53,B,. Um or at l its functionality would have been of limited use . So to the point in my opinion anyway that it might not be worth pursuing . Um if anybody disagrees we can uh definitely say so . Um and hopefully we'll just crack on and we'll get everything going . Um I'd like to if possible hear from our Marketing Expert first,ES2003b
+144.36,144.56,C,'Kay,ES2003b
+144.53,144.63,B,", to",ES2003b
+144.56,144.56,C,.,ES2003b
+144.63,150.99,B,help us gain an idea of where we're going to go . So um I'll just load up your presentation from here if you want .,ES2003b
+151.21,159.76,C,"Sure . Um , sh would you like to I'll just do it from here .",ES2003b
+160.27,164.11,B,Yep . Sorry . Uh . Is yours the,ES2003b
+166.37,168.38,C,"Um , try second one maybe .",ES2003b
+174.96,175.89,C,"Try it , yeah maybe .",ES2003b
+176.2,177.37,B,Oh sorry,ES2003b
+176.89,178.4,C,Yeah . Okay,ES2003b
+177.37,178.28,B,". Okay , right .",ES2003b
+178.4,181.02,C,". Oh , I thought I put in my last name , I guess not , but .",ES2003b
+181.04,183.2,B,Uh if you that's all right,ES2003b
+183.08,184.04,C,Okay,ES2003b
+183.2,184.27,B,. If you do,ES2003b
+184.04,184.04,C,.,ES2003b
+184.27,186.44,B,you want me to just cycle through it for you or,ES2003b
+186.42,186.6,C,Oh,ES2003b
+186.44,186.44,B,?,ES2003b
+186.6,187.68,C,"yeah , that'd be fine , that'd be",ES2003b
+187.64,188.76,B,Yeah,ES2003b
+187.68,188.93,C,great . Okay,ES2003b
+188.76,188.76,B,?,ES2003b
+188.93,191.92,C,. Functional requirement by me Ebenezer .,ES2003b
+192.78,193.84,B,Okay .,ES2003b
+194.65,227.84,C,"Okay , so um we did some research , we asked one hundred people their opinions on remote controls . We asked some uh open ended questions , just , what are your opinions on the remote control , got a lot of re responses , and we asked some very specific questions , and we got a lot of good feedback . Please bear in mind this is only a hundred people , so even when the groups are divided into fifteen to twenty five , twenty five to thirty five , there's only maybe ten people fifteen people in each group . Okay",ES2003b
+227.45,227.77,B,Okay .,ES2003b
+227.84,316.3,C,". So we got some the bad stuff we got , remotes are often lost . I often lose my remote control , the back of the couch , some place , and even if it's not lost permanently , it takes me a few minutes to find it . Most buttons are not used any more , like you said , teletext is outdated now . I remember trying to load a D_V_D_ player recently , and there were so many buttons , it took me I don't know maybe ten minutes to to go through each button , 'cause you have to press the shift button to access the yellow buttons , you know there's just a lot of stuff that no one really uses . And if they do , not very often . Takes too long to master the remote control . I've seen some remote controls that are big , they have a lot of buttons , you have to hold down more than one key at one time to do something , they're just not great to use . We just got a lot of bad complaints about remote controls , people do not like remote controls . Some of the good stuff we got . Between the age of uh fifteen and twenty five , most people would be willing to pay extra for voice recognition software . Now don't get excited yet , I've got more to say on that . Most people'd be willing to pay for that um most people want remote controls to be pretty , they want it to be fancy , th they they want it to be different , everybody has a white remote control with black buttons , and a red button and a green button , not everybody wants that . Finally , my opinion .",ES2003b
+316.9,317.21,B,Yep .,ES2003b
+318.31,438.42,C,"The voice recognition thing is cool . And uh voice recognition , the software , open source software exist already . It's a bit sketchy at some times , uh , you're not gonna get good always accurate results , but for a very fixed number of words , you know you have , how many different words can you have for a remote control , up , down , left , right , channel five , channel seven , you know , how many , you can't have that many words . For a fixed vocabulary it works quite well . I'm pretty sure people would buy it . But after a while people may wanna return it , because if you have to to say som I mean most people use a remote control for switching to channels , and they say they do that about ninety eight percent of the time . Using the remote control , ninety eight percent of the time for changing channels , and that's for flickering through channels . So if you have to say up , up , up , up , if you have to do that all the time , then people might get a bit fed up with that and they may return it . However , oh , because the voice recognition software exists already , there's no need to spend money on research and development , but this does mean the need for microphones in the in the remote control , which is an unusual feature in my opinion . But if we do have the voice recognition thing , there's a lot of stuff that you can uh get rid of . See , you could there're two options . Either you have voice recognition by itself , which I think is a bit impractical for like night time if you wanna be watching television and you wanna be quiet , or I don't know you have a visitor coming round and the remote's only trained for you , it's a bit impractical to have just voice recognition by itself . So you can have voice recognition and a regular remote . But imagine you got rid of the regular remote part , then you can design the remote to look any way you want it to look , because there are no restrictions on physical size , or shape , it it could be as fancy as you want it to be , you know , it could be like a lollipop or something like that , something weird like that . As long as the voice recognition stuff works , that's that's fine .",ES2003b
+438.88,439.69,B,"Okay , yep .",ES2003b
+439.83,501.87,C,"So we have the three birds , we have the design , that we have the the fancy bit , right , the voice recognition's fancy , it's cool , it's different , it's radical , so , and then we have an extra bit I don't remember so I'm pretty sure people will buy the remote , but is it practical to have a voice recognition system in a remote control , I think is a big question . Um , will people will people be willing to wait for the the period that it'll take to train the remote , 'cause I think it will the remote will uh get better over time with the same user user , but for the first week or for the first two weeks are you willing to wait , are you willing to have a bad remote control . And uh what if you have visitors come round , they stay the night , they wanna use the T_V_ , they can't use the remote because they speak differently to you . Um , how do you account for regional accents and stuff like that . Uh , will people return the remote control , I think a lot of young people will buy the remote control , if they have the money , you know , so",ES2003b
+501.84,502.64,B,Mm-hmm,ES2003b
+501.87,502.66,C,", do our audience have the",ES2003b
+502.64,502.64,B,.,ES2003b
+502.66,510.47,C,"money , but would they return it after a while because it's not as fast as pressing a button , it's not a practical . So",ES2003b
+510.45,510.52,B,If,ES2003b
+510.47,510.67,C,. These,ES2003b
+510.52,510.94,B,you could,ES2003b
+510.67,510.95,C,are things,ES2003b
+510.94,511.3,B,uh,ES2003b
+510.95,512.63,C,I think we should consider . I,ES2003b
+512.6,513.53,B,sor,ES2003b
+512.63,513.43,C,"think it's cool ,",ES2003b
+513.53,515.62,B,"if you could speed it up a bit , yeah",ES2003b
+515.23,515.56,C,I'm sorry ?,ES2003b
+515.62,517.47,B,. If you could uh speed it up a bit please,ES2003b
+517.28,517.61,C,Sure,ES2003b
+517.47,517.8,B,", yeah",ES2003b
+517.61,517.94,C,. I'm about,ES2003b
+517.8,518.33,B,. Sorry,ES2003b
+517.94,518.67,C,"to end , yeah",ES2003b
+518.33,518.59,B,. Cool .,ES2003b
+518.67,523.25,C,. I think it's cool but there are definitely some considerations .,ES2003b
+524.05,524.9,B,Okay,ES2003b
+524.08,524.87,C,"So , yeah .",ES2003b
+524.9,534.24,B,. Excellent . Right . Um . Hear from the User Interface Designer now I think might be an idea,ES2003b
+533.28,533.77,A,Okay .,ES2003b
+534.24,536.03,B,. Um,ES2003b
+535.46,536.06,D,How did where,ES2003b
+536.03,536.22,B,", you've",ES2003b
+536.06,538.16,D,did,ES2003b
+536.22,537.76,B,got your presentation now,ES2003b
+537.66,538.03,A,Yeah,ES2003b
+537.76,538.07,B,", is it",ES2003b
+538.03,538.16,A,", it's",ES2003b
+538.07,538.25,B,on,ES2003b
+538.16,538.26,A,in,ES2003b
+538.16,538.79,D,where,ES2003b
+538.25,539.17,B,the,ES2003b
+538.26,539.01,A,the it's in the folder,ES2003b
+538.79,539.09,D,did you,ES2003b
+539.01,539.23,A,yeah,ES2003b
+539.09,539.18,D,get,ES2003b
+539.17,539.3,B,is,ES2003b
+539.18,539.27,D,all,ES2003b
+539.23,539.23,A,.,ES2003b
+539.27,539.43,D,your,ES2003b
+539.3,539.45,B,it,ES2003b
+539.43,539.58,D,in,ES2003b
+539.45,540.03,B,? Okay,ES2003b
+539.58,540.77,D,information,ES2003b
+540.03,540.03,B,.,ES2003b
+540.77,540.77,D,?,ES2003b
+541.27,543.41,C,There was uh a website,ES2003b
+542.72,543.11,D,Oh .,ES2003b
+543.41,545.21,C,", uh , right here .",ES2003b
+545.28,545.76,D,"Ah , okay .",ES2003b
+546.09,547.85,B,Technical functions,ES2003b
+547.71,547.86,A,Mm,ES2003b
+547.85,548.2,B,? No,ES2003b
+547.86,547.86,A,.,ES2003b
+548.2,548.66,B,. Yeah,ES2003b
+548.27,548.94,C,G I started,ES2003b
+548.66,548.66,B,.,ES2003b
+548.94,551.16,C,"making stuff up , then I got an email saying",ES2003b
+556.33,556.96,B,Okay .,ES2003b
+557.36,575.65,A,"Okay , this is a brief run through of the um of the technical functions of the remote . As um is uh the the the presentation is uh already slightly obsolete because I had in mind something that would uh be i be aimed at controlling multiple devices but uh there's still stuff of relevance , so",ES2003b
+575.62,576.88,B,Okay .,ES2003b
+576.95,771.11,A,"press on . I've looked at looked at a num uh couple of other uh remote control models just for an idea of basic design principles . Um and wasn't really satisfied by what I saw I have to say so this is more sort of springboard for uh how these could be improved on . Um um basically the job of the device is to send commands to an appliance , in this case the television set . Um to save you getting off your backside . Um and there's two main trends in th in the sort of design practice . On the one hand and this uh this particularly relates to its sort of earliest models where with you know i so so many buttons on it so about the size of the television set . Um giving you every possible function that the that the device has , the remote control controls . And most of these functions are not going to be used , it creates a rather user unfriendly interface . And on the other hand there's a user focused approach that pares things down to just what what is most likely to get used . Um With uh a and a and of course there is a certain amount of sort of loss of function here obviously , but mostly that's relatively peripheral functions . And so you go for something that's fairly intuitive to use , and um well f the for the most part for T_V_ remote it's uh tha that would be channel control and volume . Um and if you if you if you are wanting to incorporate uh control of a D_V_ D_V_D_ or uh V_C_R_ presumably into that then there's a play , pause , stop , rewind , fast-forward , record , so forth . Um . My own view is that we should definitely be going for a user focused design . Um but uh the pro I think the problem with a lot of the sort of user focused designs that are about is that they sort of make assumptions in advance about what uh what a given user's going to uh want mo want to do from want it to do most . So , something that's uh something that is more programmable , that uh perh perhaps has the full range of functions available to it but you can then specify yourself what you're most likely to want . Um so that those are then immediately accessible through fairly minimal number of controls , um I liked Ebenezer's idea of including a joystick in that and uh possibly a sort of fairly minimal number of sort of function buttons , and have a disp you then have some sort of basic display on it so that if you're um sort of cha changing from different modes for the device it'll tell you just exactly what uh you know each direction of the uh of the um joystick's going to do or wha or what each function button's going to do . Um , this is actually a again slightly taking inspiration off of uh games controllers",ES2003b
+770.95,771.08,C,Mm .,ES2003b
+771.11,792.74,A,", you know the Playstation control where you have four basic function buttons that are just marked with um distinctive uh geometrical shapes but the and then dependent on what you're doing with it what game and so on um those uh those functions are then sort of further specified . And so it's taking taking the lead from that . Um",ES2003b
+792.41,792.98,B,Okay . Yeah,ES2003b
+792.74,792.74,A,.,ES2003b
+792.98,795.76,B,. Right,ES2003b
+795.33,795.93,A,That's it,ES2003b
+795.76,797.96,B,. Um,ES2003b
+795.93,795.93,A,.,ES2003b
+797.96,800.72,B,", if we could hear from our Industrial engineer , or",ES2003b
+800.37,801.0,D,Yeah,ES2003b
+800.72,801.32,B,Designer,ES2003b
+801.0,801.0,D,.,ES2003b
+801.32,801.32,B,.,ES2003b
+801.68,809.98,D,"Uh , I was still working on stuff , I hadn't got it finished . Um , alright . Click to save in where do I have to save it ?",ES2003b
+810.1,818.65,B,"If you look on the desktop you'll find that there's a link to the project folder , or project documents . If you save it in there we can open it up from here .",ES2003b
+823.87,825.73,D,"Um , what I've done with it , I'm sorry .",ES2003b
+836.13,836.5,D,Shit .,ES2003b
+843.19,845.02,D,Um,ES2003b
+855.56,857.23,B,Are you finding it okay or ?,ES2003b
+857.79,860.53,D,I'm just closing it now . where I've saved it .,ES2003b
+861.18,865.07,C,"Well like if you go to one , uh whichever one you were",ES2003b
+865.05,865.25,D,that's,ES2003b
+865.07,865.9,C,working,ES2003b
+865.25,865.82,D,"it there , yeah .",ES2003b
+865.9,867.86,C,"yeah , and you just click file save as .",ES2003b
+876.52,877.77,D,Oh right .,ES2003b
+879.22,879.56,B,Okay .,ES2003b
+886.28,945.64,D,"Uh , right I'm responsible for working design , uh , this is basically the inside going on of the the uh remote control . So we have the energy source , we have the user interface , this this is what I've seen . Uh the sender will push the button , the chip will respond , uh and then the dig digital signal is sent to the T_V_ . So uh uh , if you go to next slide , you'll see you'll see uh what do we need on the user interface . Do we need uh many buttons , or do we need l many light bulbs that could be easier to uh to realise which appliances are on or not . Um , , or would that take too much power , would we need more um components in there to supply the power ? Um , the joystick is another thing , if we were gonna add that , um , there'd be more components to deal with that",ES2003b
+945.25,945.93,B,Mm-hmm,ES2003b
+945.64,947.25,D,. Um,ES2003b
+945.93,945.93,B,.,ES2003b
+947.25,967.27,D,", so uh we need to I dunno exactly what That's the design of the the the layout of the uh electronic design , but um obviously there'll be more details once we've decided what we're putting on the user interface",ES2003b
+966.96,967.54,B,Okay,ES2003b
+967.27,968.05,D,. So,ES2003b
+967.54,967.54,B,.,ES2003b
+968.05,979.51,D,", that'll be decided , I guess . Uh , and the next slide . Oh , yeah Um , if you go to the next slide then",ES2003b
+979.25,979.71,B,Oh . Yeah,ES2003b
+979.51,979.85,D,. I just,ES2003b
+979.71,979.71,B,.,ES2003b
+979.85,985.83,D,"used the it was a mess , uh I was just putting adding it together at the end there",ES2003b
+985.51,985.89,B,"Ah , don't",ES2003b
+985.83,986.06,D,. Uh,ES2003b
+985.89,987.47,B,worry about it at all mate,ES2003b
+987.28,988.06,D,Uh,ES2003b
+987.47,987.47,B,.,ES2003b
+988.06,1017.56,D,"so you have the energy source obviously connected to the chip , and the user interface obviously contains everything . You have the switch turn it on , infrared bulb , uh will contact the T_V_ and will have whatever device or D_V_D_ player , the bulb will turn on to say it's on . Uh , so do we need on the control uh different buttons to decide , or different light bulbs , would it be easier ? Um , I dunno what we should decide on that .",ES2003b
+1018.35,1021.83,B,"Okay . Well . Oh sorry , I'm I'm interrupting you . Are",ES2003b
+1021.73,1021.91,D,No,ES2003b
+1021.83,1022.26,B,you,ES2003b
+1021.91,1022.57,D,", it's finished",ES2003b
+1022.26,1022.73,B,is it,ES2003b
+1022.57,1022.74,D,", yeah",ES2003b
+1022.73,1023.88,B,yeah,ES2003b
+1022.74,1022.74,D,.,ES2003b
+1023.88,1063.58,B,"? Okay . Right . Um , right we can probably skip that for now . So , we've had some stuff put forward , um along with the new user requirements , um we've had a lot of kind of input I'd say so far . Um I hear what the Marketing Expert's saying about um voice activated control . However I've got a couple of worries about that . The power required , um and the ability",ES2003b
+1063.32,1063.98,D,Cost,ES2003b
+1063.58,1064.05,B,to,ES2003b
+1063.98,1065.39,D,. Mm,ES2003b
+1064.05,1065.51,B,the cost,ES2003b
+1065.39,1065.39,D,.,ES2003b
+1065.51,1080.32,B,", it seems like for uh an embedded system , this could cause us issues . Um for example you see that there's fairly robust services on uh computers via uh via voice , I_B_M_ do um drag and dictate",ES2003b
+1079.9,1080.12,C,Mm-hmm .,ES2003b
+1080.32,1101.8,B,", but these require a lot of memory and usually um state quite advanced processor requirements . Um voice activation could be an interesting idea but I think that our Ind Industrial Designer would probably upon some research say that it's maybe not feasible",ES2003b
+1100.72,1100.96,C,'Kay .,ES2003b
+1101.8,1103.53,B,. Um that's just my view,ES2003b
+1103.18,1104.6,A,Mm,ES2003b
+1103.53,1105.09,B,"right now , however",ES2003b
+1104.6,1104.6,A,.,ES2003b
+1105.09,1122.46,B,"the idea of a joystick and then maybe an L_C_D_ which has been kind of put forward so far , it's almost like having a small T_ not T_V_ to say , but if you can control almost all of the functionality from the display , I don't know how much power an L_C_D_ would take",ES2003b
+1122.19,1122.4,C,Mm .,ES2003b
+1122.46,1124.29,B,", but it might be quite low ?",ES2003b
+1124.34,1124.81,D,L_C_D_,ES2003b
+1124.41,1124.72,C,I uh,ES2003b
+1124.81,1129.36,D,"on the remote just telling you what's on , or uh",ES2003b
+1128.91,1129.54,B,Well literally,ES2003b
+1129.36,1129.89,D,", interactive",ES2003b
+1129.54,1130.57,B,um,ES2003b
+1129.89,1130.49,D,L_C_D_ or,ES2003b
+1130.57,1138.69,B,"if you can imagine the display maybe slightly larger than um those on a a mobile phone , something",ES2003b
+1138.62,1138.99,A,Mm,ES2003b
+1138.69,1139.11,B,where you can,ES2003b
+1138.99,1138.99,A,.,ES2003b
+1139.11,1153.46,B,"read an an um fair amount of information , traverse maybe quite a few menus , if we maybe used mobile phones as a good example , they usually incorporate they have the keypad , and then evr all the other functionality is usually associated inside by traversing around",ES2003b
+1152.82,1153.02,C,Mm-hmm .,ES2003b
+1153.46,1160.78,B,. That could be one possibility . Um and then we could have like say the common buttons as you say,ES2003b
+1160.62,1160.87,A,Mm,ES2003b
+1160.78,1161.1,B,", volume",ES2003b
+1160.87,1160.87,A,.,ES2003b
+1161.1,1163.15,B,"control , changing channels",ES2003b
+1163.51,1172.08,A,"I I was thinking that the remote the um sort of default functions for the joystick would be up and down for uh volume , left and right for channels .",ES2003b
+1173.4,1173.85,B,We,ES2003b
+1173.47,1182.74,D,"Do you think that people will get mixed up , like , they'll be looking at this screen and that screen and then , you know , trying to get everything working , would it be a bit confusing ?",ES2003b
+1183.07,1188.51,A,Um I think probably for the first couple of hours of using it,ES2003b
+1187.97,1188.19,D,Yeah .,ES2003b
+1188.51,1192.94,A,"um but you know muscle memory's a wonderful thing , um .",ES2003b
+1193.87,1194.01,C,Mm .,ES2003b
+1194.24,1214.67,A,And I think and I think that size of uh display was about what I had in mind . Um though I mean I w I would say that uh we could probably probably be required to um mo most of the mobile phone displays you see these days are colour but we should probably try to stick to black and white,ES2003b
+1214.57,1214.72,B,I,ES2003b
+1214.67,1215.17,A,. Si,ES2003b
+1214.72,1215.3,B,would agree with,ES2003b
+1215.17,1215.48,A,si,ES2003b
+1215.3,1215.41,B,you .,ES2003b
+1215.48,1230.58,A,"simply to keep m keep the unit cost down . Um I mean colour could be a sort of subsequent development but uh you know cost a bit of extra money f w w w w w once everyone's got the first , you know , oh colour's out , we'll have to replace",ES2003b
+1230.27,1233.46,B,Mm-hmm,ES2003b
+1230.58,1232.85,A,it won't we . It does nothing extra .,ES2003b
+1233.46,1239.27,B,". That would be my feeling as well , I think we could possibly create quite a useful user interface . Um",ES2003b
+1239.21,1239.63,C,Sure,ES2003b
+1239.27,1239.66,B,now I mean,ES2003b
+1239.63,1241.73,C,but,ES2003b
+1239.66,1241.69,B,"I don't sorry , go for it .",ES2003b
+1241.73,1264.35,C,"the idea of a remote with a menu or and a joystick I think like I h if I was in the habit of buying remote controls then I would want one , but I think we don't have a specific audience , you know , like what is our target audience , what niche are niche are we trying to market and corner . You know , you know what I'm saying , like , for whom is this intended ? Everybody ?",ES2003b
+1268.6,1277.58,B,I think it could probably be aimed at most people who've used a mobile . And that might be just another way of saying try to target most people,ES2003b
+1276.64,1277.41,C,"Most people , yeah .",ES2003b
+1277.58,1278.56,B,. Um,ES2003b
+1277.76,1278.15,A,Mm .,ES2003b
+1278.56,1288.23,B,", if we are if we were to follow that avenue , we might be s you know um we're kind of almost relying on their experience with a mobile phone I suppose",ES2003b
+1287.74,1287.95,C,Mm-hmm .,ES2003b
+1288.23,1291.59,B,. But that does cover a very large section of the people out there .,ES2003b
+1291.61,1293.26,C,Sure . I think that's fair,ES2003b
+1293.13,1294.4,B,Um,ES2003b
+1293.26,1293.71,A,Mm,ES2003b
+1293.26,1293.54,C,yeah .,ES2003b
+1293.71,1293.71,A,.,ES2003b
+1294.4,1314.68,B,", I mean I imagine as well that the actual L_C_D_ and maybe to a certain extent the joystick as well would be for the additional functionality . Which maybe doesn't get used as often , maybe it makes it easy for them to figure out how to um change the channels as in the frequencies and such for reprogramming it",ES2003b
+1314.05,1314.29,C,Mm-hmm .,ES2003b
+1314.68,1333.13,B,". Um and you can still have the main buttons that allow the people to turn the machine on and off , d up and down , it depends , I mean maybe we have the fol um the joystick as a separate one for the other functions then , that there's just a a small number of as you were saying uh buttons that have already been defined",ES2003b
+1332.12,1332.31,C,Mm-hmm .,ES2003b
+1333.13,1343.38,B,". So like we go for the nice standard um up and down for and volume control . So that literally anybody can come along , pick up the remote and still know what do do . And",ES2003b
+1342.88,1343.12,C,Mm-hmm .,ES2003b
+1343.38,1352.71,B,they can completely ignore most of the functionality which would be for say the o actual owner of the the T_V_ and who would normally use the unit,ES2003b
+1352.27,1352.51,C,Mm-hmm .,ES2003b
+1352.52,1355.5,A,Mm,ES2003b
+1352.71,1353.17,B,. I dunno .,ES2003b
+1355.5,1379.15,A,". I th the thing I like about the uh the uh joystick is that uh you you you then basically you can then basically put it I mean for for T_ T_ for T_V_ remote alone , you could put um I mean there are like I say the the the main things people do with a T_V_ remote control is the volume and the channel . You can pack all that onto was onto a single control",ES2003b
+1378.6,1380.01,B,Mm-hmm,ES2003b
+1379.15,1379.65,A,. Um .,ES2003b
+1380.01,1380.01,B,.,ES2003b
+1380.87,1407.08,A,"But uh but the but then o uh obviously if uh you know if you i if you wanted to access further functions i you you then get to sort of menu navigation . I mean with things like ch with things like tuning and channels um you know adjusting brightn uh brightness and fiddly things that no one really bothers with , most T_V_s these days actually have menus anyway so",ES2003b
+1406.83,1407.57,B,Mm-hmm,ES2003b
+1407.08,1407.79,A,this would be a fairly,ES2003b
+1407.57,1407.57,B,.,ES2003b
+1407.79,1436.81,A,"rational way of integra integrating the uh the remote with the device it's controlling . Um concern about our market . Um , if we are I mean most of the uh of the replacement remote market is sort of remote control rationalisation . Um , you've got twenty different devices",ES2003b
+1436.68,1437.7,C,Yeah,ES2003b
+1436.81,1438.14,A,in your living room,ES2003b
+1437.7,1437.94,C,. Mm-hmm .,ES2003b
+1438.14,1443.89,A,", you want one wo y you want one that'll do the job of all of them",ES2003b
+1443.71,1444.62,B,Mm-hmm,ES2003b
+1443.89,1444.91,A,. Um,ES2003b
+1444.62,1444.62,B,.,ES2003b
+1444.91,1456.01,A,", if all you're replacing is one of the you know however many remotes you have in your living room , um you know you still need separate remotes for everything else . I just think that uh",ES2003b
+1455.63,1456.12,B,Well this,ES2003b
+1456.01,1457.51,A,possibly,ES2003b
+1456.12,1457.72,B,is a requirement that we have,ES2003b
+1457.51,1457.91,A,mm,ES2003b
+1457.72,1458.11,B,to stick,ES2003b
+1457.91,1457.91,A,.,ES2003b
+1458.11,1462.1,B,"to I'm afraid , this isn't one that I've just arbitrarily decided on",ES2003b
+1462.02,1462.52,A,Mm,ES2003b
+1462.1,1462.67,B,. So,ES2003b
+1462.52,1462.52,A,.,ES2003b
+1462.67,1470.11,B,"um this is this is one of the solid ones that has to be obeyed , for now",ES2003b
+1468.85,1469.3,A,Mm .,ES2003b
+1470.11,1479.93,B,". So I can understand your point , and I would agree with you , but this is our design spec for now . 'Fraid to say . Um",ES2003b
+1480.82,1487.22,A,Does that um would that include um access to say interactive functions on digital or cable ?,ES2003b
+1487.42,1487.88,C,Yeah .,ES2003b
+1489.5,1502.95,B,"I would say so , yes , because then we have to be able to control the remote boxes , and that is a separate unit . Um I think that it I would say that the design spec we've been with is for the television only for now",ES2003b
+1502.77,1503.02,A,Mm-hmm,ES2003b
+1502.95,1503.14,B,. And,ES2003b
+1503.02,1503.02,A,.,ES2003b
+1503.14,1503.58,B,until we,ES2003b
+1503.49,1503.67,C,Hmm,ES2003b
+1503.58,1503.83,B,hear,ES2003b
+1503.67,1503.67,C,.,ES2003b
+1503.83,1505.49,B,otherwise we should go with just that,ES2003b
+1505.35,1505.63,C,Okay,ES2003b
+1505.49,1505.49,B,.,ES2003b
+1505.63,1506.2,C,", specifically",ES2003b
+1506.05,1506.38,A,Okay,ES2003b
+1506.2,1506.7,C,television,ES2003b
+1506.38,1506.38,A,.,ES2003b
+1506.68,1507.15,B,Okay,ES2003b
+1506.7,1506.7,C,.,ES2003b
+1507.15,1509.41,B,". Maybe we'll hear differently , but",ES2003b
+1509.4,1509.55,C,So,ES2003b
+1509.41,1509.6,B,for,ES2003b
+1509.55,1509.65,C,the,ES2003b
+1509.6,1509.89,B,now,ES2003b
+1509.65,1513.6,C,joystick is just for differentness .,ES2003b
+1514.35,1514.63,A,Mm,ES2003b
+1514.55,1514.64,B,It,ES2003b
+1514.63,1514.63,A,.,ES2003b
+1514.64,1517.42,B,would be ease of manipulation of certain functions,ES2003b
+1517.33,1517.58,C,Okay,ES2003b
+1517.42,1518.39,B,", yes",ES2003b
+1517.58,1517.58,C,.,ES2003b
+1518.21,1518.45,A,Just,ES2003b
+1518.39,1519.8,B,. Um,ES2003b
+1518.45,1532.51,A,"a thought . Um maybe then our market should be T_V_ manufacturers , rather than the public . Try and sell it t sell it to them to supply with um",ES2003b
+1532.0,1537.6,B,"There is that possibility , yes . B However I don't know exactly where we'll be going with that , but",ES2003b
+1537.16,1538.45,C,Mm,ES2003b
+1537.6,1538.51,B,it might not even,ES2003b
+1538.45,1538.45,C,.,ES2003b
+1538.51,1542.38,B,"be the avenue of the Marketing Expert , that might be sales",ES2003b
+1542.12,1542.31,C,Mm-hmm .,ES2003b
+1542.38,1544.35,B,", who are not in this meeting",ES2003b
+1543.72,1544.78,C,It's just,ES2003b
+1544.35,1544.35,B,.,ES2003b
+1544.78,1550.31,C,", the way I figure it , twelve point five Euros per unit",ES2003b
+1549.6,1550.31,B,Mm-hmm,ES2003b
+1550.31,1550.45,C,", we",ES2003b
+1550.31,1550.31,B,.,ES2003b
+1550.45,1563.3,C,"have to sell at least like three million or something like that , not to account for all the the money we waste on remotes that no one buys , you know , like if we made a perf if we made a ks",ES2003b
+1562.69,1563.46,B,Mm-hmm,ES2003b
+1563.3,1563.53,C,for,ES2003b
+1563.46,1563.46,B,.,ES2003b
+1563.53,1571.41,C,"every remote we made someone bought it , then we have to sell a lot of remote controls . We just Is this gonna be enough to to sell ?",ES2003b
+1572.78,1581.3,B,"Well , something else that you brought up was uh the ability to lose a remote , which as you said you've done , in fact we've probably all done",ES2003b
+1580.53,1580.77,C,Yeah .,ES2003b
+1581.3,1590.22,B,". Um , I don't know if it's a gimmick or not , but have any of you ever seen those odd little key rings where if you whistle , it will beep and you tell you where it is .",ES2003b
+1590.23,1590.62,C,I had,ES2003b
+1590.44,1591.12,A,Mm,ES2003b
+1590.62,1591.18,C,one of those,ES2003b
+1591.12,1591.37,A,", yeah",ES2003b
+1591.18,1591.4,C,", and my",ES2003b
+1591.37,1591.46,A,", I've",ES2003b
+1591.4,1592.13,C,brother,ES2003b
+1591.46,1592.01,A,seen them .,ES2003b
+1592.13,1593.09,C,", and my dad",ES2003b
+1592.56,1593.12,B,Um,ES2003b
+1593.09,1593.21,C,", could",ES2003b
+1593.12,1593.12,B,.,ES2003b
+1593.21,1597.31,C,have beat me up because it it went off all the time accidentally .,ES2003b
+1597.49,1600.26,B,Well the other option of course is that um,ES2003b
+1599.46,1600.47,C,The clapping one,ES2003b
+1600.26,1600.74,B,the,ES2003b
+1600.47,1600.47,C,.,ES2003b
+1600.74,1617.59,B,"well I was going to say clapping , um Um digital telephones , uh for example , one unit has of course you have to have that base unit , somewhere where there's a button , but maybe it's a button that you attach to the T_V_",ES2003b
+1616.44,1617.37,C,To a television,ES2003b
+1616.81,1617.19,A,Mm .,ES2003b
+1617.37,1617.37,C,.,ES2003b
+1617.59,1623.65,B,". Something which you when you press that , it would beep to give its location away , on the remote unit",ES2003b
+1623.33,1623.54,C,Yeah .,ES2003b
+1623.65,1624.3,B,. And,ES2003b
+1623.85,1624.35,A,"Yeah , I think that's",ES2003b
+1624.3,1624.48,B,that,ES2003b
+1624.35,1624.55,A,a good,ES2003b
+1624.48,1624.62,B,could,ES2003b
+1624.55,1624.91,A,idea,ES2003b
+1624.62,1625.01,B,be something,ES2003b
+1624.91,1624.91,A,.,ES2003b
+1625.01,1625.81,B,could um,ES2003b
+1625.73,1625.9,C,Yeah,ES2003b
+1625.81,1626.31,B,separate,ES2003b
+1625.9,1626.45,C,", that's a good idea",ES2003b
+1626.31,1626.5,B,us a,ES2003b
+1626.45,1626.45,C,.,ES2003b
+1626.5,1652.76,B,"bit . And that way , because we're attaching what would be a small button to the T_V_ , again say what , it would be a small transmitter , um watch battery type scenario I would say , or something that if it was problems enough you could actually even just um I don't power that might be something that we could look into",ES2003b
+1652.19,1652.87,D,Yeah,ES2003b
+1652.76,1657.76,B,". Yep . Yeah , it's uh putting a lot on your shoulders there , so I mean that could be something that separates us a bit from the market",ES2003b
+1657.67,1657.77,C,I,ES2003b
+1657.76,1657.87,B,as,ES2003b
+1657.77,1657.93,C,think,ES2003b
+1657.87,1658.17,B,well,ES2003b
+1657.93,1658.22,C,so,ES2003b
+1658.17,1658.17,B,.,ES2003b
+1658.22,1658.53,C,", yeah .",ES2003b
+1661.1,1679.52,B,"So . To go on from here . Um we have to decide exactly what we're going to do with the remote . Before we leave this meeting , it would be best to say this is what we're going this is the design we're gonna try and get , this is how we're gonna make ourselves look unique . Do we go for",ES2003b
+1679.04,1679.23,A,Mm .,ES2003b
+1679.52,1694.41,B,"maybe a remote contro uh sorry , we're gonna go for a remote control obviously , do we go for a small joystick that would operate say changing channels , up and down , and then , what , another button that would say that it's now being used to manoeuvre round the L_C_D_ .",ES2003b
+1695.42,1696.21,A,Mm yeah .,ES2003b
+1697.67,1697.82,D,We're,ES2003b
+1697.77,1698.13,A,Yeah,ES2003b
+1697.82,1699.28,D,just saying volume,ES2003b
+1698.13,1698.82,A,", I think that's",ES2003b
+1699.28,1701.77,D,". Should volume be important in the joystick , do you think ?",ES2003b
+1702.02,1702.63,B,We could use,ES2003b
+1702.36,1703.07,A,Yeah,ES2003b
+1702.63,1703.17,B,say the,ES2003b
+1703.07,1703.07,A,.,ES2003b
+1703.17,1706.45,B,left and right for changing channels and the up and down,ES2003b
+1706.32,1706.46,A,For,ES2003b
+1706.45,1706.6,B,for,ES2003b
+1706.46,1706.89,A,volume,ES2003b
+1706.6,1707.7,B,volume,ES2003b
+1706.89,1706.89,A,.,ES2003b
+1707.32,1707.45,D,Yep .,ES2003b
+1707.59,1708.04,C,But,ES2003b
+1707.7,1708.04,B,", and",ES2003b
+1708.04,1713.27,C,we have a frequency of how what people use a remote control for most,ES2003b
+1713.26,1713.92,B,Okay,ES2003b
+1713.27,1714.41,C,. Um,ES2003b
+1713.92,1713.92,B,.,ES2003b
+1714.41,1714.96,C,", power",ES2003b
+1714.53,1714.67,D,I,ES2003b
+1714.96,1720.12,C,"is used like once per hour , channel selection is used a hundred and sixty eight",ES2003b
+1720.02,1720.72,B,Mm-hmm,ES2003b
+1720.12,1720.83,C,per hour,ES2003b
+1720.72,1720.72,B,.,ES2003b
+1720.83,1728.25,C,", that's by far the biggest one , and then teletext , is still here , that's like fourteen",ES2003b
+1727.62,1728.19,B,Vol,ES2003b
+1728.25,1729.21,C,", and volume selection .",ES2003b
+1729.37,1733.42,B,"Volume selection okay , yep , the teletext we're gambling with , and we're gonna say",ES2003b
+1733.14,1733.49,C,No,ES2003b
+1733.42,1733.64,B,it's,ES2003b
+1733.49,1734.07,C,", yeah",ES2003b
+1733.64,1734.43,B,dead,ES2003b
+1734.07,1734.67,C,", okay okay",ES2003b
+1734.43,1734.71,B,", the way of",ES2003b
+1734.67,1734.67,C,.,ES2003b
+1734.71,1735.45,B,the dodo,ES2003b
+1735.71,1737.15,C,"Yeah , um",ES2003b
+1737.1,1760.23,B,"So we well , sorry , we could maybe even go as far as saying power button , small joystick , L_C_D_ , and then what maybe is it one more button to say that you're using the menu system , and with the possibility of pushing down on the joystick to say okay ? So we're having very very few buttons involved",ES2003b
+1760.08,1760.35,A,Actually,ES2003b
+1760.23,1760.42,B,", but",ES2003b
+1760.35,1760.49,A,how,ES2003b
+1760.42,1762.98,B,navigation around a menu for most things .,ES2003b
+1763.56,1773.51,A,"Actually I would say maybe two two function buttons , the y we're now using the menus button and um and an og and an okay button . I",ES2003b
+1773.47,1773.91,B,Okay,ES2003b
+1773.51,1774.26,A,mean certainly something,ES2003b
+1773.91,1773.91,B,.,ES2003b
+1774.26,1786.37,A,I've found with the joystick on mo the joysticks on mobile phones is that a lot of the time th the device mistakes you trying to move it in one direction or the other for pushing down for okay .,ES2003b
+1786.76,1787.2,B,Okay,ES2003b
+1786.89,1787.31,A,Or vice,ES2003b
+1787.2,1787.2,B,.,ES2003b
+1787.31,1789.37,A,versa . And that's really irritating,ES2003b
+1789.35,1789.59,C,Mm-hmm,ES2003b
+1789.37,1789.37,A,.,ES2003b
+1789.59,1789.59,C,.,ES2003b
+1791.22,1792.46,B,Um,ES2003b
+1791.32,1808.88,A,"The o the o the other dis design constraint I think we should bear in mind is that people are you know very much used to using a remote control one handedly , um , so we need to make sure that e even with the joystick , you know something that can just sit comfortably in the palm of the hand and have the joystick just controlled by the thumb .",ES2003b
+1809.58,1821.43,B,Okay . So um we're actually that sounds like a rough idea . Do we incorporate the idea of trying to f locate the remote control again via a beeping noise ?,ES2003b
+1822.04,1822.89,D,"Yeah , think so .",ES2003b
+1823.15,1823.78,B,Do,ES2003b
+1823.24,1823.8,C,"Um , I think",ES2003b
+1823.78,1823.85,B,you,ES2003b
+1823.8,1824.09,C,because,ES2003b
+1823.85,1824.26,B,mind looking,ES2003b
+1824.09,1824.39,C,it's so,ES2003b
+1824.26,1824.26,B,?,ES2003b
+1824.39,1830.64,C,small it might be an uh I mean if we only have like two three buttons it might be essential to have to have,ES2003b
+1830.46,1830.85,B,The ability,ES2003b
+1830.64,1830.91,C,that,ES2003b
+1830.85,1833.49,B,to locate it again,ES2003b
+1831.79,1833.22,C,Yeah .,ES2003b
+1833.49,1847.78,B,". So that would require a um transmitter maybe attached to the T_V_ , just so that it says find me , and what , a basically a small microphone um on the actual unit , can maybe hide it in",ES2003b
+1847.75,1848.07,D,Light,ES2003b
+1847.78,1849.22,B,the base,ES2003b
+1848.07,1848.39,D,bulb as,ES2003b
+1848.34,1849.4,A,Oh,ES2003b
+1848.39,1848.85,D,"well , no ?",ES2003b
+1849.22,1849.49,B,. Sorry,ES2003b
+1849.4,1849.88,A,. So,ES2003b
+1849.49,1849.49,B,?,ES2003b
+1849.88,1850.91,A,so a small speaker you mean .,ES2003b
+1850.98,1852.11,C,Speaker,ES2003b
+1851.16,1852.61,B,"Some speaker , sorry , yeah",ES2003b
+1852.11,1852.3,C,yeah .,ES2003b
+1852.61,1852.61,B,.,ES2003b
+1852.8,1854.98,D,And a light bulb ? No . To flash . No .,ES2003b
+1855.75,1856.43,B,Um,ES2003b
+1856.65,1858.48,D,"Nah , you'd see it anyway , if you hear",ES2003b
+1858.42,1858.59,B,E,ES2003b
+1858.48,1858.54,D,it .,ES2003b
+1858.59,1861.94,B,us we might be better with the sound possibly,ES2003b
+1861.91,1862.38,C,W,ES2003b
+1861.91,1862.3,D,Yeah,ES2003b
+1861.94,1862.4,B,we could maybe,ES2003b
+1862.3,1862.3,D,.,ES2003b
+1862.38,1862.58,C,those,ES2003b
+1862.4,1863.13,B,incorporate,ES2003b
+1862.58,1865.18,C,"little key-rings have both , so",ES2003b
+1864.85,1868.69,B,"th e the true fact , considering the cost of an L_E_D_",ES2003b
+1868.64,1868.85,C,Yeah,ES2003b
+1868.69,1868.93,B,", we could",ES2003b
+1868.85,1868.85,C,.,ES2003b
+1868.93,1870.32,B,just incorporate it anyway,ES2003b
+1870.3,1870.68,C,Yeah,ES2003b
+1870.32,1870.99,B,. The L_E_D_s,ES2003b
+1870.68,1870.68,C,.,ES2003b
+1870.99,1872.35,B,can be surprisingly bright now .,ES2003b
+1872.5,1872.73,C,Yeah,ES2003b
+1872.68,1872.89,D,Mm-hmm,ES2003b
+1872.73,1872.73,C,.,ES2003b
+1872.89,1872.89,D,.,ES2003b
+1873.49,1873.9,A,Mm-hmm,ES2003b
+1873.81,1874.67,B,Um,ES2003b
+1873.9,1875.35,A,. Blue ones particularly,ES2003b
+1874.67,1874.67,B,.,ES2003b
+1875.35,1876.96,A,. Plus that's a nice wee design touch .,ES2003b
+1877.24,1877.53,C,Yeah .,ES2003b
+1877.86,1888.35,B,"So by the sounds of it , with what we're suggesting so far , your design um the user interface is still quite open , you could go for quite an interesting design . Because",ES2003b
+1888.16,1888.53,A,Mm-hmm,ES2003b
+1888.35,1888.61,B,we're only,ES2003b
+1888.53,1888.53,A,.,ES2003b
+1888.61,1901.14,B,"going to have a very few key and you've got you know a small L_C_D_ , joystick , e I think it leaves you open to a a potential wide range of shapes , something that can make it stand out slightly",ES2003b
+1899.51,1899.89,A,Mm-hmm .,ES2003b
+1901.14,1920.25,B,". Um if you could look into what we've suggested so far , the feasibility of um small transmitter , um and such , maybe if an L_C_D_ screen requires too much power , or such . Ebenezer , um , Marketing Expert",ES2003b
+1920.53,1931.35,C,"Well I can give you the frequency , what people what options people use most often , I guess that's gonna be important in the ts defining the the software side of the interface , right . You",ES2003b
+1931.29,1932.23,B,If,ES2003b
+1931.35,1931.86,C,want the stuff .,ES2003b
+1932.23,1941.36,B,", yeah if you could maybe as well see what people think about the idea of this minimalist approach that we've taken , where of a joystick to control the very basic functions",ES2003b
+1941.0,1941.24,C,Okay .,ES2003b
+1941.36,1945.23,B,", and then the idea of manipulating it like you would a mobile",ES2003b
+1944.93,1945.23,C,Okay .,ES2003b
+1945.23,1947.88,B,". I don't know how easy that will be within the time frame , but could",ES2003b
+1947.86,1948.1,C,Mm-hmm,ES2003b
+1947.88,1948.25,B,be something,ES2003b
+1948.1,1948.1,C,.,ES2003b
+1948.25,1949.21,B,we could maybe look into .,ES2003b
+1949.25,1950.6,C,Sure . Sure .,ES2003b
+1951.37,1960.21,B,Okay . Um any last comments that anybody would like to put forward ? Anything that they think has been missed out . Bit of a wide open question there of course .,ES2003b
+1963.16,1963.37,C,Mm .,ES2003b
+1967.0,1972.7,B,Feel free to email me if you think that uh we've screwed something up and wanna get it rectified as soon as possible .,ES2003b
+1973.06,1975.18,C,Sure . 'Kay,ES2003b
+1974.61,1975.25,B,Right,ES2003b
+1975.18,1975.38,C,. Yeah,ES2003b
+1975.25,1975.25,B,.,ES2003b
+1975.38,1975.38,C,.,ES2003b
+1975.74,1981.12,D,"So I should just look at um the speaker , the speaker and an L_E_D_ . And",ES2003b
+1980.78,1983.33,B,"Speaker and L_E_D_ for locating , um",ES2003b
+1982.98,1983.98,D,Yeah,ES2003b
+1983.33,1983.33,B,",",ES2003b
+1983.38,1984.11,C,Transmitter,ES2003b
+1983.98,1984.17,D,", and",ES2003b
+1984.11,1984.11,C,.,ES2003b
+1984.17,1984.85,D,a transmitter .,ES2003b
+1985.15,1986.26,B,transmitter,ES2003b
+1986.31,1998.51,A,"Actually one one wee thought about that . Um , if we do end up trying to market this to television manufacturers then the um then the transmitter could actually be built into the television .",ES2003b
+1999.89,2010.82,B,"getting the external power source , yep , that's quite true . Um , and something that we can can easily be adopted at the last minute as well I'd say",ES2003b
+2010.71,2011.02,A,Yeah,ES2003b
+2010.82,2011.4,B,. The electronics,ES2003b
+2011.02,2011.02,A,.,ES2003b
+2011.4,2015.25,B,"could be s either placed externally or internally , makes no difference",ES2003b
+2015.17,2015.44,A,Mm-hmm,ES2003b
+2015.25,2015.62,B,to the,ES2003b
+2015.44,2015.44,A,.,ES2003b
+2015.62,2020.98,B,"final product of the actual remote control , so that's good . Uses maybe gives us a new potential market .",ES2003b
+2024.42,2024.71,A,Mm-hmm .,ES2003b
+2025.7,2026.28,B,'Kay .,ES2003b
+2026.45,2026.66,A,You know,ES2003b
+2026.57,2026.91,D,P,ES2003b
+2026.66,2036.91,A,"I think I mean if it w if we get a major television manufacturer to say y oh yeah we'll have that , save us the bother , then that's you know vast amounts of sales . Quite quickly .",ES2003b
+2037.74,2048.13,B,"Oh , one thing that we've almost not talked about at all , my apologies for that , um , user interface , we also need to maybe get the slogan in here , um it's",ES2003b
+2047.56,2047.98,D,Fashion .,ES2003b
+2048.13,2056.55,B,", I'm pointing at my laptop , what in God Real reaction , and such . So um",ES2003b
+2057.23,2058.47,D,The slogan is yeah,ES2003b
+2058.33,2058.84,B,"Oh , sorry",ES2003b
+2058.47,2058.94,D,", the slogan's",ES2003b
+2058.84,2058.84,B,.,ES2003b
+2058.94,2061.22,D,"we put the fashion in electronics , isn't it ?",ES2003b
+2061.66,2065.88,B,"My apologies . No it could well be , I've probably missed that . Um",ES2003b
+2065.58,2065.9,D,'S also,ES2003b
+2065.88,2065.99,B,", I",ES2003b
+2065.9,2066.12,D,look,ES2003b
+2065.99,2066.33,B,think,ES2003b
+2066.12,2066.59,D,cool,ES2003b
+2066.33,2066.65,B,that's,ES2003b
+2066.59,2066.59,D,.,ES2003b
+2066.65,2071.57,B,l almost the last minute thing we can just incorporate into the actual plastic on top . So,ES2003b
+2071.21,2071.75,A,Mm,ES2003b
+2071.57,2071.96,B,I'm not,ES2003b
+2071.75,2071.75,A,.,ES2003b
+2071.96,2080.5,B,too concerned a that we haven't gone into depth about that . But it might be something you could consider when you're thinking about shapes ? In fact we might,ES2003b
+2080.4,2080.9,A,Mm-hmm,ES2003b
+2080.5,2080.9,B,like to put a,ES2003b
+2080.9,2080.9,A,.,ES2003b
+2080.9,2084.14,B,"slogan on , and um",ES2003b
+2083.57,2083.84,A,Mm-hmm .,ES2003b
+2084.14,2088.06,B,possibly the two R_s to signify the company . Rather than real reaction,ES2003b
+2087.55,2088.28,A,Mm,ES2003b
+2088.06,2088.06,B,.,ES2003b
+2088.28,2094.81,A,. Yeah . I thought the uh the d the double arc could perhaps uh be the uh the enter button .,ES2003b
+2095.91,2099.82,B,Sounds good . And I'd say that that's us for now,ES2003b
+2098.737,2098.737,A,.,ES2003b
+2099.82,2100.45,B,. Okay .,ES2003b
+11.81,79.76,B,"Alright , yeah . crack on . Okay so we'll start off with a quick overview of the minutes . I think to sum up the last meeting , would be to say um the requirements that we've um set out . Those are we were going to go for what seemed to be a fairly minimal design based on uh a small joystick , L_C_D_ and a couple of other buttons for navigation um with power being I suppose one of the main single purpose buttons . Um we were also going to use novelty of being able to locate the remote control again via a small transmitter with any luck , the idea to try and separate us and also because of the minimal design um looks like we'll be able to be fairly adventurous in the actual physical shape of our remote control with any luck . Um that pretty much sums up the last one . So we'll just crack on , um like to maybe start with the Industrial Designer if it's possible",ES2003c
+79.67,80.06,D,Uh,ES2003c
+79.76,81.23,B,. Um,ES2003c
+80.06,81.28,D,uh okay,ES2003c
+81.23,81.64,B,uh,ES2003c
+81.28,82.84,D,. I'll just,ES2003c
+81.64,107.84,B,"the con today is the concep today . This uh meeting is the conceptual design phase and is um Sorry about this . . And is to cover things like um what the parts might be made of , um , can we uh outsource these from elsewhere , um will we have to construct any items ourselves ?",ES2003c
+108.19,111.96,D,Uh I have a presentation I just saved it in the uh,ES2003c
+111.35,112.0,B,"Yeah , okay",ES2003c
+111.96,112.62,D,the,ES2003c
+112.0,113.03,B,well I'll just uh,ES2003c
+112.62,113.27,D,folder,ES2003c
+113.03,113.34,B,I'll load,ES2003c
+113.27,113.27,D,.,ES2003c
+113.34,120.36,B,it up then . Um . Which one,ES2003c
+120.33,121.38,D,Uh,ES2003c
+120.36,120.62,B,do y,ES2003c
+121.38,121.38,D,.,ES2003c
+121.8,123.78,B,"Oh , interface concept",ES2003c
+123.29,124.0,A,"Yeah , that's me",ES2003c
+123.75,124.27,C,Uh,ES2003c
+123.78,124.03,B,? That's,ES2003c
+124.0,124.0,A,.,ES2003c
+124.03,124.89,B,you,ES2003c
+124.27,124.27,C,.,ES2003c
+124.89,125.66,B,. We've got trend watching,ES2003c
+125.66,125.91,D,It's,ES2003c
+125.66,126.48,B,", that's you",ES2003c
+125.91,126.45,D,uh,ES2003c
+126.48,126.48,B,.,ES2003c
+127.54,128.33,D,Components design .,ES2003c
+129.12,129.84,B,Components design .,ES2003c
+132.0,132.0,D,.,ES2003c
+139.27,140.43,B,Okay .,ES2003c
+140.89,189.43,D,"Alright . So Uh . The case uh le that's what I wrote first of all , could be plastic our plastic . Uh but later on we found out that um it can be rubber as well , or titanium or even wood . So uh we decide what it's gonna be . Probably plastic . Uh we need the infra-red transmitter . Get that off the shelf . Uh joystick we'll probably if we're gonna use it , um could be plastic w or rubber even as well . Um if you go on to the next slide . Uh If you go on to f uh findings , it's like two or three slides down . Right",ES2003c
+189.21,189.8,B,Okay,ES2003c
+189.43,190.8,D,. So,ES2003c
+189.8,189.8,B,.,ES2003c
+190.8,208.58,D,", this is what I found we can use . Uh three different types of batteries . Um can either use a hand dynamo , or the kinetic type ones , you know that they use in watches , or",ES2003c
+208.55,209.0,B,Okay,ES2003c
+208.58,209.07,D,else,ES2003c
+209.0,209.0,B,.,ES2003c
+209.07,213.13,D,uh a solar powered one . Um,ES2003c
+212.27,213.22,B,Now,ES2003c
+213.13,213.13,D,.,ES2003c
+213.22,215.11,B,", the kinetic one",ES2003c
+214.95,215.65,C,Cost,ES2003c
+215.11,216.41,B,", we've",ES2003c
+215.65,215.85,C,is,ES2003c
+216.41,218.3,B,'cause that's the ones where like you the movement,ES2003c
+218.3,218.56,C,Yeah,ES2003c
+218.3,218.74,B,causes,ES2003c
+218.4,218.83,D,Yeah,ES2003c
+218.56,218.56,C,.,ES2003c
+218.74,219.48,B,it,ES2003c
+218.83,218.83,D,.,ES2003c
+219.48,227.54,B,". Um the bat uh the battery for a a watch wouldn't require a lot of power , would be my one query . Is",ES2003c
+227.38,227.79,A,Mm,ES2003c
+227.54,228.06,B,a kinetic,ES2003c
+227.79,227.79,A,.,ES2003c
+228.06,231.53,B,one going to be able to supply enough power ?,ES2003c
+232.63,232.75,A,There's,ES2003c
+232.72,232.78,B,Do,ES2003c
+232.75,233.03,A,also,ES2003c
+232.78,232.87,B,you,ES2003c
+232.85,233.52,D,Uh,ES2003c
+232.87,233.18,B,think,ES2003c
+233.03,233.38,A,a watch,ES2003c
+233.18,233.18,B,?,ES2003c
+233.38,233.69,A,moves,ES2003c
+233.52,233.52,D,.,ES2003c
+233.69,234.77,A,around a great deal more .,ES2003c
+235.6,235.81,B,W,ES2003c
+236.02,236.73,D,Yeah,ES2003c
+236.16,236.78,C,Yeah,ES2003c
+236.73,236.83,D,", I",ES2003c
+236.78,236.78,C,.,ES2003c
+236.83,243.9,D,"don't think it would . Um . And solar cells , I dunno about that .",ES2003c
+245.15,245.31,C,yeah .,ES2003c
+245.79,255.36,D,"Uh . We should probably just use conventional batteries . Um , just like in usual remote controls .",ES2003c
+256.16,256.88,B,Which I suppose,ES2003c
+256.45,256.88,D,Um .,ES2003c
+256.88,259.54,B,"as well would allow us to go off the shelf again , you'd say ?",ES2003c
+259.56,282.92,D,"Yeah . Um . And these are three different types of or two different types three different types of shapes you can have . Uh one is a flat one , and then more original ones are single curved one or one with a double curved . Um the materials are tha there as you can see , but uh you can't have a titanium one for a double curved , uh which would",ES2003c
+282.84,283.55,C,Titanium,ES2003c
+282.92,283.34,D,be,ES2003c
+283.55,286.24,C,", the really strong metal , titanium",ES2003c
+285.52,286.54,D,Yeah,ES2003c
+286.24,286.65,C,? Is it not,ES2003c
+286.54,286.77,D,", and",ES2003c
+286.65,286.98,C,also,ES2003c
+286.77,287.36,D,light,ES2003c
+286.98,287.76,C,it's expensive,ES2003c
+287.36,287.36,D,.,ES2003c
+287.76,287.76,C,?,ES2003c
+288.37,291.27,D,"Uh , i think so as well , yeah . They make",ES2003c
+290.98,292.72,B,Um,ES2003c
+291.27,293.1,D,"mountain bikes out of that , don't they",ES2003c
+292.72,293.02,B,. Um .,ES2003c
+293.1,294.4,D,. So it's really light as well .,ES2003c
+294.48,302.95,B,"Curious . Um , I don't know if you'd be able to off the top of your head or not , the single curved and double curved , would you be able to give an example",ES2003c
+302.3,302.94,D,Um .,ES2003c
+302.95,304.64,B,? Um could you maybe,ES2003c
+304.36,304.68,D,T,ES2003c
+304.64,304.94,B,draw,ES2003c
+304.68,305.61,D,yeah,ES2003c
+304.94,305.76,B,something ? I,ES2003c
+305.61,305.61,D,.,ES2003c
+305.76,310.97,B,"you don't doesn't have to be perfect , it's just 'cause I'm not quite sure if I understand the difference between the two",ES2003c
+310.46,311.02,D,Uh,ES2003c
+310.97,310.97,B,.,ES2003c
+311.02,355.49,D,". Well for a curved , well I was thinking to f for to sit in your the palm of your hand . Uh maybe like this , with the uh joy pad here . Joystick here . And maybe um an okay button around here , so that the thumb can uh use it quite easily . Um I don't exactly Double curved . It probably means this is probably double curved . Uh whereas a single curved would be like that . I guess . Or not necessarily .",ES2003c
+356.23,359.17,B,So it might literally just be,ES2003c
+357.88,358.75,C,Two curves .,ES2003c
+359.17,360.68,B,okay .,ES2003c
+360.87,367.67,D,Yeah like that . Whereas this is two curves . Um so I guess that's what they mean,ES2003c
+367.37,367.92,B,Alright,ES2003c
+367.67,368.03,D,by,ES2003c
+367.92,367.92,B,.,ES2003c
+368.03,380.8,D,"uh double curve . Um which obviously it looks better than the single curve , but uh you can't have it in titanium , which is uh a nice material .",ES2003c
+383.02,383.21,B,Mm,ES2003c
+383.19,383.68,D,Uh,ES2003c
+383.21,383.21,B,.,ES2003c
+384.82,440.48,D,"and for the buttons , um it can have the scroll wheel which they use in mouses for com P_C_s . Uh but um it requires a more expensive chip to use , and if you wanna use L_C_D_ it's even more expensive . So you have to decide , there's trade-offs there . Um if you want the buttons to be oh yeah , if you have a double curve uh control and it's rubber , then you have these rubber buttons as well . But you're gonna ha I reckon you're gonna have to have uh key a number keypad anyway for the amount of channels these days . You wouldn't want to just have to scroll through all the channels to get to the one you want . You wanna enter just the number of it , if you know it . So um I reckon we're gonna have to have a number keypad anyway . Do you think ?",ES2003c
+441.2,452.98,B,"Okay , that was definitely something we can talk about . Um so you've got a little bit about the the chip that we might require as well",ES2003c
+452.61,452.98,D,Yeah .,ES2003c
+452.98,452.98,B,?,ES2003c
+455.03,465.66,D,"So , depends where gonna spend the money if you want the f fancy L_C_D_ display .",ES2003c
+468.42,479.02,B,"Um , do you have any idea so far , like when we're saying that we'd need an advanced chip for an L_C_D_ , does that in shoot the cost up by a drastic amount ? Or",ES2003c
+478.79,479.04,C,Need an,ES2003c
+479.02,479.02,B,?,ES2003c
+479.04,481.74,C,advanced chip for the L_C_D_ . Is that did I,ES2003c
+482.35,483.08,B,Well I think compared,ES2003c
+483.01,483.46,D,Yep,ES2003c
+483.08,483.73,B,to say,ES2003c
+483.46,483.46,D,.,ES2003c
+483.73,485.43,B,just pressing buttons .,ES2003c
+486.27,487.45,C,"Advanced , like",ES2003c
+487.25,487.45,B,if you,ES2003c
+487.45,487.64,C,three,ES2003c
+487.45,487.74,B,press,ES2003c
+487.64,487.79,C,eight,ES2003c
+487.74,487.82,B,a,ES2003c
+487.79,488.19,C,six,ES2003c
+487.82,488.25,B,button,ES2003c
+488.19,488.78,C,advance,ES2003c
+488.25,489.77,B,that sends a certain,ES2003c
+488.78,488.78,C,.,ES2003c
+489.77,497.65,B,"transmission through the infra-red , whereas I think if we're controlling the L_C_D_ we definitely require a much more powerful chip",ES2003c
+497.42,497.72,C,Okay,ES2003c
+497.65,498.07,B,. Just,ES2003c
+497.72,497.72,C,.,ES2003c
+498.07,502.01,B,compared to the chip you would use for pushing buttons I think is the,ES2003c
+501.64,502.05,C,Okay,ES2003c
+502.01,502.11,B,the,ES2003c
+502.05,502.46,C,", sure",ES2003c
+502.11,502.51,B,point being,ES2003c
+502.46,502.46,C,.,ES2003c
+502.51,502.83,B,made,ES2003c
+502.54,502.7,A,Mm .,ES2003c
+502.83,506.3,B,. If I've not over-stepped . Yeah,ES2003c
+504.57,505.21,D,Yeah i,ES2003c
+506.3,510.21,B,"? Okay , um should I go on , or go back",ES2003c
+509.21,509.75,D,Um,ES2003c
+510.21,510.21,B,?,ES2003c
+512.8,521.42,C,"Mm , if we only have twelve Pounds fifty , twelve Euros , not even twelve Pounds . Twelve Euros , what's that , like eight pounds or something like that , nine Pounds ?",ES2003c
+522.3,528.34,B,Well we'd also be relying on the um the bulk buying in producement and such,ES2003c
+527.8,528.37,C,"Okay , that's",ES2003c
+528.34,528.49,B,. I,ES2003c
+528.37,528.51,C,good,ES2003c
+528.49,529.27,B,assume,ES2003c
+528.51,528.73,C,point .,ES2003c
+529.27,532.8,B,". We have to look into the costs of those . So , sorry",ES2003c
+532.47,533.05,D,Uh,ES2003c
+532.8,532.8,B,.,ES2003c
+533.05,556.33,D,"the previous slides just explain what's in the internal components of the uh remote control . If you go to the one before that uh so it just says what it does , translate the key press into an infra-red signal and this is received by the T_V_ . Uh the chip just needs to detect the signal or detect the key press and then uh it'll send it to the tr the amplifier .",ES2003c
+557.05,557.55,B,Okay .,ES2003c
+558.87,584.23,D,"And uh then the next slide just shows how the uh copper wires uh interact with the buttons , the rubber buttons , uh to uh get sent to the chip . So that's just how the control works inside . Um we have to decide on what buttons we're gonna use .",ES2003c
+586.45,587.88,B,Okay,ES2003c
+587.024,587.024,D,.,ES2003c
+587.88,604.59,B,". Um . . So in the information that you've been supplied , how feasible would you say that the idea of using an L_C_D_ looks ?",ES2003c
+605.32,635.92,D,Um I think we can do it if uh we use conventional batteries and not have solar cells or kinetic . Um and then maybe use single curved uh case . Because we might need it to be curved for the uh thumb to use the joyst joystick easily . Um and then you'll need the advanced chip obviously for the L_C_D_ .,ES2003c
+638.57,645.36,B,Um I mean that sounds like quite a good requirement to me . Um conventional battery would seem to make sense . Um,ES2003c
+644.62,644.92,A,Mm-hmm .,ES2003c
+645.36,656.92,B,"I'm not sure if there's any cost differences between single and double curved and I'm I don't know about anybody else , but plastic or rubber as a traditional form of casing would seem to be",ES2003c
+656.71,656.9,A,Mm .,ES2003c
+656.92,658.39,B,a good way forward,ES2003c
+658.21,658.57,A,Um,ES2003c
+658.39,658.39,B,? .,ES2003c
+658.57,666.48,A,I'm actually gonna be bold and go oo go straight for rubber um for reasons I'll go into,ES2003c
+665.99,666.39,B,Okay .,ES2003c
+666.48,667.13,A,uh,ES2003c
+666.85,667.27,C,I also,ES2003c
+667.13,667.38,A,in more,ES2003c
+667.27,667.41,C,have,ES2003c
+667.38,667.86,A,detail,ES2003c
+667.41,667.88,C,a preference,ES2003c
+667.86,667.86,A,.,ES2003c
+667.88,669.03,C,for rubber .,ES2003c
+669.34,670.86,B,"Okay , well um",ES2003c
+670.91,672.34,C,Based on my research .,ES2003c
+672.96,678.41,B,"Yeah , well will we move on to user interface , and yeah",ES2003c
+678.4,678.4,A,.,ES2003c
+678.41,679.4,B,? Um,ES2003c
+679.24,679.51,A,Mm,ES2003c
+679.4,679.68,B,sorry,ES2003c
+679.51,679.51,A,.,ES2003c
+679.68,680.84,B,", as long as were you",ES2003c
+680.53,681.67,D,Yep I'm finished,ES2003c
+680.84,683.5,B,? Yeah . Okay,ES2003c
+681.67,681.67,D,.,ES2003c
+683.5,688.55,B,. Um and d d d interface concept,ES2003c
+688.45,688.99,A,Yep,ES2003c
+688.55,688.55,B,.,ES2003c
+688.99,694.85,A,. Now I'm gonna have to work between the uh the slides and the uh,ES2003c
+695.5,695.82,B,Yeah .,ES2003c
+696.57,783.31,A,"and the white board 'cause I actually I have some fairly concrete things this time . Uh um I was given a an H_T_M_L_ file giving um various ideas from uh from other previous remote control designs , and pretty much decided to just dump them all . I wasn't very impressed by them and they didn't seem to re uh nothing I saw seemed to meet the sorts of design specifications that we're going for today . Um so what I ra rather than looking at other remotes , uh ra oomp be better to simply look at the human hand . Um and try and f um and try and figure out a way of laying out the elements we've already decided on , um so that if r a if so that the finger is e each finger or thumb is wherever it needs to be already . Um so uh next slide , if you please . Um and what we've basically decided on was the the um the joy uh the joystick , two function buttons and the L_C_D_ , just keep it paired down to the absolute minimum . I don't actually think we need the um the numeric keypad because if you m because one of the menus that we could have available um v via via the L_C_D_ is one where you scroll through channels , so if there's something f and be bear in mind since this isn't meant to work for um",ES2003c
+783.55,783.96,C,digital .,ES2003c
+784.06,785.34,D,"Ah , okay",ES2003c
+784.52,785.42,A,f f f,ES2003c
+785.34,785.34,D,.,ES2003c
+785.42,836.83,A,"for di for digital or um or for or for cable , whatever , you're basically looking at four or five terrestrial channels , and then um your V_C_ uh and then the channel through your V_C_R_ and or D_V_D_ player . And or um box . So it's not I'm not really excessively concerned about that . You must have two two modes , basic mode , where um the joystick's uh left right left right for channels , up down for volume , um and the uh uh and the menu mode for uh further functions . Um now the reason I was particularly interested in using rubber for this is that if we're going to have a highly ergonomic design , um it needs to be ergonomic for left or right handed people . Um",ES2003c
+836.67,836.96,B,Can I,ES2003c
+836.83,837.05,A,", so you",ES2003c
+836.96,838.75,B,just jump in slightly there,ES2003c
+838.53,838.78,A,Mm-hmm,ES2003c
+838.75,838.91,B,? That,ES2003c
+838.78,838.78,A,.,ES2003c
+838.91,842.45,B,"would suggest the double curved design's probably going to be most appropriate , then .",ES2003c
+842.64,844.29,A,"Yes , absolutely",ES2003c
+843.83,844.66,B,okay,ES2003c
+844.29,845.46,A,. Um,ES2003c
+844.66,844.66,B,.,ES2003c
+845.46,873.02,A,", basi basically what I basically what the what be having um , I would say , the the whole thing articulated at two points , so that if you if you're handing it from a lef uh left or right handed user you can adjust it so that the um the L_C_ the L_C_D_ and the uh The joystick would be in the right place . And",ES2003c
+872.41,872.99,B,Mm .,ES2003c
+873.02,889.91,A,"also this is a rather nicer de uh design gimmick that the the um you know the whole thing you know it should have sort of organic feel to it that it should be , you know , soft to touch and can be moved around all nice . Um",ES2003c
+889.65,890.17,B,Okay,ES2003c
+889.91,890.32,A,okay,ES2003c
+890.17,891.38,B,. Um,ES2003c
+890.32,891.57,A,on to,ES2003c
+891.38,891.56,B,", yeah .",ES2003c
+891.57,894.83,A,on to the next uh to the next slide .,ES2003c
+894.93,898.24,B,Just to let you know we'll probably be quite tight for time as well,ES2003c
+898.02,898.38,A,Okay,ES2003c
+898.24,898.49,B,", because",ES2003c
+898.38,898.38,A,.,ES2003c
+898.49,901.27,B,"I think you've probably got a lot you'd like to say , I guess",ES2003c
+900.95,901.94,A,Yeah,ES2003c
+901.27,901.27,B,.,ES2003c
+901.94,943.85,A,", 'kay basically um I can add pretty pictures to this . The um Assuming the hand the hand to be in about sort of this position , um hol uh holding the remote , the um the joystick unit should rest over the uh the joint of the f of the uh four finger so that it's directly accessible for the thumb . Um and it would need t there would need to be a it would need to be articulated just below that so that it could be switched around for uh left or right handed users . So .",ES2003c
+950.71,968.45,A,"You then have a grip section that can be more or less the same irrespective of handedness . You just have big two big buttons that cover most of the area so it can in the upper part , one for the four finger , one for the middle finger . Um",ES2003c
+968.22,968.53,C,Is this the,ES2003c
+968.45,968.58,A,", and",ES2003c
+968.53,969.34,C,joystick,ES2003c
+968.58,968.69,A,that,ES2003c
+969.34,969.34,C,?,ES2003c
+969.8,979.59,A,Th this part here is the joystick . This would be the actual grip . Probably where you'd want to have the battery as well,ES2003c
+979.07,979.41,C,Okay .,ES2003c
+979.59,1001.69,A,". That would be probably the bulkiest part . And you then have , at the uh at the bottom , the L_C_D_ , and this would need to be articulated as well . And basically I'd want this to rest here , right at the base of the wrist . So it would fit just nicely in the hand . And again , this part could be rotated , so it can",ES2003c
+1007.94,1082.6,A,"So so so that it can be adjusted to either left or right handed user . Um So the t uh the top function button in basic mode would be the on off switch and menu mode would be the enter button . And then the bottom function buttons switches between between modes . Um now programming it actually thi this is one thing I've found with um the replacement remote control . Programming them can be a right pain . So I thought th the simplest way around that would be to have um a cable to connect it to the computer some some fair iv fairly fairly simple software on the computer just so that you on your computer just so that you could um pr program it at a rather in a rather more comfortable interface . And you could download programs for it from uh for uh T_V_s from all sort of main manufacturers . Um though you i it would be necessary to have uh have a m uh have a ha have a mode for programming it without the computer , uh just in case there are there are still people left out there who don't have them yet",ES2003c
+1082.48,1082.61,C,Mm,ES2003c
+1082.6,1084.5,A,. Um,ES2003c
+1082.61,1082.61,C,.,ES2003c
+1084.5,1085.84,A,. But uh . Yeah .,ES2003c
+1089.1,1089.74,B,Okay,ES2003c
+1089.33,1090.33,A,That's,ES2003c
+1089.74,1089.74,B,.,ES2003c
+1090.33,1091.87,A,that's my idea .,ES2003c
+1093.27,1094.33,B,"Excellent , right",ES2003c
+1093.62,1093.76,C,Mm .,ES2003c
+1094.33,1099.07,B,. Um uh,ES2003c
+1097.36,1097.68,C,'Kay .,ES2003c
+1099.07,1100.66,B,. File open,ES2003c
+1100.21,1100.6,C,We go .,ES2003c
+1100.66,1103.71,B,. Trend watching .,ES2003c
+1105.51,1128.55,C,"Okay . So uh to gather my research , two basic methods . We compared uh whether people want the remote control to do a lot of stuff or they want it to look cool . And then we we research uh fashion trends in Europe , what's what's the new black , you know , as it goes . Next slide please .",ES2003c
+1128.64,1129.52,B,Okay .,ES2003c
+1130.02,1217.27,C,"Uh we found , in order of importance , people want the remote control to look cool more than they want it to to be cool . As in they want it to do a lot of good s they want it to look like it does a lot , and if it does do a lot that's a bonus , but they don't care so much , you know . They want it to be that's sounds a bit like a contradiction . Technology technical technologically innovative . People want it to be that , but s still they care more about the way it looks than what it does . So like the interface is really important . And easy to use , it it just so happens that uh from the second point to the third point is twice as important I mean the second point is twice as important as the third point . People want it I is it has to be cooler than easy to use , you know , if it has the newest features , even if it's difficult to use , prefer it to have the newest features . And if it's easy to use that's a bonus . The fashion , now this is seems a bit odd to me , but fruit and veg is the new is the new black for furniture , for clothes , for shoes . How that relates to a remote control I don't know . But I I see I come on to that in the next in the next slide . Spongy . I've als I've been saying everything's the new black . Well spongy's the new black as well . So we have the choice between rubber and plastic . If it's the type of rubber that you can squeeze , you know , it's spongy , then",ES2003c
+1217.13,1217.33,D,Oh,ES2003c
+1217.27,1217.42,C,can,ES2003c
+1217.33,1217.43,D,yeah,ES2003c
+1217.42,1217.46,C,I,ES2003c
+1217.43,1217.47,D,", I",ES2003c
+1217.46,1217.77,C,skip,ES2003c
+1217.47,1217.81,D,forgot to,ES2003c
+1217.77,1217.84,C,the,ES2003c
+1217.81,1218.13,D,mention,ES2003c
+1217.84,1218.11,C,rest ?,ES2003c
+1218.13,1223.43,D,that . The uh rubber material is the type of stress ball material,ES2003c
+1223.32,1223.68,C,Okay,ES2003c
+1223.43,1224.06,D,", not just",ES2003c
+1223.68,1223.68,C,.,ES2003c
+1224.06,1225.59,D,normal rubber,ES2003c
+1225.25,1225.66,C,Okay,ES2003c
+1225.59,1225.86,D,. Forgot,ES2003c
+1225.66,1226.34,C,", so",ES2003c
+1225.86,1226.27,D,to say that .,ES2003c
+1226.34,1230.53,C,kinda spongy material . So,ES2003c
+1229.46,1229.83,B,Okay .,ES2003c
+1230.53,1306.92,C,"um so my personal opinion ? Um we want something fancy and techni technologically innovative , obviously . But what we what we need is something that looks like it's from the future that looks cool , that's that's different , you know , that's everyone has a white remote control , black remote control , you need something cool . Like , titanium is cool but it's expensive . And maybe it's a bit of overkill for a remote control . Um now the fruit and veg options , either we we go in that direction or we stay totally away from it . Um I mean the research did come up with fruit and veg , so maybe it is important for it's the up to the interface guy . So if we stay away from it , s you know stay away from it , but if we're gonna go along with it then it doesn't necessarily have to be like an apple or something like that , or a kiwi fruit . It could be something like , I say potato peeler but I'm sure you guys have a have a much cooler idea than I do . So I think cool is the key . Few questions about a spongy remote control . I've never seen one before . I've seen plastic remote controls . I think maybe they were I don't know , back in the day when they first came up with remote controls , they had a reason for it being",ES2003c
+1307.55,1308.03,B,Mm-hmm .,ES2003c
+1308.74,1377.23,C,"sturdy , you know . For being strong and sturdy . So um if we want something strong and sturdy , I say stay with plastic or titanium , but if we go with spongy , we can stress that you can drop this as many times as you want , it doesn't matter , it's spongy material , it's not gonna break , you know . I just don't know how the L_E_D_ and the lights are gonna fit into a spongy material because it's not gonna be completely squeezable . So how do things fit it ? And if we are gonna use spongy , we can say it's long lasting , you know it's damage resistant and stuff like that , so . So just to summarise , people want stuff that's cool , that's that looks like it's cool , and if it is cool then that's a bonus doesn't have to be um people like fruit and veg . We can either go down that alley or stay totally away from it . People like spongy material . If we're gonna use spongy material we have to think of how practical it is , and how we can further promote that idea . And also , this was this year . So , things change all the time , every year you know they they always talk about this year , this is the new black . Well next year something else is gonna be the",ES2003c
+1377.2,1377.53,B,Mm-hmm,ES2003c
+1377.23,1377.72,C,new black,ES2003c
+1377.53,1377.53,B,.,ES2003c
+1377.72,1382.25,C,and we're stuck with last year's fruit and veg type stuff . 'Kay .,ES2003c
+1382.3,1382.74,B,Okay .,ES2003c
+1383.46,1384.07,C,That's me .,ES2003c
+1387.56,1400.77,B,"Well , um I would say that the most you could probably hope for is gaining a year's lead on most people anyway . You always have to bring out new designs , so if we can get next year then that's possibly a good place to start anyway",ES2003c
+1400.4,1400.74,A,Mm-hmm .,ES2003c
+1400.77,1401.53,B,. Um .,ES2003c
+1408.39,1424.6,B,"Seems like a a lot of the components could be off the shelf , so I don't exactly what cost would be incurred . Um I can see your point about the number keypad , but I've I would say that we can probably incorporate it into the menu system",ES2003c
+1424.1,1424.3,D,Yeah .,ES2003c
+1424.41,1424.75,A,Mm-hmm,ES2003c
+1424.6,1424.84,B,if,ES2003c
+1424.75,1424.75,A,.,ES2003c
+1424.84,1440.11,B,you need to do traversal of a large number of channels . My feeling would be that even if at a later date this was to be taking control of um boxes as well um having the use of the L_C_D_ and the joystick would probably allow you to manipulate enough channel numbers for you to be,ES2003c
+1440.49,1453.35,A,"Yeah , actually if you've got a lot of channels , the number keypad can be quite annoying as well , becau it's you know if you're trying to remember what uh , you know , what number's the discovery channel or whatever . It's just",ES2003c
+1453.17,1453.36,C,That's,ES2003c
+1453.35,1454.31,A,irritating,ES2003c
+1453.36,1454.23,C,a good point . You can,ES2003c
+1454.16,1454.55,B,Mm-hmm,ES2003c
+1454.23,1454.73,C,incorporate,ES2003c
+1454.31,1454.95,A,. But if you,ES2003c
+1454.55,1454.55,B,.,ES2003c
+1454.73,1455.22,C,names,ES2003c
+1454.95,1455.34,A,h but but,ES2003c
+1455.22,1455.44,C,into,ES2003c
+1455.34,1455.48,A,but,ES2003c
+1455.44,1455.55,C,the,ES2003c
+1455.48,1455.58,A,if,ES2003c
+1455.55,1455.91,C,menu,ES2003c
+1455.58,1455.94,A,you have a,ES2003c
+1455.91,1455.91,C,.,ES2003c
+1455.94,1458.56,A,"me but if you have a menu structure , then you can sub-group them .",ES2003c
+1458.97,1460.18,C,Okay . Even,ES2003c
+1459.57,1459.8,A,So,ES2003c
+1459.74,1460.14,B,Okay,ES2003c
+1459.8,1461.54,A,you,ES2003c
+1460.14,1460.14,B,.,ES2003c
+1460.18,1464.34,C,"news , music . Like they do on uh sky digital kinda",ES2003c
+1463.83,1464.14,A,Yeah .,ES2003c
+1464.34,1464.54,C,. Yeah .,ES2003c
+1465.56,1500.36,B,"So what it looks like to me is we'll use a large number of standard components , um , say something like um lithium ion battery , the kind that you find in most um small hand held devices now . Um Looks like we going for a double curved design . Um I don't know what cost implications there are in that . Um , looks like we're pretty much decided on some kind of flexible rubber . Though I'd have to say depending on how flexible it is , we might need to have some kind of inner frame .",ES2003c
+1500.91,1518.49,A,"Yeah , I I would say definitely , I mean I mean I mean the the idea of having it sort of articulated i th there would be basically two points of articulation . W um one below and one above the m the uh the main sort of grip .",ES2003c
+1519.28,1519.8,B,Do you,ES2003c
+1519.75,1520.18,A,So,ES2003c
+1519.8,1529.89,B,"think there's any way we could maybe remove the articulation ? I can see why it looks appealing , but it could be a weak point in um the structure , do you think ? That would",ES2003c
+1529.82,1532.06,A,Mm,ES2003c
+1529.89,1531.12,B,be a worry of mine .,ES2003c
+1531.41,1532.18,D,If you're going with the fruit,ES2003c
+1532.06,1532.06,A,.,ES2003c
+1532.18,1537.62,D,"and veg thing , looks like a banana . F if you wanna design it that way",ES2003c
+1537.361,1537.361,C,.,ES2003c
+1537.62,1537.62,D,.,ES2003c
+1537.91,1570.69,A,"I d I don't thi I don't think that it would be a a structural weakness , I mean if you have a firm s sub-structure , you can then incorporate articulation into that . If you then have a sort of outer skin of mm flexible , spongy rubber then you have something that is you know very much you know organic , and I think would look rather co I mean mi rather cool . I mean my drawing there doesn't doesn't do it justice , it makes it makes it look more a little bit more like a vibrator than a than a uh than a remote control , but uh .",ES2003c
+1570.71,1572.34,B,"Yeah , we won't add that functionality",ES2003c
+1572.22,1572.99,C,Okay,ES2003c
+1572.34,1572.34,B,.,ES2003c
+1572.99,1573.57,C,. Course not,ES2003c
+1573.49,1573.82,B,However,ES2003c
+1573.57,1573.57,C,.,ES2003c
+1573.82,1584.44,B,", one interesting point is , I don't know how serious you were there , but we if we take some of the ideas why don't we make the damn thing yellow to incorporate",ES2003c
+1583.85,1584.74,D,Yeah,ES2003c
+1584.44,1585.41,B,the des,ES2003c
+1584.74,1584.74,D,.,ES2003c
+1585.41,1586.82,B,the colour of the logo ?,ES2003c
+1587.02,1587.65,C,Sure,ES2003c
+1587.05,1587.42,D,Okay .,ES2003c
+1587.65,1588.02,C,", yeah .",ES2003c
+1588.51,1589.68,B,I dunno . It's an,ES2003c
+1589.45,1590.01,A,Mm-hmm,ES2003c
+1589.68,1590.08,B,certainly,ES2003c
+1590.01,1590.01,A,.,ES2003c
+1590.08,1591.98,B,a different colour from your average um,ES2003c
+1593.52,1595.14,A,"Make it harder to lose , as well .",ES2003c
+1595.79,1596.02,D,Yeah .,ES2003c
+1596.31,1596.44,B,That's,ES2003c
+1596.38,1596.74,C,Sure,ES2003c
+1596.44,1597.89,B,true,ES2003c
+1596.74,1596.74,C,.,ES2003c
+1597.89,1599.33,B,. Was there anything in your research,ES2003c
+1600.21,1616.13,C,"The noise for when you lose the banana , um f yeah , for when you lose the remote control , it could be like a a monkey noise or something like that , rather than a standard beep beep . Y you know , you lose the monkey the banana , y",ES2003c
+1614.83,1616.28,D,monkey,ES2003c
+1616.13,1616.43,C,you lose,ES2003c
+1616.28,1616.28,D,.,ES2003c
+1616.43,1622.08,C,"the banana , you press a button , and you hear like monkey screams or something like that to direct you towards the banana .",ES2003c
+1622.72,1629.35,A,"I th uh I mean if it I think that's something that could perhaps be programmable , though maybe have monkey as default",ES2003c
+1629.03,1629.83,C,S,ES2003c
+1629.35,1629.77,A,. Um .,ES2003c
+1629.83,1643.34,C,"oh , I was gonna talk about the programmable remote control . Now I think it'd be cool if you had one remote control that could work with all T_V_s , you know you s you click a button and it finds the frequency that works with your particular television",ES2003c
+1643.05,1643.38,A,Mm-hmm,ES2003c
+1643.34,1643.52,C,. But,ES2003c
+1643.38,1643.38,A,.,ES2003c
+1643.52,1647.7,C,"why you'd need to program it like as as a standard feature , I I don't know .",ES2003c
+1647.8,1658.98,A,Well basi basically the um for f for uh I mean e each manufacturer will have a partic will have a particular command set that uh,ES2003c
+1658.64,1659.18,B,Mm-hmm,ES2003c
+1658.98,1659.37,A,the T_V_,ES2003c
+1659.18,1659.18,B,.,ES2003c
+1659.37,1660.01,A,responds to . It's,ES2003c
+1659.92,1660.15,C,Yeah,ES2003c
+1660.01,1660.18,A,not,ES2003c
+1660.15,1660.15,C,.,ES2003c
+1660.18,1677.34,A,"simply a matter of frequency . So um usually what's done is you have this big booklet full of different possi you'll have all of them sort of programmed in to the uh remote , and you'll have this little booklet of codes",ES2003c
+1677.26,1677.55,C,Mm-hmm,ES2003c
+1677.34,1677.75,A,you then,ES2003c
+1677.55,1677.55,C,.,ES2003c
+1677.75,1684.53,A,find your um ma uh find your manufacturer and try the different codes that,ES2003c
+1685.01,1685.27,C,Mm-hmm .,ES2003c
+1685.62,1688.76,A,come under that manufacturer's name 'til you find the right one,ES2003c
+1688.63,1688.82,C,That's,ES2003c
+1688.76,1689.11,A,. It's,ES2003c
+1688.82,1693.61,C,"because televisions , they don't give the remote control any type of feedback when you send it",ES2003c
+1692.98,1694.31,A,"Yeah , that's right",ES2003c
+1693.61,1693.89,C,. Okay .,ES2003c
+1694.31,1711.59,A,". So that's that's quite annoying and we probably would still have to do that . But if we had um some sort of hook-up to your computer as an option , then if you've got a computer you can avoid that rather irritating thing",ES2003c
+1711.57,1711.77,B,An,ES2003c
+1711.59,1711.59,A,.,ES2003c
+1711.77,1726.23,B,"interesting point is that if the person doesn't have the computer , we can still make the process easier because instead of having to look up codes , maybe we can have it that one of the options they have is that they look up the name of the company on the L_C_D_ and then",ES2003c
+1726.19,1726.5,A,Yeah,ES2003c
+1726.23,1726.57,B,they maybe,ES2003c
+1726.5,1726.5,A,.,ES2003c
+1726.57,1728.53,B,look up different names,ES2003c
+1728.43,1729.17,A,Yeah,ES2003c
+1728.53,1729.92,B,of um,ES2003c
+1729.17,1729.17,A,.,ES2003c
+1729.92,1738.73,B,"different actual units that have been produced . Or we have the remote control just go through them until it's like does this do the correct function , and such .",ES2003c
+1738.91,1743.7,C,"Is it is it actually a book of names to digits , or is it like a few pages ?",ES2003c
+1743.87,1746.94,A,Um booklet . Some pages .,ES2003c
+1747.12,1759.41,C,"I was just thinking , if we were to store this information , some type of mapping . This person probably need to use this feature like once , you know , when you first buy the remote control , or whenever they buy a new television , so once",ES2003c
+1759.26,1759.66,A,Yeah,ES2003c
+1759.41,1759.65,C,every,ES2003c
+1759.44,1759.77,B,Doesn't have,ES2003c
+1759.65,1760.43,C,s,ES2003c
+1759.66,1759.66,A,.,ES2003c
+1759.77,1761.82,B,"to be used very often that's right , yeah",ES2003c
+1761.38,1761.99,C,Yeah,ES2003c
+1761.82,1761.82,B,.,ES2003c
+1761.92,1762.39,A,Yeah,ES2003c
+1761.99,1762.52,C,", and it's",ES2003c
+1762.39,1769.95,A,. But it's a but it's a nuisance . And it's a nuisance very close to the to um to actually purchasing it,ES2003c
+1769.89,1770.04,C,Mm,ES2003c
+1769.95,1770.21,A,", so",ES2003c
+1770.04,1770.04,C,.,ES2003c
+1770.21,1780.33,A,"it's something that you're likely to be thinking about . If you if there's w i if there's one in the shop that's that says it can avoid much of that nuisance , you might be",ES2003c
+1780.27,1780.48,C,Mm,ES2003c
+1780.33,1780.9,A,favourably,ES2003c
+1780.48,1780.48,C,.,ES2003c
+1780.9,1786.03,A,inclined towards it . Um mm .,ES2003c
+1787.41,1790.38,B,"Okay , this just to give us a",ES2003c
+1790.3,1790.41,C,Mm,ES2003c
+1790.38,1790.67,B,rough,ES2003c
+1790.41,1790.41,C,.,ES2003c
+1790.67,1863.67,B,"idea of what we're meant to be doing for the next stage . I'm pretty sure that you got that anyway . This is the conceptual one . Um . I think we've come up I think we've covered everything we need to here . Um I think we've decided on what , you know , decided on standard items for most of um rubber and such , so we're now looking at the detailed design and what we need to be doing for the next meeting . Um So for example , um I'll just start at the top , you've got yourself and the Industrial Designer gonna be working quite closely at this stage 'cause it'll be hard not to , obviously . Um looking from prototyping of some des description using clay . Um I suppose you'll be told a lot more about that as uh progress . Um The user interface design , They're kind of it looks they're the idea I've pushed forward so far is maybe more of a physical one there , whereas possibly be more interested in maybe how the L_C_D_'s going to incorporate , do you think ? Or",ES2003c
+1863.05,1863.66,A,Mm .,ES2003c
+1863.67,1868.8,B,do you s perceive that most the design design decisions still need to be based on the physical layout ?,ES2003c
+1869.68,1911.67,A,"Um well I I think other than ge getting a sort of more aesthetically pleasing form for it , um mo most of the sort of layout design decisions are are made , I would say . Um but then again , the um the menu structure to to a considerable extent that's gonna vary according to the model of television , and also any customisations that the user might wish to incorporate . So um and one of the nice things about having an L_C_D_ and a menu structure is that there is that flexibility to it .",ES2003c
+1912.06,1922.23,B,"Mm-hmm , that's very true . Um . Okay . Um got product evaluation as well",ES2003c
+1922.17,1922.43,C,Yeah,ES2003c
+1922.23,1923.02,B,. Um,ES2003c
+1922.43,1923.55,C,", you see I don't",ES2003c
+1923.02,1923.02,B,.,ES2003c
+1923.55,1933.8,C,"some of these things kinda logically follow the others . How can t product evaluation , doesn't that come after actually seen a product",ES2003c
+1933.7,1934.76,B,I,ES2003c
+1933.8,1934.47,C,prototype .,ES2003c
+1934.76,1943.97,B,"I think we'd be yeah , no , it'd be more a case of how do we envisage us performing the product evaluation once we have a model to test with .",ES2003c
+1944.18,1945.72,C,"Oh , that's the okay , sure sure sure .",ES2003c
+1945.76,1955.9,B,"Um so it'd be a case of do you think that just bringing users in to have them test it out , uh maybe putting a certain number of products into the field in certain places",ES2003c
+1955.88,1956.21,C,Mm-hmm,ES2003c
+1955.9,1956.46,B,which I suppose,ES2003c
+1956.21,1956.21,C,.,ES2003c
+1956.46,1965.44,B,"is quite similar . Or just kind of hitting the streets and you know saying this is a new remote control , what do you think of the look of it",ES2003c
+1964.22,1964.86,C,"Okay , sure .",ES2003c
+1965.44,1966.06,B,? Um,ES2003c
+1967.89,1971.65,C,At this stage we still have no no target audience or,ES2003c
+1972.36,1981.73,B,I think the target audience is pretty much anybody under the age of say maybe sixty or something ludicrous,ES2003c
+1981.23,1981.6,C,'Kay .,ES2003c
+1981.73,1992.78,B,". Um the reason I'm saying that is we're just looking at a a replacement remote control , something that's stylish , so maybe you're even just maybe you're narrowing down your target audience simply by saying",ES2003c
+1992.85,1993.68,C,And it's stylish .,ES2003c
+1994.05,2003.43,B,"if they're buying it that often or they're maybe looking to replace something then , they've got a bit of free cash , so that puts them potentially in the younger age bracket",ES2003c
+2002.5,2002.76,C,Mm-hmm .,ES2003c
+2003.43,2008.98,B,". Maybe even single , just for the reasons of um uh excess cash flow",ES2003c
+2008.97,2009.21,C,Mm,ES2003c
+2008.98,2008.98,B,.,ES2003c
+2009.21,2009.21,C,.,ES2003c
+2010.86,2016.16,B,"Although of course I mean at twenty five Euros , I don't think we're looking at charging the earth for the uh device",ES2003c
+2015.07,2016.34,C,Yep,ES2003c
+2015.68,2015.98,A,Yeah .,ES2003c
+2016.16,2016.44,B,. Think that's,ES2003c
+2016.34,2016.68,C,. Okay,ES2003c
+2016.44,2016.79,B,well within,ES2003c
+2016.68,2016.68,C,.,ES2003c
+2016.79,2037.37,B,"the normal bracket . Um your idea of the U_S_B_ would I think would largely depend on the cost . U_S_B_'s definitely one of the cheapest interfaces out there , but it might push the cost of the overall unit up 'cause it would require not just the connection but the chip for communicating with the rest of the system . That one",ES2003c
+2037.33,2038.06,C,Programmable,ES2003c
+2037.37,2038.28,B,might have to be based,ES2003c
+2038.06,2038.68,C,memory,ES2003c
+2038.28,2038.75,B,on,ES2003c
+2038.68,2039.09,C,as well .,ES2003c
+2039.17,2040.25,D,The U_S_B_ for which ?,ES2003c
+2040.66,2041.48,C,For the remote control .,ES2003c
+2041.83,2047.74,B,The the idea was that maybe it could connect up for um allowing a software interface on the P_C_,ES2003c
+2047.62,2048.0,D,Oh,ES2003c
+2047.74,2048.19,B,for,ES2003c
+2048.0,2048.22,D,right,ES2003c
+2048.19,2048.33,B,a,ES2003c
+2048.22,2048.64,D,", okay",ES2003c
+2048.33,2048.69,B,larger,ES2003c
+2048.64,2048.64,D,.,ES2003c
+2048.69,2053.56,B,"programming due to the fact that we've gone for such a nice , easy minimal design , normally .",ES2003c
+2054.66,2055.14,C,We've w,ES2003c
+2055.0,2055.59,B,Um,ES2003c
+2055.14,2055.82,C,definitely talking,ES2003c
+2055.59,2055.59,B,.,ES2003c
+2055.82,2056.83,C,some type of,ES2003c
+2057.5,2060.8,D,"But didn't they just say it's just for T_V_ , or are we gonna",ES2003c
+2060.74,2062.75,B,"It's just for T_V_ , but for",ES2003c
+2063.12,2063.67,C,Different .,ES2003c
+2063.94,2065.76,B,"programming it to use your T_V_ , you",ES2003c
+2065.65,2066.12,D,Okay,ES2003c
+2065.76,2066.28,B,might hook,ES2003c
+2066.12,2066.49,D,", yeah",ES2003c
+2066.28,2066.54,B,it up,ES2003c
+2066.49,2066.49,D,.,ES2003c
+2066.54,2074.34,B,"to the P_C_ . I I'm not sure , but I'm thinking maybe that the additional cost of the U_S_B_ might be prohibitive",ES2003c
+2074.31,2074.7,A,Mm,ES2003c
+2074.34,2074.75,B,. We don't know,ES2003c
+2074.7,2074.7,A,.,ES2003c
+2074.75,2076.4,B,unless it would make sense to .,ES2003c
+2076.84,2077.32,C,But,ES2003c
+2076.91,2077.4,A,Yeah,ES2003c
+2077.32,2077.51,C,you're,ES2003c
+2077.4,2077.65,A,", I mean",ES2003c
+2077.51,2077.66,C,gonna,ES2003c
+2077.65,2078.21,A,it's,ES2003c
+2077.66,2082.39,C,need some type of flash memory or something . Well something that doesn't you,ES2003c
+2082.38,2082.83,A,Yeah,ES2003c
+2082.39,2082.84,C,wouldn't have to,ES2003c
+2082.83,2082.83,A,.,ES2003c
+2082.84,2085.4,C,"redo the whole thing once the batteries are changed , you know , once",ES2003c
+2085.33,2086.23,A,Yeah,ES2003c
+2085.4,2086.27,C,you turn off the power,ES2003c
+2086.23,2086.32,A,. The,ES2003c
+2086.27,2086.27,C,.,ES2003c
+2086.32,2093.37,A,other thing I mean it I mean it would need to ha it would need to have um some sort of on board memory,ES2003c
+2093.24,2093.67,C,Yeah,ES2003c
+2093.37,2094.58,A,anyway,ES2003c
+2093.67,2093.67,C,.,ES2003c
+2094.58,2113.24,A,". Um f for one for one thing because I do think that the menu system should be um uh I mean although you know , it's not going to be terribly complicated if it's just controlling one device , the menu system ought to be um o ought to be customisable and",ES2003c
+2113.12,2113.46,C,Different,ES2003c
+2113.24,2113.49,A,uh,ES2003c
+2113.46,2116.24,C,"languages , uh different skins",ES2003c
+2115.93,2117.34,B,Mm-hmm,ES2003c
+2116.24,2116.78,C,and stuff like,ES2003c
+2116.71,2117.53,A,Mm-hmm,ES2003c
+2116.78,2117.13,C,that .,ES2003c
+2117.34,2117.64,B,. W,ES2003c
+2117.53,2126.17,A,. How uh how uh how you want say the um the the menu structure for flicking through channels if you've got lots of channels,ES2003c
+2125.38,2126.32,C,Sure . I,ES2003c
+2126.17,2126.44,A,. That sort,ES2003c
+2126.32,2126.46,C,if,ES2003c
+2126.44,2126.52,A,of,ES2003c
+2126.46,2126.54,C,it,ES2003c
+2126.52,2127.2,A,thing,ES2003c
+2126.54,2127.57,C,was customisable,ES2003c
+2127.2,2127.2,A,.,ES2003c
+2127.57,2132.25,C,"as in different languages and stuff , that does open it is supposed to be international , right ? So .",ES2003c
+2132.94,2134.6,B,It would make sense to,ES2003c
+2134.17,2134.8,C,It would make sense,ES2003c
+2134.6,2134.86,B,. I would,ES2003c
+2134.8,2134.92,C,if,ES2003c
+2134.86,2135.12,B,say,ES2003c
+2134.92,2135.42,C,you could,ES2003c
+2135.12,2139.2,B,to . Um and we'd better be careful about the time as well,ES2003c
+2139.13,2139.41,C,Okay,ES2003c
+2139.2,2139.51,B,. We've,ES2003c
+2139.41,2139.41,C,.,ES2003c
+2139.51,2158.23,B,"already had the five minute warning , so . Um . I would say yeah . International would make sense . Um you're gonna look at product evaluation . I'm I'd better start writing up a hell of a lot of crap . Um you're gonna look a bit more at the kind of the physical make up you say . Um looks",ES2003c
+2158.02,2158.52,A,Yeah,ES2003c
+2158.23,2158.61,B,like we're gonna,ES2003c
+2158.52,2158.52,A,.,ES2003c
+2158.61,2165.28,B,need a maybe a kind of prototype in clay . Uh we'll see how that goes . Um,ES2003c
+2165.05,2165.38,A,Are we going,ES2003c
+2165.28,2165.28,B,.,ES2003c
+2165.38,2168.8,A,to be supplied with the clay is what I want to know . Where is the clay ?,ES2003c
+2169.23,2175.12,B,"So um do I think we've got an idea of where we need to go for the next meeting , would you say ?",ES2003c
+2175.16,2175.53,C,Yeah .,ES2003c
+2175.96,2176.39,A,Mm-hmm .,ES2003c
+2176.44,2179.74,D,"they're going with the fashion thing , like",ES2003c
+2179.41,2179.77,C,The fruit and,ES2003c
+2179.74,2180.06,D,the,ES2003c
+2179.77,2180.24,C,veg,ES2003c
+2180.06,2180.71,D,design,ES2003c
+2180.24,2180.24,C,.,ES2003c
+2180.71,2181.64,D,", spongy",ES2003c
+2181.42,2181.91,C,This one,ES2003c
+2181.64,2182.24,D,rubber,ES2003c
+2181.91,2181.91,C,.,ES2003c
+2182.24,2184.01,D,. Yeah,ES2003c
+2182.34,2182.7,A,Mm,ES2003c
+2182.55,2182.93,B,Yeah,ES2003c
+2182.7,2182.7,A,.,ES2003c
+2182.93,2184.25,B,", I would s",ES2003c
+2184.01,2184.01,D,.,ES2003c
+2184.25,2185.38,B,that would be my,ES2003c
+2185.29,2185.39,A,I,ES2003c
+2185.38,2185.53,B,my,ES2003c
+2185.39,2185.75,A,th,ES2003c
+2185.53,2186.08,B,feeling,ES2003c
+2185.75,2186.24,A,I think,ES2003c
+2186.08,2186.08,B,.,ES2003c
+2186.24,2197.47,A,I would largely want to actually steer clear of the whole sort of fruit and veg thing . Bu but um but the spongy idea I like . I like it a lot .,ES2003c
+2197.87,2197.98,B,We,ES2003c
+2197.88,2198.24,C,Yeah,ES2003c
+2197.98,2198.27,B,seem to,ES2003c
+2198.24,2198.24,C,.,ES2003c
+2198.27,2203.01,B,have quite a general consensus that the idea of the the r rubber could be quite,ES2003c
+2203.11,2203.4,C,Yeah .,ES2003c
+2203.99,2213.12,A,"I having it i having it sort of br bright yellow I think that's quite a good idea , though maybe we could have options for colours as well .",ES2003c
+2214.44,2214.65,C,Yeah .,ES2003c
+2215.85,2219.3,A,and again this has the advantage of being harder to lose,ES2003c
+2219.28,2219.57,C,Sure,ES2003c
+2219.3,2219.3,A,.,ES2003c
+2219.57,2224.67,C,". I mean we are trying to promote a remote control , but we wanna keep the company brand as well , so",ES2003c
+2224.56,2224.89,A,Mm-hmm,ES2003c
+2224.67,2224.67,C,.,ES2003c
+2224.84,2225.32,B,Yeah,ES2003c
+2224.89,2224.89,A,.,ES2003c
+2225.32,2235.37,B,. So we always need to remember that somewhere we're meant to be getting the slogan on . Possibly I'm think I'm not sure but I'm seeing a little bit of space around maybe the joystick area which could,ES2003c
+2235.23,2235.65,A,Mm,ES2003c
+2235.37,2236.99,B,be used,ES2003c
+2235.65,2237.48,A,. Yeah,ES2003c
+2236.99,2237.47,B,. Um .,ES2003c
+2237.48,2243.92,A,. I was like like I said before I I think we should have the R_R_ on the uh on the top function button .,ES2003c
+2245.62,2249.43,B,Okay . And I think that says it all really,ES2003c
+2248.02,2248.85,C,I think so too .,ES2003c
+2249.43,2250.33,B,. Right,ES2003c
+2250.33,2250.78,C,Sa,ES2003c
+2250.33,2251.55,B,. See everybody in a half hour .,ES2003c
+0.04,3.11,B,"That should hopefully do the trick , um .",ES2003d
+16.99,50.15,B,"'Kay . Sorry about the small delay . Falling a little bit behind schedule . And that's uh fifteen twenty five . Okay . So just to try and roughly go over what we agreed in the last one , um we're gonna go for something uh uh how was it ? Uh The new black , I believe . Um",ES2003d
+49.312,49.312,C,.,ES2003d
+50.15,87.21,B,"something that looks good 'cause that seems to be in preference to actual functionality in the end , though we should never avoid functionality , of course . Uh many of our components are gonna be standard , off the shelf , but it seemed like we were gonna require at least an advanced chip and we were still very much for the idea of using an L_C_D_ display . Um other things were we were hoping to use rubber , most likely gonna be double curved , etcetera . Okay . So um due to your hard work , we might as well let the uh two designers go first , and uh show us the prototype",ES2003d
+87.07,87.72,A,Okay,ES2003d
+87.21,87.21,B,.,ES2003d
+87.72,88.44,A,", it's a",ES2003d
+89.22,91.65,B,"Quite how the best way to do this is , I'm not sure",ES2003d
+91.14,92.38,A,I,ES2003d
+91.65,92.14,B,", but",ES2003d
+92.38,140.69,A,"think if we both step up and uh outline our ideas . Okay . Now do uh doing the prototype gave us a bit more insight into the ergonomics of the design . Um for one thing , it turned out that the only point at which it needs to be articulated for handedness is um is h i is down here for the uh L_E_D_ . As it turned out , the whole thing transfers from the right to left hand fairly well from the point of view of operating the uh function buttons and joystick , though it might be an idea to be able to a adjust the positions for the base of the joystick just a little bit for",ES2003d
+140.65,141.0,B,Okay,ES2003d
+140.69,140.83,A,uh,ES2003d
+141.0,141.0,B,.,ES2003d
+142.41,180.25,A,"ju just a thought . You could simply have a slightly ovoid shaped joystick that could then just be turn uh twisted round , so that the uh sticky uh so that the bit that sticks out a bit more is on one side or the other . But as you as you see with the uh with holding it in the left hand , the L_ uh the L_C_D_ is nowhere useful , so that would need to be articulated uh if we're going to retain ergonomic design . Um now I I got your note about uh keeping the cost down .",ES2003d
+180.46,181.79,B,I'm afraid yeah,ES2003d
+181.26,181.81,A,Yeah,ES2003d
+181.79,181.93,B,. We'll,ES2003d
+181.81,181.81,A,.,ES2003d
+181.93,183.8,B,"go into that a bit more , but please go on .",ES2003d
+184.79,245.55,A,"this design could be done with um with uh plastic casing . Though I would recommend around the grip part here in the middle , having maybe just a rubber grip over that which would allow for a slightly more sort of bio-morphic form , and a bit more ergonomic as well . As for the um as for the single curve , um well this edge and this edge , like I say it would be nice to have some curvature to it , but it's not absolutely necessary . Really the curve that's most needed is the underside so that the jo so that the joystick rests over the the edge of the hand like this . Um and you have the uh transmitter here and a wee speaker for the uh for the uh for the uh fi uh for the remote control finder . So . Any further comments ?",ES2003d
+245.79,255.97,D,"Um obviously it's gonna be bulkier than how it looks , because it's gonna be flat on one side , so the L_C_D_ will be s sticking down like this , won't it",ES2003d
+254.84,256.41,A,Mm-hmm . Yeah,ES2003d
+255.97,256.59,D,? 'Cause it,ES2003d
+256.41,256.41,A,.,ES2003d
+256.59,259.1,D,you can't get it curved . Uh,ES2003d
+258.66,259.88,A,"Yeah , I mean the",ES2003d
+259.1,260.41,D,because of costs,ES2003d
+259.88,260.6,A,uh,ES2003d
+260.41,260.66,D,. And it's,ES2003d
+260.6,260.99,A,Yeah,ES2003d
+260.66,261.1,D,plastic,ES2003d
+260.99,260.99,A,.,ES2003d
+261.1,264.38,D,"as well , so it won't be as comfortable on the hand .",ES2003d
+264.82,265.24,B,Mm,ES2003d
+264.93,265.36,A,Yeah . I mean,ES2003d
+265.24,265.24,B,.,ES2003d
+265.36,293.37,A,"with the with the rubber design it could i you know it could pretty much mould very much to the to the user's hand . One nice wee feature if we could if we could still do the rubber , I though of was to have the uh rubber extend beyond the end of the uh of the rigid substructure . So it has a wee sort of tail that you just drape over your wrist so it stays in position nicely . Mm . Lovely . Um .",ES2003d
+295.23,296.5,D,"Yeah , .",ES2003d
+298.06,300.11,B,"Okay , yeah . Great",ES2003d
+299.4,299.97,C,Right .,ES2003d
+300.11,301.17,B,. Um,ES2003d
+301.16,301.41,C,Yeah,ES2003d
+301.17,301.17,B,.,ES2003d
+301.41,304.43,C,I've got a if you load up my evaluation,ES2003d
+304.2,306.68,B,"Yeah , okay",ES2003d
+304.43,304.94,C,document .,ES2003d
+305.27,305.62,A,Okay .,ES2003d
+306.68,307.7,B,. Excellent work .,ES2003d
+308.07,308.23,C,Mm .,ES2003d
+312.88,314.47,B,Um .,ES2003d
+322.12,322.8,C,Uh evaluation .,ES2003d
+329.94,403.48,C,"Basic point uh have a list of criteria that we need to rate the prototype by . Um then we will it's a seven s um seven seven step kinda evaluation process . So um not seven steps , seven scale . So after we've finished doing all the ratings for each criteria , we average that and that will give us some type of uh confidence in our prototype . And uh the criteria based on Real Reactions' kinda goals and policies , marketing strategies , and also those I put together from the user requirements phase . 'Kay . Um if you flip the So , those are the criteria . And uh perhaps I could have put 'em a bit better , but you notice a few things that we've totally abandoned , which means that uh the product will score very badly on some of those points . Put it mildly . So we have um true ? One , t",ES2003d
+408.59,438.07,C,"Seven , eight , oh . Fourth . Okay , so we have to go through each point . If we imagine it's actually straight , and just give it a a score . So um how well would you say the prototype is uh how well have we realised the dream of being able to stop remotes from from being lost , or to be able to find them once they are lost . I mean , uh is the homing thing still the locator , is that still",ES2003d
+437.83,439.44,A,"Yeah , that's still part of the design .",ES2003d
+439.6,441.3,C,"Sure . And Adam , we can keep that in ?",ES2003d
+441.76,443.28,B,"Yeah , I believe so . So",ES2003d
+443.08,443.39,C,Okay,ES2003d
+443.28,444.17,B,I mean,ES2003d
+443.39,443.39,C,.,ES2003d
+444.17,449.58,B,"I don't think anybody could actually stop a remote being lost , 'cause that would mean doing something about the human",ES2003d
+449.5,449.94,C,Sure,ES2003d
+449.58,450.09,B,element,ES2003d
+449.94,449.94,C,.,ES2003d
+450.09,451.38,B,", but I'd like",ES2003d
+451.23,451.53,C,T,ES2003d
+451.38,453.88,B,to think that we've done something about finding,ES2003d
+453.73,453.9,A,Mm,ES2003d
+453.88,453.94,B,the,ES2003d
+453.9,453.9,A,.,ES2003d
+453.94,455.14,B,damn thing once we have .,ES2003d
+455.27,455.88,C,Sure,ES2003d
+455.47,455.93,A,Mm . And,ES2003d
+455.88,455.88,C,.,ES2003d
+455.93,459.66,A,making it a bright colour helps with the personally I would have gone for purple .,ES2003d
+459.76,463.71,C,"Mm . Bright colour . So we still have that noise thing , yeah",ES2003d
+463.21,463.64,A,Mm-hmm .,ES2003d
+463.71,469.67,C,"? Os on a scale of one to seven , how would you guys rate it for finding finding it once it's lost ?",ES2003d
+471.74,472.82,A,I'd say number one .,ES2003d
+473.16,473.35,C,Number,ES2003d
+473.2,473.87,D,One,ES2003d
+473.35,474.28,C,one,ES2003d
+473.87,474.09,D,. Yeah .,ES2003d
+474.28,478.55,C,? Okay . Number number one for the first criteria,ES2003d
+478.31,478.74,A,I think,ES2003d
+478.55,478.55,C,.,ES2003d
+478.74,495.07,A,"w if it was just the sounder then th I mean something I've found with uh w w with say tr trying to find uh a cordless phone or a m mobile , you can hear it , but you can't quite pin it dow pin down where it is",ES2003d
+495.0,495.36,C,Yeah,ES2003d
+495.07,495.07,A,.,ES2003d
+495.36,497.81,C,you can tell what room the mobile is,ES2003d
+497.78,498.48,D,What about,ES2003d
+498.05,498.33,A,Bu,ES2003d
+498.48,510.86,D,what if the the volume on the T_V_'s turned up massively and uh you just wanna turn down the volume can't find remote . Suppose you have to go to the T_V_ and,ES2003d
+510.77,511.25,C,Yeah,ES2003d
+510.86,512.2,D,do it manually,ES2003d
+511.25,511.25,C,.,ES2003d
+511.38,511.84,A,Yeah .,ES2003d
+512.2,512.41,D,. Mm,ES2003d
+512.25,513.72,B,Mm,ES2003d
+512.41,512.41,D,.,ES2003d
+512.9,513.24,C,Yeah .,ES2003d
+513.66,513.82,D,Like,ES2003d
+513.72,514.08,B,. Um,ES2003d
+513.82,515.79,D,y you wouldn't hear the speaker,ES2003d
+515.78,516.03,C,Mm-hmm,ES2003d
+515.79,515.79,D,.,ES2003d
+516.03,516.03,C,.,ES2003d
+516.29,519.29,B,just before we go through all of the steps,ES2003d
+518.67,519.36,C,You wanna say something,ES2003d
+519.29,520.07,B,here,ES2003d
+519.36,519.36,C,?,ES2003d
+520.07,530.89,B,", um well what we'll do is um if we can look at the criteria you're gonna evaluate , and then we'll come back to the product evaluation if that's alright",ES2003d
+530.29,530.73,C,That's fine .,ES2003d
+530.89,531.58,B,". Yeah , is that",ES2003d
+531.94,532.91,C,Oh that's that's fine .,ES2003d
+533.43,546.93,B,Um so is there anything here that you that you wanted to cover as in the criteria that you've covered ? And then we'll come back pretty much promptly to this,ES2003d
+546.9,547.0,C,What,ES2003d
+546.93,546.93,B,.,ES2003d
+547.0,548.25,C,do you mean cr is there anything I,ES2003d
+548.23,548.43,B,I,ES2003d
+548.25,548.57,C,wanna,ES2003d
+548.43,554.91,B,is there any of these criteria that need any explaining ? Or is there anything that yous thought tha really would stand out compared to the others ?,ES2003d
+555.15,588.63,C,"Um , a few . Something I neglected from my initial research is that Real Reactions has a a goal strategy that all of the products be inspired by material fashion , and clothing fashion . That is why fruit and veg being popular in the home and in clothing was important and they want all their products to be somehow inspired by current trends in fashion . So they say we put the fashion in electronics , well they really mean it they they're very big on fashion , so .",ES2003d
+588.67,589.13,B,Okay .,ES2003d
+590.28,606.53,C,"That's this bit right here . And uh this bit is this one easy to use for visitors or for anybody ? I guess it's just the same as saying easy to use interface , so it's kinda condensed into one . And we can come back to it , you said . So .",ES2003d
+606.55,699.4,B,"Okay . No and which we will do very very shortly . Um . Okay . Slight problem we had was that we have an amazing four Euros over budget for what we were hoping to do . Um most of it stems from the use of the L_C_D_ which I think in the end accounted for about half of our expenditure because of course we required a chip as well . Um the only way to get this down was either to ditch the a L_C_D_ , at which point we've removed a large part of how we were gonna interface , require more buttons , etcetera . Or what we did was that we um we as in I as I was quickly going over it was altering the actual structure . Um changing it to plastic and a solid unit with a single curve design would allow us to come back into the um proposed costs and we're just scraping it in , we've got point two of a Euro left over there . So we're just managing it really . Even then as well , um there was no criteria technically defined for a joystick so I've used what I think's appropriate . With any luck that won't mean that we've incurred more cost than we can actually afford to . It blows a lot of our really good ideas kind of slightly to one side , for example the possibility of having a U_S_B_ connection is definitely not viable now . Um .",ES2003d
+700.45,701.37,C,Different languages ?,ES2003d
+702.23,706.97,B,"That should still be viable . We've got an advanced chip , we've got the use of the L_C_D_ . So being able",ES2003d
+706.77,706.93,C,Yeah .,ES2003d
+706.97,746.24,B,"to communicate in multiple languages is still very much a possibility . Um but what's something we need to decide on is how we're gonna go from here . We do need to try and come up with an idea which could be continued with other people if need be . Um . We can I can bring the excel up sheet up and uh show you if you wish um . I really think as m much as it pains me is that we might have to go with plastic and some kind of solid design , possibly meaning that the L_C_D_ wouldn't be in this perfect place . It might be s stuck like slightly between what would be good for left handed and what would be good for a right handed person .",ES2003d
+747.22,757.95,A,Mm-hmm I suppose o one thing that could be done is h is have it um circular and have it s so that the uh the pink actually goes a bit over the pinkie finger,ES2003d
+757.49,757.92,B,Okay .,ES2003d
+757.95,758.99,A,. Mm,ES2003d
+758.48,758.76,C,Mm .,ES2003d
+758.99,760.16,A,. So that uh th,ES2003d
+760.76,764.24,B,"It very much is about making concessions , unfortunately . Um",ES2003d
+764.21,765.12,A,Mm,ES2003d
+764.24,764.24,B,.,ES2003d
+765.12,765.12,A,.,ES2003d
+765.41,772.83,C,Do you have any data on how much um different prints cost ? I mean can you get the entire thing printed with a design um ?,ES2003d
+774.05,777.63,B,"Um b b b da is you mean on the plastic , or",ES2003d
+777.2,777.2,C,.,ES2003d
+777.63,782.71,B,? Let's have a look . You now have as much information as I do,ES2003d
+781.72,782.22,C,"Yeah , yeah .",ES2003d
+782.71,854.97,B,". Um . So as you can see here , for example , the battery really not very little choice in that one . We've gone for one of the cheaper options as well . Unfortunately we require the advanced chip if we're gonna do what we're needing to . I've said single curved . We really do need it to be that way for the ergonomics of it . Um plastic for some reason incurs no cost , which I've had to very much make advantage of , despite the fact that rubber's only got a value of two Euros per unit . Problem comes here as you can see in the interface . Um if I've read this thing correctly , then we can save point five of a Euro here in that it's not per push button . That might make sense , because then a numeric keypad would come in at um what , four point five Euros , which is an awful lot , so that could well be wrong . Even if we save point five there , it would just mean that we're most likely placing it in actually just gaining a colour for the unit , which has had to be put to one side . As you can see , the use of an L_C_ display um advanced chip and what would determine the scroll wheel here as well because it's an integrated scroll scroll wheel push button that wasn't quite what I think they had in mind with a joystick .",ES2003d
+855.37,862.79,C,Why would why would that be more expensive than an individual push button and scroll wheel together ? That's quite significantly expensive .,ES2003d
+864.55,868.81,B,I that's something you'll have to take up with the bean counters,ES2003d
+868.393,868.393,C,.,ES2003d
+868.81,869.63,B,. Um,ES2003d
+869.83,871.02,A,Mm . yeah .,ES2003d
+871.2,875.03,B,as you can see I mean that's taken up well over half of the price,ES2003d
+874.16,874.52,C,Yeah .,ES2003d
+875.03,899.42,B,". So um I'm very much open to suggestions of where we go , but because we need to shed what was four Euros off of the um the price of for what we really desired , this one comes in under price as you can see , but this was the one that sacrificed the material for the case and for the actual case design .",ES2003d
+899.62,907.06,C,We don't even have uh speakers here . The like uh we uh what about speakers and transmitters and stuff like that ? Have we factored that in,ES2003d
+907.05,907.49,D,Mm,ES2003d
+907.06,907.06,C,?,ES2003d
+907.49,907.49,D,.,ES2003d
+908.73,910.87,B,"Uh no , we haven't",ES2003d
+910.81,911.47,C,Transmitter,ES2003d
+910.87,912.15,B,", not",ES2003d
+911.47,919.01,C,", receiver , speakers . Plus the extra device itself that's gonna be on a T_V_ . Is that gonna be a button , or",ES2003d
+919.73,922.7,B,That'll it literally would just be a button,ES2003d
+921.62,921.99,C,Yeah .,ES2003d
+922.65,923.53,D,That's,ES2003d
+922.7,923.81,B,. We might have to,ES2003d
+923.53,925.28,D,too expensive isn't it ?,ES2003d
+926.21,931.73,B,"It looks like almost nothing Mm . Oh good call , I missed that .",ES2003d
+932.66,935.29,C,"I I mean it's not on here , but um",ES2003d
+935.2,935.53,B,that's,ES2003d
+935.29,935.29,C,.,ES2003d
+935.53,937.32,B,a very valid point .,ES2003d
+938.37,943.23,C,Did they s do we have to use an advanced chip for the L_C_D_,ES2003d
+942.2,942.62,D,Yeah .,ES2003d
+943.23,945.77,C,? Okay . Well that's,ES2003d
+945.63,945.8,B,So,ES2003d
+945.77,946.0,C,yeah,ES2003d
+945.8,946.18,B,if we're gonna,ES2003d
+946.0,946.0,C,.,ES2003d
+946.18,948.55,B,"go with the L_C_ display , then that's",ES2003d
+949.67,952.45,C,What's a hand dyna dynamo ? You have to wind it up ?,ES2003d
+952.93,959.96,B,"I believe so , yeah . That would probably not be in keeping with the um",ES2003d
+959.37,960.97,C,Technology,ES2003d
+959.96,960.58,B,the fashion,ES2003d
+960.08,960.71,D,Fashion,ES2003d
+960.58,961.07,B,statement,ES2003d
+960.71,960.71,D,.,ES2003d
+960.97,961.96,C,. Yeah,ES2003d
+961.07,962.01,B,"and such , yeah",ES2003d
+961.96,961.96,C,.,ES2003d
+962.01,962.01,B,.,ES2003d
+963.92,964.2,C,Okay,ES2003d
+963.97,964.42,D,So basically,ES2003d
+964.2,964.2,C,.,ES2003d
+964.42,967.8,D,the only new thing is the L_C_D_ on the,ES2003d
+967.8,968.0,B,Being,ES2003d
+967.8,968.14,D,remote,ES2003d
+968.0,968.52,B,manipulated,ES2003d
+968.14,968.71,D,now,ES2003d
+968.52,968.73,B,by the,ES2003d
+968.71,968.71,D,.,ES2003d
+968.73,969.76,B,"joystick , yeah .",ES2003d
+969.84,970.77,D,"Oh , and joystick , yeah .",ES2003d
+971.71,977.48,B,Which I'm defining as scroll wheel . Um .,ES2003d
+978.12,987.02,C,"And we couldn't replace the joystick , right ? Because we would need four extra buttons to replace it , up down left and right , and that would be more expensive than a but is a scroll wheel",ES2003d
+986.78,987.25,A,Mm,ES2003d
+987.02,987.41,C,not just,ES2003d
+987.25,987.25,A,.,ES2003d
+987.41,988.89,C,back and forward ?,ES2003d
+989.49,995.74,B,"Yeah it's just because there was no actual definition for what a joystick might be , that that's what I've labelled it for",ES2003d
+995.54,995.85,D,So,ES2003d
+995.74,997.74,B,the purposes of this evaluation .,ES2003d
+998.47,1001.15,D,The L_C_D_ basically is the big selling point of,ES2003d
+1001.46,1003.34,B,If we remove the L_C_ display,ES2003d
+1002.62,1003.47,D,the remote,ES2003d
+1003.34,1003.51,B,", we",ES2003d
+1003.47,1003.47,D,.,ES2003d
+1003.51,1009.98,B,could save ourselves a fair amount . Which you could,ES2003d
+1009.86,1011.65,D,"But that's what makes it uh original though , isn't",ES2003d
+1011.54,1012.71,A,Mm,ES2003d
+1011.65,1012.18,D,it,ES2003d
+1011.86,1012.29,C,Yeah,ES2003d
+1012.18,1012.18,D,?,ES2003d
+1012.29,1012.29,C,.,ES2003d
+1012.71,1022.62,A,. I think if we remove the the L_C_ display then there was absolutely no point to any of these meetings and we just we could just put our branding on any other remote control,ES2003d
+1022.4,1023.22,C,Yeah,ES2003d
+1022.62,1022.62,A,.,ES2003d
+1023.22,1025.39,C,. Yeah . Um . Uh k,ES2003d
+1027.2,1036.88,B,It's a shame . We should possibly have If we could've increased the price we could've manufactured that and we could've got something far closer to what we were,ES2003d
+1036.47,1037.69,C,Does this,ES2003d
+1036.88,1037.57,B,hoping to .,ES2003d
+1037.69,1050.52,C,"does this bear in mind that I mean it's a bit ridiculous that they're gonna charge us what is it , like this much money for three million if we're gonna buy three million components , you know .",ES2003d
+1050.59,1053.0,B,"Again , you'll have to argue with the accountants on that",ES2003d
+1052.87,1053.01,C,Mm,ES2003d
+1053.0,1053.3,B,one,ES2003d
+1053.01,1053.01,C,.,ES2003d
+1053.3,1058.19,B,". Um but for the purposes of this meeting , I'm we're gonna have to stick with these figures .",ES2003d
+1059.07,1059.59,C,'Kay .,ES2003d
+1061.09,1068.78,B,"So , I would say that it would seem like the general opinion is we're gonna keep the L_C_ display 'cause it's about what really separates us",ES2003d
+1068.69,1068.82,C,I,ES2003d
+1068.78,1069.23,B,", despite",ES2003d
+1068.82,1069.26,C,think so,ES2003d
+1069.23,1069.34,B,the,ES2003d
+1069.26,1069.26,C,.,ES2003d
+1069.34,1083.46,B,"cost it's gonna incur . Um are people maybe not happy with , but are willing to go ahead with this in going for a plastic solid case , to keep the L_C_D_ ?",ES2003d
+1084.38,1094.4,A,"Mm-hmm . Um yeah I mean one thing , I mean ho uh how much extra would it be to to keep I mean keep the um the articulation ?",ES2003d
+1095.29,1098.14,B,It's hard to tell . Um I would say,ES2003d
+1097.9,1098.2,A,This is,ES2003d
+1098.14,1099.82,B,that,ES2003d
+1098.2,1099.32,A,what I'm wondering .,ES2003d
+1099.82,1105.56,B,"you're at least gonna take double curved , and even then I'm not quite sure if that's incorporating the idea of articulation .",ES2003d
+1105.65,1106.03,C,Yeah,ES2003d
+1106.02,1106.16,A,Oh,ES2003d
+1106.03,1106.03,C,.,ES2003d
+1106.16,1110.83,A,"no , I think I I it d that it needn't require it to be double",ES2003d
+1110.68,1110.93,D,It can,ES2003d
+1110.83,1111.64,A,curved,ES2003d
+1110.93,1111.85,D,"be s yeah , it can still",ES2003d
+1111.64,1111.64,A,.,ES2003d
+1111.85,1112.88,D,"be single curved , but",ES2003d
+1112.98,1113.79,A,It's uh it's,ES2003d
+1113.58,1114.57,D,You just,ES2003d
+1113.76,1114.08,B,Single,ES2003d
+1113.79,1114.44,A,just it's,ES2003d
+1114.08,1114.53,B,curved with,ES2003d
+1114.44,1114.63,A,just,ES2003d
+1114.53,1115.49,B,articulation,ES2003d
+1114.57,1114.57,D,.,ES2003d
+1114.63,1115.51,A,it's,ES2003d
+1115.49,1115.49,B,?,ES2003d
+1115.51,1121.07,A,just that the case would come in t would be made in two parts and then joined together with an articulation .,ES2003d
+1121.42,1133.56,C,Could we could we not get rid of the curvy the curvous the curvaceousness and focus on the menu being the best interface ? 'Cause like we do we have re restrictions on software,ES2003d
+1133.28,1133.63,D,That's what,ES2003d
+1133.56,1133.56,C,?,ES2003d
+1133.63,1135.12,D,we need for the joystick I think though .,ES2003d
+1135.51,1136.01,C,Oh but,ES2003d
+1135.91,1136.39,A,Mm,ES2003d
+1136.01,1136.46,C,there has to,ES2003d
+1136.39,1136.55,A,. Yeah,ES2003d
+1136.46,1136.87,C,be,ES2003d
+1136.55,1149.49,A,", I mean and I mean the uh I mean if you look uh if you look closer at the uh at the prototype here , the lines here along the grip are actually quite straight . Um I mean yeah",ES2003d
+1149.48,1149.66,B,But,ES2003d
+1149.49,1151.08,A,", on the",ES2003d
+1149.66,1151.23,B,the curves all o over,ES2003d
+1151.08,1151.87,A,on,ES2003d
+1151.23,1151.88,B,"hand , is it",ES2003d
+1151.87,1152.09,A,the,ES2003d
+1151.88,1151.88,B,?,ES2003d
+1152.09,1162.48,A,L_C_D_ I mean although we've done it with a curve it could just as easily be done um without curves . The curve that's really needed is up here,ES2003d
+1162.33,1162.8,C,joystick,ES2003d
+1162.48,1162.83,A,", to put",ES2003d
+1162.8,1162.8,C,.,ES2003d
+1162.83,1169.21,A,uh to keep the joystick in a good ergonomic position for it to have it rest on the top of the hand .,ES2003d
+1169.56,1172.19,C,"Okay . Sure . Okay , my bad .",ES2003d
+1174.06,1184.21,B,"We wouldn't actually save a lot by reducing it anyway , so I mean for the purposes of this meeting maybe we can state that single curve still allows articulation",ES2003d
+1183.31,1183.63,A,Mm .,ES2003d
+1184.21,1189.67,B,. Um unless we hear otherwise we could go ahead with that proposal .,ES2003d
+1190.42,1195.95,C,So I think the product is not gonna perform so well for my criteria .,ES2003d
+1196.9,1206.41,B,"Which is what we can get onto now . As long as so are we gonna say w we have to keep an eye on the time as well , but we're gonna say um",ES2003d
+1206.05,1206.44,C,"Oh , wait",ES2003d
+1206.41,1206.77,B,single,ES2003d
+1206.44,1206.74,C,a minute .,ES2003d
+1206.77,1208.63,B,curved design,ES2003d
+1208.02,1213.63,C,Sample speaker ? What is a sample speaker ? Is that somewhat similar to what we want ?,ES2003d
+1214.11,1214.89,B,It could well be,ES2003d
+1214.72,1215.0,A,Mm,ES2003d
+1214.89,1215.04,B,", but",ES2003d
+1215.0,1215.52,A,no,ES2003d
+1215.04,1215.55,B,at a cost,ES2003d
+1215.52,1215.77,A,that's,ES2003d
+1215.55,1216.0,B,of,ES2003d
+1215.77,1217.11,A,that voice response,ES2003d
+1216.98,1217.23,D,Costs,ES2003d
+1217.11,1217.45,A,thing,ES2003d
+1217.23,1217.65,D,four,ES2003d
+1217.45,1217.81,A,that we got,ES2003d
+1217.65,1217.65,D,.,ES2003d
+1217.81,1219.54,A,the email about,ES2003d
+1218.47,1218.71,C,Yeah .,ES2003d
+1219.54,1221.29,A,. But I thought it was just completely pointless .,ES2003d
+1221.92,1223.4,C,You got a email about voice response ?,ES2003d
+1223.87,1224.56,A,Yeah .,ES2003d
+1224.65,1225.52,C,"I did not , so .",ES2003d
+1225.61,1235.42,A,"Alright . B i basically it was saying that our labs had come up with a chip that you could , you know , say hello to , and it would say hello back in a friendly female voice .",ES2003d
+1236.78,1238.44,B,"Okay , yeah we'll definitely won't go with that one .",ES2003d
+1239.06,1241.43,C,"We won't go with that one , did you say ? I mean",ES2003d
+1241.43,1241.53,B,Yeah,ES2003d
+1241.43,1241.73,C,I,ES2003d
+1241.53,1241.74,B,", that's",ES2003d
+1241.73,1242.16,C,we,ES2003d
+1241.74,1243.1,B,"voice recognition , so .",ES2003d
+1243.22,1244.57,C,"Okay , okay .",ES2003d
+1246.29,1250.77,B,"Um . So , okay yeah , battery definitely ,",ES2003d
+1250.86,1254.85,C,So it looks like we're gonna get rid of the whole loca locator thing .,ES2003d
+1254.96,1255.14,B,It,ES2003d
+1254.98,1255.24,D,Yeah,ES2003d
+1255.14,1255.46,B,looks,ES2003d
+1255.24,1255.24,D,.,ES2003d
+1255.46,1261.36,B,like it unless we can manage to put it in under point two Euros,ES2003d
+1260.1,1260.54,C,Okay .,ES2003d
+1261.36,1262.84,B,", um .",ES2003d
+1263.8,1264.29,C,Okay .,ES2003d
+1264.42,1264.89,B,Maybe even,ES2003d
+1264.81,1265.12,A,Mm-hmm,ES2003d
+1264.89,1265.36,B,slight,ES2003d
+1265.12,1265.12,A,.,ES2003d
+1265.36,1270.95,B,"well oh yeah , pretty much point two Euros , I'd say . So we'll leave that one for now . we'll",ES2003d
+1270.85,1270.97,D,Are we,ES2003d
+1270.95,1271.13,B,just,ES2003d
+1270.97,1271.16,D,going,ES2003d
+1271.13,1271.23,B,have,ES2003d
+1271.16,1273.11,D,for a special colour at all ?,ES2003d
+1273.77,1289.14,B,It's uh a case of um I'm uh slightly unsure . One point five of a Euro for one push button doesn't sound quite right . So maybe it's a case of a push button is maybe one or more . Um,ES2003d
+1288.51,1289.19,A,Mm,ES2003d
+1289.14,1289.14,B,.,ES2003d
+1289.19,1289.19,A,.,ES2003d
+1289.48,1290.79,D,Well I was,ES2003d
+1290.28,1290.92,B,At which point,ES2003d
+1290.79,1290.95,D,for,ES2003d
+1290.92,1291.03,B,if,ES2003d
+1290.95,1295.49,D,a case . Or had you already incorporated that ?,ES2003d
+1295.66,1297.34,C,"Oh , special colour for the case .",ES2003d
+1297.96,1307.03,B,Well you got point five there . It's literally a case of whether or not this is correct . I'm not quite sure if they're I don't think they mean point five Euros per button .,ES2003d
+1307.18,1307.43,C,Mm-hmm,ES2003d
+1307.19,1307.59,A,Okay,ES2003d
+1307.43,1307.43,C,.,ES2003d
+1307.59,1308.84,A,", well l let's",ES2003d
+1308.57,1308.88,B,So,ES2003d
+1308.84,1315.22,A,say that and then we can have our special coloured case and then we at least have make it a little harder to lose,ES2003d
+1314.59,1315.04,B,There we go .,ES2003d
+1315.22,1321.2,A,. Because most m most remotes are a fairly dingy colour that gets camouflaged under any pile of crap in a,ES2003d
+1321.16,1321.37,C,W,ES2003d
+1321.2,1321.53,A,living,ES2003d
+1321.37,1321.64,C,what's,ES2003d
+1321.53,1321.84,A,room,ES2003d
+1321.64,1322.1,C,the default,ES2003d
+1321.84,1321.84,A,.,ES2003d
+1322.1,1323.14,C,colour ? White or black ?,ES2003d
+1324.48,1326.14,B,Black's probably the normal colour you'd say,ES2003d
+1326.14,1326.33,A,Or,ES2003d
+1326.14,1327.98,B,", yeah",ES2003d
+1326.33,1326.88,A,grey,ES2003d
+1326.72,1327.02,C,Right,ES2003d
+1326.88,1326.88,A,.,ES2003d
+1327.02,1327.02,C,.,ES2003d
+1327.98,1328.66,B,. I quite like that,ES2003d
+1328.58,1329.22,A,Yellow,ES2003d
+1328.66,1329.22,B,colour that you're,ES2003d
+1329.22,1329.22,A,.,ES2003d
+1329.22,1336.29,B,"fetching there , it's uh definitely for make it glow in the dark even better",ES2003d
+1334.34,1334.54,C,Yeah .,ES2003d
+1336.29,1339.49,B,. So will we go with that then ?,ES2003d
+1341.33,1341.97,A,Okay .,ES2003d
+1342.16,1342.37,C,Yeah .,ES2003d
+1342.4,1345.28,B,It's not and we can see we'll come back to,ES2003d
+1345.25,1345.5,C,Sure,ES2003d
+1345.28,1346.21,B,uh,ES2003d
+1345.5,1345.5,C,.,ES2003d
+1346.21,1349.11,B,your evaluation which you're probably now going to pan us but,ES2003d
+1349.01,1350.33,C,Okay,ES2003d
+1349.11,1349.71,B,there we go .,ES2003d
+1350.33,1353.9,C,. Okay . So uh,ES2003d
+1353.81,1360.49,B,"Just to give you an idea , um you want to go maybe a bit quickly as well , I'm not sure how much time . We've not hit the five minute mark",ES2003d
+1360.48,1360.66,C,Right,ES2003d
+1360.49,1360.8,B,warning,ES2003d
+1360.66,1361.18,C,okay,ES2003d
+1360.8,1361.23,B,"yet , but",ES2003d
+1361.18,1361.52,C,. Okay,ES2003d
+1361.23,1361.23,B,.,ES2003d
+1361.52,1361.52,C,.,ES2003d
+1361.82,1363.42,D,Think it's ten minutes left .,ES2003d
+1363.51,1363.71,B,Ten .,ES2003d
+1363.92,1371.63,C,'Kay . Ability to stop remotes from being lost or to find them once they are lost . Um . Okay,ES2003d
+1370.49,1371.31,D,Special colour .,ES2003d
+1371.63,1372.34,C,. Special colour .,ES2003d
+1372.87,1374.03,B,Mm,ES2003d
+1373.7,1375.76,C,Uh,ES2003d
+1374.03,1376.15,B,mm four,ES2003d
+1375.76,1376.33,C,uh four,ES2003d
+1376.15,1376.9,B,? Three,ES2003d
+1376.33,1376.33,C,.,ES2003d
+1376.9,1377.71,B,? Mm,ES2003d
+1377.65,1377.94,C,Three,ES2003d
+1377.71,1377.71,B,.,ES2003d
+1377.94,1378.05,C,if,ES2003d
+1377.97,1379.09,A,Three,ES2003d
+1378.05,1379.18,C,we're being generous,ES2003d
+1379.09,1379.23,A,. I,ES2003d
+1379.18,1379.29,C,", I",ES2003d
+1379.23,1379.43,A,think,ES2003d
+1379.29,1379.55,C,feel,ES2003d
+1379.43,1379.66,A,we can,ES2003d
+1379.55,1379.55,C,.,ES2003d
+1379.66,1380.53,A,do three,ES2003d
+1380.5,1380.91,D,Three,ES2003d
+1380.53,1380.53,A,.,ES2003d
+1380.91,1380.91,D,.,ES2003d
+1380.92,1381.7,C,Think we're being generous,ES2003d
+1381.54,1382.03,A,Th,ES2003d
+1381.7,1382.24,C,here with three,ES2003d
+1382.03,1382.61,A,the special,ES2003d
+1382.24,1382.24,C,.,ES2003d
+1382.61,1386.37,A,colour doesn't would I think make a difference . It makes it stand out from you know it's,ES2003d
+1386.36,1386.55,C,Mm,ES2003d
+1386.37,1386.65,A,lost,ES2003d
+1386.55,1386.55,C,.,ES2003d
+1386.65,1390.71,A,"in a big pile of crap , it stands out from the rest of the crap",ES2003d
+1389.61,1391.1,C,Yeah,ES2003d
+1390.71,1390.71,A,.,ES2003d
+1390.84,1391.25,B,Okay,ES2003d
+1391.1,1392.02,C,. Okay,ES2003d
+1391.25,1391.25,B,.,ES2003d
+1392.02,1395.2,C,". Reduce the number of unused buttons . We're down to t two buttons , is it ?",ES2003d
+1395.62,1395.79,B,Two,ES2003d
+1395.64,1395.8,A,Two,ES2003d
+1395.79,1396.43,B,buttons,ES2003d
+1395.8,1397.09,A,buttons and a joystick,ES2003d
+1396.43,1396.43,B,.,ES2003d
+1396.91,1397.16,C,Okay,ES2003d
+1397.09,1397.09,A,.,ES2003d
+1397.16,1398.69,C,", so that's a one . You know , where",ES2003d
+1398.6,1399.13,A,Totally,ES2003d
+1398.69,1399.02,C,that's,ES2003d
+1398.94,1399.73,B,Yeah,ES2003d
+1399.13,1399.13,A,.,ES2003d
+1399.73,1401.82,B,. I'd say we're doing well there,ES2003d
+1401.0,1402.78,C,"Okay , that was good",ES2003d
+1401.82,1401.82,B,.,ES2003d
+1402.78,1415.52,C,". Easy to use interface , buttons menu , menus that's yeah that's good . 'Kay that's we're not doing so badly . Um easy to use oh okay , let's forget that one",ES2003d
+1414.84,1415.39,B,Mm-hmm .,ES2003d
+1415.52,1417.15,C,. Fancy looking .,ES2003d
+1418.65,1418.91,B,As he,ES2003d
+1418.77,1419.12,A,It,ES2003d
+1418.91,1419.34,B,models,ES2003d
+1419.12,1419.63,A,doesn't,ES2003d
+1419.34,1419.67,B,the,ES2003d
+1419.63,1420.94,A,get much fancier,ES2003d
+1420.37,1421.13,C,Sure . And,ES2003d
+1420.94,1420.94,A,.,ES2003d
+1421.13,1428.41,C,we could do whatever we like with the L_ L_C_D_ . Yeah let's just assume it's a good L_C_D_ display . Maybe I was panicking for no,ES2003d
+1428.4,1428.47,D,Are,ES2003d
+1428.41,1428.85,C,reason,ES2003d
+1428.47,1429.17,D,we going one,ES2003d
+1428.85,1428.85,C,.,ES2003d
+1429.17,1435.05,D,"on ? I'd say we go two , 'cause like f the fanciest would be the double curved .",ES2003d
+1436.04,1436.7,C,Yeah,ES2003d
+1436.13,1436.34,D,Wouldn't,ES2003d
+1436.3,1436.68,B,I'd,ES2003d
+1436.34,1436.66,D,it,ES2003d
+1436.47,1436.91,A,Mm,ES2003d
+1436.66,1436.66,D,?,ES2003d
+1436.7,1437.12,C,", w maybe",ES2003d
+1436.91,1436.91,A,.,ES2003d
+1437.12,1437.64,C,you'd be a bit,ES2003d
+1437.6,1438.79,B,Yeah,ES2003d
+1437.64,1439.28,C,too yeah,ES2003d
+1437.88,1439.27,D,With the articulators,ES2003d
+1438.79,1438.79,B,.,ES2003d
+1439.27,1439.27,D,.,ES2003d
+1439.28,1440.11,C,. There we go . Yeah,ES2003d
+1440.03,1440.21,D,With,ES2003d
+1440.11,1440.39,C,", that's",ES2003d
+1440.21,1440.52,D,bells,ES2003d
+1440.39,1440.46,C,m,ES2003d
+1440.52,1441.67,D,on it .,ES2003d
+1441.99,1453.74,C,"that's that's better too . More accurate numbers . Technologically innovative . Well , we're getting rid of the locator thing which",ES2003d
+1452.52,1453.45,B,Which is a shame .,ES2003d
+1453.74,1456.03,C,which yeah,ES2003d
+1454.32,1455.86,A,Mm . I'd give,ES2003d
+1455.7,1456.04,D,No need,ES2003d
+1455.86,1456.5,A,it a three,ES2003d
+1456.04,1457.12,D,for teletext,ES2003d
+1456.5,1457.47,A,for this,ES2003d
+1457.12,1457.12,D,.,ES2003d
+1457.47,1458.97,A,for that,ES2003d
+1458.896,1458.896,C,.,ES2003d
+1458.97,1460.38,A,. Yeah . I mean,ES2003d
+1460.09,1460.32,C,'Kay .,ES2003d
+1460.38,1471.8,A,"the menus thing is something you don't normally see on um on a remote , but you see it in a lot of other places .",ES2003d
+1472.2,1474.25,C,"Yeah , mobile phones",ES2003d
+1474.09,1474.83,B,Mm,ES2003d
+1474.25,1474.93,C,. And y what,ES2003d
+1474.83,1474.83,B,.,ES2003d
+1474.93,1479.43,C,"you're doing is moving the menu from the television to the remote control , so it's",ES2003d
+1479.86,1480.42,A,Mm-hmm .,ES2003d
+1480.61,1483.83,C,You say three ? I might go as far as two on that . Three .,ES2003d
+1484.61,1485.0,A,I'd give,ES2003d
+1484.85,1485.04,B,I'd,ES2003d
+1485.0,1485.06,A,it,ES2003d
+1485.04,1485.12,B,be,ES2003d
+1485.06,1485.62,A,a three,ES2003d
+1485.12,1485.96,B,tempted with,ES2003d
+1485.62,1485.62,A,.,ES2003d
+1485.96,1486.62,B,three,ES2003d
+1486.49,1487.05,C,Three,ES2003d
+1486.62,1487.31,B,", yeah",ES2003d
+1487.05,1487.31,C,. Okay,ES2003d
+1487.31,1487.31,B,.,ES2003d
+1487.31,1490.53,C,. Okay,ES2003d
+1489.97,1490.59,B,We'll get panned,ES2003d
+1490.53,1490.53,C,.,ES2003d
+1490.59,1491.81,B,"on the next one , anyway .",ES2003d
+1492.19,1495.38,C,Materials that people find pleasing . Sponginess,ES2003d
+1494.82,1495.4,B,"Yeah , w",ES2003d
+1495.38,1497.67,C,"is what they really would have wanted , apparently",ES2003d
+1497.33,1497.88,B,It is,ES2003d
+1497.67,1497.67,C,.,ES2003d
+1497.88,1507.29,B,", yeah . Don't blame them . Um because of the way that we've minimalised the number of buttons and such",ES2003d
+1505.56,1505.78,C,Yeah .,ES2003d
+1507.29,1512.67,B,". Plastic , it sucks . But it's no worse than any of the other pl remote controls we have",ES2003d
+1512.31,1512.99,C,That's true,ES2003d
+1512.67,1512.67,B,.,ES2003d
+1512.99,1514.23,C,. It's not a step backwards .,ES2003d
+1515.66,1515.91,A,Mm-hmm .,ES2003d
+1516.03,1517.21,D,five ? Six,ES2003d
+1516.91,1517.28,A,I'd s I,ES2003d
+1517.21,1517.21,D,?,ES2003d
+1517.28,1518.88,A,I'd give it a six,ES2003d
+1518.39,1519.04,D,Six,ES2003d
+1518.88,1519.13,A,", to be",ES2003d
+1519.04,1519.04,D,", .",ES2003d
+1519.13,1519.4,A,honest .,ES2003d
+1520.28,1532.74,C,"Yeah , okay let's give it a six . Okay , that's totally thrown everything off balance . Inspired by the latest interior and clothing fashion . W we could . What colour were we",ES2003d
+1532.74,1532.88,D,Put,ES2003d
+1532.74,1532.88,C,gonna,ES2003d
+1532.88,1532.96,D,a,ES2003d
+1532.88,1533.13,C,make,ES2003d
+1532.96,1533.44,D,leopard,ES2003d
+1533.13,1533.28,C,it ?,ES2003d
+1533.44,1534.24,D,print on,ES2003d
+1533.86,1534.67,A,Well I,ES2003d
+1534.24,1534.52,D,it .,ES2003d
+1534.67,1539.7,A,I I would sa I would say give a s give a selection of colours . Um we,ES2003d
+1539.68,1539.77,C,I,ES2003d
+1539.7,1539.84,A,went,ES2003d
+1539.77,1539.9,C,know,ES2003d
+1539.84,1539.97,A,with,ES2003d
+1539.9,1540.35,C,", but",ES2003d
+1539.97,1546.56,A,"yellow we went with yellow for the prototype 'cause we had yellow . If I were buying one , I'd go for purple . Leopard print would be cool .",ES2003d
+1546.87,1550.49,C,But um by this I think it's more a case of,ES2003d
+1550.42,1550.65,D,Yeah,ES2003d
+1550.49,1550.76,C,fruit,ES2003d
+1550.65,1551.06,D,we gotta,ES2003d
+1550.76,1551.52,C,and veg,ES2003d
+1551.06,1552.9,D,. I'd,ES2003d
+1551.52,1552.97,C,", Yeah",ES2003d
+1552.9,1553.11,D,say,ES2003d
+1552.97,1552.97,C,.,ES2003d
+1553.11,1557.97,D,"the colour of the border there world you'd find that , that's that'd stand out .",ES2003d
+1558.53,1563.05,B,"Like yellow , yeah . It would also help keep the the product placement",ES2003d
+1562.96,1564.2,D,Logo,ES2003d
+1563.05,1565.83,B,s yeah,ES2003d
+1564.14,1564.4,C,Mm,ES2003d
+1564.2,1564.63,D,", brand",ES2003d
+1564.4,1564.4,C,.,ES2003d
+1564.63,1566.06,D,. Mm,ES2003d
+1565.77,1566.39,C,But,ES2003d
+1565.83,1566.64,B,. Is it inspired,ES2003d
+1566.06,1566.38,D,'kay .,ES2003d
+1566.64,1568.4,B,by clothing fashion,ES2003d
+1568.16,1568.56,C,Th th,ES2003d
+1568.4,1568.4,B,?,ES2003d
+1568.56,1577.55,C,they're referring to the fruit and veg thing . Is this like a banana type colour ? Could we stretch no,ES2003d
+1577.49,1577.93,B,Yes,ES2003d
+1577.55,1578.05,C,"still , it's not",ES2003d
+1577.93,1577.93,B,.,ES2003d
+1578.05,1579.34,C,shaped like a banana is,ES2003d
+1579.7,1580.06,B,It's,ES2003d
+1580.02,1580.29,A,That's,ES2003d
+1580.06,1580.82,B,kind,ES2003d
+1580.29,1580.75,A,kinda,ES2003d
+1580.82,1584.06,B,o it probably,ES2003d
+1581.45,1583.18,A,i it won't be when it's been,ES2003d
+1584.18,1586.16,C,Oh is that 'cause it's flat,ES2003d
+1585.06,1585.9,A,budgeted .,ES2003d
+1586.16,1588.74,C,? What is what fruit or veg is flat ?,ES2003d
+1589.72,1595.48,A,I I think s I I think this isn't not particularly fruit and veggie,ES2003d
+1594.94,1596.14,C,Yeah,ES2003d
+1595.48,1596.01,A,. Um .,ES2003d
+1596.14,1597.9,C,. Or we might have to suffer badly,ES2003d
+1597.81,1598.36,D,Yellow,ES2003d
+1597.9,1598.44,C,for this one as,ES2003d
+1598.36,1598.95,D,courgette,ES2003d
+1598.44,1603.56,C,well,ES2003d
+1598.95,1598.95,D,.,ES2003d
+1602.81,1603.73,B,Well I mean it's,ES2003d
+1603.56,1603.56,C,.,ES2003d
+1603.73,1609.82,B,"probably more fruit and veg than most other things out there bar fruit and veg , so , what , four ?",ES2003d
+1610.07,1612.31,C,Four ? Oh that's,ES2003d
+1611.99,1612.32,B,Is that being,ES2003d
+1612.31,1612.45,C,it's,ES2003d
+1612.32,1613.18,B,too generous,ES2003d
+1612.45,1613.34,C,very ambitious,ES2003d
+1613.18,1613.18,B,?,ES2003d
+1613.22,1614.29,A,Mm,ES2003d
+1613.34,1614.05,C,", yeah , um .",ES2003d
+1614.29,1619.66,A,. I'd I'd I don't think fruit and veg is the sole criterion,ES2003d
+1618.61,1619.39,B,Oh dear,ES2003d
+1619.05,1619.3,C,Sure .,ES2003d
+1619.39,1619.39,B,", .",ES2003d
+1619.66,1623.13,A,. Is the sole criterion for being um,ES2003d
+1622.8,1623.16,C,Inspired,ES2003d
+1623.13,1623.91,A,fashion,ES2003d
+1623.16,1623.5,C,by .,ES2003d
+1623.91,1631.65,A,fashionable or inspired by current fashions . Um I'd g I'd rate I'd rate this fairly highly from that point of view actually .,ES2003d
+1631.72,1635.3,D,"Well this this what we're gonna t this is their motto , like",ES2003d
+1634.73,1635.13,C,Yeah .,ES2003d
+1635.3,1636.59,D,. And we're we're not doing well on it .,ES2003d
+1636.62,1650.86,C,This is their strategy . I m imagine we actually had some money invested in this and the amount that we invest is gonna be proportional to the marks . Might we might wanna be a bit more skepible sceptical about this one .,ES2003d
+1653.52,1654.64,B,What would you think yourself ?,ES2003d
+1654.84,1663.01,C,"I would say I mean it's it's not at all , right ? In any way or shape or form . We",ES2003d
+1662.88,1663.21,B,Well,ES2003d
+1663.01,1663.32,C,didn't,ES2003d
+1663.21,1663.41,B,", it's",ES2003d
+1663.32,1663.39,C,m,ES2003d
+1663.41,1668.01,B,"kind of curved and we can make it yellow , and that's pretty much banana like",ES2003d
+1667.97,1668.23,C,Okay,ES2003d
+1668.01,1668.01,B,.,ES2003d
+1668.23,1671.77,C,", the the yellow banana like thing is I think is okay",ES2003d
+1671.52,1671.88,B,Si,ES2003d
+1671.77,1671.77,C,.,ES2003d
+1671.88,1672.85,B,it's got a curve to it .,ES2003d
+1673.67,1676.19,C,Right five . Is that sound reasonable ?,ES2003d
+1677.63,1677.93,B,Am I,ES2003d
+1677.85,1678.09,D,Yeah,ES2003d
+1677.93,1678.18,B,do you think,ES2003d
+1678.09,1678.27,D,", I'll go",ES2003d
+1678.18,1678.32,B,I'm,ES2003d
+1678.27,1678.37,D,with,ES2003d
+1678.32,1678.92,B,stretching,ES2003d
+1678.37,1678.88,D,five .,ES2003d
+1678.92,1679.18,B,the,ES2003d
+1679.12,1679.53,C,Five,ES2003d
+1679.18,1679.54,B,uh,ES2003d
+1679.53,1679.53,C,.,ES2003d
+1679.54,1680.56,B,the use of the banana ?,ES2003d
+1681.24,1681.62,C,Yeah .,ES2003d
+1686.73,1712.06,C,"'Kay , so we have one , two , three , four , five , six , seven . So five , seven , ten , sixteen , twenty one . Which gives us an average of three . It's well this would be in the middle . So we it's it's not bad . It's in the good section .",ES2003d
+1712.76,1719.18,B,It's not bad and considering the don't pick the pen,ES2003d
+1717.69,1720.55,C,Oops . Sorry,ES2003d
+1719.18,1719.73,B,. Um .,ES2003d
+1720.55,1721.56,C,. I'm I'm sorry .,ES2003d
+1723.16,1727.56,B,Y oh and you've knocked batteries out . Um right,ES2003d
+1727.39,1727.63,D,'S,ES2003d
+1727.56,1727.78,B,okay,ES2003d
+1727.63,1727.86,D,bad,ES2003d
+1727.78,1730.55,B,it's,ES2003d
+1727.86,1728.75,D,"design , that thing .",ES2003d
+1730.55,1732.83,B,considering the price we had to get this in,ES2003d
+1732.77,1733.11,C,Mm-hmm,ES2003d
+1732.83,1734.91,B,", to have a positive",ES2003d
+1733.11,1733.11,C,.,ES2003d
+1734.91,1739.08,B,"you know , even based on the four of us being heavily biased , um",ES2003d
+1739.87,1740.22,C,Yeah .,ES2003d
+1741.7,1752.33,B,"it was gonna be quite hard to get anything standing out I'd say possibly , based on um the the cost features .",ES2003d
+1754.0,1754.82,D,Mm,ES2003d
+1754.38,1754.82,A,Mm,ES2003d
+1754.79,1755.05,C,Even,ES2003d
+1754.82,1754.82,A,.,ES2003d
+1754.82,1755.16,D,", yeah",ES2003d
+1755.05,1755.2,C,if,ES2003d
+1755.16,1755.16,D,.,ES2003d
+1755.2,1784.86,C,"we were to increase this entire thing by by seven , we were to go down a grade to to four , we would have to do I mean we didn't we weren't that kinda optimistic too optim overly optimistic . You know like we didn't we didn't add we didn't subtract a whole seven points from these things , so I think we're definitely on the good bit . Even if we gave this one seven and this one seven , that's still only three extra points over seven . You know , it's",ES2003d
+1784.86,1785.17,A,Mm,ES2003d
+1784.86,1785.2,C,"yeah , we",ES2003d
+1785.17,1785.17,A,.,ES2003d
+1785.2,1787.1,C,did it w it was okay . It was good .,ES2003d
+1787.56,1809.5,A,"Personally , I think given that the product um only replaces a single remote control that you've already got , are people really gonna shell out twenty five Euros for something that's only marginally good ?",ES2003d
+1812.54,1823.44,D,"Well , it depends who your who's what the target people are , like you'd say maybe the fashion conscious",ES2003d
+1824.2,1824.67,B,Maybe it's,ES2003d
+1824.58,1825.07,D,women,ES2003d
+1824.67,1825.48,B,been targeted,ES2003d
+1825.07,1828.45,D,"would be going , oh look at that , 's cool , it looks like a",ES2003d
+1828.04,1828.3,C,Mm-hmm .,ES2003d
+1828.45,1832.73,D,"it's yellow , looks like a banana , it's cool it's gotta look good in the sitting room .",ES2003d
+1834.64,1835.1,B,Hide it in the,ES2003d
+1835.06,1835.33,D,Rather,ES2003d
+1835.1,1835.34,B,fruit,ES2003d
+1835.33,1835.52,D,than,ES2003d
+1835.34,1836.53,B,basket,ES2003d
+1835.52,1836.53,D,the L_C_D_,ES2003d
+1836.53,1836.53,B,.,ES2003d
+1836.53,1855.66,D,"whereas uh more technical like like more uh people in with the latest technology it's good , it's got an L_C_D_ screen 's only got two buttons and a joystick . So , which which kind of people would be more likely to buy it ?",ES2003d
+1857.76,1861.05,B,Probably the people technologically . They're usually the ones that buy pointless stuff .,ES2003d
+1861.17,1871.3,C,"I think so . I mean my mum still has not learnt how to use text messaging on her phone , and she's had it for a long time , you know . She uses it to make phone calls and that's it .",ES2003d
+1872.697,1872.697,D,.,ES2003d
+1872.92,1883.54,C,"Yeah . So I think if sh if my mum saw a remote control like this with only two buttons and a joystick , I mean that'll probably be the first one she decides not to buy , you know",ES2003d
+1883.31,1883.89,B,Mm-hmm,ES2003d
+1883.54,1883.94,C,. She'd be like,ES2003d
+1883.89,1883.89,B,.,ES2003d
+1883.94,1893.06,C,"is this a remote control , I don't how do you use it , and stuff like that . So even if it is really user friendly to us , but we're used to using menus all the time .",ES2003d
+1894.0,1906.78,A,"Mm-hmm . I s I suppose one thing is that b because it's technically innovative , um for someone who's sort of technophobic , the fact that it simply looks unfamiliar",ES2003d
+1906.56,1906.77,C,Yeah .,ES2003d
+1906.78,1907.66,A,would be daunting .,ES2003d
+1908.69,1909.41,C,Yeah . I,ES2003d
+1909.41,1909.77,A,Um,ES2003d
+1909.41,1910.13,C,think it's totally,ES2003d
+1909.77,1909.77,A,.,ES2003d
+1910.13,1913.23,C,uh radical to have a remote control with no no,ES2003d
+1912.62,1913.08,D,Yeah .,ES2003d
+1913.23,1914.17,C,"numbered buttons , yeah .",ES2003d
+1914.31,1914.45,D,Yeah .,ES2003d
+1916.18,1917.64,C,"But like radical good , maybe .",ES2003d
+1918.85,1964.65,B,"Okay . Um don't know how lo much longer we've got . At least five minutes I think . Um quickly we'll pop onto project evaluation . Um . So , we've got these uh four criteria here for uh satisfaction . Does anybody want to um um do you have any opinions on any of them ? For example um we'll work backwards I suppose . The ability to work on this project using the technology we've been presented with . Um people made good use of the uh pen and paper ? I would",ES2003d
+1964.5,1964.92,A,Yeah,ES2003d
+1964.65,1966.36,B,say,ES2003d
+1964.92,1965.72,A,", got notes",ES2003d
+1965.57,1965.73,D,Yeah,ES2003d
+1965.72,1965.83,A,and,ES2003d
+1965.73,1965.73,D,.,ES2003d
+1965.83,1966.27,A,doodles .,ES2003d
+1967.32,1970.08,C,"Wrote nearly a page , but not .",ES2003d
+1971.03,1975.54,B,I'm not quite sure what the advantage for us using a digital pen might be .,ES2003d
+1975.94,1976.5,C,I think,ES2003d
+1976.24,1976.57,A,Well I think this,ES2003d
+1976.5,1977.06,C,tracking,ES2003d
+1976.57,1977.39,A,is a I think the digital,ES2003d
+1977.06,1977.06,C,.,ES2003d
+1977.39,1978.5,A,pen's mostly for the benefit,ES2003d
+1978.35,1978.93,B,Mm,ES2003d
+1978.5,1979.1,A,of the uh,ES2003d
+1978.93,1978.93,B,.,ES2003d
+1980.6,1985.02,A,of the researchers studying this . It's all p goes into their corpus . Though,ES2003d
+1984.93,1985.08,B,It,ES2003d
+1985.02,1985.13,A,it,ES2003d
+1985.08,1985.37,B,must,ES2003d
+1985.13,1994.32,A,would have been nice to be able to transfer the um transfer our n our paper notes onto the uh computer ourselves .,ES2003d
+1994.58,1995.94,C,"Yeah , that woulda been pretty good .",ES2003d
+1996.08,2011.46,B,It does seem like the paper's still a heavy consideration for taking notes . So maybe this is literally just a way around it . Um I dunno . How are people satisfied with the teamwork we've managed to display today ?,ES2003d
+2012.83,2013.02,D,Good .,ES2003d
+2013.18,2014.22,C,"I'd yeah I liked it , yeah",ES2003d
+2014.116,2014.116,A,.,ES2003d
+2014.22,2014.22,C,.,ES2003d
+2018.87,2023.82,B,Leadership . As much as can be leadered in this uh,ES2003d
+2023.56,2023.87,D,Very good,ES2003d
+2023.82,2024.07,B,thing,ES2003d
+2023.87,2023.87,D,.,ES2003d
+2024.07,2024.07,B,.,ES2003d
+2024.3,2025.86,C,"I li yeah , top marks .",ES2003d
+2027.02,2030.8,B,Um last one we've got is room for creativity,ES2003d
+2030.56,2037.06,C,Well,ES2003d
+2030.8,2032.33,B,. Now,ES2003d
+2031.55,2032.34,A,Unti uh uh,ES2003d
+2032.33,2032.46,B,", I",ES2003d
+2032.34,2032.98,A,until,ES2003d
+2032.46,2032.98,B,think we,ES2003d
+2032.98,2033.49,A,uh,ES2003d
+2032.98,2033.2,B,got,ES2003d
+2033.49,2037.05,A,"until accounts came along , squish",ES2003d
+2036.24,2037.06,D,We're burs,ES2003d
+2037.05,2037.05,A,.,ES2003d
+2037.06,2037.46,D,bursting,ES2003d
+2037.06,2039.4,C,yeah,ES2003d
+2037.46,2039.03,D,with creativity .,ES2003d
+2039.4,2044.14,C,". We we're not lacking in ideas , you know it's that was not the problem .",ES2003d
+2045.41,2057.02,B,"Yeah I think of in the end , ideas that can be used sadly . Not so much that we weren't full of ideas , but of ones that are gonna allow us to actually build the thing",ES2003d
+2056.75,2057.05,C,Mm-hmm,ES2003d
+2057.02,2057.21,B,. It's,ES2003d
+2057.05,2057.05,C,.,ES2003d
+2057.21,2062.85,B,a bit of a pity . Um I would have to agree on that . I think we needed a larger budget .,ES2003d
+2063.46,2063.72,C,Yeah .,ES2003d
+2064.1,2073.12,B,"If you're going to aim your a um product maybe at the technological kind of sector , then you can afford to maybe jack the price up slightly from what it is . Because",ES2003d
+2072.75,2073.19,A,Yeah,ES2003d
+2073.12,2073.25,B,they,ES2003d
+2073.19,2073.19,A,.,ES2003d
+2073.25,2075.08,B,will pay outrageous cash to,ES2003d
+2075.97,2076.39,A,Mm . I,ES2003d
+2076.35,2076.64,B,first,ES2003d
+2076.39,2076.68,A,mean I,ES2003d
+2076.64,2076.7,B,on,ES2003d
+2076.68,2076.74,A,th,ES2003d
+2076.7,2076.78,B,the,ES2003d
+2076.74,2077.03,A,I,ES2003d
+2076.78,2077.21,B,market,ES2003d
+2077.03,2077.49,A,mean I think,ES2003d
+2077.21,2077.21,B,.,ES2003d
+2077.49,2094.08,A,to r retaining the s the more sort of bio-morphic form in the articulation would gain more in s uh would gain more profit in sales than it would lose in uh in added expense .,ES2003d
+2094.79,2095.41,B,Mm .,ES2003d
+2096.37,2110.96,D,And the price was like it was twice the w assembly cost . And would it have to be twice that ? It could be like coulda had the assembly like maybe fifteen Euro .,ES2003d
+2112.14,2112.23,B,It,ES2003d
+2112.2,2112.29,D,We'll,ES2003d
+2112.23,2112.34,B,could,ES2003d
+2112.29,2112.52,D,still,ES2003d
+2112.34,2112.89,B,even,ES2003d
+2112.52,2113.55,D,settle for twenty five .,ES2003d
+2115.25,2115.42,B,That's,ES2003d
+2115.31,2115.69,D,Maybe,ES2003d
+2115.42,2115.97,B,true,ES2003d
+2115.69,2115.69,D,.,ES2003d
+2115.97,2132.76,B,", yeah . Um I suppose these are all that will have to be taken up with a at a different group at I guess . As to a the costs involved . But I mean we've got a a prototype .",ES2003d
+2133.87,2134.71,A,Such as it is .,ES2003d
+2136.46,2143.86,B,"So I dunno , I I think it's gone okay today , considering the information that we've had at our disposal , and um",ES2003d
+2143.84,2144.08,C,Maybe,ES2003d
+2143.86,2144.35,B,such,ES2003d
+2144.08,2144.81,C,the counts,ES2003d
+2144.35,2144.35,B,.,ES2003d
+2144.81,2150.68,C,"wou woulda been better if we had a list or more Yeah , to begin with",ES2003d
+2149.89,2150.8,D,"In the beginning , yeah",ES2003d
+2150.68,2151.05,C,. Yeah,ES2003d
+2150.8,2150.8,D,.,ES2003d
+2151.05,2151.05,C,.,ES2003d
+2152.21,2155.61,B,Probably would have mean we could have come up with a lot more solid,ES2003d
+2155.22,2155.46,C,Yeah .,ES2003d
+2155.61,2185.56,B,"design in the end , I would have to agree . It is very much a pity to um get so far into the stage and then find out that maybe some of your ideas are just a bit too expensive . Always hard to tell until you know the costs . Um . Okay . Are the costs within budget ? Well , they are now that we have our slightly less than capable product",ES2003d
+2184.58,2184.86,C,Okay .,ES2003d
+2185.56,2189.1,B,". We've evaluated it , and we can say that we came out with a value of three .",ES2003d
+2190.07,2190.31,C,Yeah .,ES2003d
+2192.0,2213.98,A,Actually I want th one thing I would say I mean something that could perhaps be part of the product mm the um m product testing market research process would be to uh produce mock-ups of both versions and see just how much of a difference the over going over-budget um m would make to sales .,ES2003d
+2215.04,2216.04,B,It's yeah ?,ES2003d
+2216.09,2218.54,C,And like response from consumers,ES2003d
+2218.53,2218.75,A,And,ES2003d
+2218.54,2218.54,C,.,ES2003d
+2218.75,2229.46,A,"we could even you know , market two versions . Wee cheapie version with the nice bio-morphic rubber .",ES2003d
+2231.7,2235.09,B,And then the final one where you get to call it Hal . But we'll,ES2003d
+2235.01,2235.72,A,Yes,ES2003d
+2235.09,2237.58,B,go into that later,ES2003d
+2235.72,2235.72,A,.,ES2003d
+2236.14,2236.52,C,Sure .,ES2003d
+2237.58,2275.56,B,". Right um is there anything else that anybody would like to to add , um anything they think that's not been covered , before I quickly write up a final report . Um I dunno , I mean we've got a product . We maybe aren't as happy with it as we'd like to be , but we've got something we think we can maybe stick onto the the market and sell . And of course something we have been avoiding talking about 'cause of we've no information is selling them directly to the manufacturers",ES2003d
+2275.32,2275.56,C,Yeah,ES2003d
+2275.56,2275.68,B,. There,ES2003d
+2275.56,2275.56,C,.,ES2003d
+2275.68,2280.04,B,is a huge market . I mean we've briefly touched on it but we've no more knowledge then there's little we can say on that .,ES2003d
+2280.28,2280.49,C,Yeah .,ES2003d
+2281.75,2281.95,A,Mm .,ES2003d
+2286.78,2300.57,B,"Yeah . So um unless anybody's got anything they'd like to add , we can maybe round this up slightly earlier than we'd need to and then we can",ES2003d
+2300.47,2300.65,A,And,ES2003d
+2300.57,2300.89,B,finish,ES2003d
+2300.65,2301.01,A,I can get,ES2003d
+2300.89,2301.14,B,up the,ES2003d
+2301.01,2301.59,A,my bus,ES2003d
+2301.14,2302.13,B,writing and such,ES2003d
+2301.59,2301.59,A,.,ES2003d
+2302.13,2304.31,B,. Yeah ?,ES2003d
+2304.4,2304.77,A,Okay,ES2003d
+2304.42,2304.57,C,Yeah .,ES2003d
+2304.77,2304.77,A,.,ES2003d
+2306.62,2307.41,C,"Okay , let's",ES2003d
+2309.0,2311.3,B,Uh thank you for your participation,ES2003d
+2310.79,2311.12,C,Thank you .,ES2003d
+2311.3,2311.3,B,.,ES2003d
+2311.64,2312.09,A,Thank you .,ES2003d
+2318.76,2337.7,C,"I was actually kind of upset you know at the budget , and that we had to cut a lot of stuff . It's like man , we we can't have the locator thing . And s yeah that's just bad . Do you think maybe the prices were were made ?",ES2003d
+2341.22,2344.85,B,That a question we can ask .,ES2003d

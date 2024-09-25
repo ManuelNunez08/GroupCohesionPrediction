@@ -1,0 +1,3715 @@
+Start,End,Speaker,Speech,meeting
+30.79,31.54,D,Oh my God .,IN1013.
+33.44,36.97,A,"Yeah , still doesn't feel natural",IN1013.
+36.41,37.63,D,Yeah,IN1013.
+36.97,37.71,A,". I I wish , you",IN1013.
+37.63,37.63,D,. .,IN1013.
+37.71,42.48,A,"know , the the the the room would just detect when an when a meeting's started it starting .",IN1013.
+53.6,54.8,A,Voila,IN1013.
+54.72,56.26,D,Okay,IN1013.
+54.8,57.17,A,cool . So,IN1013.
+56.26,56.26,D,.,IN1013.
+57.17,59.4,A,you better start . It was your idea . So,IN1013.
+58.76,59.43,D,I should start,IN1013.
+59.4,59.4,A,.,IN1013.
+59.43,128.57,D,"? Yeah , no so I thought that we might s t speak a little bit about speech coding because nobody is doing here speech coding and I would like to have some maybe feedback because except me . I've I've supposed to some speech coding stuff here with Hynek uh but you know that little bit at least that uh based on some let's say Hilbert transforms using a longer temporal context and deriving some parameters would be tranf transcs transmitted to a decoder and So it's a little bit different than the stuff which people are using now , which is like a L_P_C_ based . And but we are at the beginning with everything more or less . So still um we can't uh d encode a speech . But of course there is there are many problems which we still didn't solve and the biggest one is quite similar to L_P_C_ stuff where people still don't know how to exactly encode a carrier or the source signal . We know what to do with the envelope or how to approximate the envelope , let's say . Um when you have got",IN1013.
+130.41,136.94,A,Well maybe uh is is the white-board working ? Or or not,IN1013.
+136.2,137.2,D,Oh,IN1013.
+136.94,138.47,A,. Um,IN1013.
+137.2,139.12,D,you mean that it would be nice to,IN1013.
+138.47,139.35,A,y maybe,IN1013.
+139.12,139.41,D,plot,IN1013.
+139.35,140.33,A,show,IN1013.
+139.41,140.53,D,at least s,IN1013.
+140.33,141.1,A,us,IN1013.
+141.08,141.26,B,Yeah,IN1013.
+141.1,141.28,A,the,IN1013.
+141.26,141.37,B,", at",IN1013.
+141.28,141.66,A,general,IN1013.
+141.37,141.86,B,least on,IN1013.
+141.66,142.0,A,sort of,IN1013.
+141.86,142.9,B,paper,IN1013.
+142.0,144.22,A,outline,IN1013.
+142.4,142.98,D,Um maybe,IN1013.
+142.83,143.03,C,You,IN1013.
+142.9,143.33,B,. Yeah,IN1013.
+142.98,143.26,D,I,IN1013.
+143.03,143.4,C,can write,IN1013.
+143.26,143.36,D,I,IN1013.
+143.33,144.13,B,. Yeah,IN1013.
+143.36,144.28,D,can,IN1013.
+143.4,144.14,C,"on the paper , yeah",IN1013.
+144.13,144.37,B,", at",IN1013.
+144.14,145.13,C,. It's,IN1013.
+144.22,144.37,A,. You,IN1013.
+144.28,144.38,D,I,IN1013.
+144.37,144.63,A,keep,IN1013.
+144.37,144.53,B,least,IN1013.
+144.38,144.57,D,can,IN1013.
+144.53,144.65,B,you,IN1013.
+144.63,144.94,A,w,IN1013.
+144.65,145.0,B,can write,IN1013.
+144.94,145.28,A,okay,IN1013.
+145.0,145.27,B,on the,IN1013.
+145.13,145.35,C,it's,IN1013.
+145.27,145.61,B,p,IN1013.
+145.28,145.36,A,", you",IN1013.
+145.35,145.68,C,okay,IN1013.
+145.36,145.69,A,can just,IN1013.
+145.68,145.68,C,.,IN1013.
+145.69,148.04,A,write it on the paper,IN1013.
+146.48,148.27,D,"So what we are doing now , yeah",IN1013.
+148.04,148.33,A,. Yeah,IN1013.
+148.27,148.37,D,", you",IN1013.
+148.33,148.33,A,.,IN1013.
+148.37,152.81,D,"mean . Okay , i uh everybody knows L_P_C_ stuff , how it works",IN1013.
+152.48,153.68,C,Right,IN1013.
+152.69,152.89,B,Yeah,IN1013.
+152.81,152.99,D,. So,IN1013.
+152.89,153.26,B,", CELP",IN1013.
+152.99,153.44,D,I don't have,IN1013.
+153.26,153.26,B,.,IN1013.
+153.44,153.81,D,to,IN1013.
+153.68,153.68,C,.,IN1013.
+153.81,177.15,D,present anything mores . But it's uh m more or less very simple . We have let's say at the beginning there is some speech signal . What we are uh we might see it uh in very simple way that we are using some Hilbert transform h at the beginning to create analytic signal . The analytic signal is the signal which is a complex which you can create,IN1013.
+176.8,177.18,B,Yeah,IN1013.
+177.15,177.43,D,from,IN1013.
+177.18,177.18,B,.,IN1013.
+177.43,179.0,D,the uh,IN1013.
+178.29,178.79,C,"Right , right .",IN1013.
+179.0,200.03,D,"real uh uh some sequence . And if you get if you apply Hilbert transform on this , on such a speech signal , like a real trajectory , then you get a complex signal and if you take just the amplitude , then you get Hilbert envelope code . So I well I I don't know . Yeah , let's say ups .",IN1013.
+200.64,203.77,A,"So is this different from the original P_L_P_ two stuff then , is that ?",IN1013.
+204.32,205.81,D,"Yeah , it's u it's not P_L_P_ at",IN1013.
+205.72,205.93,A,Uh 'cause,IN1013.
+205.81,206.01,D,all,IN1013.
+205.93,206.05,A,that's,IN1013.
+206.01,206.12,D,", d",IN1013.
+206.05,208.61,A,"what you started with , wasn't it",IN1013.
+207.72,208.11,B,Hmm .,IN1013.
+208.26,208.98,D,Mm,IN1013.
+208.61,209.02,A,? This this,IN1013.
+208.98,208.98,D,.,IN1013.
+209.02,210.5,A,stuff that Marius,IN1013.
+210.28,212.6,B,"No , but Marius is it's similar",IN1013.
+212.33,213.3,D,No he's,IN1013.
+212.6,213.39,B,"stuff . No , Marius",IN1013.
+213.3,213.63,D,it's,IN1013.
+213.39,213.77,B,is also,IN1013.
+213.63,213.81,D,pretty,IN1013.
+213.77,214.06,B,using,IN1013.
+213.81,214.06,D,much the,IN1013.
+214.06,214.4,B,like,IN1013.
+214.06,214.44,D,same,IN1013.
+214.4,214.82,B,Hilbert,IN1013.
+214.44,214.44,D,.,IN1013.
+214.82,215.32,B,transform,IN1013.
+215.3,215.72,A,Okay,IN1013.
+215.32,215.7,B,and then,IN1013.
+215.72,215.72,A,.,IN1013.
+216.36,225.52,D,Uh you're lit I know what you mean with the pu P_L_P_ . They are applying P_L_P_ with some iteration with this this one approach . So,IN1013.
+225.32,225.97,A,Okay,IN1013.
+225.52,226.03,D,they are,IN1013.
+225.97,225.97,A,.,IN1013.
+226.03,229.14,D,doing some smoothing of a spectrogram,IN1013.
+228.92,229.19,A,Yeah,IN1013.
+229.14,229.32,D,in,IN1013.
+229.19,229.83,A,", yeah",IN1013.
+229.32,230.23,D,two ways,IN1013.
+229.83,230.27,A,. H he's,IN1013.
+230.23,230.6,D,. One,IN1013.
+230.27,231.0,A,parameterizing,IN1013.
+230.6,231.36,D,was,IN1013.
+231.0,231.74,A,it both,IN1013.
+231.36,232.85,D,right,IN1013.
+231.74,232.28,A,temporally,IN1013.
+231.8,232.06,B,Both .,IN1013.
+232.28,233.09,A,and across,IN1013.
+232.85,233.25,D,. Right,IN1013.
+233.09,233.69,A,the spectrum,IN1013.
+233.25,233.78,D,. But P_L_P_,IN1013.
+233.69,234.2,A,", yep",IN1013.
+233.78,234.34,D,is using just,IN1013.
+234.2,234.2,A,.,IN1013.
+234.34,240.38,D,the spectral uh direction . Let's say you are doing uh for every twenty millisecond processing,IN1013.
+239.99,240.26,A,Yeah .,IN1013.
+240.38,241.89,D,one one feature vector . Here,IN1013.
+241.73,242.12,A,Yeah,IN1013.
+241.89,242.25,D,you are,IN1013.
+242.12,242.12,A,.,IN1013.
+242.25,245.29,D,"processing one spectral band , frequency band",IN1013.
+245.24,245.61,A,Yep,IN1013.
+245.29,245.79,D,", right",IN1013.
+245.61,247.0,A,", okay",IN1013.
+245.79,247.01,D,. So it's different direction,IN1013.
+247.0,247.28,A,. Yep,IN1013.
+247.01,247.33,D,which we,IN1013.
+247.28,247.28,A,.,IN1013.
+247.33,260.87,D,"are w using . But anyway , this is very simple . So applying that uh absolute uh absolute operation , you get a Hilbert envelope . And of course then there is the phase",IN1013.
+260.66,260.9,B,Yeah,IN1013.
+260.87,261.16,D,. So,IN1013.
+260.9,260.9,B,.,IN1013.
+261.16,261.43,D,it's,IN1013.
+261.31,261.62,C,Mm-hmm,IN1013.
+261.43,261.65,D,just,IN1013.
+261.62,261.62,C,.,IN1013.
+261.65,276.6,D,the complex operation . And that's more or less all what we are doing . So now what we know what we know is how to approximate that Hilbert envelope . We are ap we are applying that Hilbert uh him what is the Marius' uh stuff,IN1013.
+276.21,276.65,A,"Yeah , to",IN1013.
+276.6,276.78,D,. So,IN1013.
+276.65,277.1,A,that,IN1013.
+276.78,277.21,D,he knows,IN1013.
+277.1,277.38,A,. Yep,IN1013.
+277.21,277.4,D,how,IN1013.
+277.38,277.55,A,", yep",IN1013.
+277.4,278.25,D,to,IN1013.
+277.55,277.79,A,", yep .",IN1013.
+278.25,283.71,D,encode uh the Hilbert uh envelope using,IN1013.
+282.33,283.86,B,Uh is some kind of D_C_T_ or,IN1013.
+283.71,284.24,D,like,IN1013.
+283.86,284.59,B,again,IN1013.
+284.24,284.91,D,L_S_F_s,IN1013.
+284.59,285.45,B,yeah,IN1013.
+284.91,285.79,D,or L_P_C_,IN1013.
+285.45,286.14,B,". Yeah , ok",IN1013.
+285.79,288.87,D,. You are applying again to some linear prediction model,IN1013.
+288.74,289.12,B,Yeah,IN1013.
+288.77,289.34,A,Mm yeah,IN1013.
+288.87,289.45,D,after that,IN1013.
+289.12,289.12,B,.,IN1013.
+289.34,289.46,A,", but",IN1013.
+289.45,289.45,D,.,IN1013.
+289.46,291.67,A,it's a it's a,IN1013.
+291.25,291.81,D,But it's,IN1013.
+291.67,291.84,A,it's,IN1013.
+291.81,292.73,D,uh,IN1013.
+291.84,292.91,A,a different linear prediction,IN1013.
+292.73,292.92,D,right,IN1013.
+292.77,293.21,B,Yeah,IN1013.
+292.91,293.13,A,model,IN1013.
+292.92,293.18,D,", it's",IN1013.
+293.13,293.32,A,", isn't",IN1013.
+293.18,293.36,D,in,IN1013.
+293.21,293.46,B,", yeah",IN1013.
+293.32,293.5,A,it,IN1013.
+293.36,294.46,D,a,IN1013.
+293.46,293.78,B,. Yeah,IN1013.
+293.5,294.29,A,. It's a complex,IN1013.
+293.78,293.78,B,.,IN1013.
+294.29,294.51,A,linear,IN1013.
+294.46,294.62,D,it's,IN1013.
+294.51,294.97,A,prediction,IN1013.
+294.62,294.97,D,a little bit,IN1013.
+294.97,295.08,A,or,IN1013.
+294.97,295.51,D,difference,IN1013.
+295.08,295.44,A,whatever .,IN1013.
+295.51,303.16,D,"in not applied in the frequency domain . So instead of classical L_P_C_ domain , where you have a spectrum , let's say",IN1013.
+302.57,303.04,B,How c,IN1013.
+303.16,310.5,D,"something like that , and you are applying some linear prediction model which is trying to approximate the spectrum , right . So",IN1013.
+310.36,310.65,A,Yeah,IN1013.
+310.5,310.65,D,this,IN1013.
+310.65,310.65,A,.,IN1013.
+310.65,318.16,D,is frequency . In our case we are we are trying to approximate s kind of instantaneous energy,IN1013.
+317.95,318.26,A,Yeah,IN1013.
+318.16,318.31,D,. So,IN1013.
+318.26,318.26,A,.,IN1013.
+318.31,326.35,D,"if this is a time , and you get one and add one frequency band , you can see something like this",IN1013.
+325.6,326.0,A,Yeah .,IN1013.
+326.35,328.93,D,. And we are trying to approximate that envelope which is,IN1013.
+330.25,331.65,A,Yeah,IN1013.
+330.54,332.35,D,that Hilbert envelope,IN1013.
+331.65,331.88,A,. Yep .,IN1013.
+332.04,332.69,C,Hmm,IN1013.
+332.35,332.56,D,. Right,IN1013.
+332.37,332.77,B,Mm-hmm,IN1013.
+332.56,332.75,D,? So,IN1013.
+332.69,332.69,C,.,IN1013.
+332.75,333.09,D,again,IN1013.
+332.77,332.77,B,.,IN1013.
+333.09,337.02,D,", we know what to more or less we know what to do with the Hilbert envelope",IN1013.
+336.39,336.9,A,Okay .,IN1013.
+337.02,342.06,D,. We know that we can apply linear prediction model and it works pretty well,IN1013.
+341.32,341.71,A,Okay .,IN1013.
+342.06,347.15,D,. But i if you want to really construct the speech signal or the,IN1013.
+346.04,348.13,A,You need the phase,IN1013.
+347.09,347.38,B,Yeah,IN1013.
+347.15,347.5,D,you need,IN1013.
+347.38,347.38,B,.,IN1013.
+347.5,348.21,D,also the phase,IN1013.
+348.13,349.54,A,. Ooh,IN1013.
+348.21,349.86,D,"signal , which is in uh some",IN1013.
+349.54,349.91,A,uh,IN1013.
+349.86,353.78,D,"sense quite simple for voiced speech signal , say",IN1013.
+353.56,353.87,B,Because,IN1013.
+353.78,353.96,D,. But,IN1013.
+353.87,354.24,B,use,IN1013.
+353.96,355.52,D,s,IN1013.
+354.24,355.21,B,linear phase or,IN1013.
+355.06,356.08,A,Well,IN1013.
+355.52,359.68,D,"uh the phase no , you ac It's a phase or you can encode",IN1013.
+359.31,360.94,B,Yeah uh,IN1013.
+359.68,361.01,D,it like a carrier . So,IN1013.
+360.94,361.26,B,Oh,IN1013.
+361.01,361.49,D,the carrier,IN1013.
+361.26,361.52,B,okay,IN1013.
+361.49,361.7,D,is,IN1013.
+361.52,361.52,B,.,IN1013.
+361.7,364.7,D,", if you know , uh amplitude modulation , right ? You",IN1013.
+364.52,364.8,B,Yeah,IN1013.
+364.7,364.88,D,may,IN1013.
+364.8,364.8,B,.,IN1013.
+364.88,368.74,D,see something like there is one cosine which is,IN1013.
+368.0,368.33,B,Yeah .,IN1013.
+368.74,370.16,D,uh very would have quite,IN1013.
+370.07,370.41,B,Same,IN1013.
+370.16,371.22,D,a f,IN1013.
+370.41,371.32,B,frequency,IN1013.
+370.88,371.32,A,Well it depends,IN1013.
+371.22,371.45,D,right,IN1013.
+371.32,371.42,A,on,IN1013.
+371.32,371.32,B,.,IN1013.
+371.42,371.63,A,how,IN1013.
+371.45,371.45,D,.,IN1013.
+371.63,374.0,A,"this i I mean you're talking b yeah , just the carrier . Okay , so",IN1013.
+373.91,374.27,D,Yeah,IN1013.
+374.0,374.8,A,it's not necessarily,IN1013.
+374.27,374.27,D,.,IN1013.
+374.8,376.03,A,"phase , but if you're using some",IN1013.
+375.96,376.15,D,It's,IN1013.
+376.03,376.17,A,sort,IN1013.
+376.15,376.41,D,called,IN1013.
+376.17,377.1,A,of sinusoidal,IN1013.
+376.41,377.66,D,like the phase,IN1013.
+377.1,377.69,A,"coding , it's",IN1013.
+377.66,377.88,D,. Right,IN1013.
+377.69,377.93,A,"phase , yeah",IN1013.
+377.88,378.14,D,", right",IN1013.
+377.93,377.93,A,.,IN1013.
+378.07,378.45,B,Yeah,IN1013.
+378.14,379.33,D,. Exactly,IN1013.
+378.45,378.45,B,.,IN1013.
+379.33,383.91,D,. So the this is the signal which you also have to somehow encode or transmit,IN1013.
+383.87,384.36,A,Okay,IN1013.
+383.91,385.4,D,from,IN1013.
+384.36,384.36,A,.,IN1013.
+385.4,386.48,D,a code of the decoder in,IN1013.
+386.47,387.1,A,Okay,IN1013.
+386.48,387.53,D,order to,IN1013.
+387.1,387.25,A,. W,IN1013.
+387.53,388.54,D,re-synthesize it,IN1013.
+388.28,388.74,A,What so,IN1013.
+388.54,388.74,D,", right",IN1013.
+388.74,388.93,A,what,IN1013.
+388.74,389.21,D,. So,IN1013.
+388.93,395.94,A,sort of bit rate do you get for the um encoding of the this the Hilbert transform ? The s the spectrogram,IN1013.
+395.92,396.19,D,What,IN1013.
+395.94,397.0,A,. W,IN1013.
+396.19,396.91,D,do you mean ? Again .,IN1013.
+397.0,398.94,A,what sort of coding do you get so far for,IN1013.
+398.93,399.13,D,For,IN1013.
+398.94,399.62,A,the,IN1013.
+399.13,400.2,D,this one,IN1013.
+399.62,400.22,A,no no no,IN1013.
+400.2,400.5,D,? For,IN1013.
+400.22,400.61,A,"no , f",IN1013.
+400.5,401.15,D,the,IN1013.
+400.58,400.77,B,For,IN1013.
+400.61,401.58,A,f yeah,IN1013.
+400.77,401.23,B,L_S_F_,IN1013.
+401.15,401.32,D,the,IN1013.
+401.23,401.23,B,.,IN1013.
+401.32,401.91,D,linear prediction,IN1013.
+401.58,402.3,A,. Yeah . Yeah,IN1013.
+401.91,403.3,D,model,IN1013.
+402.3,402.56,A,", yep .",IN1013.
+403.3,407.54,D,? Well it's uh just a linear prediction . Classical way . I mean,IN1013.
+406.97,408.72,A,Uh wo,IN1013.
+407.54,408.76,D,"oh , okay , w well , if you",IN1013.
+408.72,409.03,A,well,IN1013.
+408.76,409.14,D,want to see,IN1013.
+409.03,410.2,A,", it's",IN1013.
+409.14,410.78,D,it in more details,IN1013.
+410.2,410.88,A,"no no no , but what sort",IN1013.
+410.78,410.99,D,", I mean",IN1013.
+410.88,417.97,A,of bit rate do you get ? Is it is it uh id do you have any sort of m idea of what sort of band-widths,IN1013.
+417.9,418.34,D,Oh,IN1013.
+417.97,417.97,A,?,IN1013.
+418.34,420.42,D,", you mean uh",IN1013.
+419.45,420.53,B,Main bit rate,IN1013.
+420.42,420.64,D,yeah,IN1013.
+420.53,420.73,B,. What,IN1013.
+420.64,420.86,D,", bit",IN1013.
+420.73,420.9,B,is,IN1013.
+420.86,421.64,D,bit rate you mean,IN1013.
+421.38,421.78,A,Yeah,IN1013.
+421.64,421.93,D,? Okay,IN1013.
+421.78,421.78,A,.,IN1013.
+421.93,422.05,D,", yeah",IN1013.
+421.97,422.06,B,Good,IN1013.
+422.05,422.24,D,. Sure,IN1013.
+422.06,422.06,B,.,IN1013.
+422.24,425.17,D,", sure . So whereas",IN1013.
+425.02,425.21,A,'Cause,IN1013.
+425.17,432.46,D,"we are what we are now is , let's say , something like one point two kilo-bits per second for",IN1013.
+431.11,431.64,B,Oh .,IN1013.
+432.46,433.87,D,uh that Hilbert envelope,IN1013.
+433.66,433.88,A,Okay,IN1013.
+433.87,433.87,D,.,IN1013.
+433.88,437.63,A,", and that's in that's with the fully optimised sort of compression scheme",IN1013.
+437.43,437.72,D,Is,IN1013.
+437.63,439.43,A,or that's just the raw data or ?,IN1013.
+439.49,441.55,D,It's again a roughly estimated somehow,IN1013.
+441.21,441.71,A,Okay,IN1013.
+441.55,442.2,D,. But,IN1013.
+441.71,442.01,A,", yeah .",IN1013.
+442.2,444.72,D,we still know that we can go down,IN1013.
+444.26,444.77,A,Yeah . Sure,IN1013.
+444.72,446.07,D,and,IN1013.
+444.77,446.31,A,", sure . You just cut out m",IN1013.
+446.07,446.31,D,right,IN1013.
+446.31,446.68,A,bands,IN1013.
+446.31,446.31,D,.,IN1013.
+446.68,448.9,A,and just use interpolation or whatever,IN1013.
+448.32,448.95,D,Exactly,IN1013.
+448.9,449.31,A,. Yeah,IN1013.
+448.95,449.5,D,", yeah . I don",IN1013.
+449.31,449.82,A,. T,IN1013.
+449.5,450.09,D,we are using,IN1013.
+449.82,450.13,A,so that's,IN1013.
+450.09,450.27,D,like,IN1013.
+450.13,450.33,A,one,IN1013.
+450.27,450.68,D,fifteen,IN1013.
+450.33,451.27,A,point,IN1013.
+450.68,451.13,D,bands .,IN1013.
+451.27,453.58,A,"okay , that's with the full spectrum basically being used",IN1013.
+453.46,453.86,D,Right,IN1013.
+453.58,453.98,A,then,IN1013.
+453.86,454.1,D,. But,IN1013.
+453.98,453.98,A,.,IN1013.
+454.1,465.62,D,"they are first they are inter oh well , integrated into fifteen bands using oh classical way like in M_F_C_C_s or in P_L_P_ . You just apply some those uh triangular windows",IN1013.
+465.4,465.85,A,Yeah,IN1013.
+465.62,466.13,D,or,IN1013.
+465.85,466.87,A,". Yep , yep",IN1013.
+466.11,466.43,B,Ah,IN1013.
+466.13,466.46,D,something like,IN1013.
+466.43,466.71,B,", okay",IN1013.
+466.46,467.07,D,that,IN1013.
+466.71,466.71,B,.,IN1013.
+466.87,467.16,A,. Yep,IN1013.
+467.07,467.33,D,in order,IN1013.
+467.16,467.16,A,.,IN1013.
+467.33,471.42,D,"to to get a li really like just fifteen bands , right",IN1013.
+470.86,471.09,A,Yep .,IN1013.
+471.42,474.21,D,. And each band is then processed independently,IN1013.
+473.59,474.35,A,"Yeah , yep",IN1013.
+474.0,474.48,B,Hmm,IN1013.
+474.21,474.43,D,. So,IN1013.
+474.35,474.35,A,.,IN1013.
+474.43,474.69,D,for,IN1013.
+474.48,474.48,B,.,IN1013.
+474.69,478.35,D,one band we more or less have w like w one hundred bits per,IN1013.
+478.19,478.82,A,Okay,IN1013.
+478.35,479.56,D,second,IN1013.
+478.56,479.06,C,Okay,IN1013.
+478.82,479.17,A,", that's quite",IN1013.
+479.06,479.06,C,.,IN1013.
+479.17,480.29,A,good . So,IN1013.
+479.56,480.46,D,. For Hilbert envelope,IN1013.
+480.29,480.65,A,and,IN1013.
+480.46,480.46,D,.,IN1013.
+480.65,486.76,A,Hynek was showing me how scalable it is in terms of um you can take half the bands away and,IN1013.
+486.53,487.76,D,Right,IN1013.
+486.76,488.08,A,still get decent performance,IN1013.
+487.76,488.31,D,". Right , right",IN1013.
+488.08,489.25,A,. You take,IN1013.
+488.31,489.25,D,". You yeah , you",IN1013.
+489.25,489.37,A,you,IN1013.
+489.25,489.46,D,can,IN1013.
+489.37,489.6,A,take,IN1013.
+489.46,490.77,D,just,IN1013.
+489.6,490.7,A,"three quarters of them away , it",IN1013.
+490.63,490.79,B,Hmm,IN1013.
+490.7,491.01,A,starts,IN1013.
+490.77,491.26,D,right,IN1013.
+490.79,490.79,B,.,IN1013.
+491.01,491.51,A,to degrade,IN1013.
+491.26,492.12,D,. Right,IN1013.
+491.51,492.81,A,", but it's still intelligible",IN1013.
+492.12,493.89,D,. Right,IN1013.
+492.81,494.02,A,", that sort of thing",IN1013.
+493.89,494.19,D,. Yeah,IN1013.
+494.02,495.01,A,. Yep,IN1013.
+494.19,494.19,D,.,IN1013.
+495.01,495.86,A,. Okay,IN1013.
+495.53,495.89,B,S,IN1013.
+495.86,501.04,A,". And that's without doing any sort of um prediction of what the missing bands might be , right ? You just leave",IN1013.
+501.0,501.81,D,Uh,IN1013.
+501.04,502.42,A,them out,IN1013.
+501.81,502.58,D,"right , that's",IN1013.
+502.42,502.73,A,. I mean,IN1013.
+502.58,502.81,D,what we,IN1013.
+502.73,503.34,A,you you,IN1013.
+502.81,502.97,D,did .,IN1013.
+503.34,506.08,A,shou you could be able to do some sort of code,IN1013.
+505.71,506.57,D,"Yeah , sure",IN1013.
+506.01,506.68,B,Yeah,IN1013.
+506.08,506.7,A,missing data,IN1013.
+506.57,506.94,D,. Sure,IN1013.
+506.68,506.68,B,.,IN1013.
+506.7,506.96,A,sort of,IN1013.
+506.94,507.36,D,", sure",IN1013.
+506.96,507.59,A,Bayes stuff,IN1013.
+507.36,508.01,D,. Yeah,IN1013.
+507.59,507.87,A,", yeah .",IN1013.
+508.01,512.21,D,". There are many things we would wouldn't at all . But yeah , exactly",IN1013.
+511.96,512.3,A,Okay,IN1013.
+512.21,512.35,D,. But,IN1013.
+512.3,512.3,A,.,IN1013.
+512.35,516.96,D,"now what I r really trying to do is somehow approximate that uh carrier signal , to",IN1013.
+516.93,517.34,A,Okay,IN1013.
+516.96,517.41,D,do something,IN1013.
+517.34,517.34,A,.,IN1013.
+517.41,520.64,D,with the carrier . There are many simple things which you can,IN1013.
+520.51,521.1,A,Yeah,IN1013.
+520.64,521.12,D,do like,IN1013.
+521.1,521.1,A,.,IN1013.
+521.12,523.75,D,uh quantization quantization,IN1013.
+523.27,523.86,A,It it would,IN1013.
+523.75,524.42,D,", for example",IN1013.
+523.86,524.53,A,be it,IN1013.
+524.42,524.42,D,.,IN1013.
+524.53,528.13,A,"would be nice to have a scalable scheme though , wouldn't it ? Like",IN1013.
+528.02,528.52,B,Hmm,IN1013.
+528.13,528.55,A,because you've got,IN1013.
+528.52,528.52,B,.,IN1013.
+528.55,533.94,A,a nice scalable scheme for the for for the the coding of the the smooth spectrum,IN1013.
+533.68,533.97,D,Right,IN1013.
+533.94,534.11,A,. It'd,IN1013.
+533.97,533.97,D,.,IN1013.
+534.11,539.63,A,be nice to have some sort of scalable coding scheme for the for the voice signal as well,IN1013.
+539.62,539.76,D,You,IN1013.
+539.63,540.11,A,", right",IN1013.
+539.76,540.33,D,mean something,IN1013.
+540.11,540.11,A,?,IN1013.
+540.33,545.15,D,like uh f uh that CELP coding system where you're,IN1013.
+544.37,544.85,B,Hmm .,IN1013.
+545.15,546.35,D,or wh,IN1013.
+545.99,546.4,A,"Well , I don't",IN1013.
+546.35,546.44,D,wh,IN1013.
+546.4,546.62,A,know,IN1013.
+546.44,546.64,D,wh what,IN1013.
+546.62,546.71,A,", I'm",IN1013.
+546.64,546.96,D,is,IN1013.
+546.71,547.02,A,just,IN1013.
+546.96,549.61,D,"no , what is exactly scalable system ? What you mean",IN1013.
+549.56,549.74,A,Well,IN1013.
+549.61,549.86,D,by,IN1013.
+549.74,550.14,A,", at different",IN1013.
+549.86,550.01,D,that ?,IN1013.
+550.14,551.74,A,bit rates . So the actual uh,IN1013.
+551.48,551.8,D,Oh yeah,IN1013.
+551.74,553.03,A,excitation,IN1013.
+551.8,553.18,D,", yeah , sure",IN1013.
+553.03,553.19,A,as,IN1013.
+553.18,553.41,D,. This,IN1013.
+553.19,554.01,A,well,IN1013.
+553.41,554.03,D,was yeah,IN1013.
+553.98,554.32,B,Yeah,IN1013.
+554.01,554.27,A,. Because,IN1013.
+554.03,554.03,D,.,IN1013.
+554.27,554.42,A,I mean,IN1013.
+554.32,554.88,B,", yeah",IN1013.
+554.42,555.38,A,it'd be nice uh,IN1013.
+554.88,554.88,B,.,IN1013.
+555.38,556.89,A,l let's say if you had twelve hundred,IN1013.
+556.61,557.05,D,For dif,IN1013.
+556.89,557.1,A,bits,IN1013.
+557.05,557.23,D,yeah,IN1013.
+557.1,557.46,A,for the,IN1013.
+557.23,557.62,D,", right",IN1013.
+557.46,557.79,A,for the,IN1013.
+557.62,557.81,D,. Right,IN1013.
+557.79,558.52,A,sp,IN1013.
+557.81,557.91,D,", right .",IN1013.
+558.52,560.22,A,smooth spectrum and twelve hundred bits for the,IN1013.
+560.08,560.58,D,Yeah,IN1013.
+560.22,560.62,A,voice,IN1013.
+560.58,560.78,D,. But,IN1013.
+560.62,560.85,A,", and then",IN1013.
+560.78,561.11,D,I think,IN1013.
+560.85,561.14,A,you could,IN1013.
+561.11,561.51,D,this,IN1013.
+561.14,561.62,A,scale them,IN1013.
+561.51,561.98,D,appr,IN1013.
+561.62,562.05,A,both,IN1013.
+561.98,562.34,D,approach,IN1013.
+562.05,562.05,A,.,IN1013.
+562.34,566.17,D,can do that because you really can split it into several bands,IN1013.
+565.58,566.21,A,"Yeah . Sure , sure",IN1013.
+566.17,566.28,D,. And,IN1013.
+566.21,566.86,A,", sure",IN1013.
+566.28,567.03,D,you can,IN1013.
+566.86,566.86,A,.,IN1013.
+567.03,568.87,D,decide how many bands you want more or less,IN1013.
+568.81,569.1,A,Yeah,IN1013.
+568.87,569.08,D,. So,IN1013.
+569.1,569.1,A,.,IN1013.
+569.7,570.41,C,I have a question,IN1013.
+570.03,570.36,B,Hmm .,IN1013.
+570.41,574.98,C,". Is the scale linear or is Mel scale , like in M_F_C_C_",IN1013.
+574.5,575.11,D,"Yeah , this is",IN1013.
+574.98,576.11,C,? Is it,IN1013.
+575.11,576.68,D,a bar scale we are using,IN1013.
+576.11,576.82,C,"bar scale , like",IN1013.
+576.68,576.87,D,. Yeah,IN1013.
+576.82,577.19,C,in,IN1013.
+576.87,577.52,D,", or Mel",IN1013.
+577.19,577.56,C,like in,IN1013.
+577.52,577.66,D,Mel,IN1013.
+577.56,577.7,C,sp,IN1013.
+577.66,577.9,D,scale,IN1013.
+577.7,577.97,C,yeah,IN1013.
+577.9,578.15,D,", so",IN1013.
+577.97,578.48,C,", okay",IN1013.
+578.15,579.14,D,it's uh,IN1013.
+578.48,578.48,C,.,IN1013.
+579.14,582.65,D,it's being uh more wider for,IN1013.
+582.39,582.7,B,Oh,IN1013.
+582.65,582.85,D,higher,IN1013.
+582.7,583.18,B,yeah,IN1013.
+582.85,583.32,D,frequencies,IN1013.
+583.18,583.4,B,", type",IN1013.
+583.32,583.54,D,and,IN1013.
+583.4,583.4,B,.,IN1013.
+583.54,586.45,D,of course the s the spaces,IN1013.
+584.49,587.41,C,"The overlapping is different , right ? Yep",IN1013.
+586.45,588.17,D,right . Yeah,IN1013.
+587.23,587.64,B,Hmm,IN1013.
+587.41,587.84,C,. Mm,IN1013.
+587.64,587.64,B,.,IN1013.
+587.84,587.84,C,.,IN1013.
+588.17,588.62,D,. But,IN1013.
+588.36,588.62,B,S,IN1013.
+588.62,593.45,D,what I w my sense is that it is not so much important still . I mean,IN1013.
+593.26,593.66,B,Hmm,IN1013.
+593.45,593.71,D,it doesn't,IN1013.
+593.66,593.66,B,.,IN1013.
+593.71,594.01,D,matter if,IN1013.
+593.94,594.34,A,Uh,IN1013.
+594.01,597.85,D,you're als use Mel scale or bar scale . But,IN1013.
+596.32,599.13,A,No no . Just long as it's some sort of,IN1013.
+597.85,599.61,D,"right , yeah",IN1013.
+599.13,600.02,A,non-linear,IN1013.
+599.61,600.14,D,. But that's what,IN1013.
+600.02,600.44,A,. Yep,IN1013.
+600.14,600.58,D,we are using,IN1013.
+600.44,600.44,A,.,IN1013.
+600.58,601.43,D,", yeah",IN1013.
+600.64,601.08,C,Okay and ?,IN1013.
+601.43,601.86,D,. Uh,IN1013.
+601.56,601.97,B,S,IN1013.
+601.86,602.19,D,actually,IN1013.
+601.97,602.56,B,so,IN1013.
+602.19,604.42,D,we are using just Gaussian windows here instead of those,IN1013.
+604.27,604.64,B,Oh,IN1013.
+604.42,605.53,D,triangulars,IN1013.
+604.64,604.98,B,okay .,IN1013.
+605.22,605.83,C,Okay,IN1013.
+605.53,605.76,D,because,IN1013.
+605.64,605.79,A,M,IN1013.
+605.76,605.84,D,they,IN1013.
+605.83,605.83,C,.,IN1013.
+605.84,607.99,D,are more,IN1013.
+607.29,608.14,B,Smoothed ? Or like,IN1013.
+607.98,608.14,A,The,IN1013.
+607.99,608.87,D,uh,IN1013.
+608.14,608.45,A,place,IN1013.
+608.14,608.52,B,apply,IN1013.
+608.45,608.61,A,more,IN1013.
+608.52,608.71,B,more,IN1013.
+608.61,609.02,A,emphasis,IN1013.
+608.87,609.08,D,no,IN1013.
+609.02,609.14,A,on,IN1013.
+609.08,609.28,D,", it's",IN1013.
+609.14,609.93,A,the,IN1013.
+609.28,609.62,D,better,IN1013.
+609.61,609.94,B,Hmm,IN1013.
+609.62,610.41,D,than for,IN1013.
+609.94,609.94,B,.,IN1013.
+610.41,612.07,D,decoding it's better to play with,IN1013.
+611.95,612.28,B,Ah,IN1013.
+612.07,612.29,D,them,IN1013.
+612.28,612.28,B,.,IN1013.
+612.29,614.65,D,"because they they are not zero anywhere , you know",IN1013.
+614.65,615.1,A,Yeah,IN1013.
+614.65,615.69,D,. They are,IN1013.
+615.1,615.55,A,", yeah , yeah .",IN1013.
+615.63,616.09,B,Hmm,IN1013.
+615.69,616.78,D,they are approaching,IN1013.
+616.09,616.09,B,.,IN1013.
+616.78,623.95,D,or in they are in zero . But actually they are not . So d you don't have to care about some zero values here and,IN1013.
+623.7,623.99,A,Okay,IN1013.
+623.95,624.09,D,but,IN1013.
+623.99,623.99,A,.,IN1013.
+624.09,625.38,D,"more or less it doesn't matter , yeah . We",IN1013.
+625.33,625.6,A,Yeah,IN1013.
+625.38,625.71,D,are using,IN1013.
+625.6,625.6,A,.,IN1013.
+625.71,627.05,D,just Gaus Gaussian windows .,IN1013.
+627.18,627.56,A,Okay .,IN1013.
+628.54,628.73,B,So,IN1013.
+628.61,629.37,A,Hmm,IN1013.
+628.73,629.58,B,after you're doing,IN1013.
+629.37,629.37,A,.,IN1013.
+629.58,632.56,B,L_S_F_s so or like I mean how you're finally,IN1013.
+632.07,632.81,D,"Okay , so",IN1013.
+632.56,633.35,B,hand coding,IN1013.
+632.81,639.04,D,l those are that the Hilbert envelope is um is approximated by linear prediction,IN1013.
+638.89,639.2,B,Ah,IN1013.
+639.04,639.25,D,. So,IN1013.
+639.2,639.2,B,.,IN1013.
+639.25,641.52,D,you have L_P_C_ coefficients which you can,IN1013.
+640.99,641.37,B,Oh .,IN1013.
+641.52,644.0,D,"transcribe into L_ L_ L_S_F_s , which",IN1013.
+643.95,644.09,A,And,IN1013.
+644.0,645.29,D,are,IN1013.
+644.09,645.29,A,then vector quantize,IN1013.
+645.26,646.44,B,Yeah,IN1013.
+645.29,645.4,A,or,IN1013.
+645.29,645.6,D,right,IN1013.
+645.4,645.95,A,whatever,IN1013.
+645.6,646.51,D,", exactly",IN1013.
+645.95,646.39,A,. Yeah .,IN1013.
+646.44,646.62,B,. So,IN1013.
+646.51,646.8,D,. Yeah,IN1013.
+646.62,646.86,B,first,IN1013.
+646.8,646.8,D,.,IN1013.
+646.86,650.08,B,you apply these triangle filters and then do L_P_C_ coding or like,IN1013.
+650.42,652.49,D,"Right , exactly . So first uh the",IN1013.
+652.11,652.39,B,Yeah .,IN1013.
+652.49,657.88,D,approach is quite sim simple . So at the beginning we apply D_C_T_ in order to get,IN1013.
+657.79,657.96,B,Yeah,IN1013.
+657.88,658.05,D,to,IN1013.
+657.96,659.09,B,", okay",IN1013.
+658.05,659.58,D,frequency domain,IN1013.
+659.09,659.5,B,. Yeah .,IN1013.
+659.58,662.45,D,. Then you apply those uh triangular or,IN1013.
+662.31,663.59,B,Filters,IN1013.
+662.45,663.81,D,Gaussian windows,IN1013.
+663.59,663.82,B,. Yeah,IN1013.
+663.81,663.95,D,. So,IN1013.
+663.82,663.82,B,.,IN1013.
+663.95,668.88,D,"this is done for one second , eight thousand samples for eight kilo-hertz sampling",IN1013.
+668.64,669.01,A,Hmm,IN1013.
+668.88,669.4,D,frequency,IN1013.
+668.95,669.31,B,Oh,IN1013.
+669.01,669.01,A,.,IN1013.
+669.31,669.61,B,okay,IN1013.
+669.4,670.25,D,", right",IN1013.
+669.61,669.61,B,.,IN1013.
+670.25,679.46,D,? So for such D_C_T_ trajectory you apply those uh Gaussian windows . And then i so you split it in two frequency,IN1013.
+679.37,679.62,B,Hmm,IN1013.
+679.46,680.1,D,sub-bands,IN1013.
+679.62,679.62,B,.,IN1013.
+680.1,684.19,D,. And then each one f frequency sub-band is more or less uh,IN1013.
+684.74,686.38,B,You can do the L_P_ analysis on each,IN1013.
+686.29,687.0,D,Right,IN1013.
+686.38,688.33,B,"sub-band , yeah",IN1013.
+687.0,687.56,D,. Right . Exactly,IN1013.
+687.34,687.5,C,Uh-uh .,IN1013.
+687.56,688.58,D,. You just apply L_,IN1013.
+688.33,689.02,B,". Yeah , m yeah",IN1013.
+688.58,690.19,D,"L_P_ , so",IN1013.
+689.02,689.2,B,", ok",IN1013.
+690.19,690.9,D,auto-correlation,IN1013.
+690.9,692.28,B,Yeah,IN1013.
+690.9,692.61,D,"let's say , or you can do",IN1013.
+692.28,693.74,B,. Yeah,IN1013.
+692.61,694.03,D,"power spectrum , whatever",IN1013.
+693.74,694.05,B,. Yeah,IN1013.
+694.03,694.19,D,. Yeah,IN1013.
+694.05,694.18,B,. Yeah,IN1013.
+694.1,694.46,A,Hmm,IN1013.
+694.18,694.18,B,.,IN1013.
+694.19,694.56,D,", so you",IN1013.
+694.46,694.46,A,.,IN1013.
+694.56,696.4,D,for each one you get L_S_F_s here .,IN1013.
+696.45,696.73,B,Yeah,IN1013.
+696.7,696.99,A,Mm-hmm,IN1013.
+696.73,696.73,B,.,IN1013.
+696.99,696.99,A,.,IN1013.
+698.9,700.96,B,So how many L_S_F_s you're using and,IN1013.
+700.93,708.82,D,"Uh well , I'm using now like twenty L_S_F_s per one second , per one frequency band .",IN1013.
+708.85,709.32,A,So,IN1013.
+709.02,709.57,B,Oh okay,IN1013.
+709.32,710.08,A,times,IN1013.
+709.57,711.09,B,. So but you,IN1013.
+710.08,711.25,A,fifteen,IN1013.
+711.09,711.3,B,how,IN1013.
+711.25,711.6,A,. Twen,IN1013.
+711.3,711.76,B,many bands,IN1013.
+711.6,711.78,A,that's,IN1013.
+711.76,711.92,B,you're,IN1013.
+711.78,712.05,A,t it's,IN1013.
+711.92,712.47,B,using,IN1013.
+712.05,712.55,A,twenty times,IN1013.
+712.44,712.94,D,Fifteen,IN1013.
+712.47,713.26,B,? If,IN1013.
+712.55,712.99,A,fifteen,IN1013.
+712.94,712.94,D,.,IN1013.
+712.99,713.57,A,", it's not",IN1013.
+713.26,715.27,B,you're you're not skipping any bands or like,IN1013.
+715.23,715.39,D,No,IN1013.
+715.27,716.02,B,oh,IN1013.
+715.39,716.24,D,no . If I just,IN1013.
+716.02,716.64,B,ok,IN1013.
+716.24,716.65,D,keep,IN1013.
+716.64,717.02,B,fifteen,IN1013.
+716.65,717.93,D,all them,IN1013.
+717.02,718.55,B,into twenty then . Like,IN1013.
+717.93,719.07,D,so twenty L_S_F_s,IN1013.
+718.55,718.83,B,uh .,IN1013.
+719.07,720.34,D,", each one is um",IN1013.
+721.07,721.45,B,Hmm .,IN1013.
+722.0,723.84,D,is quantized by four or five bits .,IN1013.
+724.33,727.44,A,"Okay . So it's it's yeah , it's three",IN1013.
+727.21,727.88,B,Ah,IN1013.
+727.44,727.97,A,hundred,IN1013.
+727.88,727.88,B,.,IN1013.
+727.97,727.97,A,.,IN1013.
+729.88,730.66,D,Of what ? Three,IN1013.
+730.56,730.81,A,It,IN1013.
+730.66,730.93,D,hundred,IN1013.
+730.81,731.03,A,I mean,IN1013.
+730.93,731.22,D,bits,IN1013.
+731.03,731.33,A,it's it's,IN1013.
+731.22,731.22,D,?,IN1013.
+731.33,734.11,A,total of three hundred sort of parameters,IN1013.
+733.13,733.81,B,Oh yeah .,IN1013.
+734.11,737.0,A,per second . Um,IN1013.
+737.6,740.04,D,"Two . Yeah , yeah . Yeah",IN1013.
+739.32,740.1,B,But phase you're not,IN1013.
+740.04,740.36,D,. Yeah,IN1013.
+740.1,740.5,B,encoding,IN1013.
+740.36,740.81,D,. Exactly,IN1013.
+740.5,741.07,B,anything . Phase,IN1013.
+740.81,740.81,D,.,IN1013.
+741.07,743.69,B,you're directly transmitting,IN1013.
+742.51,743.89,D,"You mean this phase , the",IN1013.
+743.69,743.98,B,that,IN1013.
+743.89,744.26,D,the,IN1013.
+743.98,744.43,B,. Uh,IN1013.
+744.26,744.64,D,Hilbert,IN1013.
+744.43,745.53,B,no th,IN1013.
+744.64,746.77,D,carrier ? Or,IN1013.
+745.53,747.24,B,"Yeah , yeah , yeah . The",IN1013.
+746.77,747.38,D,"no , of course",IN1013.
+747.24,747.52,A,Well,IN1013.
+747.24,747.55,B,phase,IN1013.
+747.38,747.76,D,we did,IN1013.
+747.52,748.02,A,", y",IN1013.
+747.55,748.25,B,of Hilbert,IN1013.
+748.02,748.41,A,you're not,IN1013.
+748.25,748.69,B,envelope,IN1013.
+748.41,748.82,A,you're not,IN1013.
+748.69,748.69,B,.,IN1013.
+748.82,750.68,A,carrying transmitting that at all really at this,IN1013.
+750.67,751.08,D,Yeah,IN1013.
+750.68,751.27,A,point in time,IN1013.
+751.08,751.08,D,.,IN1013.
+751.27,752.22,A,. I uh,IN1013.
+751.94,753.03,B,You're not transmitting at all like .,IN1013.
+753.42,760.99,D,"Uh w well , there are many things you can do . We don't well the first thing what you can really do is just to replace it by Gaussian",IN1013.
+760.97,761.28,B,Yeah,IN1013.
+760.99,761.98,D,noise,IN1013.
+761.28,762.05,B,"yeah , is noise",IN1013.
+761.98,762.09,D,. So,IN1013.
+762.05,762.68,B,. Fourier,IN1013.
+762.09,762.73,D,you can really,IN1013.
+762.68,762.68,B,.,IN1013.
+762.73,763.57,D,use t like in,IN1013.
+763.45,763.79,A,And,IN1013.
+763.57,764.19,D,uh L_P_C_,IN1013.
+763.79,764.76,A,and you get whispering,IN1013.
+764.19,764.94,D,system,IN1013.
+764.35,764.51,B,Yeah .,IN1013.
+764.76,765.15,A,type,IN1013.
+764.94,765.48,D,. Right,IN1013.
+765.15,765.82,A,synthesis,IN1013.
+765.48,766.45,D,. Exactly,IN1013.
+765.82,766.19,A,", yeah .",IN1013.
+766.45,772.44,D,". Or you can replace it by some cosine , one cosine generated in a cen centre frequency",IN1013.
+772.32,773.39,A,Yep,IN1013.
+772.44,773.72,D,of that Gaussian window,IN1013.
+773.39,773.97,A,. Or one,IN1013.
+773.72,773.72,D,.,IN1013.
+773.97,775.91,A,of these glottal pulse things,IN1013.
+775.89,776.36,B,Yeah,IN1013.
+775.91,776.5,A,. F and just,IN1013.
+776.36,776.36,B,.,IN1013.
+776.5,779.69,A,use basic L_P_C_ ten style,IN1013.
+778.8,780.09,D,Right,IN1013.
+779.69,780.24,A,". Yeah , which",IN1013.
+780.09,780.55,D,. Yeah,IN1013.
+780.24,780.64,A,is which is,IN1013.
+780.55,780.55,D,.,IN1013.
+780.64,790.27,A,"probably , I mean , if you're going to aim for like a very low rate code to below five hundred bits per second , I guess . That's that's probably fine",IN1013.
+788.33,790.3,D,It mi,IN1013.
+789.44,790.31,B,So what is the,IN1013.
+790.27,790.88,A,. But,IN1013.
+790.3,790.45,D,it,IN1013.
+790.31,790.69,B,CELP,IN1013.
+790.45,790.87,D,mi yeah,IN1013.
+790.69,791.18,B,standard,IN1013.
+790.87,790.87,D,.,IN1013.
+791.18,793.67,B,now ? Like it's it's two kilo-bits per second,IN1013.
+793.61,794.12,A,Uh,IN1013.
+793.67,794.24,B,? Or,IN1013.
+794.12,794.64,A,the lowest,IN1013.
+794.24,794.57,B,the,IN1013.
+794.64,799.03,A,"standard is MELP I think , which is twenty four hundred",IN1013.
+798.81,799.22,B,Oh that,IN1013.
+799.03,799.97,A,", the standard",IN1013.
+799.22,800.13,B,two two kilo-bits,IN1013.
+799.97,800.15,A,. It's,IN1013.
+800.13,800.37,B,per,IN1013.
+800.15,800.8,A,been implemented,IN1013.
+800.37,800.48,B,t,IN1013.
+800.8,802.08,A,at twelve hundred f,IN1013.
+801.93,802.46,B,Ah,IN1013.
+802.08,802.66,A,bits per second,IN1013.
+802.46,802.55,B,ok,IN1013.
+802.66,805.21,A,using more more complicated quantization,IN1013.
+804.85,806.09,B,Ah,IN1013.
+805.21,806.25,A,schemes and stuff like that,IN1013.
+806.09,806.52,B,. Some,IN1013.
+806.25,806.4,A,", I",IN1013.
+806.29,806.48,D,Twelve,IN1013.
+806.4,807.06,A,think,IN1013.
+806.48,808.11,D,hundred ? Yeah,IN1013.
+807.06,808.31,A,". I think so , yeah",IN1013.
+808.11,808.4,D,". Yeah , it's",IN1013.
+808.31,808.71,A,. I s,IN1013.
+808.4,808.73,D,possible,IN1013.
+808.71,808.81,A,I,IN1013.
+808.73,808.92,D,", some",IN1013.
+808.81,808.97,A,saw,IN1013.
+808.92,809.0,D,of,IN1013.
+808.97,809.16,A,that,IN1013.
+809.0,809.35,D,it,IN1013.
+809.16,809.42,A,they,IN1013.
+809.35,809.35,D,.,IN1013.
+809.42,811.31,A,used matrix quantisation on the L_P_,IN1013.
+811.29,811.54,D,Yeah,IN1013.
+811.31,812.05,A,uh,IN1013.
+811.54,811.54,D,.,IN1013.
+812.05,813.77,A,on the L_S_F_ parameters,IN1013.
+813.38,813.65,D,Mm-hmm .,IN1013.
+813.77,814.94,A,or whatever,IN1013.
+814.34,815.29,B,"Yeah , yeah . But",IN1013.
+814.94,817.97,A,. But I mean that's quite it becomes quite computationally,IN1013.
+817.68,817.97,D,R,IN1013.
+817.97,818.53,A,intensive,IN1013.
+817.97,818.24,D,right .,IN1013.
+818.53,821.07,A,. But I mean I imagine the same sort of approach could be taken,IN1013.
+820.87,821.07,D,Well,IN1013.
+821.07,821.2,A,with,IN1013.
+821.07,821.27,D,I'm,IN1013.
+821.2,821.52,A,yours,IN1013.
+821.27,822.15,D,just comparing,IN1013.
+821.52,821.67,A,as,IN1013.
+821.6,821.71,B,Yeah,IN1013.
+821.67,822.35,A,well,IN1013.
+821.71,821.71,B,.,IN1013.
+822.15,822.46,D,with,IN1013.
+822.35,822.35,A,.,IN1013.
+822.46,826.13,D,"uh L_P_C_ ten standard , which is like classical L_P_C_ . A",IN1013.
+826.11,826.37,A,No,IN1013.
+826.13,826.48,D,little bit,IN1013.
+826.37,826.37,A,.,IN1013.
+826.48,831.54,D,"optimized . So there in the there is I think two point four kilo-bits per second , the bit rate",IN1013.
+831.41,831.77,B,Hmm,IN1013.
+831.54,832.01,D,for that,IN1013.
+831.77,831.77,B,.,IN1013.
+831.95,832.19,A,Yeah,IN1013.
+832.01,832.01,D,.,IN1013.
+832.19,835.52,A,", that's the same . Twenty MELP*'s a lot better quality though",IN1013.
+835.49,835.67,D,Yeah,IN1013.
+835.51,836.19,B,Yeah,IN1013.
+835.52,836.42,A,. Yeah,IN1013.
+835.67,837.26,D,", definitely",IN1013.
+836.19,836.52,B,. But this,IN1013.
+836.42,836.42,A,.,IN1013.
+836.52,837.4,B,is codec centred,IN1013.
+837.26,837.98,D,. This is,IN1013.
+837.4,838.01,B,", no . You have code",IN1013.
+837.98,841.87,A,..No,IN1013.
+837.98,838.3,D,no,IN1013.
+838.01,838.73,B,book . So,IN1013.
+838.3,840.67,D,", uh I mean L_P_C_ ten is just L_P_C_",IN1013.
+840.36,840.68,B,Oh it's,IN1013.
+840.67,841.55,D,. No,IN1013.
+840.68,841.62,B,not codecs code,IN1013.
+841.55,841.84,D,no,IN1013.
+841.62,841.9,B,book . There,IN1013.
+841.84,842.11,D,no,IN1013.
+841.87,842.68,A,no,IN1013.
+841.9,842.15,B,is not,IN1013.
+842.11,843.66,D,. No,IN1013.
+842.15,842.72,B,code book . Oh,IN1013.
+842.68,842.78,A,. I,IN1013.
+842.72,842.83,B,ok,IN1013.
+842.78,844.46,A,think I think,IN1013.
+843.66,844.53,D,. Just noise or,IN1013.
+844.34,844.88,B,Oh,IN1013.
+844.46,844.55,A,I,IN1013.
+844.53,844.78,D,just,IN1013.
+844.55,845.16,A,think,IN1013.
+844.78,844.96,D,those,IN1013.
+844.88,844.88,B,.,IN1013.
+844.96,845.55,D,impulses,IN1013.
+845.16,845.63,A,I think,IN1013.
+845.55,845.55,D,.,IN1013.
+845.63,846.9,A,CELP or CELP or however,IN1013.
+846.83,846.95,B,Yeah,IN1013.
+846.9,847.25,A,you,IN1013.
+846.95,847.34,B,", CELP",IN1013.
+847.25,847.56,A,pronounce,IN1013.
+847.34,847.82,B,is,IN1013.
+847.56,847.9,A,that,IN1013.
+847.67,848.06,D,CELP,IN1013.
+847.9,848.25,A,. It's about,IN1013.
+848.06,848.06,D,.,IN1013.
+848.25,850.99,A,forty eight hundred I think,IN1013.
+850.13,851.07,B,"Yeah , it's it's it's",IN1013.
+850.99,851.65,A,. Yeah,IN1013.
+851.07,851.47,B,around one,IN1013.
+851.3,851.74,D,Yeah there,IN1013.
+851.47,852.13,B,kilo-byte,IN1013.
+851.65,852.45,A,. Well,IN1013.
+851.74,853.09,D,"yeah , yeah",IN1013.
+852.13,853.42,B,like,IN1013.
+852.45,853.21,A,the standard's forty,IN1013.
+853.09,853.41,D,. Yeah,IN1013.
+853.21,853.69,A,eight hundred,IN1013.
+853.41,853.57,D,. Yeah,IN1013.
+853.42,854.55,B,. Yeah,IN1013.
+853.57,853.89,D,", yeah",IN1013.
+853.69,854.08,A,or something,IN1013.
+853.89,854.3,D,. Four point,IN1013.
+854.08,854.67,A,", yeah",IN1013.
+854.3,854.57,D,eight or,IN1013.
+854.55,854.85,B,. Yeah,IN1013.
+854.57,855.01,D,something,IN1013.
+854.67,855.13,A,. Yeah,IN1013.
+854.85,855.1,B,", that's",IN1013.
+855.01,855.01,D,.,IN1013.
+855.1,855.26,B,a,IN1013.
+855.13,855.13,A,.,IN1013.
+855.26,858.97,B,", I think , even G_S_M_ and all this , G_ seven two nine",IN1013.
+858.08,858.98,A,Or based around that,IN1013.
+858.97,859.34,B,. Yeah,IN1013.
+858.98,859.8,A,. Yeah,IN1013.
+859.34,859.93,B,", yeah . On based",IN1013.
+859.8,861.18,A,. Okay,IN1013.
+859.82,860.18,D,Right,IN1013.
+859.93,860.27,B,on CELP,IN1013.
+860.18,860.18,D,.,IN1013.
+860.27,861.15,B,. At least it gives,IN1013.
+861.18,863.35,A,". It's not terribly interesting though , really",IN1013.
+863.12,863.48,B,But still,IN1013.
+863.35,863.35,A,.,IN1013.
+863.48,865.37,B,"they use a code book , no . So that's",IN1013.
+865.19,866.09,A,Yeah,IN1013.
+865.37,866.25,B,really uh,IN1013.
+866.09,866.47,A,. So I'm,IN1013.
+866.25,869.88,B,it's maybe better than like using just random noise,IN1013.
+869.79,869.98,A,Well,IN1013.
+869.88,870.4,B,or,IN1013.
+869.98,873.1,A,"you you've well , I mean you've got a bunch of options , haven't you . You can",IN1013.
+873.06,873.32,D,Yeah,IN1013.
+873.1,873.44,A,use,IN1013.
+873.15,874.42,B,Yeah,IN1013.
+873.32,873.56,D,", sure",IN1013.
+873.44,873.72,A,like,IN1013.
+873.56,873.56,D,.,IN1013.
+873.72,874.64,A,uh,IN1013.
+874.42,874.84,B,. Yeah,IN1013.
+874.64,875.13,A,a codec,IN1013.
+874.84,874.84,B,.,IN1013.
+875.13,876.54,A,sided or you could use a,IN1013.
+876.5,880.21,D,"Well more or less what we didn't do is analysis by synthesis , right . So that's",IN1013.
+880.04,880.52,B,Yeah,IN1013.
+880.21,881.06,D,what,IN1013.
+880.52,880.52,B,.,IN1013.
+880.77,881.51,A,Sinusoidal,IN1013.
+881.06,881.64,D,CELP is,IN1013.
+881.51,882.48,A,based,IN1013.
+881.64,882.5,D,"doing , right",IN1013.
+882.29,882.54,C,Mm-hmm,IN1013.
+882.48,882.78,A,. No,IN1013.
+882.5,883.48,D,. So,IN1013.
+882.54,882.54,C,.,IN1013.
+882.78,883.5,A,". Yeah , yeah . Sure , sure",IN1013.
+883.48,883.7,D,yeah,IN1013.
+883.5,883.82,A,", sure",IN1013.
+883.7,883.92,D,", so",IN1013.
+883.82,883.82,A,.,IN1013.
+883.92,886.7,D,this is what we do and uh that might,IN1013.
+886.62,886.95,B,Yeah,IN1013.
+886.7,887.01,D,help,IN1013.
+886.95,886.95,B,.,IN1013.
+887.01,888.44,D,"a lot , of course",IN1013.
+888.14,888.54,A,"Yeah , but",IN1013.
+888.44,888.55,D,. But,IN1013.
+888.54,888.77,A,what's,IN1013.
+888.55,890.4,D,w,IN1013.
+888.77,890.43,A,more interesting,IN1013.
+889.95,890.15,B,Huh .,IN1013.
+890.4,890.59,D,yeah,IN1013.
+890.43,890.61,A,? I,IN1013.
+890.59,891.08,D,", exactly",IN1013.
+890.61,891.53,A,I mean 'cause,IN1013.
+891.08,891.7,D,. That's that's,IN1013.
+891.53,892.11,A,c,IN1013.
+891.7,892.16,D,the question,IN1013.
+892.11,892.27,A,I,IN1013.
+892.16,892.16,D,.,IN1013.
+892.27,900.02,A,"I I suspect there somethings like um CELP . You're gonna get h lot higher band-width , aren't you . I mean it's a high band-width standard",IN1013.
+899.74,900.06,D,It will,IN1013.
+900.02,900.74,A,. So,IN1013.
+900.06,900.89,D,"be . Yeah , yeah . Yeah",IN1013.
+900.74,901.08,A,yeah,IN1013.
+900.89,901.87,D,", sure",IN1013.
+901.08,901.08,A,.,IN1013.
+901.5,901.97,B,Yeah,IN1013.
+901.87,902.0,D,. For,IN1013.
+901.97,901.97,B,.,IN1013.
+902.0,919.45,D,"example , uh there what I also did was uh a simple peak peaking algorithm . So if you take a look on that spectrum of that of that carrier signal , which is more or less like the cosine if you really take a look on that . But it is kind of frequency shifted cosine or frequency modulated cosine",IN1013.
+919.28,919.64,A,Okay,IN1013.
+919.45,919.74,D,". Right , so",IN1013.
+919.64,919.64,A,.,IN1013.
+919.74,922.25,D,it's th the frequency still to be changing,IN1013.
+921.78,922.43,A,"Yeah , yeah , yeah",IN1013.
+922.25,922.73,D,. Or,IN1013.
+922.43,922.43,A,.,IN1013.
+922.73,927.28,D,of course the amplitude is just not constant all time . It should be theoretically . But practically,IN1013.
+927.11,927.38,B,Ah,IN1013.
+927.28,927.39,D,it's,IN1013.
+927.38,927.51,B,", okay",IN1013.
+927.39,927.77,D,not,IN1013.
+927.51,927.51,B,.,IN1013.
+927.77,939.23,D,". So what you can see for a one second signal , you m more or less you already might see some like one one uh impulse there or spectral line for",IN1013.
+938.79,939.18,A,Okay .,IN1013.
+939.23,946.21,D,". But usually there are many others which are s quite small , but they are quite important . If you don't transmit them , then the",IN1013.
+946.11,946.42,B,Hmm,IN1013.
+946.21,946.51,D,signal,IN1013.
+946.42,946.42,B,.,IN1013.
+946.51,947.7,D,is quite robotic or something like,IN1013.
+947.7,948.12,A,Hmm,IN1013.
+947.7,948.19,D,that . So if you're,IN1013.
+948.12,948.12,A,.,IN1013.
+948.19,953.51,D,really transmitting just one spectral line . But this is what you can do . And you can understand pretty well,IN1013.
+953.01,953.32,C,Okay .,IN1013.
+953.51,956.48,D,. The signal is audible . Or,IN1013.
+956.01,956.5,A,Okay . So,IN1013.
+956.48,956.59,D,if,IN1013.
+956.5,956.6,A,I,IN1013.
+956.59,956.81,D,you're,IN1013.
+956.6,956.84,A,mean,IN1013.
+956.81,958.59,D,adjust uh,IN1013.
+958.59,958.76,B,But,IN1013.
+958.59,959.29,D,th find,IN1013.
+959.02,959.36,A,How,IN1013.
+959.29,962.83,D,"one one line , one speaker and dom dom dominant one",IN1013.
+962.69,962.94,A,Yep,IN1013.
+962.83,963.0,D,in the,IN1013.
+962.94,962.94,A,.,IN1013.
+963.0,963.94,D,spectrum,IN1013.
+963.59,964.12,B,Hmm,IN1013.
+963.94,964.28,D,of that,IN1013.
+964.12,964.12,B,.,IN1013.
+964.28,968.24,D,"c uh carrier Hil Hilbert carrier , and you just transmit this parameter",IN1013.
+968.02,968.55,A,Yeah,IN1013.
+968.24,968.24,D,.,IN1013.
+968.55,977.99,A,". 'Cause it's a bit tricky , isn't it . That's it's not like a standard I'm just thinking , I mean what sort of opt it's not like you can't just do standard um , you know , inverse filtering for um",IN1013.
+977.91,978.16,D,No,IN1013.
+977.99,978.22,A,signal,IN1013.
+978.16,978.21,D,", n",IN1013.
+978.22,980.4,A,"reconstruction or anything like that , can you",IN1013.
+980.323,980.323,B,.,IN1013.
+980.4,980.4,A,?,IN1013.
+981.08,989.59,D,It's even easier because what you have to do is just divide the you just multiply that Hilbert envelope by the table carrier . That that's all,IN1013.
+989.45,989.71,A,Uh oh,IN1013.
+989.59,989.59,D,.,IN1013.
+989.71,991.65,A,okay and then you just then you just do the inverse,IN1013.
+991.47,991.89,D,Yeah,IN1013.
+991.65,992.14,A,F_F_T_,IN1013.
+991.89,993.26,D,", yeah",IN1013.
+992.14,992.61,A,or whatever .,IN1013.
+992.88,993.5,B,"Inverse , yeah",IN1013.
+993.26,993.6,D,. Yeah,IN1013.
+993.5,993.79,B,. Inverse,IN1013.
+993.6,995.34,D,", exactly",IN1013.
+993.79,994.82,B,Hilbert . Yeah . Yeah .,IN1013.
+994.87,995.44,A,"Okay , the oth",IN1013.
+995.34,995.55,D,. So,IN1013.
+995.44,995.56,A,I,IN1013.
+995.55,995.69,D,so,IN1013.
+995.56,995.75,A,mean the,IN1013.
+995.69,995.82,D,you,IN1013.
+995.75,995.93,A,other,IN1013.
+995.82,996.19,D,just,IN1013.
+995.93,996.07,A,o,IN1013.
+996.19,1000.89,D,"multiply that uh one Hilbert carrier , which is transcribed by L_S_F_s",IN1013.
+1000.5,1000.85,A,Mm yeah .,IN1013.
+1000.89,1003.5,D,by that this one I_F_F_T_ signal . So,IN1013.
+1003.84,1008.8,A,"But that's gonna be susceptible to having phase problems , is that , when you",IN1013.
+1008.42,1011.75,D,Oh f you mean the phase of that uh,IN1013.
+1011.54,1012.46,B,Or,IN1013.
+1011.75,1011.86,D,of,IN1013.
+1011.76,1012.12,A,Yeah,IN1013.
+1011.86,1013.86,D,that carrier,IN1013.
+1012.12,1012.9,A,", yeah",IN1013.
+1012.46,1013.27,B,output signal,IN1013.
+1012.9,1012.9,A,.,IN1013.
+1013.27,1013.37,B,like,IN1013.
+1013.86,1023.5,D,"? Of of course I try to play also with that , and uh I found that it doesn't matter so much which what is the phase because we are using just one second window",IN1013.
+1023.08,1024.02,A,Yeah,IN1013.
+1023.5,1024.16,D,", right",IN1013.
+1024.02,1024.54,A,. Okay,IN1013.
+1024.16,1024.56,D,. So of,IN1013.
+1024.54,1024.54,A,.,IN1013.
+1024.56,1034.73,D,course there there might be uh some uh disturb uh disturbed uh when you concatenate those segments together . But then the phase might be important,IN1013.
+1034.07,1034.34,A,Yeah .,IN1013.
+1034.73,1042.2,D,". But otherwise , I mean , I didn't find any anything important with the phase . Like great , keep the phase zero and it works . Or",IN1013.
+1042.1,1054.28,A,"Hmm . And now I mean there is there are um mm there is research uh um pu that's been published showing , you know , speech reconstruction from the essentially the spectrogram without",IN1013.
+1054.01,1054.87,D,Right,IN1013.
+1054.28,1055.52,A,phase information,IN1013.
+1054.87,1055.64,D,. Right right right,IN1013.
+1055.52,1056.42,A,. Yeah,IN1013.
+1055.64,1056.62,D,. Yeah,IN1013.
+1056.42,1056.84,A,. So,IN1013.
+1056.62,1062.22,D,". But it's again a little bit different , because they are i they are doing this in a frequency domain",IN1013.
+1061.6,1062.06,A,Yes .,IN1013.
+1062.22,1062.83,D,. But this is,IN1013.
+1062.82,1063.06,B,Yeah,IN1013.
+1062.83,1063.26,D,in time,IN1013.
+1063.06,1063.06,B,.,IN1013.
+1063.26,1064.15,D,"domain , more",IN1013.
+1064.11,1064.46,A,Yes,IN1013.
+1064.15,1064.51,D,or less,IN1013.
+1064.46,1064.57,A,", but",IN1013.
+1064.51,1064.51,D,.,IN1013.
+1064.57,1069.72,A,I mean you can reconstruct the the f the th the entire,IN1013.
+1069.94,1072.25,D,"Right . The spectrogram , you",IN1013.
+1071.93,1072.59,A,Spectrogram,IN1013.
+1072.25,1072.7,D,mean,IN1013.
+1072.59,1072.83,A,from,IN1013.
+1072.7,1073.03,D,. Yeah,IN1013.
+1072.83,1073.2,A,"that , can't",IN1013.
+1073.03,1073.34,D,", yeah",IN1013.
+1073.2,1073.46,A,you,IN1013.
+1073.34,1074.59,D,", yeah",IN1013.
+1073.46,1074.73,A,. So you could do it that way,IN1013.
+1074.59,1075.07,D,. Yeah,IN1013.
+1074.73,1075.26,A,. Cause I'm just saying,IN1013.
+1075.07,1075.07,D,.,IN1013.
+1075.26,1080.8,A,there's a heaps of there heaps of options . Like if y you be exactly the same as sinusoidal coding or something like that,IN1013.
+1080.79,1081.96,D,Right,IN1013.
+1080.8,1082.45,A,. All you need is the reconstruction,IN1013.
+1081.96,1082.32,D,. Right .,IN1013.
+1082.45,1086.32,A,of the spectrogram in order to estimate the harmonic amplitudes and,IN1013.
+1085.81,1092.46,D,Exactly . What we can also do very simple is just to get the magnitude spectrogram,IN1013.
+1092.27,1093.95,B,And then,IN1013.
+1092.46,1094.2,D,using this approximation,IN1013.
+1093.95,1094.23,B,yeah,IN1013.
+1094.2,1094.53,D,without,IN1013.
+1094.23,1094.23,B,.,IN1013.
+1094.53,1096.36,D,"the carrier , just Hilbert envelope",IN1013.
+1096.13,1096.39,A,Yeah,IN1013.
+1096.36,1096.61,D,. But,IN1013.
+1096.39,1096.39,A,.,IN1013.
+1096.61,1099.13,D,"you just uh get it in in this way , in",IN1013.
+1098.73,1099.07,A,Yeah .,IN1013.
+1099.13,1104.04,D,"in the way of Rob's , right . But you can also get the s short time Fourier transform",IN1013.
+1103.03,1103.41,A,Ye,IN1013.
+1103.49,1103.93,B,Yeah yeah .,IN1013.
+1104.04,1104.85,D,uh,IN1013.
+1104.49,1105.48,A,Just by refitting,IN1013.
+1104.85,1105.68,D,and keep it,IN1013.
+1105.48,1105.48,A,.,IN1013.
+1105.68,1108.06,D,right . Just classical uh,IN1013.
+1107.94,1108.39,A,Yeah,IN1013.
+1108.06,1108.51,D,frame by,IN1013.
+1108.39,1108.39,A,.,IN1013.
+1108.51,1112.54,D,"frame algorithm , twenty milliseconds . Uh but you keep just the phases",IN1013.
+1112.03,1112.53,A,"Yeah , yeah .",IN1013.
+1112.54,1112.95,D,instead of,IN1013.
+1112.93,1113.53,C,Mm-hmm,IN1013.
+1112.95,1113.66,D,magnitudes,IN1013.
+1113.53,1113.53,C,.,IN1013.
+1113.66,1115.83,D,. And you can put this together,IN1013.
+1115.32,1115.78,A,Okay .,IN1013.
+1115.83,1116.45,D,", right",IN1013.
+1116.31,1116.78,B,Hmm,IN1013.
+1116.45,1117.68,D,. And it works,IN1013.
+1116.78,1116.78,B,.,IN1013.
+1117.68,1124.77,D,"pretty well , and then the signal is not uh just uh whispered . Then you really hear that there is the voiceness in",IN1013.
+1124.73,1125.53,A,Yeah,IN1013.
+1124.77,1126.45,D,the signal,IN1013.
+1125.23,1125.56,B,Oh,IN1013.
+1125.53,1125.86,A,", okay",IN1013.
+1125.56,1125.62,B,ok,IN1013.
+1125.86,1125.86,A,.,IN1013.
+1126.45,1129.49,D,. But uh of course the quality is uh is not so,IN1013.
+1129.48,1129.53,A,D,IN1013.
+1129.49,1129.67,D,good,IN1013.
+1129.53,1129.83,A,it's th,IN1013.
+1129.67,1131.08,D,still . But uh you can,IN1013.
+1130.81,1131.08,B,Hmm .,IN1013.
+1131.08,1134.22,D,"use it for like two , three kilo-bits per second and it works .",IN1013.
+1134.54,1134.98,A,Yeah,IN1013.
+1134.62,1134.98,B,Hmm,IN1013.
+1134.98,1135.09,A,. But,IN1013.
+1134.98,1134.98,B,.,IN1013.
+1135.09,1138.21,A,"that's that's the big thing at the moment , isn't it . If if you're mm",IN1013.
+1138.15,1138.52,D,Like,IN1013.
+1138.21,1138.59,A,if,IN1013.
+1138.52,1139.05,D,yeah,IN1013.
+1138.59,1139.24,A,i if the,IN1013.
+1139.05,1139.05,D,.,IN1013.
+1139.24,1147.2,A,if the exci if the if the encoding rate's two kilo-bits per second for the the excitation component of the signal,IN1013.
+1146.1,1146.34,D,Right .,IN1013.
+1147.2,1152.22,A,". It doesn't matter how efficient your um encoding of the spectrogram is , you're",IN1013.
+1151.99,1152.49,D,Right,IN1013.
+1152.22,1152.68,A,always gonna,IN1013.
+1152.49,1152.49,D,.,IN1013.
+1152.68,1155.71,A,have a high relatively high bit rate .,IN1013.
+1156.79,1157.26,D,"Yeah , sure",IN1013.
+1157.02,1157.24,B,Hmm .,IN1013.
+1157.26,1157.26,D,.,IN1013.
+1157.522,1161.85,A,. Yeah .,IN1013.
+1162.2,1175.93,D,"Anyway , so um hmm m maybe it would be nice if you t if you tell us uh what you do with the speech coding 'cause I d I didn't see any of P_H_D_s of you , I think . So if you did something so",IN1013.
+1175.86,1175.98,C,I,IN1013.
+1175.93,1176.14,D,maybe,IN1013.
+1175.98,1176.16,C,have,IN1013.
+1176.14,1176.25,D,it,IN1013.
+1176.16,1176.39,C,never,IN1013.
+1176.25,1176.45,D,would be,IN1013.
+1176.39,1176.93,C,done,IN1013.
+1176.45,1176.83,D,interesting,IN1013.
+1176.46,1176.55,A,Nah .,IN1013.
+1176.83,1176.94,D,at,IN1013.
+1176.93,1179.78,C,anything,IN1013.
+1176.94,1177.2,D,least,IN1013.
+1177.13,1177.48,A,Yeah,IN1013.
+1177.2,1179.29,D,to,IN1013.
+1177.48,1179.82,A,", yeah . Yeah , sure . Well",IN1013.
+1179.78,1179.78,C,.,IN1013.
+1179.82,1185.4,A,", one could argue it's it's a field that's quite a sort of a niche these days , isn't it",IN1013.
+1184.32,1185.02,D,Yeah . Yeah,IN1013.
+1184.88,1185.77,B,Hmm,IN1013.
+1185.02,1185.29,D,", sure .",IN1013.
+1185.4,1186.02,A,. Um,IN1013.
+1185.77,277.154,B,. But yeah but it's .,IN1013.
+1186.68,1188.06,B,"more towards industry , no",IN1013.
+1187.93,1188.07,A,In,IN1013.
+1188.06,1188.18,B,. Like,IN1013.
+1188.07,1188.71,A,standards,IN1013.
+1188.18,1188.86,B,the,IN1013.
+1188.71,1189.44,A,and,IN1013.
+1188.86,1189.53,B,"yeah , because I",IN1013.
+1189.41,1189.72,D,It's,IN1013.
+1189.44,1189.85,A,yeah,IN1013.
+1189.53,1189.88,B,worked,IN1013.
+1189.72,1190.23,D,true,IN1013.
+1189.85,1189.85,A,.,IN1013.
+1189.88,1190.32,B,in a,IN1013.
+1190.23,1190.23,D,.,IN1013.
+1190.32,1197.71,B,"industry for like a small time . But they're they used to implement all these coders , G_S_M_ and I_T_U_ standards .",IN1013.
+1197.76,1200.11,D,So you were when when did you do that ?,IN1013.
+1200.25,1202.38,B,"No , just before my P_H_D_",IN1013.
+1201.85,1203.63,D,Oh okay,IN1013.
+1202.38,1204.3,B,. for like few months,IN1013.
+1203.63,1203.88,D,. Uh-huh .,IN1013.
+1204.3,1208.9,B,". Yeah , but that's uh like industry it's really a big deal like . So they they",IN1013.
+1208.16,1208.49,A,Mm yeah .,IN1013.
+1208.9,1211.99,B,they work on a lot of these standards,IN1013.
+1210.63,1211.32,D,"I think so , yeah .",IN1013.
+1211.47,1212.09,A,Well did you say,IN1013.
+1211.99,1212.6,B,. Yeah,IN1013.
+1212.09,1212.62,A,uh who,IN1013.
+1212.6,1212.9,B,. But,IN1013.
+1212.62,1212.97,A,said,IN1013.
+1212.9,1215.62,B,mostly they're all based on CELP like mainly,IN1013.
+1215.27,1216.42,A,Yeah,IN1013.
+1215.62,1216.39,B,. Yeah . So,IN1013.
+1216.42,1222.09,A,. Is it Nokia's being sued in the U_S_ for their tri-band,IN1013.
+1221.69,1222.34,B,How,IN1013.
+1222.09,1222.95,A,usage,IN1013.
+1222.34,1222.34,B,?,IN1013.
+1222.95,1223.63,A,'cause,IN1013.
+1223.6,1223.73,D,You,IN1013.
+1223.63,1223.87,A,", you",IN1013.
+1223.73,1224.23,D,mean using,IN1013.
+1223.87,1224.53,A,"know , intellectual",IN1013.
+1224.23,1224.95,D,that uh,IN1013.
+1224.53,1226.07,A,property,IN1013.
+1224.95,1226.75,D,C_D_M_A_,IN1013.
+1226.07,1227.04,A,. Uh,IN1013.
+1226.75,1227.13,D,? Or,IN1013.
+1227.04,1228.11,A,"no no , g G_S_M_",IN1013.
+1227.66,1228.16,B,Tri-band,IN1013.
+1228.11,1228.33,A,because,IN1013.
+1228.16,1228.84,B,is G_S_M_,IN1013.
+1228.33,1229.27,A,they don't have G_S_M_,IN1013.
+1228.84,1228.84,B,.,IN1013.
+1229.27,1231.62,A,in the U_S_ . Or I didn't have G_S_M_ in the U_S_,IN1013.
+1231.58,1231.76,D,Yeah,IN1013.
+1231.62,1231.62,A,.,IN1013.
+1231.76,1233.62,D,", it's not G_S_M_ . Right it's uh",IN1013.
+1233.31,1233.35,A,UH,IN1013.
+1233.34,1234.1,B,C_D_M_A_,IN1013.
+1233.35,1234.27,A,it's,IN1013.
+1233.62,1234.13,D,kind of,IN1013.
+1234.1,1234.1,B,.,IN1013.
+1234.13,1234.84,D,s,IN1013.
+1234.27,1234.85,A,f uh,IN1013.
+1234.84,1234.92,D,no,IN1013.
+1234.85,1235.14,A,okay,IN1013.
+1234.92,1235.41,D,C_D_M_A_,IN1013.
+1235.14,1235.14,A,.,IN1013.
+1235.41,1236.93,D,"is uh another level , I think",IN1013.
+1236.85,1237.0,B,No,IN1013.
+1236.93,1236.93,D,.,IN1013.
+1237.0,1237.11,B,no,IN1013.
+1237.07,1237.22,A,No,IN1013.
+1237.11,1237.26,B,", but",IN1013.
+1237.22,1237.32,A,no,IN1013.
+1237.26,1237.65,B,C_D_M_,IN1013.
+1237.32,1237.38,A,n,IN1013.
+1237.65,1240.86,B,is there but now slowly they're introducing G_S_M_ also now in U_S_,IN1013.
+1240.65,1240.91,A,Uh well,IN1013.
+1240.86,1242.04,B,like,IN1013.
+1240.91,1242.64,A,"that's tri-band , s yeah",IN1013.
+1242.04,1242.77,B,". Yeah , G_S_M_",IN1013.
+1242.64,1243.12,A,. Yeah,IN1013.
+1242.77,1243.18,B,tri-band,IN1013.
+1242.96,1243.16,C,Yeah,IN1013.
+1243.12,1244.07,A,", yeah",IN1013.
+1243.16,1243.48,C,", tri-band",IN1013.
+1243.18,1243.92,B,. Like the frequencies,IN1013.
+1243.48,1244.08,C,G_S_M_,IN1013.
+1243.92,1244.47,B,are different,IN1013.
+1244.07,1245.12,A,. Yeah,IN1013.
+1244.08,1244.57,C,", yeah . Different",IN1013.
+1244.47,1245.3,B,", like",IN1013.
+1244.57,1245.88,C,"frequency . Yeah , exactly",IN1013.
+1245.12,1245.43,A,. Yeah . Yeah,IN1013.
+1245.3,1245.54,B,very,IN1013.
+1245.43,1246.11,A,yep,IN1013.
+1245.54,1245.76,B,uh,IN1013.
+1245.88,1246.19,C,. Mm-hmm,IN1013.
+1246.11,1246.32,A,. And,IN1013.
+1246.19,1246.19,C,.,IN1013.
+1246.32,1249.78,A,"apparently Nokia's in a bit of trouble over that one , but",IN1013.
+1249.45,1249.75,D,Mm-hmm,IN1013.
+1249.7,1250.08,B,Ah,IN1013.
+1249.75,1249.75,D,.,IN1013.
+1249.78,1250.91,A,yeah,IN1013.
+1250.08,1250.08,B,.,IN1013.
+1250.91,1251.74,A,. Well it's interesting,IN1013.
+1251.68,1251.99,B,Yeah,IN1013.
+1251.74,1251.74,A,.,IN1013.
+1251.99,1252.84,B,. Now it's really big,IN1013.
+1252.76,1253.1,D,I think,IN1013.
+1252.84,1253.68,B,competition,IN1013.
+1253.1,1253.76,D,there is a l,IN1013.
+1253.68,1253.68,B,.,IN1013.
+1253.76,1255.95,D,lot of money in that like,IN1013.
+1255.84,1256.23,A,Yeah,IN1013.
+1255.95,1257.24,D,", right",IN1013.
+1256.23,1256.44,A,. Should've,IN1013.
+1256.42,1256.69,B,Yeah,IN1013.
+1256.44,1259.03,A,been a lawyer,IN1013.
+1256.69,1256.69,B,.,IN1013.
+1257.24,1259.16,D,". Like speech recognition , of course",IN1013.
+1259.03,1259.03,A,.,IN1013.
+1259.16,1263.1,D,"it's very interesting , but people don't use it so much as",IN1013.
+1262.9,1264.73,A,Well that's,IN1013.
+1263.1,1265.1,D,"s just coding , just telephoning",IN1013.
+1264.99,1265.31,A,But,IN1013.
+1265.1,1265.33,D,", right",IN1013.
+1265.31,1265.44,A,I,IN1013.
+1265.33,1265.49,D,", or",IN1013.
+1265.44,1265.68,A,mean,IN1013.
+1265.49,1265.75,D,just,IN1013.
+1265.68,1268.91,A,coding is a much more sort of,IN1013.
+1268.47,1269.13,B,Standard,IN1013.
+1268.91,1269.32,A,it's,IN1013.
+1269.13,1269.35,B,maybe,IN1013.
+1269.32,1269.54,A,it's,IN1013.
+1269.35,1271.08,B,like,IN1013.
+1269.54,1271.16,A,it well I mean it's it's uh it when,IN1013.
+1271.08,1271.77,B,established,IN1013.
+1271.16,1271.84,A,it boils down,IN1013.
+1271.77,1271.77,B,.,IN1013.
+1271.84,1273.73,A,to just mathematics to a large,IN1013.
+1273.51,1273.97,D,Right,IN1013.
+1273.73,1274.18,A,extent,IN1013.
+1273.97,1274.48,D,. Yeah,IN1013.
+1274.18,1274.94,A,", doesn't",IN1013.
+1274.48,1275.05,D,. They s yeah,IN1013.
+1274.94,1275.53,A,it,IN1013.
+1275.05,1275.27,D,", yeah .",IN1013.
+1275.53,1279.79,A,". It's it's just uh sort of it's , you know",IN1013.
+1279.16,1279.66,B,Yeah .,IN1013.
+1279.79,1281.66,A,", communications s",IN1013.
+1280.82,1281.64,D,Right . Right .,IN1013.
+1281.66,1282.75,A,sort of No .,IN1013.
+1283.01,1287.13,B,So where do you think your thing is useful ? In C_D_M_A_ or G_S_M_,IN1013.
+1286.79,1287.64,D,No,IN1013.
+1287.13,1287.7,B,? I think maybe,IN1013.
+1287.64,1287.75,D,", I",IN1013.
+1287.7,1287.77,B,in,IN1013.
+1287.75,1287.79,D,I,IN1013.
+1287.77,1288.29,B,C_D_M_A_,IN1013.
+1287.79,1287.79,D,.,IN1013.
+1288.29,1290.07,B,it may be m,IN1013.
+1289.92,1290.13,D,Well,IN1013.
+1290.07,1290.6,B,C_D_M_A_,IN1013.
+1290.13,1290.87,D,what we were,IN1013.
+1290.6,1291.09,B,is more,IN1013.
+1290.87,1291.2,D,what we,IN1013.
+1291.09,1291.7,B,like,IN1013.
+1291.2,1294.01,D,"were thinking about is oh , C_D_M_A_ , I mean there",IN1013.
+1293.88,1294.09,B,More,IN1013.
+1294.01,1294.14,D,is,IN1013.
+1294.09,1294.38,B,time,IN1013.
+1294.14,1294.41,D,the,IN1013.
+1294.38,1294.72,B,domain,IN1013.
+1294.41,1294.53,D,b,IN1013.
+1294.72,1296.76,B,. The they they are c doing only,IN1013.
+1298.33,1309.52,D,"Well , the problem is this in with this application , or it doesn't have to be problem but one constraint is that we are processing one second of the signal . You can go down of course . But then you are losing little bit of the bit rate , let's say",IN1013.
+1309.52,1309.74,A,Yeah,IN1013.
+1309.52,1310.41,D,", right",IN1013.
+1309.74,1310.34,A,". Sure , sure",IN1013.
+1310.26,1310.57,B,Yeah,IN1013.
+1310.34,1310.34,A,.,IN1013.
+1310.41,1310.81,D,. So,IN1013.
+1310.57,1310.57,B,.,IN1013.
+1310.81,1316.95,D,"but there are many applications where you really can use it because you don't care about algorithmic delay , one second algorithmic delay , like",IN1013.
+1316.9,1317.25,B,Yeah,IN1013.
+1316.95,1317.88,D,for,IN1013.
+1317.25,1317.25,B,.,IN1013.
+1317.88,1322.45,D,I don't know if instead of S_M_S_ you can really have some channel,IN1013.
+1321.5,1322.72,A,"Yeah . Sure , sure",IN1013.
+1322.45,1322.85,D,where you,IN1013.
+1322.72,1322.91,A,. Push,IN1013.
+1322.85,1323.8,D,just,IN1013.
+1322.91,1323.89,A,to talk and stuff like,IN1013.
+1323.8,1325.5,D,right,IN1013.
+1323.89,1324.58,A,that . Yep .,IN1013.
+1325.5,1327.54,D,. Um so,IN1013.
+1326.95,1327.57,A,"And I mean , as",IN1013.
+1327.54,1327.83,D,probably,IN1013.
+1327.57,1328.07,A,you say,IN1013.
+1327.83,1327.83,D,.,IN1013.
+1328.07,1332.87,A,", I mean that delay is , I mean you can squash that delay to some extent",IN1013.
+1332.74,1333.07,D,Right,IN1013.
+1332.87,1333.77,A,", right",IN1013.
+1333.07,1333.57,D,", right",IN1013.
+1333.41,1333.81,B,Yeah,IN1013.
+1333.57,1333.83,D,. Yeah,IN1013.
+1333.77,1333.89,A,. I,IN1013.
+1333.81,1333.81,B,.,IN1013.
+1333.83,1333.83,D,.,IN1013.
+1333.89,1342.18,A,"n I think as far as the co you know , c c Delilah's coding goes , I don't think you can probably do much more than what's already been achieved . Because",IN1013.
+1341.71,1342.25,B,Yeah,IN1013.
+1342.18,1342.31,A,to,IN1013.
+1342.25,1342.25,B,.,IN1013.
+1342.31,1348.09,A,"get higher compression you have to , you know , take advantage of redundancy over longer",IN1013.
+1347.82,1348.19,D,Right,IN1013.
+1348.09,1348.37,A,time,IN1013.
+1348.19,1348.19,D,.,IN1013.
+1348.37,1349.62,A,spans . So,IN1013.
+1349.91,1350.39,B,But you know,IN1013.
+1350.19,1350.41,D,Yep,IN1013.
+1350.39,1350.68,B,really,IN1013.
+1350.41,1350.41,D,.,IN1013.
+1350.68,1355.23,B,"the these long line telephones , they already have delay , no . At least half a second",IN1013.
+1354.96,1355.35,A,"Yeah , sure",IN1013.
+1355.23,1356.71,B,or,IN1013.
+1355.35,1356.87,A,", but I mean that's transmission delay , not",IN1013.
+1356.71,1358.06,B,yeah,IN1013.
+1356.87,1358.12,A,algorithmic delay . If you add,IN1013.
+1358.06,1358.46,B,. Yeah,IN1013.
+1358.12,1358.35,A,those,IN1013.
+1358.2,1358.5,D,Right,IN1013.
+1358.35,1358.7,A,together,IN1013.
+1358.46,1359.71,B,. Yeah,IN1013.
+1358.5,1358.5,D,.,IN1013.
+1358.7,1359.91,A,you end up with a,IN1013.
+1359.71,1361.31,B,. Yeah,IN1013.
+1359.91,1364.41,A,"the nightmare scenario , I guess",IN1013.
+1361.31,1367.37,B,. But mobile m,IN1013.
+1364.21,1364.46,D,What if,IN1013.
+1364.41,1364.52,A,. We,IN1013.
+1364.46,1368.14,D,s,IN1013.
+1364.52,1365.06,A,might have someone,IN1013.
+1364.86,1368.18,C,Okay,IN1013.
+1365.06,1369.74,A,else joining our uh meeting soon,IN1013.
+1368.18,1368.18,C,.,IN1013.
+1369.55,1369.78,B,And,IN1013.
+1369.74,1370.13,A,. Oh,IN1013.
+1369.78,1370.31,B,this one is,IN1013.
+1370.13,1374.86,A,"yeah . I don't know , I mean uh you'd be you tried sinusoidal coding based approaches , didn't",IN1013.
+1374.84,1374.98,D,Which,IN1013.
+1374.86,1375.32,A,you,IN1013.
+1374.98,1376.79,D,one,IN1013.
+1375.32,1376.79,A,? Sinusoidal coding .,IN1013.
+1376.79,1392.78,D,", s oh Well , but the sinusoidal coding is usually m when you s at least what I think or uh what I know is when you are doing sinusoidal coding it means you just take the speech signal at the beginning , right . And you are trying to find to",IN1013.
+1392.41,1393.27,B,Uh harmonics,IN1013.
+1392.78,1393.52,D,uh,IN1013.
+1393.27,1393.81,B,and the,IN1013.
+1393.52,1394.61,D,"yeah , to find the harmonics",IN1013.
+1394.14,1395.99,A,"Yeah , but sure",IN1013.
+1394.61,1396.13,D,"in a temporal domain , right",IN1013.
+1395.99,1396.15,A,. Yeah,IN1013.
+1396.13,1396.32,D,", for",IN1013.
+1396.15,1396.41,A,", m yeah",IN1013.
+1396.21,1396.47,B,Yeah,IN1013.
+1396.32,1396.49,D,that,IN1013.
+1396.41,1396.54,A,", tr",IN1013.
+1396.47,1396.47,B,.,IN1013.
+1396.49,1396.49,D,.,IN1013.
+1396.54,1408.29,A,"yeah it's a yeah , but I mean the th the the thing is you'd need ti it part of the parameter set for that is uh the um uh the f uh the harmonic amplitudes",IN1013.
+1408.13,1408.4,D,Right,IN1013.
+1408.29,1408.52,A,. And then,IN1013.
+1408.4,1408.4,D,.,IN1013.
+1408.52,1414.99,A,one way of compressing the harmonic amplitudes is just storing the smooth spectrum . And then,IN1013.
+1414.49,1415.05,D,Oh . Yeah,IN1013.
+1414.88,1415.12,B,And,IN1013.
+1414.99,1415.12,A,you,IN1013.
+1415.05,1415.05,D,.,IN1013.
+1415.12,1415.31,A,can,IN1013.
+1415.12,1415.36,B,then,IN1013.
+1415.31,1415.38,A,uh,IN1013.
+1415.36,1416.79,B,picking,IN1013.
+1415.38,1416.83,A,and then you can interpolate,IN1013.
+1416.79,1417.07,B,yeah,IN1013.
+1416.83,1417.18,A,"yeah , you",IN1013.
+1417.07,1417.07,B,.,IN1013.
+1417.18,1422.28,A,can just pick the the um the harmonic amplitudes on that spectrum when you reconstruct,IN1013.
+1421.83,1423.47,D,Right,IN1013.
+1422.28,1423.64,A,on that smooth version of the spectrum,IN1013.
+1423.47,1423.64,D,. More or,IN1013.
+1423.64,1423.75,A,when,IN1013.
+1423.64,1423.85,D,less,IN1013.
+1423.75,1423.9,A,you,IN1013.
+1423.85,1423.95,D,I,IN1013.
+1423.9,1424.6,A,reconstruct,IN1013.
+1423.95,1424.75,D,did it maybe,IN1013.
+1424.6,1425.91,A,. Y,IN1013.
+1424.75,1426.38,D,"different way , but",IN1013.
+1425.5,1425.96,B,Yeah,IN1013.
+1425.91,1426.29,A,yeah,IN1013.
+1425.96,1425.96,B,.,IN1013.
+1426.29,1426.39,A,. Well,IN1013.
+1426.38,1426.6,D,kind,IN1013.
+1426.39,1426.64,A,", I was just",IN1013.
+1426.6,1426.75,D,of,IN1013.
+1426.64,1427.01,A,saying,IN1013.
+1426.75,1431.92,D,"algorithm like okay , trying to find out the strongest or the the most dominant peaks in the",IN1013.
+1431.82,1432.84,A,Yeah,IN1013.
+1431.92,1432.94,D,spectrum,IN1013.
+1432.84,1433.06,A,. Yep,IN1013.
+1432.94,1433.09,D,", which",IN1013.
+1433.06,1433.06,A,.,IN1013.
+1433.09,1433.24,D,is,IN1013.
+1433.17,1433.38,B,But,IN1013.
+1433.24,1433.4,D,more,IN1013.
+1433.38,1433.61,B,maybe,IN1013.
+1433.4,1433.68,D,or less the,IN1013.
+1433.61,1433.91,B,the,IN1013.
+1433.68,1434.1,D,same,IN1013.
+1433.91,1434.3,B,bit rate,IN1013.
+1434.1,1434.1,D,.,IN1013.
+1434.3,1435.55,B,"is the problem , no . Like what",IN1013.
+1435.42,1435.71,A,Yeah,IN1013.
+1435.55,1435.81,B,David,IN1013.
+1435.71,1435.88,A,", well",IN1013.
+1435.81,1436.0,B,was,IN1013.
+1435.88,1436.51,A,I I,IN1013.
+1436.0,1437.88,B,doing . Like it's really,IN1013.
+1436.51,1437.08,A,th it's,IN1013.
+1436.98,1437.18,D,But,IN1013.
+1437.08,1437.22,A,high,IN1013.
+1437.18,1437.22,D,th,IN1013.
+1437.22,1437.96,A,. It's quite a high bit,IN1013.
+1437.88,1437.96,B,uh,IN1013.
+1437.96,1438.15,A,rate,IN1013.
+1437.96,1438.49,B,"yeah , yeah",IN1013.
+1438.15,1438.64,A,. But I mean once,IN1013.
+1438.49,1438.8,B,", yeah",IN1013.
+1438.64,1439.1,A,we it,IN1013.
+1438.8,1438.8,B,.,IN1013.
+1439.1,1440.69,A,maybe it's something that's scalable,IN1013.
+1440.68,1440.86,D,But,IN1013.
+1440.69,1440.69,A,.,IN1013.
+1440.86,1441.49,D,"you know , the the",IN1013.
+1441.38,1442.01,B,Yeah,IN1013.
+1441.49,1442.05,D,f,IN1013.
+1442.01,1442.26,B,", maybe",IN1013.
+1442.05,1442.71,D,the interesting,IN1013.
+1442.26,1446.99,B,"you can just see how many how many harmonics . He was using twenty , I think . Like yeah , maybe you can try to reduce",IN1013.
+1446.96,1447.14,A,Well,IN1013.
+1446.99,1446.99,B,.,IN1013.
+1447.14,1449.58,A,it I mean you can use as many harmonics as you want . I m h,IN1013.
+1449.42,1449.71,B,Yeah,IN1013.
+1449.58,1449.76,A,uh he,IN1013.
+1449.71,1449.71,B,.,IN1013.
+1449.76,1451.78,A,was just using the fundamental,IN1013.
+1451.54,1451.8,B,Yeah,IN1013.
+1451.78,1452.57,A,frequency,IN1013.
+1451.8,1451.8,B,.,IN1013.
+1452.35,1452.6,D,Right,IN1013.
+1452.57,1452.7,A,. And,IN1013.
+1452.6,1452.6,D,.,IN1013.
+1452.7,1459.01,A,"if you smooth it doing a smooth spectrum representation of the harmonic amplitudes , then you only need to store",IN1013.
+1459.0,1459.17,B,And,IN1013.
+1459.01,1459.34,A,the,IN1013.
+1459.17,1459.41,B,the f,IN1013.
+1459.34,1461.58,A,the the fundamental frequency,IN1013.
+1460.79,1461.21,D,Right,IN1013.
+1461.02,1461.3,B,And then,IN1013.
+1461.21,1461.46,D,", and",IN1013.
+1461.3,1461.61,B,all this,IN1013.
+1461.46,1461.7,D,that,IN1013.
+1461.58,1461.7,A,and,IN1013.
+1461.61,1462.09,B,amplitude,IN1013.
+1461.7,1461.93,A,and,IN1013.
+1461.7,1462.0,D,that's it,IN1013.
+1461.93,1462.22,A,the and,IN1013.
+1462.0,1462.0,D,.,IN1013.
+1462.09,1462.09,B,.,IN1013.
+1462.22,1464.44,A,the maximum voice frequency . And everything,IN1013.
+1464.31,1464.51,D,And,IN1013.
+1464.44,1464.66,A,else,IN1013.
+1464.51,1464.79,D,then you,IN1013.
+1464.66,1464.84,A,can,IN1013.
+1464.79,1464.91,D,do,IN1013.
+1464.84,1465.77,A,be,IN1013.
+1464.91,1466.08,D,multiples of,IN1013.
+1465.77,1466.24,A,"yeah , s yeah",IN1013.
+1466.06,1466.44,B,Ah,IN1013.
+1466.08,1466.78,D,right,IN1013.
+1466.24,1467.12,A,", sure",IN1013.
+1466.44,1466.99,B,". Yeah , yeah",IN1013.
+1466.78,1466.93,D,. Yeah .,IN1013.
+1466.99,1467.16,B,. Yeah,IN1013.
+1467.12,1467.77,A,. So,IN1013.
+1467.16,1467.16,B,.,IN1013.
+1467.77,1471.8,A,", and then but then the tricky the only tricky thing that we hadn't figured out was the phase information",IN1013.
+1471.36,1472.08,B,Yeah,IN1013.
+1471.8,1471.8,A,.,IN1013.
+1472.08,1472.73,B,. Each again,IN1013.
+1472.52,1472.74,D,Yeah,IN1013.
+1472.73,1472.73,B,.,IN1013.
+1472.74,1472.74,D,.,IN1013.
+1473.3,1483.85,A,"Um but y but uh you can still get a like you get th um basically if you do phase unwrapping and all of these other tricks , you end up with some sort of phase representation , which is",IN1013.
+1483.3,1483.74,B,Some kind,IN1013.
+1483.67,1483.9,D,Like,IN1013.
+1483.74,1483.85,B,of,IN1013.
+1483.85,1484.02,A,some,IN1013.
+1483.85,1485.45,B,linear,IN1013.
+1483.9,1484.07,D,it,IN1013.
+1484.02,1486.25,A,sort of monotonically decreasing,IN1013.
+1485.45,1485.94,B,yeah .,IN1013.
+1485.99,1486.28,D,If it,IN1013.
+1486.25,1488.36,A,function,IN1013.
+1486.28,1488.51,D,is unwrap you mean . Unwrap,IN1013.
+1488.36,1488.68,A,. Yeah,IN1013.
+1488.51,1488.69,D,uh,IN1013.
+1488.68,1489.24,A,", unwrapped",IN1013.
+1488.69,1489.47,D,phase,IN1013.
+1489.24,1489.84,A,", yeah",IN1013.
+1489.26,1489.82,B,Yeah,IN1013.
+1489.47,1489.47,D,.,IN1013.
+1489.82,1490.16,B,. Yeah,IN1013.
+1489.84,1490.18,A,. So I mean,IN1013.
+1490.16,1490.16,B,.,IN1013.
+1490.18,1494.66,A,it's something that you could conceivably represent in some sort of,IN1013.
+1494.03,1494.45,D,Right,IN1013.
+1494.05,1494.8,B,Some function,IN1013.
+1494.45,1494.45,D,.,IN1013.
+1494.66,1495.13,A,low,IN1013.
+1494.8,1495.17,B,or like,IN1013.
+1495.13,1495.39,A,sort,IN1013.
+1495.17,1495.59,B,a,IN1013.
+1495.39,1497.42,A,of r you,IN1013.
+1497.31,1498.22,D,You,IN1013.
+1497.42,1498.78,A,"know , low bit rate representation",IN1013.
+1498.22,1499.11,D,l,IN1013.
+1498.78,1499.91,A,", I guess",IN1013.
+1499.11,1500.06,D,"right , yeah",IN1013.
+1499.91,1500.2,A,. And then,IN1013.
+1500.06,1500.06,D,.,IN1013.
+1500.2,1506.77,A,maybe you'd need some sort of correction to um to correct minor phase discontinuities at some,IN1013.
+1506.66,1506.82,D,Yeah,IN1013.
+1506.77,1507.03,A,point,IN1013.
+1506.82,1507.94,D,", yeah",IN1013.
+1507.03,1507.54,A,in time .,IN1013.
+1507.94,1517.94,D,". I also play with that . And for example what I found i well , in this case uh we are not trying to encode the speech signal . We are trying to encode some carrier , which is much",IN1013.
+1517.76,1518.42,A,'Cau,IN1013.
+1517.94,1518.76,D,easier,IN1013.
+1518.56,1519.84,B,Hmm,IN1013.
+1518.76,1519.64,D,", I would say , because",IN1013.
+1519.38,1519.83,A,"Yeah , yeah",IN1013.
+1519.64,1519.95,D,you,IN1013.
+1519.83,1520.07,A,", sure",IN1013.
+1519.84,1521.15,B,. Yeah,IN1013.
+1519.95,1520.17,D,can,IN1013.
+1520.07,1520.07,A,.,IN1013.
+1520.17,1521.48,D,really im,IN1013.
+1521.15,1521.55,B,. Yeah,IN1013.
+1521.48,1521.61,D,you,IN1013.
+1521.55,1521.55,B,.,IN1013.
+1521.61,1523.18,D,can see that even,IN1013.
+1522.65,1523.5,A,"Yeah , okay",IN1013.
+1523.18,1523.88,D,. So,IN1013.
+1523.5,1523.5,A,.,IN1013.
+1523.88,1530.72,D,"what I was trying to encode at the phases , so I just found that uh two bits is enough for that and you really don't hear the difference",IN1013.
+1530.6,1531.15,A,Okay,IN1013.
+1530.72,1531.31,D,. So if you keep,IN1013.
+1531.15,1531.15,A,.,IN1013.
+1531.31,1533.7,D,all the spectral lines,IN1013.
+1533.45,1533.74,A,Yeah,IN1013.
+1533.7,1533.91,D,as,IN1013.
+1533.74,1533.74,A,.,IN1013.
+1533.91,1535.69,D,they were there,IN1013.
+1535.11,1535.45,A,Yeah .,IN1013.
+1535.69,1541.98,D,"but you were just uh quantizing with two bits or three bits for amplitude , two bits for for phase . So it's okay",IN1013.
+1541.66,1542.19,A,Okay,IN1013.
+1541.98,1542.42,D,. The problem,IN1013.
+1542.19,1542.19,A,.,IN1013.
+1542.42,1544.94,D,is that you have to transmit many of them,IN1013.
+1544.71,1545.0,A,Yeah,IN1013.
+1544.84,1545.3,B,Oh,IN1013.
+1544.94,1545.06,D,. 'Cause,IN1013.
+1545.0,1545.33,A,. Sure,IN1013.
+1545.06,1545.44,D,there is not,IN1013.
+1545.3,1545.3,B,.,IN1013.
+1545.33,1545.48,A,", sure",IN1013.
+1545.44,1545.67,D,just,IN1013.
+1545.48,1545.48,A,.,IN1013.
+1545.67,1550.21,D,one dominant component but usually more others which are quite small,IN1013.
+1549.3,1550.85,A,Yeah,IN1013.
+1550.21,1551.43,D,", right",IN1013.
+1550.7,1551.17,B,Yeah,IN1013.
+1550.85,1551.17,A,. Yep .,IN1013.
+1551.17,1551.17,B,.,IN1013.
+1551.43,1552.17,D,. Or what you have to,IN1013.
+1552.09,1552.38,C,True,IN1013.
+1552.17,1552.4,D,do,IN1013.
+1552.38,1552.38,C,.,IN1013.
+1552.4,1555.34,D,then you have to decrease the the,IN1013.
+1554.58,1555.4,B,The size of,IN1013.
+1555.34,1555.46,D,the,IN1013.
+1555.4,1555.84,B,the,IN1013.
+1555.46,1561.09,D,"size of not one second , but you have to go down because then you can get just voiced part and unvoiced part . You know , one",IN1013.
+1560.83,1561.14,A,Yeah,IN1013.
+1561.09,1561.9,D,second,IN1013.
+1561.14,1561.3,A,", yeah .",IN1013.
+1561.9,1564.09,D,it's usually mixed right somehow together,IN1013.
+1563.81,1564.26,A,Hmm,IN1013.
+1564.09,1564.09,D,.,IN1013.
+1564.26,1564.26,A,.,IN1013.
+1564.34,1566.18,B,But you don't do any voice un-voice decision,IN1013.
+1566.17,1566.35,D,Not,IN1013.
+1566.18,1566.95,B,", no",IN1013.
+1566.35,1567.1,D,"now , no",IN1013.
+1566.8,1567.05,A,No,IN1013.
+1566.95,1567.12,B,? Yeah,IN1013.
+1567.05,1567.2,A,", and",IN1013.
+1567.1,1567.22,D,. I,IN1013.
+1567.12,1567.25,B,", the",IN1013.
+1567.2,1567.83,A,you,IN1013.
+1567.22,1567.42,D,wi,IN1013.
+1567.25,1568.08,B,that's even advantage,IN1013.
+1567.83,1568.21,A,uh,IN1013.
+1568.08,1568.4,B,I think,IN1013.
+1568.21,1568.49,A,you,IN1013.
+1568.4,1568.69,B,for,IN1013.
+1568.49,1568.8,A,wanna,IN1013.
+1568.69,1568.88,B,this,IN1013.
+1568.8,1569.2,A,avoid,IN1013.
+1568.88,1569.29,B,approach,IN1013.
+1569.2,1569.57,A,hard,IN1013.
+1569.29,1570.21,B,. Yeah,IN1013.
+1569.57,1570.39,A,choices,IN1013.
+1570.21,1570.94,B,. Yeah,IN1013.
+1570.39,1571.41,A,on,IN1013.
+1570.56,1570.94,D,Uh uh we,IN1013.
+1570.94,1572.99,B,. Yeah,IN1013.
+1570.94,1571.53,D,don't no want,IN1013.
+1571.41,1571.85,A,voicing,IN1013.
+1571.53,1571.91,D,to do that,IN1013.
+1571.85,1572.32,A,decision,IN1013.
+1571.91,1572.49,D,", yeah , because",IN1013.
+1572.32,1572.73,A,", yeah",IN1013.
+1572.49,1572.87,D,it's quite,IN1013.
+1572.73,1572.73,A,.,IN1013.
+1572.87,1573.39,D,tricky,IN1013.
+1572.99,1573.68,B,. sorta the modelling,IN1013.
+1573.39,1573.39,D,.,IN1013.
+1573.68,1575.12,B,", it's really another issue like",IN1013.
+1575.04,1575.16,A,Well,IN1013.
+1575.12,1575.99,B,. Yeah,IN1013.
+1575.16,1575.38,A,that's one,IN1013.
+1575.37,1575.73,D,Right,IN1013.
+1575.38,1575.95,A,of the big problems,IN1013.
+1575.73,1575.73,D,.,IN1013.
+1575.95,1576.06,A,with,IN1013.
+1575.99,1576.71,B,. Yeah,IN1013.
+1576.06,1576.82,A,L_P_C_ ten,IN1013.
+1576.71,1576.98,B,. Yeah,IN1013.
+1576.82,1577.49,A,for instance,IN1013.
+1576.98,1577.97,B,", yeah",IN1013.
+1577.16,1577.6,D,yeah,IN1013.
+1577.49,1577.78,A,. I,IN1013.
+1577.6,1579.14,D,", sure",IN1013.
+1577.78,1578.29,A,it stinks,IN1013.
+1577.97,1579.6,B,. Yeah,IN1013.
+1578.29,1579.81,A,because this hard,IN1013.
+1579.14,1579.65,D,. Exactly,IN1013.
+1579.6,1580.23,B,. Yeah,IN1013.
+1579.65,1579.65,D,.,IN1013.
+1579.81,1580.14,A,yeah .,IN1013.
+1580.23,1582.36,B,. And then you have to combine all this,IN1013.
+1582.1,1582.81,D,Right,IN1013.
+1582.36,1582.87,B,harmonic,IN1013.
+1582.81,1582.81,D,.,IN1013.
+1582.87,1585.94,B,model and noise model . So again you may end up some .,IN1013.
+1586.22,1586.92,D,But for example,IN1013.
+1586.8,1587.08,B,'Cause,IN1013.
+1586.92,1605.87,D,"what we also found is that if you use just the Hilbert envelope , that that one which is trying to approximate that energy in some low band , like ar around two hundred t uh hertz , and you take a look on the signal , on the trajectory , you can see that it works like kind of um voice detector",IN1013.
+1605.02,1605.83,B,Oh okay,IN1013.
+1605.21,1605.8,A,"Yeah , sure",IN1013.
+1605.76,1605.91,C,Mm,IN1013.
+1605.8,1605.8,A,.,IN1013.
+1605.83,1605.83,B,.,IN1013.
+1605.87,1606.36,D,. Because,IN1013.
+1605.91,1605.91,C,.,IN1013.
+1606.36,1609.59,D,uh for a low energies there is usually noise,IN1013.
+1609.45,1609.64,A,Yeah,IN1013.
+1609.59,1609.76,D,. For,IN1013.
+1609.64,1609.64,A,.,IN1013.
+1609.76,1610.76,D,high energies there is,IN1013.
+1610.68,1610.94,B,The,IN1013.
+1610.76,1610.99,D,kind,IN1013.
+1610.94,1611.23,B,pe,IN1013.
+1610.99,1611.31,D,of a,IN1013.
+1611.23,1611.52,B,peak,IN1013.
+1611.31,1612.51,D,harmonicity,IN1013.
+1611.52,1611.98,B,uh,IN1013.
+1612.18,1612.71,A,Yeah,IN1013.
+1612.51,1612.74,D,. So it,IN1013.
+1612.71,1612.89,A,", yep",IN1013.
+1612.74,1612.96,D,works,IN1013.
+1612.89,1612.89,A,.,IN1013.
+1612.96,1615.48,D,pretty well for that . So we might use this one,IN1013.
+1615.0,1616.0,A,But but,IN1013.
+1615.48,1616.01,D,information,IN1013.
+1616.0,1616.34,A,that,IN1013.
+1616.01,1616.38,D,for that,IN1013.
+1616.34,1616.75,A,that,IN1013.
+1616.38,1616.67,D,. But,IN1013.
+1616.75,1620.95,A,two hundred this is what they use for like um st they they do use this for um,IN1013.
+1620.5,1621.23,D,"Yeah , I think so",IN1013.
+1620.95,1621.37,A,for,IN1013.
+1621.23,1622.64,D,", yeah",IN1013.
+1621.37,1623.12,A,um pitch marking,IN1013.
+1622.64,1622.9,D,. Mm-hmm .,IN1013.
+1623.12,1624.16,A,in speech . So this is what,IN1013.
+1624.13,1624.51,B,Yeah,IN1013.
+1624.16,1624.64,A,Alan Black's,IN1013.
+1624.51,1625.73,B,", yeah",IN1013.
+1624.64,1625.91,A,code uses . But,IN1013.
+1625.73,1625.95,B,. Yeah,IN1013.
+1625.91,1626.09,A,it's,IN1013.
+1625.95,1625.95,B,.,IN1013.
+1626.09,1631.62,A,very speaker dependent wh on what sort of band width you'd look at this Hilbert,IN1013.
+1631.56,1632.34,D,Right,IN1013.
+1631.62,1632.78,A,envelope,IN1013.
+1632.34,1632.62,D,. Uh-huh .,IN1013.
+1632.78,1633.15,A,. Depending,IN1013.
+1633.03,1633.18,B,Yeah,IN1013.
+1633.15,1633.24,A,on,IN1013.
+1633.18,1633.18,B,.,IN1013.
+1633.24,1635.63,A,"the pitch , depending on the person",IN1013.
+1635.21,1635.47,D,Mm-hmm .,IN1013.
+1635.63,1635.77,A,", y",IN1013.
+1635.73,1636.37,B,S,IN1013.
+1635.77,1639.94,A,you'll get a different amount of smoothing and a certain sort of,IN1013.
+1639.22,1640.55,B,Yeah,IN1013.
+1639.94,1640.25,A,so I,IN1013.
+1640.22,1640.59,D,Mm-hmm,IN1013.
+1640.25,1640.58,A,mean,IN1013.
+1640.55,1640.81,B,. Yeah,IN1013.
+1640.58,1640.74,A,", you",IN1013.
+1640.59,1640.59,D,.,IN1013.
+1640.74,1640.83,A,know,IN1013.
+1640.81,1640.81,B,.,IN1013.
+1640.83,1643.39,A,", if it's a female speaker for instance",IN1013.
+1643.2,1643.54,D,That's,IN1013.
+1643.39,1644.09,A,you,IN1013.
+1643.54,1645.17,D,"true , yeah",IN1013.
+1644.09,1644.91,A,yeah . So,IN1013.
+1644.73,1644.99,B,So,IN1013.
+1644.91,1645.01,A,it's,IN1013.
+1644.99,1645.22,B,that's,IN1013.
+1645.01,1645.28,A,sorta,IN1013.
+1645.17,1645.36,D,. Yeah,IN1013.
+1645.22,1645.35,B,a you,IN1013.
+1645.28,1645.69,A,tricky,IN1013.
+1645.35,1645.49,B,have,IN1013.
+1645.36,1645.36,D,.,IN1013.
+1645.49,1645.88,B,to tune,IN1013.
+1645.69,1645.69,A,.,IN1013.
+1645.88,1647.26,B,lot of parameters like I,IN1013.
+1647.24,1647.41,D,Yeah,IN1013.
+1647.26,1647.66,B,am,IN1013.
+1647.28,1647.73,A,Yeah,IN1013.
+1647.41,1647.8,D,", yeah",IN1013.
+1647.66,1647.66,B,.,IN1013.
+1647.73,1647.73,A,.,IN1013.
+1647.8,1649.06,D,". Yeah , that's that's a problem .",IN1013.
+1649.76,1649.9,B,But,IN1013.
+1649.84,1650.02,D,Sure,IN1013.
+1649.9,1650.08,B,anyway,IN1013.
+1650.02,1650.02,D,.,IN1013.
+1650.08,1652.91,B,", you don't really need hard decisions , no ? Like voiced unvoiced .",IN1013.
+1653.58,1654.0,D,Uh,IN1013.
+1653.6,1654.68,A,Uh,IN1013.
+1654.0,1654.27,D,f,IN1013.
+1654.54,1654.7,B,So,IN1013.
+1654.68,1655.81,A,n,IN1013.
+1654.7,1655.84,B,m maybe it may help,IN1013.
+1655.81,1656.14,A,no,IN1013.
+1655.81,1655.97,D,That,IN1013.
+1655.84,1656.15,B,"you , but",IN1013.
+1655.97,1656.47,D,would be,IN1013.
+1656.14,1658.58,A,. Y,IN1013.
+1656.15,1656.55,B,it,IN1013.
+1656.47,1656.87,D,nice,IN1013.
+1656.55,1658.1,B,yeah,IN1013.
+1656.87,1658.13,D,n not to have anything,IN1013.
+1658.1,1658.52,B,. Yeah,IN1013.
+1658.13,1658.47,D,", yeah .",IN1013.
+1658.52,1658.52,B,.,IN1013.
+1658.58,1664.01,A,"yeah , but from memory that that basic script that they had wasn't wasn't very um",IN1013.
+1663.58,1664.0,B,Yeah yeah .,IN1013.
+1664.01,1669.11,A,effective . I mean maybe if you did some sort of initial first p guess and then,IN1013.
+1668.99,1669.46,B,Yeah,IN1013.
+1669.06,1669.4,D,Right,IN1013.
+1669.11,1669.55,A,and then,IN1013.
+1669.4,1669.4,D,.,IN1013.
+1669.46,1669.46,B,.,IN1013.
+1669.55,1671.92,A,chose your smoothing factor based on that . 'Cause,IN1013.
+1671.82,1672.16,D,Yeah,IN1013.
+1671.92,1672.17,A,it it,IN1013.
+1672.16,1672.74,D,", yeah",IN1013.
+1672.17,1673.24,A,"you know , selecting",IN1013.
+1672.74,1672.74,D,.,IN1013.
+1673.24,1675.81,A,at any particular point of what,IN1013.
+1675.76,1676.3,D,My,IN1013.
+1675.81,1678.26,A,the what the pitch is at the may be inaccurate . But if you,IN1013.
+1678.24,1678.52,D,Mm-hmm,IN1013.
+1678.26,1678.8,A,estimated,IN1013.
+1678.52,1678.52,D,.,IN1013.
+1678.8,1680.88,A,"it over a second , you should be able to get a decent",IN1013.
+1680.64,1681.38,D,Right,IN1013.
+1680.88,1681.7,A,"estimate , I'd",IN1013.
+1681.38,1681.86,D,. Exactly,IN1013.
+1681.7,1682.1,A,I'd think,IN1013.
+1681.86,1681.86,D,.,IN1013.
+1682.1,1682.1,A,.,IN1013.
+1683.1,1686.24,B,But do you really really need it or like voiced,IN1013.
+1686.1,1686.42,D,Well,IN1013.
+1686.24,1687.94,B,unvoiced,IN1013.
+1686.42,1688.06,D,I don't know . Maybe if you we uh really,IN1013.
+1687.94,1688.13,B,? Yeah,IN1013.
+1688.06,1688.26,D,want,IN1013.
+1688.13,1689.35,B,", but",IN1013.
+1688.26,1689.36,D,to improve the the,IN1013.
+1689.35,1691.03,B,yeah,IN1013.
+1689.36,1691.09,D,"quality , then we will need it , I don't know",IN1013.
+1691.03,1691.9,B,. Yeah,IN1013.
+1691.09,1691.35,D,", still .",IN1013.
+1691.9,1695.95,B,. But it's not really you need t you don't need to specify at each point it's voiced,IN1013.
+1695.66,1696.03,D,N not,IN1013.
+1695.95,1696.64,B,or,IN1013.
+1696.03,1696.77,D,now,IN1013.
+1696.64,1697.03,B,yeah,IN1013.
+1696.77,1697.1,D,. Yeah,IN1013.
+1697.03,1697.03,B,.,IN1013.
+1697.1,1703.66,D,", uh well , I'm gonna t have a time next next month or in three weeks so I'll try to play some examples there",IN1013.
+1703.34,1703.72,A,Yeah,IN1013.
+1703.57,1703.77,B,Huh,IN1013.
+1703.66,1703.84,D,for,IN1013.
+1703.72,1703.81,A,. Well,IN1013.
+1703.77,1703.77,B,.,IN1013.
+1703.81,1703.93,A,it'd,IN1013.
+1703.84,1704.01,D,you,IN1013.
+1703.93,1704.26,A,be nice,IN1013.
+1704.01,1704.36,D,and,IN1013.
+1704.26,1710.43,A,to it would be nice to really see what this what you're a actually trying to reconstruct here .,IN1013.
+1711.26,1713.26,D,What we are trying to reconstr,IN1013.
+1712.53,1715.4,A,"This carrier signal , what what it really",IN1013.
+1715.13,1715.46,D,How does,IN1013.
+1715.4,1715.78,A,looks,IN1013.
+1715.46,1716.0,D,it look like,IN1013.
+1715.78,1717.43,A,l yeah,IN1013.
+1716.0,1717.91,D,or,IN1013.
+1717.43,1718.0,A,. And you did say,IN1013.
+1717.91,1718.28,D,sure,IN1013.
+1718.0,1718.42,A,it looks like,IN1013.
+1718.28,1718.28,D,.,IN1013.
+1718.42,1720.0,A,a frequency modulated,IN1013.
+1719.87,1720.28,D,Yeah,IN1013.
+1720.0,1720.47,A,cosine,IN1013.
+1720.28,1720.5,D,", more",IN1013.
+1720.47,1720.47,A,.,IN1013.
+1720.5,1720.87,D,or less .,IN1013.
+1722.18,1722.71,A,Hmm .,IN1013.
+1722.95,1726.92,D,It's kind of uh not frequency . Let's say amplitude modulation when you have ju,IN1013.
+1726.75,1728.87,B,Yeah,IN1013.
+1726.92,1729.05,D,just the carrier and that modulation,IN1013.
+1728.87,1729.1,B,. And,IN1013.
+1729.05,1730.84,D,signal,IN1013.
+1729.1,1731.17,B,then amplitude,IN1013.
+1730.84,1731.3,D,", right",IN1013.
+1731.17,1731.28,B,. But,IN1013.
+1731.28,1731.71,A,Yeah,IN1013.
+1731.28,1731.45,B,you're,IN1013.
+1731.3,1731.3,D,.,IN1013.
+1731.45,1731.87,B,telling even,IN1013.
+1731.71,1731.71,A,.,IN1013.
+1731.87,1735.24,B,"frequency's also shifting , no ? Like your delay",IN1013.
+1734.12,1734.31,A,It would,IN1013.
+1734.26,1734.7,D,Yeah,IN1013.
+1734.31,1734.8,A,have to be,IN1013.
+1734.7,1735.39,D,", we",IN1013.
+1734.8,1735.41,A,'cause pitch,IN1013.
+1735.24,1735.46,B,. Yeah,IN1013.
+1735.39,1735.79,D,yeah,IN1013.
+1735.41,1736.03,A,shifts,IN1013.
+1735.46,1736.02,B,. Yeah,IN1013.
+1735.79,1736.04,D,", yeah",IN1013.
+1736.02,1736.33,B,", yeah",IN1013.
+1736.03,1738.03,A,yeah,IN1013.
+1736.04,1736.41,D,", yeah",IN1013.
+1736.33,1736.53,B,", yeah",IN1013.
+1736.41,1736.97,D,", exactly",IN1013.
+1736.53,1737.13,B,. Yeah,IN1013.
+1736.97,1736.97,D,.,IN1013.
+1737.13,1738.27,B,". So then , yeah , then it's not",IN1013.
+1738.03,1738.03,A,.,IN1013.
+1738.27,1740.7,B,exactly amplitude modulations or it's,IN1013.
+1739.85,1740.24,A,Yeah,IN1013.
+1739.88,1740.31,D,Yeah,IN1013.
+1740.24,1740.24,A,.,IN1013.
+1740.31,1740.53,D,", yeah .",IN1013.
+1740.7,1743.33,B,it's in between maybe,IN1013.
+1742.03,1743.39,D,"It's in between , exactly",IN1013.
+1743.33,1744.16,B,. Yeah,IN1013.
+1743.39,1744.21,D,. So it's not this,IN1013.
+1744.16,1744.67,B,. S,IN1013.
+1744.21,1745.68,D,and that . But,IN1013.
+1744.67,1745.09,B,yeah .,IN1013.
+1745.68,1746.82,D,still yeah . But,IN1013.
+1746.71,1746.99,B,So,IN1013.
+1746.82,1747.1,D,anyway,IN1013.
+1746.99,1747.26,B,yeah,IN1013.
+1747.1,1747.59,D,what,IN1013.
+1747.26,1747.26,B,.,IN1013.
+1747.59,1753.08,D,"also the other approach which is possible to use . The other is one to keep the phase like this one , like",IN1013.
+1752.81,1753.11,B,Yeah,IN1013.
+1753.08,1753.41,D,two,IN1013.
+1753.11,1753.11,B,.,IN1013.
+1753.41,1756.01,D,"spectrograms , one the phase and one the magnitude",IN1013.
+1755.64,1756.01,A,Yeah .,IN1013.
+1756.01,1756.77,D,. And,IN1013.
+1756.692,1756.692,B,.,IN1013.
+1756.77,1760.67,D,well I can again play it and it works on two kilo-bits per second . Quite,IN1013.
+1760.5,1760.8,B,That's what,IN1013.
+1760.67,1760.83,D,what uh,IN1013.
+1760.8,1761.19,B,Marius,IN1013.
+1760.83,1761.7,D,no,IN1013.
+1761.19,1761.86,B,"did , no , like . But",IN1013.
+1761.7,1762.51,D,", what",IN1013.
+1761.86,1762.73,B,but he was keeping,IN1013.
+1762.51,1763.83,D,uh,IN1013.
+1762.73,1763.85,B,all the phase information,IN1013.
+1763.83,1763.98,D,he,IN1013.
+1763.85,1763.85,B,.,IN1013.
+1763.98,1767.24,D,"was doing he was using it for speech recognition , what I",IN1013.
+1767.13,1767.25,B,No,IN1013.
+1767.24,1767.43,D,what,IN1013.
+1767.25,1767.65,B,", but even",IN1013.
+1767.43,1767.84,D,I know,IN1013.
+1767.65,1768.26,B,the his,IN1013.
+1767.84,1768.47,D,", but for speech",IN1013.
+1768.26,1768.59,B,coded,IN1013.
+1768.47,1769.28,D,coding,IN1013.
+1768.59,1769.39,B,like he,IN1013.
+1769.28,1769.46,D,no,IN1013.
+1769.39,1770.05,B,just,IN1013.
+1769.46,1770.39,D,"no no , it was",IN1013.
+1770.05,1770.43,B,he,IN1013.
+1770.39,1770.47,D,I,IN1013.
+1770.43,1770.51,B,he,IN1013.
+1770.47,1770.64,D,don't,IN1013.
+1770.51,1770.68,B,didn't,IN1013.
+1770.64,1770.98,D,know,IN1013.
+1770.68,1771.07,B,do anything,IN1013.
+1770.98,1770.98,D,.,IN1013.
+1771.07,1772.78,B,", he just transferred it that way",IN1013.
+1772.76,1773.56,D,For,IN1013.
+1772.78,1775.09,B,. He was aiming for,IN1013.
+1773.56,1774.38,D,speech coding you mean ?,IN1013.
+1775.09,1783.51,B,"he's not really kind of doing speech coding , but he want to do it on music . So he doesn't really care about the band-widths or he want to have the quality",IN1013.
+1783.38,1783.7,D,I don't,IN1013.
+1783.51,1784.48,B,", no , like",IN1013.
+1783.7,1785.2,D,know . I don't know,IN1013.
+1784.48,1785.45,B,". Yeah , but even",IN1013.
+1785.2,1786.19,D,. M,IN1013.
+1785.45,1786.36,B,especially the audio,IN1013.
+1786.19,1786.5,D,maybe,IN1013.
+1786.36,1786.8,B,series,IN1013.
+1786.5,1786.5,D,.,IN1013.
+1786.8,1793.25,B,"and the that that's what he was telling like . Yeah , at least even ten K_ bit . Twenty kilo-bits also is okay",IN1013.
+1792.89,1793.49,D,Right,IN1013.
+1793.25,1793.68,B,. So,IN1013.
+1793.49,1793.92,D,. Yeah,IN1013.
+1793.68,1794.49,B,but he's,IN1013.
+1793.92,1793.92,D,.,IN1013.
+1794.49,1799.93,B,uh he's not I think finished with all that thing . He's just transmitting all the phase and then,IN1013.
+1798.85,1799.97,D,Mm-hmm . Well for,IN1013.
+1799.93,1800.1,B,but,IN1013.
+1799.97,1800.41,D,example,IN1013.
+1800.1,1800.46,B,he's,IN1013.
+1800.41,1800.75,D,this,IN1013.
+1800.46,1800.96,B,encoding,IN1013.
+1800.75,1801.01,D,phase,IN1013.
+1800.96,1801.31,B,the,IN1013.
+1801.01,1803.08,D,information,IN1013.
+1801.31,1803.61,B,"envelope , yeah",IN1013.
+1803.08,1803.78,D,right . Yeah,IN1013.
+1803.61,1803.83,B,. Yeah,IN1013.
+1803.78,1804.05,D,", yeah",IN1013.
+1803.83,1803.83,B,.,IN1013.
+1804.05,1808.34,D,". I think so . There are m more papers which are using this approach , like trying",IN1013.
+1807.98,1808.43,B,Yeah,IN1013.
+1808.34,1809.14,D,to,IN1013.
+1808.43,1808.81,B,. Yeah .,IN1013.
+1809.14,1810.78,D,encode the magnitude spectrum or,IN1013.
+1810.65,1810.84,B,And,IN1013.
+1810.78,1811.91,D,spectrogram,IN1013.
+1810.84,1812.29,B,"then leaving the phase , yeah",IN1013.
+1811.91,1812.34,D,. Uh the,IN1013.
+1812.29,1812.29,B,.,IN1013.
+1812.34,1817.31,D,"phase or you just uh re can again the phase can be replaced by the noise , which is pretty",IN1013.
+1817.2,1817.37,B,Yeah,IN1013.
+1817.31,1817.52,D,good,IN1013.
+1817.37,1817.37,B,.,IN1013.
+1817.52,1820.16,D,. So that's uh the benefit uh variable,IN1013.
+1819.99,1820.33,A,Hmm,IN1013.
+1820.16,1820.73,D,approach,IN1013.
+1820.33,1820.33,A,.,IN1013.
+1820.73,1823.23,D,. So if you really don't have a band width,IN1013.
+1822.65,1823.02,A,Hmm .,IN1013.
+1823.23,1825.37,D,", you just can replace",IN1013.
+1825.11,1825.54,B,Yeah,IN1013.
+1825.37,1825.63,D,it by,IN1013.
+1825.54,1825.54,B,.,IN1013.
+1825.63,1830.46,D,noise and it works . Of course then it doesn't sound as the original because it's more,IN1013.
+1830.29,1830.73,B,Hmm,IN1013.
+1830.46,1830.99,D,whispered,IN1013.
+1830.73,1830.73,B,.,IN1013.
+1830.99,1833.47,D,or whatever . But you can understand well .,IN1013.
+1833.61,1834.11,A,Mm .,IN1013.
+1835.3,1840.86,D,"And for example uh if you mention this one approach with the that uh trajectory of the phase , of unwrap",IN1013.
+1840.71,1841.01,A,Yeah,IN1013.
+1840.86,1841.09,D,phase,IN1013.
+1841.01,1841.01,A,.,IN1013.
+1841.09,1851.31,D,recre uh I also use because you can do it here when you get into uh this domain where you apply uh or you're trying to compute uh s power spectrum,IN1013.
+1850.79,1851.5,B,Yeah,IN1013.
+1851.31,1851.54,D,in,IN1013.
+1851.5,1851.98,B,. Yeah,IN1013.
+1851.54,1852.14,D,in order t,IN1013.
+1851.98,1851.98,B,.,IN1013.
+1852.14,1861.36,D,"let's say that this kind of trajectory , it doesn't in fit the same frequency over time domain . But here you are trying to compute uh doing a to do linear prediction . So we",IN1013.
+1861.29,1861.54,B,Yeah,IN1013.
+1861.36,1861.73,D,are just,IN1013.
+1861.54,1861.54,B,.,IN1013.
+1861.73,1863.94,D,"doing F_F_T_ , right",IN1013.
+1863.12,1863.46,A,Mm-hmm .,IN1013.
+1863.94,1872.31,D,". Then applying uh power in order to get um to s to power domain , and then I_F_F_T_ , right",IN1013.
+1871.8,1872.22,B,"Yeah , or",IN1013.
+1872.31,1872.55,D,. So,IN1013.
+1872.37,1872.73,C,Mm-hmm,IN1013.
+1872.55,1872.96,D,you get,IN1013.
+1872.73,1872.73,C,.,IN1013.
+1872.96,1874.14,D,the auto-correlation,IN1013.
+1873.96,1874.71,B,Auto-correlation,IN1013.
+1874.14,1875.38,D,coefficients,IN1013.
+1874.71,1875.36,B,coefficient and,IN1013.
+1875.38,1880.03,D,". So before you're applying uh power spectrum , you can again get the you have",IN1013.
+1879.97,1880.16,B,Yeah,IN1013.
+1880.03,1880.18,D,got,IN1013.
+1880.16,1880.37,B,", they",IN1013.
+1880.18,1880.83,D,a complex,IN1013.
+1880.37,1880.88,B,again give the,IN1013.
+1880.83,1881.09,D,f,IN1013.
+1880.88,1881.36,B,phase,IN1013.
+1881.09,1881.52,D,freq,IN1013.
+1881.36,1881.6,B,. Yeah,IN1013.
+1881.52,1882.1,D,frequency,IN1013.
+1881.6,1882.41,B,", again give the phase",IN1013.
+1882.1,1882.44,D,or,IN1013.
+1882.41,1882.41,B,.,IN1013.
+1882.44,1885.09,D,"complex spectrum , you can get the phase , right",IN1013.
+1884.68,1884.95,A,Hmm .,IN1013.
+1884.99,1885.24,B,Yeah,IN1013.
+1885.09,1885.31,D,. And the,IN1013.
+1885.24,1885.24,B,.,IN1013.
+1885.31,1889.09,D,phase look quite similar like this . So you might see it's is,IN1013.
+1888.82,1889.27,A,"Yeah , it's like",IN1013.
+1889.09,1889.32,D,more,IN1013.
+1889.27,1890.12,A,a,IN1013.
+1889.32,1890.79,D,less like a line,IN1013.
+1890.12,1891.06,A,yeah,IN1013.
+1890.79,1890.79,D,.,IN1013.
+1890.95,1891.46,B,Oh,IN1013.
+1891.06,1891.65,A,. And it it does,IN1013.
+1891.46,1891.46,B,.,IN1013.
+1891.65,1893.35,A,start to get a little bit,IN1013.
+1893.18,1893.48,D,Right,IN1013.
+1893.35,1893.6,A,n,IN1013.
+1893.48,1893.48,D,.,IN1013.
+1893.6,1896.0,A,non-linear towards the end . But normally that's,IN1013.
+1895.73,1896.01,D,Yeah,IN1013.
+1896.0,1896.21,A,that's,IN1013.
+1896.01,1896.01,D,.,IN1013.
+1896.21,1899.67,A,when the components are not actually probably gonna be audible anyway,IN1013.
+1899.44,1899.88,B,Hmm,IN1013.
+1899.67,1900.1,A,in voiced,IN1013.
+1899.88,1899.88,B,.,IN1013.
+1900.1,1901.77,A,"speech , right . So",IN1013.
+1900.98,1901.36,D,Right .,IN1013.
+1901.77,1902.11,A,yeah,IN1013.
+1902.04,1902.25,B,But,IN1013.
+1902.11,1902.11,A,.,IN1013.
+1902.25,1903.8,B,this phase is different from your carrier,IN1013.
+1903.48,1903.85,D,Yeah,IN1013.
+1903.8,1903.93,B,", no",IN1013.
+1903.85,1904.11,D,", it's",IN1013.
+1903.93,1904.25,B,? Like,IN1013.
+1904.11,1904.33,D,it,IN1013.
+1904.25,1905.11,B,yeah,IN1013.
+1904.33,1905.48,D,"is very different , yeah",IN1013.
+1905.11,1905.56,B,. Because you're,IN1013.
+1905.48,1906.87,D,. Then,IN1013.
+1905.56,1906.99,B,just doing on uh your,IN1013.
+1906.87,1906.99,D,you,IN1013.
+1906.99,1908.4,B,uh,IN1013.
+1906.99,1908.56,D,are doing in different domain,IN1013.
+1908.4,1908.84,B,yeah,IN1013.
+1908.56,1908.96,D,. I think this,IN1013.
+1908.84,1909.12,B,. And,IN1013.
+1908.96,1909.16,D,is in,IN1013.
+1909.12,1909.39,B,also,IN1013.
+1909.16,1909.52,D,frequency,IN1013.
+1909.39,1910.65,B,like,IN1013.
+1909.52,1910.69,D,"domain , this in time domain",IN1013.
+1910.65,1912.58,B,yeah,IN1013.
+1910.69,1911.66,D,. Um it is,IN1013.
+1911.54,1912.2,A,Yeah,IN1013.
+1911.66,1912.28,D,quite,IN1013.
+1912.2,1912.2,A,.,IN1013.
+1912.28,1912.64,D,it's quite,IN1013.
+1912.58,1912.73,B,. And,IN1013.
+1912.64,1914.76,D,sensible to any quantization,IN1013.
+1914.76,1915.02,B,Yeah,IN1013.
+1914.76,1915.23,D,", what I",IN1013.
+1915.02,1915.02,B,.,IN1013.
+1915.23,1919.35,D,"found . Really it looks like the lines . So you just say okay , let's p let's put the line",IN1013.
+1919.24,1919.62,B,Hmm,IN1013.
+1919.35,1919.96,D,there,IN1013.
+1919.62,1919.62,B,.,IN1013.
+1919.86,1920.13,A,Yeah,IN1013.
+1919.96,1920.13,D,. But it,IN1013.
+1920.13,1920.13,A,.,IN1013.
+1920.13,1922.67,D,"doesn't work . Re well , you can understand . But",IN1013.
+1922.47,1923.01,A,"Yeah , sure",IN1013.
+1922.67,1923.13,D,you can,IN1013.
+1923.01,1923.04,A,. C,IN1013.
+1923.13,1924.95,D,here that there are many,IN1013.
+1924.45,1925.04,A,C 'cause any,IN1013.
+1924.95,1925.62,D,artifacts,IN1013.
+1925.04,1925.63,A,sort of error,IN1013.
+1925.62,1926.32,D,which,IN1013.
+1925.63,1926.42,A,in that in,IN1013.
+1926.32,1926.61,D,right,IN1013.
+1926.42,1926.64,A,that,IN1013.
+1926.61,1927.1,D,", exactly",IN1013.
+1926.64,1927.28,A,line is,IN1013.
+1927.1,1927.1,D,.,IN1013.
+1927.28,1930.42,A,"is transmitted , is realised in a net as a",IN1013.
+1930.39,1930.91,D,Right,IN1013.
+1930.42,1931.05,A,phase error,IN1013.
+1930.91,1931.53,D,", right",IN1013.
+1931.05,1931.69,A,", right . Yeah",IN1013.
+1931.53,1931.79,D,. And the,IN1013.
+1931.69,1931.69,A,.,IN1013.
+1931.79,1938.18,D,another problem is that uh it's not band width variable . So you cannot say that this part will be the just the noise,IN1013.
+1937.61,1937.96,A,Mm .,IN1013.
+1938.18,1943.78,D,", which you can do in here in this this other approach . So that's why I didn't play with that so m more because",IN1013.
+1943.78,1944.06,A,Okay,IN1013.
+1943.78,1944.23,D,I found,IN1013.
+1944.06,1944.06,A,.,IN1013.
+1944.23,1949.86,D,"there are more uh disadvantages than the advantages , this approach . So",IN1013.
+1949.31,1949.72,A,Mm yeah .,IN1013.
+1949.86,1950.25,D,that's why .,IN1013.
+1950.49,1950.74,A,Tricky,IN1013.
+1950.73,1950.89,B,But,IN1013.
+1950.74,1950.87,A,", yeah .",IN1013.
+1950.89,1953.82,B,even you can use as a can you use that phase directly,IN1013.
+1953.65,1953.84,D,You mean,IN1013.
+1953.82,1954.0,B,? Whereas,IN1013.
+1953.84,1954.35,D,this one,IN1013.
+1954.0,1954.54,B,the d yeah,IN1013.
+1954.35,1954.8,D,? Yeah,IN1013.
+1954.54,1954.83,B,", this one",IN1013.
+1954.8,1954.93,D,", if",IN1013.
+1954.83,1954.96,B,is,IN1013.
+1954.93,1955.02,D,you,IN1013.
+1954.96,1955.27,B,direct,IN1013.
+1955.02,1957.19,D,take just the original phase and the,IN1013.
+1956.85,1959.69,B,"But this is phase of your d uh spectrum , no ? Like it's not",IN1013.
+1959.64,1960.07,D,Right,IN1013.
+1959.69,1960.09,B,in time,IN1013.
+1960.07,1960.27,D,. Yeah,IN1013.
+1960.09,1960.38,B,domain,IN1013.
+1960.27,1960.52,D,", it's",IN1013.
+1960.38,1960.57,B,. So,IN1013.
+1960.52,1963.31,D,it's it's not a phase,IN1013.
+1962.27,1964.17,B,Of your signal . It's not,IN1013.
+1963.31,1964.4,D,". Yeah , yeah , yeah",IN1013.
+1964.17,1964.57,B,so then,IN1013.
+1964.4,1964.64,D,. It's the,IN1013.
+1964.57,1964.79,B,it's,IN1013.
+1964.64,1966.29,D,phase,IN1013.
+1964.79,1966.04,B,bit tricky . Like how,IN1013.
+1966.29,1970.22,D,"no , you can again put the that envelope with this phase together because",IN1013.
+1970.05,1970.29,B,Okay,IN1013.
+1970.22,1970.56,D,envelope,IN1013.
+1970.29,1970.63,B,", but still",IN1013.
+1970.56,1970.73,D,is,IN1013.
+1970.63,1970.78,B,you,IN1013.
+1970.73,1970.94,D,twe,IN1013.
+1970.78,1972.34,B,get only the the magnitude,IN1013.
+1971.92,1972.4,A,"Yeah , yeah , yeah",IN1013.
+1972.34,1972.48,B,of,IN1013.
+1972.4,1972.57,A,. Y,IN1013.
+1972.48,1972.68,B,your,IN1013.
+1972.57,1973.54,A,y,IN1013.
+1972.68,1973.54,B,Hilbert envelope,IN1013.
+1973.54,1974.16,A,y,IN1013.
+1973.54,1973.92,B,. You won't,IN1013.
+1973.87,1973.99,D,No,IN1013.
+1973.92,1974.1,B,get,IN1013.
+1973.99,1974.17,D,no,IN1013.
+1974.1,1974.3,B,the,IN1013.
+1974.16,1974.42,A,you,IN1013.
+1974.17,1974.49,D,. You g,IN1013.
+1974.42,1974.72,A,have,IN1013.
+1974.49,1974.86,D,"no , you",IN1013.
+1974.72,1975.61,A,s,IN1013.
+1974.86,1975.57,D,get the f,IN1013.
+1975.61,1977.29,A,five slices like n,IN1013.
+1977.07,1977.29,D,Yeah,IN1013.
+1977.29,1977.67,A,across,IN1013.
+1977.29,1978.29,D,", you get the complex",IN1013.
+1977.67,1978.77,A,"that way , I guess",IN1013.
+1978.29,1979.32,D,complex spectrum,IN1013.
+1978.77,1978.77,A,.,IN1013.
+1979.32,1979.74,D,with this .,IN1013.
+1979.98,1982.65,B,"No , but you started with Hil Hilbert envelope , no ? Like magnitude",IN1013.
+1982.63,1982.94,D,No,IN1013.
+1982.65,1983.09,B,of Hilbert,IN1013.
+1982.94,1983.18,D,", no",IN1013.
+1983.09,1983.41,B,envelope,IN1013.
+1983.18,1983.75,D,", I started",IN1013.
+1983.41,1983.41,B,.,IN1013.
+1983.75,1985.31,D,with the,IN1013.
+1985.11,1985.52,B,Magnitude,IN1013.
+1985.31,1986.08,D,D_C_T_,IN1013.
+1985.52,1988.75,B,"of uh no , before D_C_T_ your d",IN1013.
+1988.71,1988.89,D,No,IN1013.
+1988.75,1989.05,B,oh,IN1013.
+1988.89,1989.16,D,", after",IN1013.
+1989.05,1989.05,B,.,IN1013.
+1989.16,1994.42,D,"D_C_T_ you are trying this is so kind of again a real trajectory , right . And",IN1013.
+1994.32,1994.63,B,Yeah,IN1013.
+1994.42,1995.13,D,you're trying,IN1013.
+1994.63,1994.63,B,.,IN1013.
+1995.13,2000.12,D,to first find that Hilbert envelope . So uh let's,IN1013.
+1998.96,2000.25,B,"Ah , ok so input",IN1013.
+2000.12,2001.26,D,well,IN1013.
+2000.25,2001.59,B,to the D_C_T_ is the speech,IN1013.
+2001.26,2002.52,D,so,IN1013.
+2001.59,2002.95,B,or like your,IN1013.
+2002.52,2004.57,D,this is a speech,IN1013.
+2002.95,2003.74,B,"yeah , okay",IN1013.
+2003.47,2003.82,A,Yeah,IN1013.
+2003.74,2004.02,B,. Just,IN1013.
+2003.82,2003.82,A,.,IN1013.
+2004.02,2004.97,B,you're starting with,IN1013.
+2004.57,2010.26,D,". No , but here what I want to say is really that y it's not part of Hilbert envelope , it's part of the",IN1013.
+2010.24,2010.71,B,Ah,IN1013.
+2010.26,2012.05,D,D_C_T_ signal,IN1013.
+2010.71,2011.55,B,. Ah . Ok ok ok,IN1013.
+2012.05,2013.8,D,. So,IN1013.
+2012.81,2013.8,B,"Yeah , maybe the then",IN1013.
+2013.8,2018.03,D,"it's not it's enough if you have just this phase and f and the Hilbert envelope , you",IN1013.
+2017.94,2018.24,B,Yeah,IN1013.
+2018.03,2018.33,D,can put,IN1013.
+2018.24,2018.24,B,.,IN1013.
+2018.33,2020.34,D,it together,IN1013.
+2019.71,2020.29,B,Ah okay .,IN1013.
+2020.34,2026.16,D,. You don't need the carrier . I mean this is kind of a carrier signal but in different domain represented .,IN1013.
+2026.25,2028.13,B,"Yeah , it's in frequency domain",IN1013.
+2027.95,2028.44,D,Right,IN1013.
+2028.13,2028.41,B,", no .",IN1013.
+2028.44,2028.69,D,", right .",IN1013.
+2030.1,2030.39,A,Hmm .,IN1013.
+2033.14,2041.82,D,So I what I think is that we already will need to apply s kind of analysis by synthesis approach mm uh in order to,IN1013.
+2041.44,2042.04,A,Yeah,IN1013.
+2041.82,2042.44,D,get something,IN1013.
+2042.04,2042.62,A,", that makes sense",IN1013.
+2042.44,2042.44,D,.,IN1013.
+2042.62,2044.76,A,'cause it's a time domain sort of,IN1013.
+2044.22,2044.68,D,Right .,IN1013.
+2044.76,2046.78,A,approach . Um,IN1013.
+2046.71,2046.9,D,What,IN1013.
+2046.78,2046.91,A,and,IN1013.
+2046.9,2046.98,D,I,IN1013.
+2046.91,2056.62,A,I mean uh and and in in fact I mean it's what you're doing is so different to most approaches to speech coding that it doesn't matter that we don't know much about,IN1013.
+2056.48,2057.64,D,No,IN1013.
+2056.62,2057.69,A,or haven't had much i it's,IN1013.
+2057.64,2057.72,D,. You,IN1013.
+2057.69,2058.5,A,I mean,IN1013.
+2057.72,2058.72,D,mean,IN1013.
+2058.5,2059.02,A,it's,IN1013.
+2058.72,2058.97,D,ye,IN1013.
+2059.02,2062.13,A,quite different to a lot of the traditional sort uh so,IN1013.
+2061.89,2062.31,D,Right,IN1013.
+2062.13,2062.33,A,uh,IN1013.
+2062.31,2062.31,D,.,IN1013.
+2062.33,2066.13,A,"voi um you know , source filter type approaches or",IN1013.
+2065.72,2066.15,B,Yeah,IN1013.
+2066.13,2066.33,A,or,IN1013.
+2066.15,2066.6,B,", definitely",IN1013.
+2066.33,2066.93,A,whatever,IN1013.
+2066.6,2066.84,B,it's,IN1013.
+2066.61,2066.9,D,Right,IN1013.
+2066.84,2066.93,B,d,IN1013.
+2066.9,2067.26,D,", right",IN1013.
+2066.93,2067.51,A,", yeah",IN1013.
+2067.26,2067.52,D,. Yes,IN1013.
+2067.51,2068.13,A,. So,IN1013.
+2067.52,2068.83,D,", that's true",IN1013.
+2068.83,2069.06,B,But,IN1013.
+2068.83,2069.45,D,. But I mean,IN1013.
+2069.06,2069.64,B,now I think,IN1013.
+2069.45,2069.83,D,that's,IN1013.
+2069.64,2070.09,B,people,IN1013.
+2069.83,2076.15,D,"maybe even the advantage here because you it's not speech d based , which means we",IN1013.
+2076.11,2076.27,A,It's,IN1013.
+2076.15,2076.55,D,are not,IN1013.
+2076.27,2077.58,A,just a matter of minimum,IN1013.
+2077.05,2077.41,B,Yeah .,IN1013.
+2077.58,2079.26,A,distortion time,IN1013.
+2078.47,2079.4,D,Right . So you,IN1013.
+2079.26,2079.69,A,. Yeah,IN1013.
+2079.4,2080.14,D,can,IN1013.
+2079.69,2079.69,A,.,IN1013.
+2080.14,2091.21,D,"when I tried and comparing with L_P_C_ ten on a uh twice bigger or higher bit rate , this work works better , it seems to me . Just for unvoiced speech . O I'm not",IN1013.
+2090.61,2090.81,A,Sure .,IN1013.
+2091.21,2092.86,D,mentioning uh voiceless,IN1013.
+2092.54,2094.39,A,Unvoiced,IN1013.
+2092.86,2094.44,D,"because that's unvoiced , which",IN1013.
+2094.39,2094.78,A,unvoiced,IN1013.
+2094.44,2095.12,D,means,IN1013.
+2094.78,2095.13,A,speech is,IN1013.
+2095.12,2095.55,D,whispered,IN1013.
+2095.13,2095.82,A,very difficult,IN1013.
+2095.55,2095.55,D,.,IN1013.
+2095.82,2098.58,A,to b sort of judge on,IN1013.
+2098.35,2099.5,D,Uh,IN1013.
+2098.58,2099.58,A,quality compared to,IN1013.
+2099.5,2099.68,D,yeah,IN1013.
+2099.58,2100.0,A,voiced,IN1013.
+2099.68,2100.06,D,", but uh when",IN1013.
+2100.0,2100.21,A,", I",IN1013.
+2100.06,2100.33,D,you,IN1013.
+2100.21,2100.53,A,think,IN1013.
+2100.33,2100.76,D,hear,IN1013.
+2100.53,2100.53,A,.,IN1013.
+2100.76,2102.99,D,and try to use some examples with the,IN1013.
+2102.94,2104.15,A,Plosives,IN1013.
+2102.99,2104.03,D,music for example,IN1013.
+2104.15,2105.87,A,". Yeah , plosives are very important",IN1013.
+2105.81,2106.2,B,Yeah,IN1013.
+2105.87,2107.44,A,"though , I guess",IN1013.
+2106.2,2106.2,B,.,IN1013.
+2106.84,2107.61,D,"Right , yeah",IN1013.
+2107.44,2107.79,A,. So,IN1013.
+2107.61,2107.61,D,.,IN1013.
+2107.79,2109.69,A,maybe it does a better job of plosives,IN1013.
+2109.29,2110.28,D,Mm-hmm,IN1013.
+2109.69,2109.69,A,.,IN1013.
+2110.28,2115.74,D,". That's true , yeah . Uh but anyway , it seemed to me pretty good . I mean",IN1013.
+2114.64,2115.77,A,Okay . It'd,IN1013.
+2115.74,2116.13,D,that,IN1013.
+2115.77,2116.16,A,be nice if,IN1013.
+2116.13,2116.26,D,there,IN1013.
+2116.16,2116.37,A,we had,IN1013.
+2116.26,2116.49,D,might,IN1013.
+2116.37,2116.51,A,some,IN1013.
+2116.49,2117.75,D,be,IN1013.
+2116.51,2117.94,A,demos here,IN1013.
+2117.75,2118.23,D,. that's true,IN1013.
+2117.94,2118.53,A,". Well , I suppose",IN1013.
+2118.23,2120.63,D,", yeah",IN1013.
+2118.53,2120.53,A,have to wait to your I guess .,IN1013.
+2120.63,2120.63,D,.,IN1013.
+2121.09,2122.47,B,So when is your turn ? Uh,IN1013.
+2122.57,2124.12,D,Uh it should be uh thirteenth,IN1013.
+2124.02,2124.83,B,Oh,IN1013.
+2124.12,2124.87,D,December,IN1013.
+2124.83,2125.14,B,. Oh,IN1013.
+2124.87,2125.5,D,I think,IN1013.
+2125.14,2125.47,B,okay,IN1013.
+2125.27,2125.59,A,Oh it's,IN1013.
+2125.47,2125.71,B,. I mean,IN1013.
+2125.5,2125.5,D,.,IN1013.
+2125.59,2125.79,A,a little,IN1013.
+2125.71,2127.83,B,just,IN1013.
+2125.79,2128.12,A,wa oh bugger,IN1013.
+2127.24,2128.08,D,I just,IN1013.
+2127.83,2129.13,B,before,IN1013.
+2128.08,2129.05,D,uh,IN1013.
+2128.12,2129.77,A,". I won't be , yeah",IN1013.
+2129.05,2129.17,D,you,IN1013.
+2129.13,2130.61,B,. Oh,IN1013.
+2129.17,2131.58,D,won't be here,IN1013.
+2129.77,2131.63,A,. No,IN1013.
+2130.61,2130.71,B,you . .,IN1013.
+2131.58,2132.95,D,. Uh,IN1013.
+2131.63,2135.42,A,". You'll practice it before then , won't",IN1013.
+2132.95,2135.43,D,"okay . No , I just swapped",IN1013.
+2135.42,2135.83,A,you,IN1013.
+2135.43,2135.83,D,it with,IN1013.
+2135.83,2135.83,A,?,IN1013.
+2135.83,2139.46,D,uh Mike Perrot I think 'cause h he is not going to be here,IN1013.
+2139.42,2139.72,A,Yeah,IN1013.
+2139.46,2140.57,D,this time,IN1013.
+2139.72,2140.69,A,", he's going to Oz",IN1013.
+2140.57,2140.88,D,. And,IN1013.
+2140.69,2141.17,A,. Yep,IN1013.
+2140.88,2141.44,D,I was supposed,IN1013.
+2141.17,2141.17,A,.,IN1013.
+2141.44,2155.43,D,"to have it in uh in January . So whatever . Anyway . So But anyway , I I wanted to hear something maybe from you what you are doing f with speech coding because you were you mentioned that",IN1013.
+2155.38,2159.46,A,"I did , yeah . But we're d we're doing a more traditional",IN1013.
+2159.39,2159.92,D,By,IN1013.
+2159.46,2162.78,A,s s frequency slices rather than temporal based stuff,IN1013.
+2162.51,2162.95,D,But it was,IN1013.
+2162.78,2162.78,A,.,IN1013.
+2162.95,2165.73,D,based on like you were using kind of recognizer there,IN1013.
+2165.73,2166.47,A,Yeah,IN1013.
+2165.73,2166.0,D,", right ?",IN1013.
+2166.47,2168.69,A,". Well that's w that was one of the approaches , sure . Yep",IN1013.
+2168.65,2168.78,B,Low,IN1013.
+2168.69,2168.84,A,. And,IN1013.
+2168.78,2169.01,B,bit,IN1013.
+2168.84,2169.08,A,the other,IN1013.
+2169.01,2169.21,B,rate,IN1013.
+2169.08,2169.42,A,approach,IN1013.
+2169.21,2169.21,B,.,IN1013.
+2169.42,2180.42,A,"was was this H_M_M_ based stuff , which is which is basically just a parameterization of the , you know , the the the the um the source filter type parameters",IN1013.
+2179.86,2180.17,D,Uh-huh .,IN1013.
+2180.42,2183.04,A,", and then and then learning the , you know , training",IN1013.
+2182.99,2184.24,D,Right,IN1013.
+2183.04,2185.53,A,like a h speech recognition system,IN1013.
+2184.24,2184.44,D,. Right .,IN1013.
+2185.53,2189.77,A,. But that's not terribly that's got no relationship to this,IN1013.
+2189.47,2189.85,D,"Yeah , it's",IN1013.
+2189.77,2189.9,A,. I,IN1013.
+2189.85,2190.16,D,I'm,IN1013.
+2189.9,2190.6,A,it's,IN1013.
+2190.16,2190.67,D,I mean yeah,IN1013.
+2190.6,2191.04,A,yeah,IN1013.
+2190.67,2191.19,D,", it's different",IN1013.
+2191.04,2191.04,A,.,IN1013.
+2191.19,2194.69,D,. But uh it's speech coding at least,IN1013.
+2192.97,2193.4,A,"Yeah , sure",IN1013.
+2193.22,2194.97,B,Yes,IN1013.
+2193.4,2194.82,A,. Speech coding . I I read some,IN1013.
+2194.69,2194.69,D,.,IN1013.
+2194.82,2195.02,A,of the,IN1013.
+2194.97,2194.97,B,.,IN1013.
+2195.02,2205.38,A,other techniques . Um little standards . But um I mean I think I think you're on the right track with the analysis by synthesis but that doesn't,IN1013.
+2205.16,2205.72,D,I think,IN1013.
+2205.38,2205.78,A,tell you how,IN1013.
+2205.72,2205.79,D,so,IN1013.
+2205.78,2205.95,A,what,IN1013.
+2205.79,2205.79,D,.,IN1013.
+2205.95,2209.38,A,sort of bit rates you're going to achieve or,IN1013.
+2208.33,2209.43,D,"Right . Yeah , sure",IN1013.
+2209.38,2210.2,A,um,IN1013.
+2209.43,2209.43,D,.,IN1013.
+2210.2,2213.3,A,and because you have to do it separately for each,IN1013.
+2212.52,2213.0,B,Yeah .,IN1013.
+2213.3,2214.16,A,um,IN1013.
+2213.77,2214.36,D,Band,IN1013.
+2214.16,2215.44,A,band,IN1013.
+2214.36,2215.55,D,you mean ? Right,IN1013.
+2215.44,2216.34,A,", it",IN1013.
+2215.55,2215.55,D,.,IN1013.
+2216.34,2230.11,A,"would be the I imagine that's the tricky part . Um because it would be varying quite rapidly , wouldn't it , your um your uh code book . Like w within each um",IN1013.
+2229.73,2230.44,D,With different,IN1013.
+2230.11,2234.13,A,when you go along the the the b the one second sort of segment of,IN1013.
+2234.11,2234.32,D,I,IN1013.
+2234.13,2234.69,A,the band,IN1013.
+2234.32,2234.79,D,don't know,IN1013.
+2234.69,2235.03,A,", you",IN1013.
+2234.79,2243.58,D,. But maybe what we can already do is uh to decrease this uh this distance . We can do a Hilbert envelope approximation with one second,IN1013.
+2243.36,2243.76,B,Hmm,IN1013.
+2243.58,2243.76,D,. But,IN1013.
+2243.76,2243.76,B,.,IN1013.
+2243.76,2244.82,D,then we can split,IN1013.
+2244.56,2244.68,B,Hmm .,IN1013.
+2244.82,2249.58,D,"that signal into , I don't know , ten ten uh segments",IN1013.
+2248.83,2249.35,A,"Yeah , yeah .",IN1013.
+2249.58,2253.43,D,"with the one hundred milliseconds or even less , and we can apply some other technique for that",IN1013.
+2253.42,2253.94,A,Yeah,IN1013.
+2253.43,2254.96,D,", you know",IN1013.
+2253.94,2255.1,A,". Well , I mean yeah . First you've",IN1013.
+2254.96,2255.39,D,. Still,IN1013.
+2255.1,2258.14,A,gotta choose your approach and not worry about the band-width,IN1013.
+2257.8,2258.2,D,Right,IN1013.
+2258.14,2258.35,A,", and",IN1013.
+2258.2,2258.74,D,. Exactly,IN1013.
+2258.35,2258.98,A,then,IN1013.
+2258.54,2258.74,B,Hmm .,IN1013.
+2258.74,2259.14,D,", exactly",IN1013.
+2258.98,2259.3,A,start,IN1013.
+2259.14,2259.14,D,.,IN1013.
+2259.3,2261.81,A,thinking about how to given,IN1013.
+2261.36,2261.8,D,Yeah .,IN1013.
+2261.81,2275.34,A,"'cause I mean I guess especially 'cause this is a this is a more of a commercial based project , you've g c you've you've gotta i match the quality before you start worrying about other things , right . I mean d d do they I mean",IN1013.
+2275.16,2276.01,D,Well,IN1013.
+2275.34,2276.02,A,what what what,IN1013.
+2276.01,2276.57,D,", th",IN1013.
+2276.02,2276.75,A,sort of uh,IN1013.
+2276.57,2284.35,D,"more less they don't care what's uh what will be the quality of the of the or the bit rate , they just want to get something new , you know",IN1013.
+2283.75,2285.0,A,Uh-huh,IN1013.
+2284.35,2285.0,D,. So if you,IN1013.
+2285.0,2286.01,A,", okay",IN1013.
+2285.0,2286.43,D,get the,IN1013.
+2285.28,2287.11,B,Oh okay,IN1013.
+2286.01,2286.5,A,. Well that makes,IN1013.
+2286.43,2286.92,D,v very,IN1013.
+2286.5,2287.63,A,things uh,IN1013.
+2286.92,2287.39,D,uh low,IN1013.
+2287.11,2287.53,B,. Yeah,IN1013.
+2287.39,2287.62,D,bit,IN1013.
+2287.53,2287.53,B,.,IN1013.
+2287.62,2291.1,D,rate with a reasonable quality or really high bit rate,IN1013.
+2290.96,2291.4,A,With,IN1013.
+2291.1,2291.3,D,", which",IN1013.
+2291.15,2291.59,B,Yeah,IN1013.
+2291.3,2291.83,D,is c again,IN1013.
+2291.59,2291.59,B,.,IN1013.
+2291.83,2293.6,D,"different , but with uh high quality , uh",IN1013.
+2293.57,2293.82,A,They're,IN1013.
+2293.6,2293.82,D,they,IN1013.
+2293.82,2295.17,A,happy,IN1013.
+2293.82,2294.05,D,would be,IN1013.
+2293.98,2294.6,B,Yeah,IN1013.
+2294.05,2295.43,D,happy with the both,IN1013.
+2294.6,2296.77,B,yeah,IN1013.
+2295.17,2296.73,A,. Okay,IN1013.
+2295.43,2297.39,D,. So You know,IN1013.
+2296.73,2297.73,A,. Cool,IN1013.
+2296.77,2298.2,B,". Yeah , you know , the",IN1013.
+2297.39,2297.84,D,", on one side",IN1013.
+2297.73,2297.73,A,.,IN1013.
+2297.84,2298.22,D,it's pretty,IN1013.
+2298.2,2299.64,B,the,IN1013.
+2298.22,2301.03,D,good but on the other you don't know which way you should go 'cause,IN1013.
+2300.92,2301.2,A,Yeah,IN1013.
+2301.03,2301.22,D,there,IN1013.
+2301.2,2301.5,A,. Sure,IN1013.
+2301.22,2301.52,D,are many,IN1013.
+2301.5,2303.23,A,", sure",IN1013.
+2301.52,2303.61,D,of them . And,IN1013.
+2303.23,2303.89,A,. And at the moment,IN1013.
+2303.61,2303.74,D,uh,IN1013.
+2303.89,2307.37,A,you're at sort of a point where maybe you have to make that choice a little,IN1013.
+2307.17,2307.61,D,Right,IN1013.
+2307.37,2307.65,A,bit,IN1013.
+2307.61,2307.87,D,", right",IN1013.
+2307.65,2309.04,A,. Yeah,IN1013.
+2307.68,2308.02,B,Yeah,IN1013.
+2307.87,2307.87,D,.,IN1013.
+2308.02,2308.02,B,.,IN1013.
+2309.04,2309.52,A,. Mm-hmm .,IN1013.
+2311.3,2314.51,D,Okay . Well I,IN1013.
+2313.61,2313.85,B,Hmm .,IN1013.
+2314.51,2317.02,D,I will W,IN1013.
+2316.9,2317.33,B,Yeah,IN1013.
+2317.02,2317.39,D,uh do,IN1013.
+2317.33,2317.33,B,.,IN1013.
+2317.39,2321.59,D,you want to mention your speech coding experiments,IN1013.
+2319.98,2321.63,B,Uh . No no no,IN1013.
+2321.59,2321.68,D,? So,IN1013.
+2321.63,2321.96,B,", yeah",IN1013.
+2321.68,2322.18,D,you are saying,IN1013.
+2321.96,2321.96,B,.,IN1013.
+2322.18,2324.66,D,that you're doing something i in India with uh,IN1013.
+2324.62,2328.21,B,Yeah . But it's mostly like this is uh s CELP and these,IN1013.
+2328.11,2328.21,D,So,IN1013.
+2328.21,2328.34,B,thing,IN1013.
+2328.21,2328.55,D,you know,IN1013.
+2328.34,2328.34,B,.,IN1013.
+2328.55,2331.81,D,the sub mm like um,IN1013.
+2330.31,2332.08,B,"No , I was t uh doing some",IN1013.
+2331.81,2332.61,D,more details,IN1013.
+2332.08,2333.01,B,uh like writing,IN1013.
+2332.61,2332.61,D,?,IN1013.
+2333.01,2337.91,B,some code for testing and these things where I'm making some t standards,IN1013.
+2337.41,2338.17,A,Yeah,IN1013.
+2337.91,2338.17,B,for,IN1013.
+2338.17,2338.46,A,. Uh,IN1013.
+2338.17,2338.94,B,that . So,IN1013.
+2338.46,2339.09,A,which is,IN1013.
+2338.94,2339.09,B,so,IN1013.
+2339.09,2339.43,A,not,IN1013.
+2339.09,2346.56,B,"th th there are like li the thing , these standards , how it works is like they give all the pseudo code kind of thing and then",IN1013.
+2346.17,2346.55,A,Yeah .,IN1013.
+2346.56,2351.33,B,they put severe test conditions . So you have to pass those test conditions . Like,IN1013.
+2350.91,2351.7,D,Oh yeah,IN1013.
+2351.33,2351.75,B,then,IN1013.
+2351.7,2352.22,D,. Okay,IN1013.
+2351.75,2352.33,B,j you can,IN1013.
+2352.22,2352.22,D,.,IN1013.
+2352.33,2354.42,B,"say okay , we implemented D_ seventy eight",IN1013.
+2354.34,2354.67,A,Yeah,IN1013.
+2354.42,2354.78,B,or D_,IN1013.
+2354.67,2355.01,A,. Al,IN1013.
+2354.78,2355.04,B,se,IN1013.
+2355.01,2359.96,A,"although the standards , depending on what standard you're dealing with , sometimes it can be quite",IN1013.
+2359.62,2360.84,B,Yeah,IN1013.
+2359.96,2360.88,A,"ambiguous , right . I mean all",IN1013.
+2360.84,2361.05,B,. Yeah,IN1013.
+2360.88,2361.45,A,the,IN1013.
+2361.05,2362.17,B,. Yeah,IN1013.
+2361.45,2362.23,A,M_ PEG standards,IN1013.
+2362.17,2363.12,B,. Yeah,IN1013.
+2362.23,2363.23,A,are basically this is the,IN1013.
+2363.12,2364.16,B,. Yeah,IN1013.
+2363.23,2364.17,A,container,IN1013.
+2364.16,2365.88,B,. Yeah,IN1013.
+2364.17,2365.96,A,", we don't care how you do it , right , but it's gotta",IN1013.
+2365.88,2365.88,B,.,IN1013.
+2365.96,2367.57,A,fit inside this,IN1013.
+2367.07,2367.73,D,Right,IN1013.
+2367.35,2368.69,B,Yeah,IN1013.
+2367.57,2367.8,A,this,IN1013.
+2367.73,2370.4,D,", right",IN1013.
+2367.8,2368.75,A,sort of this sort,IN1013.
+2368.69,2368.95,B,. So,IN1013.
+2368.75,2371.09,A,of format,IN1013.
+2368.95,2370.79,B,that's why it's really,IN1013.
+2370.4,2370.4,D,.,IN1013.
+2370.79,2371.2,B,even the,IN1013.
+2371.09,2371.09,A,.,IN1013.
+2371.2,2376.66,B,t standards they give the test signals also . You are t you can't really do it on whatever database you have,IN1013.
+2376.6,2377.2,A,Okay,IN1013.
+2376.66,2377.34,B,. So,IN1013.
+2377.2,2377.43,A,. And then,IN1013.
+2377.34,2377.5,B,so,IN1013.
+2377.43,2377.61,A,you,IN1013.
+2377.5,2377.64,B,you,IN1013.
+2377.61,2377.85,A,have,IN1013.
+2377.64,2378.15,B,are to use,IN1013.
+2377.85,2378.76,A,the v,IN1013.
+2378.15,2378.76,B,the,IN1013.
+2378.76,2378.86,A,and,IN1013.
+2378.76,2378.99,B,uh,IN1013.
+2378.86,2379.05,A,then you,IN1013.
+2378.99,2380.28,B,uh,IN1013.
+2379.05,2381.2,A,have to do M_O_S_ um,IN1013.
+2380.28,2381.46,B,yeah,IN1013.
+2381.2,2381.76,A,testing,IN1013.
+2381.46,2381.82,B,. Uh,IN1013.
+2381.76,2383.03,A,and,IN1013.
+2381.82,2392.19,B,"it yeah , it's more like uh they define . So I did for some even also . They're also they define all this the speech condition . Everything they define . So",IN1013.
+2391.86,2392.26,A,Okay,IN1013.
+2392.19,2392.31,B,you,IN1013.
+2392.26,2392.26,A,.,IN1013.
+2392.31,2392.43,B,need,IN1013.
+2392.41,2393.46,D,Right,IN1013.
+2392.43,2394.19,B,to follow all those,IN1013.
+2393.46,2393.87,D,. I see .,IN1013.
+2394.19,2397.84,B,". Yes , this industry is again different like , yeah .",IN1013.
+2398.05,2407.45,D,"Yeah , but it's quite interesting with the even with th uh s current speech coding uh technologies . We are they are still trying to use k zap or those R_P_",IN1013.
+2407.3,2407.48,B,"Yeah , I",IN1013.
+2407.45,2407.71,D,based,IN1013.
+2407.48,2407.86,B,think there,IN1013.
+2407.71,2408.73,D,approaches,IN1013.
+2407.86,2408.93,B,isn't only se,IN1013.
+2408.73,2409.3,D,. There is nothing,IN1013.
+2408.93,2410.55,B,most,IN1013.
+2409.3,2410.43,D,"new , more or less",IN1013.
+2410.14,2410.73,A,"Well , ho",IN1013.
+2410.43,2411.14,D,. And,IN1013.
+2410.55,2411.06,B,yeah,IN1013.
+2410.73,2410.97,A,it,IN1013.
+2411.06,2411.06,B,.,IN1013.
+2411.14,2423.98,D,"if I when I was uh listening the uh the talk of uh Milan Jelinek , uh he's the Czech guy , but he lives in uh in Canada . I don't know the name of the university . But they they have uh the pattern I think for CELP even . Or",IN1013.
+2424.37,2425.31,B,Ah,IN1013.
+2424.58,2425.09,A,Okay .,IN1013.
+2425.31,2427.36,B,. CELP is from uh A_T_ and T_,IN1013.
+2427.31,2428.19,D,Um,IN1013.
+2427.36,2428.2,B,", no",IN1013.
+2428.19,2428.3,D,I,IN1013.
+2428.2,2428.44,B,? Like,IN1013.
+2428.3,2428.51,D,don't,IN1013.
+2428.44,2428.71,B,A_T_,IN1013.
+2428.51,2428.83,D,know how,IN1013.
+2428.71,2429.2,B,and,IN1013.
+2428.83,2429.52,D,it is exactly,IN1013.
+2429.2,2429.94,B,yeah,IN1013.
+2429.52,2430.32,D,but they,IN1013.
+2429.94,2430.44,B,", yeah . It",IN1013.
+2430.32,2430.56,D,got,IN1013.
+2430.44,2430.62,B,the,IN1013.
+2430.56,2431.57,D,very,IN1013.
+2430.62,2431.62,B,all this L_P_C_,IN1013.
+2431.57,2432.14,D,very,IN1013.
+2431.62,2432.26,B,stuff is,IN1013.
+2432.14,2434.45,D,famous for this for that CELP,IN1013.
+2434.36,2434.85,B,Yeah,IN1013.
+2434.45,2434.99,D,. What they did,IN1013.
+2434.85,2434.85,B,.,IN1013.
+2434.99,2437.8,D,"exactly I don't know , if something different a little bit or not",IN1013.
+2437.5,2437.87,B,Ah,IN1013.
+2437.8,2437.91,D,", or",IN1013.
+2437.87,2438.19,B,", ok",IN1013.
+2437.91,2440.45,D,they just keep those patterns or,IN1013.
+2439.96,2441.96,B,"Ah , okay",IN1013.
+2440.45,2441.62,D,I don't know how it is exactly,IN1013.
+2441.17,2441.22,A,Mm .,IN1013.
+2441.62,2442.0,D,. Maybe,IN1013.
+2441.96,2443.3,B,. Yeah,IN1013.
+2442.0,2442.99,D,Hynek will know much more,IN1013.
+2442.99,2443.3,A,Yeah,IN1013.
+2442.99,2443.87,D,. But,IN1013.
+2443.3,2444.37,A,", yeah",IN1013.
+2443.3,2443.67,B,. Yeah .,IN1013.
+2443.87,2444.81,D,uh,IN1013.
+2444.37,2444.76,A,". Well , I th",IN1013.
+2444.81,2448.1,D,"when I heard those that presentation , they didn't do so much new . I mean",IN1013.
+2448.07,2448.29,A,No,IN1013.
+2448.1,2448.32,D,uh it,IN1013.
+2448.29,2448.41,A,", no",IN1013.
+2448.32,2448.56,D,was,IN1013.
+2448.41,2448.85,A,", no",IN1013.
+2448.56,2448.95,D,last year,IN1013.
+2448.85,2448.85,A,.,IN1013.
+2448.95,2458.99,D,"and uh I think Hynek , he was asking wh so what's new that you are so famous with that and they n they said okay , we we know exactly how to do that . I mean you know",IN1013.
+2458.81,2459.22,B,Yeah,IN1013.
+2458.99,2459.24,D,", not",IN1013.
+2459.22,2459.54,B,. The,IN1013.
+2459.24,2465.15,D,to make any errors like in because everybody knows how to do that . But uh it's not so easy to implement,IN1013.
+2464.92,2465.23,A,Uh,IN1013.
+2465.15,2465.26,D,it,IN1013.
+2465.23,2465.51,A,no,IN1013.
+2465.26,2466.53,D,", right . So",IN1013.
+2465.51,2466.45,A,", no , no . Yep .",IN1013.
+2466.53,2468.85,D,uh there is nothing so much new really,IN1013.
+2468.62,2469.09,B,"Yeah , that's",IN1013.
+2468.85,2468.96,D,like .,IN1013.
+2469.09,2469.29,B,the,IN1013.
+2469.12,2469.4,A,Well the,IN1013.
+2469.29,2469.62,B,main,IN1013.
+2469.4,2470.18,A,the what's,IN1013.
+2469.62,2470.33,B,thing even,IN1013.
+2470.18,2470.45,A,what's,IN1013.
+2470.33,2470.49,B,. Yeah,IN1013.
+2470.45,2470.64,A,new,IN1013.
+2470.49,2470.49,B,.,IN1013.
+2470.64,2473.19,A,is in the transmission medium . Like you,IN1013.
+2473.1,2473.36,D,Yeah,IN1013.
+2473.19,2473.62,A,know,IN1013.
+2473.36,2473.36,D,.,IN1013.
+2473.62,2476.31,A,", new like higher band width transmission",IN1013.
+2475.8,2476.1,D,Right .,IN1013.
+2476.31,2480.53,A,or uh or like packet packetized based transmission,IN1013.
+2480.43,2480.68,B,Yeah,IN1013.
+2480.53,2480.74,A,. And,IN1013.
+2480.68,2480.68,B,.,IN1013.
+2480.74,2481.75,A,then all th that sort,IN1013.
+2481.69,2482.27,D,Right,IN1013.
+2481.75,2482.89,A,of thing,IN1013.
+2482.27,2482.27,D,.,IN1013.
+2482.89,2485.83,A,". The where th where they're they're not so much looking at the algorithm , but so",IN1013.
+2485.72,2486.14,D,Exactly,IN1013.
+2485.83,2487.04,A,much as,IN1013.
+2486.14,2486.14,D,.,IN1013.
+2487.04,2488.65,A,how to incorporate the algorithm within,IN1013.
+2488.51,2488.75,B,Yeah,IN1013.
+2488.65,2488.89,A,a new,IN1013.
+2488.75,2488.75,B,.,IN1013.
+2488.89,2491.21,A,transi mission sort of s medium,IN1013.
+2490.45,2491.36,B,"Yeah , like",IN1013.
+2491.21,2491.57,A,. Basically,IN1013.
+2491.36,2491.66,B,I,IN1013.
+2491.57,2491.9,A,s,IN1013.
+2491.66,2491.66,B,.,IN1013.
+2491.9,2495.37,A,like I mean if you d if you see a lot of papers on like um on,IN1013.
+2495.14,2495.47,B,Voice,IN1013.
+2495.37,2495.72,A,uh,IN1013.
+2495.47,2496.04,B,over I_P_,IN1013.
+2495.72,2496.22,A,voice over,IN1013.
+2496.04,2496.43,B,or,IN1013.
+2496.22,2496.54,A,I_P_,IN1013.
+2496.43,2497.24,B,yeah,IN1013.
+2496.54,2497.94,A,"or whatever , the the publications",IN1013.
+2497.24,2498.61,B,. Uh yeah,IN1013.
+2497.94,2499.08,A,are sort of like,IN1013.
+2498.61,2498.96,B,. Yeah,IN1013.
+2498.91,2499.23,D,Right,IN1013.
+2498.96,2498.96,B,.,IN1013.
+2499.08,2500.34,A,um,IN1013.
+2499.23,2499.23,D,.,IN1013.
+2500.34,2503.08,A,"how do we deal with packet loss , or or how was it affected",IN1013.
+2502.82,2503.08,D,Right,IN1013.
+2503.08,2503.17,A,by,IN1013.
+2503.08,2503.17,D,", ri",IN1013.
+2503.17,2503.54,A,packet,IN1013.
+2503.17,2504.08,D,"right , exactly",IN1013.
+2503.54,2504.52,A,loss and,IN1013.
+2504.08,2504.93,D,", exactly",IN1013.
+2504.52,2505.02,A,and and,IN1013.
+2504.93,2505.04,D,. But,IN1013.
+2505.02,2505.23,A,things,IN1013.
+2505.04,2505.3,D,then they,IN1013.
+2505.23,2505.39,A,like,IN1013.
+2505.3,2505.48,D,are,IN1013.
+2505.39,2505.74,A,that,IN1013.
+2505.48,2505.85,D,s still,IN1013.
+2505.74,2505.74,A,.,IN1013.
+2505.85,2511.09,D,"using like error signal , which is going to be approximated by code book , right",IN1013.
+2510.42,2510.92,A,"Yeah , sure .",IN1013.
+2511.09,2513.63,D,"? And a linear prediction , which is use",IN1013.
+2512.98,2513.32,B,Yeah .,IN1013.
+2513.63,2516.16,D,which is approximating just the spectrum of for,IN1013.
+2515.85,2516.1,A,Yeah .,IN1013.
+2516.16,2520.35,D,for and everything that that's that's all . So,IN1013.
+2519.28,2520.42,B,Yeah . And,IN1013.
+2520.35,2521.19,D,still,IN1013.
+2520.42,2530.69,B,"again , lot of this stuff like whe even when I was working mostly that company was developing for voice over I_P_ . So they're to put all these things on again D_S_P_s . And also it's",IN1013.
+2530.61,2530.98,D,Right,IN1013.
+2530.69,2531.09,B,mostly,IN1013.
+2530.98,2531.32,D,. Yeah,IN1013.
+2531.09,2531.75,B,like,IN1013.
+2531.32,2531.51,D,", yeah .",IN1013.
+2531.75,2532.88,B,how to how many,IN1013.
+2532.59,2533.65,A,And optimization,IN1013.
+2532.88,2534.39,B,L_P_C_s are,IN1013.
+2533.65,2534.44,A,of the code,IN1013.
+2534.39,2534.77,B,yeah,IN1013.
+2534.44,2534.84,A,and all that,IN1013.
+2534.77,2534.9,B,", how",IN1013.
+2534.84,2535.13,A,sorta,IN1013.
+2534.9,2535.29,B,many,IN1013.
+2535.13,2536.04,A,stuff,IN1013.
+2535.29,2536.14,B,"co yeah , it's",IN1013.
+2536.04,2537.62,A,. Yeah,IN1013.
+2536.14,2537.91,B,optimation and then,IN1013.
+2537.62,2537.92,A,. But even,IN1013.
+2537.91,2538.09,B,it's,IN1013.
+2537.92,2538.18,A,that's,IN1013.
+2538.09,2538.31,B,even,IN1013.
+2538.18,2540.0,A,"less of a big deal now , right , because all the",IN1013.
+2539.96,2540.35,B,Yeah,IN1013.
+2540.0,2540.8,A,little um,IN1013.
+2540.35,2540.83,B,". Again , now",IN1013.
+2540.8,2540.89,A,I_,IN1013.
+2540.83,2541.75,B,now,IN1013.
+2540.89,2542.33,A,s,IN1013.
+2541.75,2542.31,B,now even,IN1013.
+2542.14,2544.58,D,Right,IN1013.
+2542.31,2542.51,B,they're,IN1013.
+2542.33,2543.44,A,yeah,IN1013.
+2542.51,2544.55,B,also becoming yeah,IN1013.
+2543.44,2543.44,A,.,IN1013.
+2544.55,2544.75,B,. Even,IN1013.
+2544.58,2544.58,D,.,IN1013.
+2544.75,2547.11,B,the memories are not really,IN1013.
+2546.21,2547.58,A,Not really . You could,IN1013.
+2547.11,2548.98,B,yeah,IN1013.
+2547.58,2549.0,A,trow Matlab on a mobile phone,IN1013.
+2548.98,2550.14,B,. Yeah,IN1013.
+2549.0,2550.35,A,these days,IN1013.
+2550.14,2551.15,B,. Yeah . Yeah,IN1013.
+2550.35,2551.7,A,". Well , maybe not , but",IN1013.
+2551.15,2558.74,B,. So even I think uh then you can have whatever band-width is,IN1013.
+2558.3,2558.76,A,Yeah,IN1013.
+2558.74,2558.89,B,. It's,IN1013.
+2558.76,2558.76,A,.,IN1013.
+2558.89,2560.5,B,short really .,IN1013.
+2562.13,2566.27,D,"Well , I hope that we still have a a lot of time for that because",IN1013.
+2565.95,2566.47,B,"But no , I",IN1013.
+2566.27,2566.89,D,uh,IN1013.
+2566.47,2571.74,B,"think uh but still then that's what maybe people are going toward sign sort of modelling , no . Like I was before",IN1013.
+2571.68,2571.76,D,I,IN1013.
+2571.74,2571.96,B,when,IN1013.
+2571.76,2572.11,D,think,IN1013.
+2571.96,2572.59,B,the bandwidth,IN1013.
+2572.11,2573.1,D,"yeah , it's",IN1013.
+2572.59,2573.18,B,conditions were,IN1013.
+2573.1,2573.31,D,pretty,IN1013.
+2573.18,2573.52,B,really,IN1013.
+2573.31,2573.99,D,interesting,IN1013.
+2573.52,2574.05,B,stringent,IN1013.
+2573.99,2574.24,D,", yeah",IN1013.
+2574.05,2574.35,B,then,IN1013.
+2574.24,2574.24,D,.,IN1013.
+2574.35,2574.46,B,they,IN1013.
+2574.44,2574.55,A,Y,IN1013.
+2574.46,2574.59,B,were,IN1013.
+2574.55,2575.06,A,yeah,IN1013.
+2574.59,2575.14,B,using all,IN1013.
+2575.06,2575.06,A,.,IN1013.
+2575.14,2576.57,B,the p L_P_C_ based source,IN1013.
+2576.35,2576.8,D,For example,IN1013.
+2576.57,2577.35,B,filter,IN1013.
+2576.8,2577.62,D,when I was uh,IN1013.
+2577.35,2577.35,B,.,IN1013.
+2577.62,2581.73,D,"you know , harmonic voice modelling , that H_M_M_ system which is using used",IN1013.
+2581.44,2581.75,A,Yeah,IN1013.
+2581.73,2581.98,D,for,IN1013.
+2581.75,2582.47,A,", which David",IN1013.
+2581.98,2582.95,D,synthesis,IN1013.
+2582.47,2583.07,A,did,IN1013.
+2582.95,2583.17,D,more,IN1013.
+2583.07,2583.65,A,", yeah",IN1013.
+2583.17,2583.79,D,less,IN1013.
+2583.18,2583.38,B,Yeah .,IN1013.
+2583.65,2583.65,A,.,IN1013.
+2583.79,2585.04,D,. It's pretty interesting . I mean,IN1013.
+2584.92,2585.66,B,Yeah,IN1013.
+2585.04,2585.11,D,it,IN1013.
+2585.09,2585.26,A,It's,IN1013.
+2585.11,2585.29,D,it,IN1013.
+2585.26,2585.65,A,good,IN1013.
+2585.29,2585.97,D,works,IN1013.
+2585.65,2585.91,A,", yeah",IN1013.
+2585.66,2585.97,B,. Yeah,IN1013.
+2585.91,2585.91,A,.,IN1013.
+2585.97,2586.13,B,", if",IN1013.
+2585.97,2586.34,D,it works,IN1013.
+2586.13,2586.42,B,you want,IN1013.
+2586.34,2586.66,D,well,IN1013.
+2586.42,2586.7,B,you can,IN1013.
+2586.66,2586.66,D,.,IN1013.
+2586.7,2588.3,B,look at his code and,IN1013.
+2588.02,2588.37,A,"Yeah , we've",IN1013.
+2588.3,2588.45,B,. But,IN1013.
+2588.37,2588.52,A,got,IN1013.
+2588.45,2588.59,B,only,IN1013.
+2588.52,2588.63,A,all,IN1013.
+2588.59,2589.51,B,th,IN1013.
+2588.63,2589.65,A,his code implemented . So,IN1013.
+2589.51,2589.85,B,yeah,IN1013.
+2589.65,2590.15,A,uh,IN1013.
+2589.85,2590.44,B,", yeah",IN1013.
+2590.09,2590.44,D,Right,IN1013.
+2590.15,2590.56,A,It wasn't,IN1013.
+2590.44,2590.44,B,.,IN1013.
+2590.44,2590.44,D,.,IN1013.
+2590.56,2595.97,A,perfect . There was little bit of bugs with some of the matching . But it was pretty hard,IN1013.
+2595.67,2596.09,B,Yeah,IN1013.
+2595.97,2596.4,A,to tell,IN1013.
+2596.09,2596.09,B,.,IN1013.
+2596.4,2600.96,A,that it was m not not perfect unless you heard the samples,IN1013.
+2600.65,2600.99,B,Yeah,IN1013.
+2600.96,2601.19,A,sort,IN1013.
+2600.99,2600.99,B,.,IN1013.
+2601.19,2603.99,A,of next to one another . So that's not too bad .,IN1013.
+2604.3,2604.44,B,But,IN1013.
+2604.41,2604.8,D,Right,IN1013.
+2604.44,2604.86,B,definitely it's,IN1013.
+2604.8,2604.8,D,.,IN1013.
+2604.86,2606.8,B,"better than co coded speech , no ? Different",IN1013.
+2606.59,2606.81,A,Oh,IN1013.
+2606.8,2606.98,B,. Yeah,IN1013.
+2606.81,2607.78,A,", sure",IN1013.
+2606.98,2608.0,B,", it's really",IN1013.
+2607.78,2608.25,A,. . And I mean,IN1013.
+2608.0,2608.27,B,but,IN1013.
+2608.09,2608.66,D,"Yeah , yeah",IN1013.
+2608.25,2608.42,A,it,IN1013.
+2608.27,2608.83,B,uh how,IN1013.
+2608.66,2609.16,D,", it is",IN1013.
+2608.83,2609.25,B,much you,IN1013.
+2609.16,2609.16,D,.,IN1013.
+2609.25,2611.3,B,can get the compress these,IN1013.
+2611.25,2611.59,A,Well,IN1013.
+2611.3,2611.7,B,like what,IN1013.
+2611.59,2611.71,A,th,IN1013.
+2611.7,2614.92,B,you're telling is you can do all these tricks like . Yeah,IN1013.
+2614.75,2615.2,A,The only,IN1013.
+2614.92,2616.54,B,", these",IN1013.
+2615.2,2616.76,A,trick is the phase . And,IN1013.
+2616.54,2617.01,B,yeah,IN1013.
+2616.76,2617.04,A,we've got,IN1013.
+2617.01,2617.01,B,.,IN1013.
+2617.04,2624.12,A,a student starting in January who's gonna start working on on how to actually efficiently parameterize the um the,IN1013.
+2624.05,2624.12,D,You,IN1013.
+2624.12,2625.47,A,H_M_M_,IN1013.
+2624.12,2625.6,D,mean uh in sinusoidal,IN1013.
+2625.47,2626.33,A,yeah,IN1013.
+2625.6,2626.26,D,uh modelling,IN1013.
+2625.91,2626.54,B,In yeah,IN1013.
+2626.26,2626.26,D,?,IN1013.
+2626.33,2627.1,A,", yeah",IN1013.
+2626.54,2626.54,B,.,IN1013.
+2627.1,2631.64,A,. And I think I think we've got a number of ideas for the the spectrum . That's easily enough handled,IN1013.
+2631.46,2633.13,D,Yeah,IN1013.
+2631.64,2633.14,A,just using standard techniques . But,IN1013.
+2633.13,2633.52,D,. And,IN1013.
+2633.14,2634.58,A,the,IN1013.
+2633.52,2642.98,D,"but anyway , do you know exactly how it is done when you really have those M_F_C_C_ coefficients , which means magnitude spectrum , and then you are trying to reconstruct the speech",IN1013.
+2642.0,2643.66,A,Without phase,IN1013.
+2642.98,2644.94,D,? Without a phase,IN1013.
+2643.66,2645.2,A,? I've got no idea . Uh you,IN1013.
+2644.94,2645.26,D,. Because,IN1013.
+2644.97,2645.25,B,Well,IN1013.
+2645.2,2645.55,A,reviewed,IN1013.
+2645.25,2645.51,B,yeah,IN1013.
+2645.26,2645.59,D,I,IN1013.
+2645.51,2645.85,B,", I",IN1013.
+2645.55,2645.62,A,a,IN1013.
+2645.59,2645.76,D,I,IN1013.
+2645.62,2645.97,A,paper,IN1013.
+2645.76,2646.24,D,tried,IN1013.
+2645.85,2646.03,B,read,IN1013.
+2645.97,2646.09,A,on,IN1013.
+2646.03,2646.64,B,uh,IN1013.
+2646.09,2646.28,A,a,IN1013.
+2646.24,2646.85,D,you know those,IN1013.
+2646.64,2647.27,B,I reviewed,IN1013.
+2646.85,2648.35,D,th those papers,IN1013.
+2647.27,2648.37,B,"one paper like yeah , the",IN1013.
+2648.35,2648.57,D,. But,IN1013.
+2648.37,2648.85,B,that's,IN1013.
+2648.57,2649.01,D,s I'm,IN1013.
+2648.85,2649.05,B,that's,IN1013.
+2649.01,2649.29,D,little,IN1013.
+2649.05,2650.16,B,from,IN1013.
+2649.29,2650.26,D,confused about it . I don't,IN1013.
+2650.16,2650.45,B,no,IN1013.
+2650.26,2650.47,D,know how,IN1013.
+2650.45,2650.65,B,. Yeah,IN1013.
+2650.47,2650.96,D,it works,IN1013.
+2650.65,2651.01,B,", maybe you",IN1013.
+2650.96,2651.1,D,. But,IN1013.
+2651.01,2653.08,B,can look at dates from uh,IN1013.
+2652.97,2653.09,A,Uh,IN1013.
+2653.08,2653.21,B,you,IN1013.
+2653.09,2653.46,A,Steven,IN1013.
+2653.21,2653.51,B,know east,IN1013.
+2653.46,2653.79,A,Cox,IN1013.
+2653.51,2653.82,B,of uh,IN1013.
+2653.79,2654.32,A,", isn't",IN1013.
+2653.82,2654.32,B,east,IN1013.
+2654.32,2654.97,A,it,IN1013.
+2654.32,2655.08,B,"uh yeah , East",IN1013.
+2654.97,2655.4,A,? Yeah,IN1013.
+2655.08,2656.05,B,Anglia,IN1013.
+2655.4,2655.4,A,.,IN1013.
+2655.94,2656.14,D,Which,IN1013.
+2656.05,2657.19,B,. Yeah,IN1013.
+2656.14,2656.34,D,one ?,IN1013.
+2657.19,2658.78,B,. Uh this uh,IN1013.
+2658.33,2658.81,A,University,IN1013.
+2658.78,2659.23,B,e,IN1013.
+2658.81,2660.7,A,of East Anglia,IN1013.
+2659.23,2660.71,B,east University of East Anglia,IN1013.
+2660.7,2660.88,A,. It's,IN1013.
+2660.71,2661.41,B,", Ben Milner",IN1013.
+2660.88,2661.64,A,near c,IN1013.
+2661.41,2661.41,B,.,IN1013.
+2661.64,2666.21,A,sort of it's it's near the sorta Cambridge side of England,IN1013.
+2666.0,2667.16,B,Yeah,IN1013.
+2666.21,2666.87,A,", I guess .",IN1013.
+2667.16,2670.75,B,". I yeah , it's yeah , I can forward you that . They're",IN1013.
+2670.52,2670.9,D,Yeah,IN1013.
+2670.75,2670.95,B,doing,IN1013.
+2670.9,2671.09,D,", that",IN1013.
+2670.95,2671.1,B,lot,IN1013.
+2671.09,2671.24,D,would,IN1013.
+2671.1,2671.3,B,of,IN1013.
+2671.24,2671.35,D,be,IN1013.
+2671.3,2671.63,B,tricks,IN1013.
+2671.35,2671.63,D,nice,IN1013.
+2671.63,2671.82,B,. They're,IN1013.
+2671.63,2671.63,D,.,IN1013.
+2671.82,2674.96,B,like they're again training Gaussian mixtures for,IN1013.
+2674.6,2675.17,D,Oh,IN1013.
+2674.96,2675.51,B,different,IN1013.
+2675.17,2675.17,D,.,IN1013.
+2675.51,2677.67,B,frequencies and then,IN1013.
+2677.33,2677.96,D,"You know , m but",IN1013.
+2677.67,2678.2,B,but,IN1013.
+2677.96,2678.21,D,there are,IN1013.
+2678.2,2678.38,B,they,IN1013.
+2678.21,2678.42,D,some,IN1013.
+2678.38,2678.71,B,can,IN1013.
+2678.42,2678.92,D,algorithms,IN1013.
+2678.71,2679.7,B,they're following,IN1013.
+2678.92,2679.71,D,which were quite,IN1013.
+2679.7,2679.98,B,the,IN1013.
+2679.71,2680.14,D,uh,IN1013.
+2679.98,2681.78,B,yeah,IN1013.
+2680.09,2681.89,A,"No the much more mathematical , I",IN1013.
+2681.78,2682.21,B,. Yeah,IN1013.
+2681.8,2682.05,D,Yeah,IN1013.
+2681.89,2682.21,A,think,IN1013.
+2682.05,2682.22,D,", yeah",IN1013.
+2682.21,2682.49,A,. Yeah,IN1013.
+2682.21,2682.53,B,. Yeah,IN1013.
+2682.22,2682.76,D,", yeah",IN1013.
+2682.49,2682.7,A,", just",IN1013.
+2682.53,2682.53,B,.,IN1013.
+2682.7,2683.19,A,basically,IN1013.
+2682.76,2683.16,D,. Yeah .,IN1013.
+2683.19,2687.02,A,"doing a search through or or stuff stuff like that , don't they ? Or",IN1013.
+2687.2,2690.29,B,"No no , the those things are again based on L_P_C_ , no ? Like mainly",IN1013.
+2690.12,2690.39,D,Uh it,IN1013.
+2690.29,2691.19,B,like,IN1013.
+2690.39,2691.26,D,"seems to me , yeah , something",IN1013.
+2691.19,2691.74,B,yeah,IN1013.
+2691.26,2691.77,D,like that,IN1013.
+2691.74,2692.0,B,. Whereas,IN1013.
+2691.77,2692.38,D,. Like,IN1013.
+2692.0,2692.39,B,like the,IN1013.
+2692.38,2692.66,D,try,IN1013.
+2692.39,2696.19,B,pitch estimation in in the X_ waves or these things,IN1013.
+2695.95,2696.28,D,You know what,IN1013.
+2696.19,2696.37,B,", they're",IN1013.
+2696.28,2696.41,D,you,IN1013.
+2696.37,2696.84,B,all,IN1013.
+2696.41,2698.17,D,can do,IN1013.
+2696.84,2698.3,B,dynamic programming based on,IN1013.
+2698.17,2698.8,D,um,IN1013.
+2698.3,2698.88,B,again,IN1013.
+2698.78,2699.16,A,Yeah,IN1013.
+2698.8,2699.71,D,maybe,IN1013.
+2698.88,2699.34,B,L_P_C_,IN1013.
+2699.16,2699.16,A,.,IN1013.
+2699.34,2699.82,B,analysis,IN1013.
+2699.71,2699.85,D,. What,IN1013.
+2699.82,2699.82,B,.,IN1013.
+2699.85,2704.55,D,"you can do is uh take just the minimum phase of which you can get from a linear prediction , right",IN1013.
+2704.54,2706.01,B,Yeah,IN1013.
+2704.55,2706.2,D,"? You know what I mean , minimum phase signal",IN1013.
+2706.01,2706.3,B,. And then,IN1013.
+2706.2,2706.91,D,. And,IN1013.
+2706.3,2706.91,B,construct,IN1013.
+2706.51,2706.87,A,Yeah .,IN1013.
+2706.91,2707.0,B,that,IN1013.
+2706.91,2707.09,D,it,IN1013.
+2707.0,2707.0,B,.,IN1013.
+2707.09,2715.06,D,sounds quite uh reasonably the two . But of course they are li it's not original at all . So I don't know how they do that exactly,IN1013.
+2714.8,2716.35,B,Huh,IN1013.
+2715.03,2715.33,A,No,IN1013.
+2715.06,2715.37,D,. No,IN1013.
+2715.33,2715.33,A,.,IN1013.
+2715.37,2715.94,D,", I've no idea .",IN1013.
+2716.35,2724.01,B,". Yeah , again like uh no , the problem is different for everybody . Like these guys , what they're doing for distributor speech recognition mainly",IN1013.
+2723.68,2723.92,A,Yeah,IN1013.
+2723.86,2724.21,D,Right,IN1013.
+2723.92,2724.23,A,", yeah",IN1013.
+2724.01,2724.33,B,", this",IN1013.
+2724.21,2724.44,D,. True,IN1013.
+2724.23,2724.74,A,. Sure,IN1013.
+2724.33,2724.74,B,uh,IN1013.
+2724.44,2724.75,D,", right",IN1013.
+2724.74,2724.87,A,. Where,IN1013.
+2724.74,2725.8,B,so,IN1013.
+2724.75,2724.75,D,.,IN1013.
+2724.87,2726.35,A,you've only got the M_F_C_C_s,IN1013.
+2725.8,2726.93,B,". Uh yeah , M_F_C_C_s",IN1013.
+2726.35,2727.73,A,. But th,IN1013.
+2726.93,2727.3,B,. So,IN1013.
+2727.73,2730.57,A,I think I think the I think it was to was it to do with Aurora or something,IN1013.
+2730.5,2730.57,B,No,IN1013.
+2730.57,2733.19,A,? The,IN1013.
+2730.57,2733.98,B,", it's E_T_S_A_ or something . European Standard",IN1013.
+2733.1,2733.28,D,For,IN1013.
+2733.19,2735.41,A,Okay,IN1013.
+2733.28,2734.25,D,n for Aurora,IN1013.
+2733.98,2734.39,B,yeah Hynek,IN1013.
+2734.25,2734.61,D,we didn't,IN1013.
+2734.39,2734.68,B,really,IN1013.
+2734.61,2734.75,D,do,IN1013.
+2734.68,2735.5,B,n,IN1013.
+2734.75,2735.43,D,anything with,IN1013.
+2735.41,2735.48,A,. I,IN1013.
+2735.43,2735.91,D,that,IN1013.
+2735.48,2735.8,A,was,IN1013.
+2735.5,2736.03,B,"yeah , even it's",IN1013.
+2735.91,2735.91,D,.,IN1013.
+2736.03,2738.41,B,h kind of Aurora framework . So,IN1013.
+2737.92,2738.39,A,Okay,IN1013.
+2737.95,2738.47,D,"Yeah , but",IN1013.
+2738.39,2738.39,A,.,IN1013.
+2738.41,2738.67,B,yeah,IN1013.
+2738.47,2738.75,D,we didn't,IN1013.
+2738.67,2738.67,B,.,IN1013.
+2738.75,2740.36,D,do any speech recon,IN1013.
+2740.35,2740.46,B,No,IN1013.
+2740.36,2740.83,D,re,IN1013.
+2740.46,2740.84,B,", but now",IN1013.
+2740.83,2741.72,D,reconstruction,IN1013.
+2740.84,2742.02,B,it's bit,IN1013.
+2741.72,2742.03,D,. Yeah,IN1013.
+2742.02,2742.21,B,. Yeah,IN1013.
+2742.03,2742.27,D,. Yeah,IN1013.
+2742.21,2742.47,B,", now",IN1013.
+2742.27,2742.49,D,", yeah",IN1013.
+2742.41,2742.5,A,Yeah,IN1013.
+2742.47,2742.7,B,they're,IN1013.
+2742.49,2742.86,D,", sure",IN1013.
+2742.5,2742.92,A,", but it",IN1013.
+2742.86,2742.86,D,.,IN1013.
+2742.92,2751.55,A,"w it was for say um say you've got someone who has you know , they wanna dispute that this is what they actually said",IN1013.
+2751.18,2751.51,D,Right .,IN1013.
+2751.55,2759.94,A,by the recognition . And the recognition network was wrong and you owe me money or whatever . Um and then they can say well we've we've reconstructed your speech from,IN1013.
+2759.7,2759.96,B,And,IN1013.
+2759.94,2760.02,A,the,IN1013.
+2759.96,2761.62,B,then,IN1013.
+2760.02,2761.84,A,speech recogni input to the speech,IN1013.
+2761.62,2762.27,B,"yeah , M_F_C_",IN1013.
+2761.84,2763.2,A,recognizer,IN1013.
+2762.27,2762.44,B,s,IN1013.
+2763.2,2769.73,A,". Hey voila it sounds like you uh Uh I mean obviously there's a lot more to it than that . There's a lot of sort of , well",IN1013.
+2769.07,2769.34,D,Right .,IN1013.
+2769.73,2770.91,A,", does the quality stand up",IN1013.
+2770.87,2771.87,D,Right,IN1013.
+2770.91,2772.48,A,to legal sort of requirements,IN1013.
+2771.87,2772.23,D,. Right .,IN1013.
+2772.48,2773.96,A,or whatever . But,IN1013.
+2773.95,2774.11,B,But,IN1013.
+2773.96,2774.06,A,um,IN1013.
+2774.11,2780.39,B,even at distant point they're planning to use for j uh standard D_S_M_ or D_S_ it's not ? Or,IN1013.
+2780.36,2782.03,A,"Oh no , that there's a separate set of standards I",IN1013.
+2782.02,2782.76,B,Yeah,IN1013.
+2782.03,2782.98,A,think for speech,IN1013.
+2782.76,2784.04,B,. E_,IN1013.
+2782.98,2784.06,A,recognition,IN1013.
+2784.04,2784.15,B,uh,IN1013.
+2784.06,2784.81,A,. Y,IN1013.
+2784.15,2785.08,B,E_T_S_A_I_,IN1013.
+2784.81,2785.35,A,yeah,IN1013.
+2785.08,2785.93,B,", yeah . European",IN1013.
+2785.35,2785.95,A,", yeah",IN1013.
+2785.93,2786.28,B,", yeah",IN1013.
+2785.95,2786.5,A,", yeah",IN1013.
+2786.28,2786.75,B,", commission",IN1013.
+2786.5,2787.78,A,. Yep,IN1013.
+2786.75,2786.88,B,. So,IN1013.
+2787.78,2790.06,A,. Which uh I think requires,IN1013.
+2789.56,2791.18,B,M yeah,IN1013.
+2790.06,2791.29,A,", you know , that states the un",IN1013.
+2791.18,2791.33,B,. Yeah,IN1013.
+2791.29,2791.41,A,the,IN1013.
+2791.33,2791.33,B,.,IN1013.
+2791.41,2794.8,A,information they can send is this . So I don't know whether you tack,IN1013.
+2794.73,2797.9,B,Yeah,IN1013.
+2794.8,2798.11,A,on any extra phase information or whatever . You have to deal,IN1013.
+2797.9,2798.93,B,. Yeah,IN1013.
+2798.11,2799.84,A,with what you're given . So,IN1013.
+2798.93,2803.71,B,". Yeah , i yeah , all these standards are really okay .",IN1013.
+2804.19,2812.95,A,Yeah . I don't know . I I it would be interesting . You I mean maybe that's the best approach to look at to begin with is just pretend all you have got is,IN1013.
+2812.91,2816.26,D,You mean with this phase uh,IN1013.
+2814.5,2815.13,A,Yeah .,IN1013.
+2816.26,2817.45,D,sure,IN1013.
+2817.15,2817.54,A,Um,IN1013.
+2817.45,2817.91,D,. Yeah,IN1013.
+2817.54,2818.16,A,because,IN1013.
+2817.91,2817.91,D,.,IN1013.
+2818.16,2821.71,A,you can also interpolate the pitch information from the,IN1013.
+2821.09,2821.84,B,Yeah,IN1013.
+2821.71,2822.21,A,the spectrum,IN1013.
+2821.84,2822.07,B,. But,IN1013.
+2822.21,2822.74,A,as well .,IN1013.
+2823.63,2825.49,D,"Yeah , they do some",IN1013.
+2824.78,2825.38,A,They do that .,IN1013.
+2825.49,2826.7,D,kind of reconstruction of,IN1013.
+2826.61,2826.9,B,Yeah,IN1013.
+2826.7,2827.3,D,speech,IN1013.
+2826.9,2826.9,B,.,IN1013.
+2827.04,2827.5,A,Yeah,IN1013.
+2827.3,2827.54,D,. Uh,IN1013.
+2827.5,2827.68,A,. So,IN1013.
+2827.54,2827.64,D,yeah .,IN1013.
+2827.68,2831.98,A,I mean maybe try to see how good you can go without transmitting any,IN1013.
+2831.71,2833.23,D,Right,IN1013.
+2831.98,2833.24,A,of that information,IN1013.
+2833.23,2833.81,D,. That's,IN1013.
+2833.24,2833.24,A,.,IN1013.
+2833.38,2834.32,B,But the quality,IN1013.
+2833.81,2834.57,D,"true , yeah",IN1013.
+2834.32,2834.77,B,again,IN1013.
+2834.57,2834.57,D,.,IN1013.
+2834.77,2835.31,B,"problem , no like ?",IN1013.
+2835.32,2837.91,A,"The pitch was really good , I thought . I th didn't think you could really",IN1013.
+2837.7,2837.93,B,No no,IN1013.
+2837.91,2838.52,A,tell,IN1013.
+2837.93,2838.78,B,. The the eu,IN1013.
+2838.52,2838.52,A,.,IN1013.
+2838.78,2843.92,B,"again , European standard , what this give us , they give the M_F_C_C_s and they give the pitch",IN1013.
+2843.48,2843.76,A,Yeah .,IN1013.
+2843.92,2845.7,B,. Then you are to construct the thing,IN1013.
+2845.37,2845.65,A,Yeah .,IN1013.
+2845.7,2850.83,B,. But if have M_F_C_C_s then like again you have to get the high order M_F_C_C_s and then,IN1013.
+2850.52,2851.0,A,"Yeah , but but",IN1013.
+2850.83,2851.05,B,yeah,IN1013.
+2851.0,2851.09,A,the,IN1013.
+2851.05,2851.22,B,", then",IN1013.
+2851.09,2851.25,A,thing,IN1013.
+2851.22,2851.49,B,you're,IN1013.
+2851.25,2851.51,A,is if,IN1013.
+2851.49,2851.6,B,have,IN1013.
+2851.51,2851.65,A,it's,IN1013.
+2851.6,2851.71,B,to,IN1013.
+2851.65,2859.88,A,"Mel scaled , if you have a Mel scale , you get quite fine reconstruction of the spectrum at the lower frequencies it which is what",IN1013.
+2859.87,2860.25,B,Yeah,IN1013.
+2859.88,2860.28,A,you need for,IN1013.
+2860.25,2860.25,B,.,IN1013.
+2860.28,2861.98,A,reconstruction of the pitch anyway .,IN1013.
+2862.49,2865.4,D,Right . Yeah . Yeah,IN1013.
+2865.33,2865.46,A,So,IN1013.
+2865.4,2865.52,D,. So,IN1013.
+2865.46,2870.01,A,"I mean if you wanted to transmit with fewer bands , you'd maybe still keep the lower bands or",IN1013.
+2869.66,2870.13,B,Yeah,IN1013.
+2870.01,2870.24,A,or,IN1013.
+2870.13,2870.13,B,.,IN1013.
+2870.24,2873.57,A,maybe you could still transmit the pitch . The pitch isn't that big a deal . But,IN1013.
+2873.29,2874.08,D,Yep,IN1013.
+2873.57,2874.11,A,it'd be nice if,IN1013.
+2874.08,2874.4,D,. Yep,IN1013.
+2874.11,2874.43,A,you didn't,IN1013.
+2874.4,2874.4,D,.,IN1013.
+2874.43,2881.98,A,"because then I mean that's well , I mean it's worth giving it a go and then men maybe seeing wh what information you can add to the data stream to improve",IN1013.
+2881.65,2882.46,D,Mm-hmm,IN1013.
+2881.98,2882.83,A,performance,IN1013.
+2882.46,2883.89,D,. Mm-hmm,IN1013.
+2882.83,2882.83,A,.,IN1013.
+2883.89,2884.3,D,. Sure,IN1013.
+2884.25,2884.61,A,Um,IN1013.
+2884.3,2884.54,D,", yeah .",IN1013.
+2886.44,2887.93,A,I don't know .,IN1013.
+2888.09,2888.47,B,Yeah,IN1013.
+2888.11,2888.5,D,Okay,IN1013.
+2888.47,2888.47,B,.,IN1013.
+2888.5,2888.5,D,.,IN1013.
+2891.01,2894.41,A,That that'd be cool . So,IN1013.
+2893.89,2895.38,D,So how about you,IN1013.
+2894.41,2894.88,A,get coding .,IN1013.
+2895.04,2895.6,C,I've never,IN1013.
+2895.38,2895.38,D,?,IN1013.
+2895.6,2906.59,C,"done any coding in my life . So I just have one curiosity . So this is coding then s you code the speech , then you're also supposed to transmit the speech , right ? Th",IN1013.
+2905.9,2906.25,D,Yeah .,IN1013.
+2906.59,2909.03,C,let's say in G_S_M_ or something else,IN1013.
+2908.72,2908.98,D,Yeah .,IN1013.
+2909.03,2922.45,C,". I remember when I was doing some image processing , there were techniques for compressing and then coding . So adding channel information on the image at the same time in order to save sound bits . You",IN1013.
+2922.32,2922.47,D,You,IN1013.
+2922.45,2922.59,C,see,IN1013.
+2922.47,2922.69,D,mean,IN1013.
+2922.59,2922.75,C,what,IN1013.
+2922.69,2922.89,D,like,IN1013.
+2922.75,2922.93,C,I mean,IN1013.
+2922.89,2923.32,D,channel,IN1013.
+2922.93,2922.93,C,?,IN1013.
+2923.32,2924.73,D,and source coding together,IN1013.
+2924.57,2925.04,C,Exactly,IN1013.
+2924.73,2924.73,D,?,IN1013.
+2925.04,2925.04,C,.,IN1013.
+2926.57,2927.09,D,Or no .,IN1013.
+2927.55,2933.05,C,I d was just wondering if there's some s someone was doing it with speech as well .,IN1013.
+2933.19,2943.06,D,"Well I can imagine kind of like J_ PEG operations , which might be more less like it's source coding and then we also channel coding because we just smooth the",IN1013.
+2942.89,2943.1,C,Well,IN1013.
+2943.06,2943.19,D,or,IN1013.
+2943.1,2943.38,C,actually,IN1013.
+2943.19,2943.73,D,just,IN1013.
+2943.38,2944.27,C,", when you compress",IN1013.
+2943.73,2945.15,D,I don't know,IN1013.
+2944.27,2945.32,C,"yeah , all like",IN1013.
+2945.15,2945.43,D,. I don't,IN1013.
+2945.32,2945.57,C,first,IN1013.
+2945.43,2945.81,D,know,IN1013.
+2945.57,2946.13,C,you compress,IN1013.
+2945.81,2945.81,D,.,IN1013.
+2946.13,2949.98,C,"the signal , right ? And then you al you add com some complexity",IN1013.
+2949.45,2950.48,D,Right . Right,IN1013.
+2949.98,2950.56,C,to the signal in,IN1013.
+2950.48,2951.49,D,. Right,IN1013.
+2950.56,2951.57,C,order to recover the,IN1013.
+2951.49,2951.79,D,. R,IN1013.
+2951.57,2952.95,C,error,IN1013.
+2951.79,2952.44,D,"right , right .",IN1013.
+2952.95,2957.85,C,. So I was wondering if by any chance there was something like this in speech with the speech,IN1013.
+2957.28,2957.7,D,I don't know .,IN1013.
+2957.85,2958.5,C,. You don't know,IN1013.
+2958.1,2958.66,B,Hmm,IN1013.
+2958.5,2958.92,C,? Okay,IN1013.
+2958.66,2958.66,B,.,IN1013.
+2958.91,2959.52,A,Mm,IN1013.
+2958.92,2958.92,C,.,IN1013.
+2959.52,2961.12,A,I think,IN1013.
+2960.06,2960.23,B,Mm .,IN1013.
+2960.46,2961.36,D,I don't know so much,IN1013.
+2961.12,2961.28,A,w,IN1013.
+2961.36,2965.35,D,"about s channel coding , like those Huffman coding stuff and",IN1013.
+2965.26,2965.71,A,Ah,IN1013.
+2965.35,2966.28,D,", you know",IN1013.
+2965.71,2966.46,A,", well I mean",IN1013.
+2966.28,2966.51,D,. I mean,IN1013.
+2966.46,2966.99,A,Huffman's,IN1013.
+2966.51,2967.95,D,it's just standard,IN1013.
+2966.99,2968.97,A,easy enough,IN1013.
+2967.81,2971.92,B,Yeah,IN1013.
+2967.95,2969.08,D,. Yeah,IN1013.
+2968.97,2973.45,A,. But,IN1013.
+2969.08,2969.69,D,. They're just,IN1013.
+2969.65,2971.73,C,Well,IN1013.
+2969.69,2978.57,D,standard techniques . But,IN1013.
+2971.73,2972.04,C,It's not,IN1013.
+2971.92,2971.92,B,.,IN1013.
+2972.04,2976.07,C,"the most difficult , right",IN1013.
+2973.45,2976.3,A,"but yeah , sure . Uh that that's where I stop",IN1013.
+2976.07,2976.07,C,?,IN1013.
+2976.3,2979.24,A,". Run length encoding , I'm out of here .",IN1013.
+2979.82,2984.02,B,"But I think again it's different , no ? Like these standards again , all these G_S_M_ standards",IN1013.
+2983.88,2984.43,D,Yeah,IN1013.
+2984.02,2984.62,B,. Maybe they have,IN1013.
+2984.43,2986.14,D,", exactly",IN1013.
+2984.62,2986.87,B,the compression standards and again,IN1013.
+2986.14,2986.43,D,. Yeah,IN1013.
+2986.21,2986.51,C,Sure,IN1013.
+2986.43,2986.94,D,", yeah",IN1013.
+2986.51,2987.67,C,", sure",IN1013.
+2986.87,2987.15,B,coding,IN1013.
+2986.94,2986.94,D,.,IN1013.
+2987.15,2987.9,B,stand but maybe,IN1013.
+2987.67,2989.14,C,. And,IN1013.
+2987.9,2989.25,B,uh I I,IN1013.
+2989.14,2989.28,C,and,IN1013.
+2989.25,2990.41,B,read,IN1013.
+2989.28,2990.77,C,this was the problem actually because,IN1013.
+2990.41,2991.42,B,ah yeah,IN1013.
+2990.77,2991.79,C,you were,IN1013.
+2991.42,2995.7,B,". I don't remember anything like yeah , they're doing yeah , combi",IN1013.
+2995.49,2996.01,C,No not,IN1013.
+2995.7,2997.33,B,"yeah , the",IN1013.
+2996.01,2997.53,C,"not in G_S_M_ , definitely definitely",IN1013.
+2997.33,2997.59,B,even,IN1013.
+2997.53,2997.78,C,not,IN1013.
+2997.59,2997.84,B,even,IN1013.
+2997.78,2997.85,C,. Uh,IN1013.
+2997.84,3001.6,B,"G_ even normal G_ seventy nine , normal speech coder . So they have the speech",IN1013.
+3001.57,3002.01,C,Okay,IN1013.
+3001.6,3002.36,B,coding standards,IN1013.
+3002.01,3002.01,C,.,IN1013.
+3002.36,3005.68,B,again . They are these channel coding,IN1013.
+3005.05,3005.26,C,Then,IN1013.
+3005.21,3005.65,A,Okay,IN1013.
+3005.26,3005.65,C,th they,IN1013.
+3005.65,3005.65,A,.,IN1013.
+3005.65,3006.35,C,some,IN1013.
+3005.68,3006.71,B,. So yeah,IN1013.
+3006.35,3007.32,C,", you know",IN1013.
+3006.71,3008.31,B,. So it's,IN1013.
+3007.32,3008.44,C,", source . So",IN1013.
+3008.31,3009.83,B,mm,IN1013.
+3008.44,3008.62,C,yeah .,IN1013.
+3009.83,3010.36,B,". Yeah , b",IN1013.
+3010.49,3012.11,C,Okay . Just,IN1013.
+3012.01,3012.39,A,I mean,IN1013.
+3012.11,3012.59,C,one,IN1013.
+3012.39,3012.73,A,I,IN1013.
+3012.59,3012.59,C,.,IN1013.
+3012.73,3015.24,A,I th I think they do try to I mean obviously,IN1013.
+3014.96,3015.55,B,Maybe,IN1013.
+3015.24,3015.58,A,the,IN1013.
+3015.55,3015.55,B,.,IN1013.
+3015.58,3022.97,A,"the the techniques they they choose are supposed to be less , you know , susceptible to coding errors , let's say",IN1013.
+3022.45,3022.86,B,Yeah,IN1013.
+3022.48,3024.23,C,Yeah,IN1013.
+3022.86,3022.86,B,.,IN1013.
+3022.97,3024.46,A,". You know , i but I mean that's",IN1013.
+3024.23,3025.32,C,. Definitely,IN1013.
+3024.46,3026.01,A,maybe the,IN1013.
+3025.32,3025.32,C,.,IN1013.
+3026.01,3027.0,A,the limit to that,IN1013.
+3026.66,3028.56,B,Yeah,IN1013.
+3027.0,3027.0,A,.,IN1013.
+3028.56,3029.04,B,. Again,IN1013.
+3028.91,3029.37,A,Yeah,IN1013.
+3029.04,3029.42,B,", yeah",IN1013.
+3029.37,3029.37,A,.,IN1013.
+3029.42,3034.29,B,", i So okay ?",IN1013.
+3035.07,3035.35,D,I think,IN1013.
+3035.25,3035.42,C,Is,IN1013.
+3035.35,3035.84,D,so,IN1013.
+3035.42,3038.33,C,it good,IN1013.
+3035.84,3035.95,D,. H,IN1013.
+3035.9,3036.13,B,Yep,IN1013.
+3035.95,3036.81,D,yeah,IN1013.
+3036.13,3036.13,B,.,IN1013.
+3036.65,3037.0,A,Okay,IN1013.
+3036.81,3038.62,D,. end,IN1013.
+3037.0,3037.0,A,.,IN1013.
+3037.47,3038.33,B,Th thank you,IN1013.
+3038.33,3038.71,C,? Okay,IN1013.
+3038.33,3039.62,B,then,IN1013.
+3038.62,3040.66,D,. Okay,IN1013.
+3038.71,3040.74,C,. Okay,IN1013.
+3039.43,3040.02,A,Okay,IN1013.
+3039.62,3039.88,B,. Oh .,IN1013.
+3040.02,3040.02,A,.,IN1013.
+3040.66,3041.14,D,. Thank,IN1013.
+3040.74,3065.83,C,", thank",IN1013.
+3041.14,3054.35,D,you guys . Uh if you find some good paper which you might There was that fam fam waveform pro prototyping cor,IN1013.
+3065.83,3066.33,C,you .,IN1013.

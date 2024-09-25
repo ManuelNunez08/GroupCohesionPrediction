@@ -1,0 +1,2706 @@
+Start,End,Speaker,Speech,meeting
+14.48,17.37,B,How do you wear this thing ?,IS1001a
+21.01,22.42,A,Hmm . Mm mm mm .,IS1001a
+31.94,33.06,B,Not too many cables and stuff .,IS1001a
+63.09,66.99,B,Original .,IS1001a
+78.74,127.71,A,"Is recorded ? Okay ? Okay so welcome everyone . So we are here for the kickoff meeting of uh the process of designing a new remote control . So I will first start with a warm welcome opening stuff , then uh we will uh see what will be uh our product and what will be the different step we will have to design it . And uh then we will uh discuss if we have few ideas and we will uh end uh by uh dispatching the different task you will be you will have to fulfil to complete this process . So",IS1001a
+127.83,136.45,B,"Uh . Just one thing . Uh , you said twenty-five minutes , but I have something else to do uh , so gotta have another meeting uh soon , so maybe you could hurry up a bit",IS1001a
+138.47,138.76,A,sorry,IS1001a
+138.51,139.11,B,It's true,IS1001a
+138.76,138.76,A,?,IS1001a
+139.11,141.87,B,. I have another meeting so if you could uh,IS1001a
+142.4,143.53,A,You have another meeting soon ?,IS1001a
+143.56,143.88,B,Yeah .,IS1001a
+144.61,145.55,A,So you have to be quick .,IS1001a
+145.71,147.6,B,"Yeah , for the lawnmower project .",IS1001a
+148.29,149.79,A,Okay,IS1001a
+149.03,149.31,B,Okay .,IS1001a
+149.79,234.13,A,". So the the goal is to have a remote control so to have an advantage over our competitors we have to be original , we have to be trendy and we have to also try to be user-friendly . So uh the design step will be divided in three uh main points . First it will be the functional design . Third is the conceptual design and then is the desired design . So the functional design is to identify the main user needs , the technical function the remote control should fulfil . And then we will move to f conceptual design where we'll specify the different component involved , what kind of user interf interface we want and what are the different uh trend in user interface and stuff like that . And then the desired devi design will consist in uh specifically implementing and detailing the choice we've uh made in the second point . So I will now ask you which is very important for the design of a new remote control for to uh each of us to to draw uh your favourite animal on the white board .",IS1001a
+234.57,235.69,B,What an original idea .,IS1001a
+238.12,242.28,A,Do you have any idea of which animal you want to show us ?,IS1001a
+242.6,243.3,B,Orangutan .,IS1001a
+244.08,248.99,A,Okay that's good,IS1001a
+248.33,249.03,C,No no,IS1001a
+248.99,249.8,A,. n,IS1001a
+249.03,249.12,C,n,IS1001a
+249.8,250.38,A,n,IS1001a
+250.06,251.85,B,Can I give you the,IS1001a
+251.81,251.92,A,You,IS1001a
+251.85,251.97,B,no,IS1001a
+251.92,252.3,A,should,IS1001a
+251.97,258.97,B,? But I don't have to say anything . When I'm drawing the orangutan,IS1001a
+258.76,258.99,A,If you,IS1001a
+258.97,258.97,B,.,IS1001a
+258.99,266.99,A,want to react uh about this wonderful drawing uh I'll let you uh comment .,IS1001a
+270.06,271.89,B,It's an abstract drawing of an orangutan .,IS1001a
+272.05,273.73,A,Okay it's an abstract drawing,IS1001a
+273.71,274.12,B,Yes,IS1001a
+273.73,273.73,A,.,IS1001a
+274.12,274.12,B,.,IS1001a
+277.41,280.99,A,I think it's nice and original .,IS1001a
+281.03,282.32,C,You should write y the name,IS1001a
+282.28,282.51,B,I don't,IS1001a
+282.32,283.77,C,I think,IS1001a
+282.51,283.86,B,have a red,IS1001a
+283.77,283.77,C,.,IS1001a
+283.86,287.8,B,"colour . Usually orangutans have red hair so this is a very important but I don't have red pen , so",IS1001a
+288.12,288.49,A,Okay .,IS1001a
+288.83,289.31,B,Yes .,IS1001a
+289.68,293.22,A,You want to draw something Christine ?,IS1001a
+300.26,314.3,D,Okay uh sorry . You have to imagine a little bit um . This,IS1001a
+318.16,324.01,A,Of course your animal is recorded so it's not lost,IS1001a
+322.27,323.05,B,Yes . I know .,IS1001a
+323.84,324.31,D,Sorry,IS1001a
+324.01,324.01,A,.,IS1001a
+324.31,329.2,D,too uh .,IS1001a
+343.85,344.07,A,Is,IS1001a
+343.95,344.59,B,Wha,IS1001a
+344.07,344.7,A,this uh,IS1001a
+344.59,344.82,B,what,IS1001a
+344.59,349.18,D,Is it beautiful,IS1001a
+344.82,349.27,B,is this strange beast ? Is it a,IS1001a
+349.18,349.18,D,?,IS1001a
+349.27,349.8,B,monster ?,IS1001a
+351.0,353.56,D,Do you know ? It's a cat,IS1001a
+352.77,353.33,B,It's a cat ?,IS1001a
+353.56,354.68,D,. Isn't it,IS1001a
+354.34,354.8,B,I thought these,IS1001a
+354.68,354.68,D,?,IS1001a
+354.8,355.79,B,things did not exist .,IS1001a
+356.37,357.29,D,Yes,IS1001a
+356.61,359.26,C,Me,IS1001a
+357.29,359.86,D,yes is it like that . Is,IS1001a
+359.26,359.59,C,Ah,IS1001a
+359.3,360.72,B,Ah,IS1001a
+359.59,360.83,C,yeah,IS1001a
+359.86,361.93,D,it better,IS1001a
+360.31,361.08,A,Ah okay,IS1001a
+360.72,361.29,B,yeah,IS1001a
+360.83,361.22,C,. Yeah,IS1001a
+361.08,361.33,A,it's,IS1001a
+361.22,361.22,C,.,IS1001a
+361.33,362.54,A,pretty,IS1001a
+361.93,362.92,D,? Okay,IS1001a
+362.54,362.54,A,.,IS1001a
+362.92,365.95,D,. It's my cat,IS1001a
+364.55,367.16,A,Okay it's your cat,IS1001a
+365.81,366.0,B,Does,IS1001a
+365.95,367.49,D,. Yeah,IS1001a
+366.0,366.53,B,have a name ?,IS1001a
+367.16,367.16,A,.,IS1001a
+367.49,368.95,D,. The name is Caramel .,IS1001a
+369.43,370.04,B,Caramel,IS1001a
+369.91,372.34,C,Caramel,IS1001a
+370.04,370.38,B,. Ah-ha,IS1001a
+370.18,370.9,D,Yeah,IS1001a
+370.38,370.38,B,.,IS1001a
+370.9,370.9,D,.,IS1001a
+370.93,372.73,A,Okay . Olivier,IS1001a
+372.34,373.28,C,. And you,IS1001a
+372.73,375.11,A,", do you want to",IS1001a
+373.28,377.24,C,I think I'm too short for the cables .,IS1001a
+377.85,381.45,A,"Okay I go , but next time you'll do something I'm sure .",IS1001a
+383.55,384.95,B,Next time I concentrate .,IS1001a
+388.94,405.86,A,I'm a bit short on cable . Okay . So what could I draw ? Maybe I can draw like a very simplified cow . I don't know if it looks like a cow,IS1001a
+406.27,407.53,B,He looks like a bong .,IS1001a
+408.37,410.1,A,Like a what,IS1001a
+409.49,411.32,B,Okay . Sorry,IS1001a
+410.1,410.1,A,?,IS1001a
+411.32,411.58,B,. No .,IS1001a
+412.5,413.34,C,Quite squarey .,IS1001a
+414.52,415.07,B,Scary ?,IS1001a
+415.57,417.55,C,He also,IS1001a
+416.15,418.03,A,I,IS1001a
+417.55,417.55,C,.,IS1001a
+418.03,423.47,A,dunno it it looks more like a donkey in fact I would say,IS1001a
+422.78,423.51,C,Mm,IS1001a
+422.79,423.58,B,I I think we will,IS1001a
+423.47,423.82,A,. Okay,IS1001a
+423.51,423.51,C,.,IS1001a
+423.58,424.04,B,be finished,IS1001a
+423.82,424.89,A,so,IS1001a
+424.04,424.77,B,this uh,IS1001a
+424.89,428.15,A,I hope that it helps you uh in the process of designing,IS1001a
+427.89,428.25,B,Is it,IS1001a
+428.15,428.31,A,a,IS1001a
+428.25,428.47,B,for,IS1001a
+428.31,428.59,A,remote,IS1001a
+428.47,429.68,B,uh,IS1001a
+428.59,428.93,A,control .,IS1001a
+429.68,433.84,B,"for putting a for logos , no . That's",IS1001a
+433.92,460.72,A,Okay . Let's move on . So Here the uh financial objective of our project . That is to say to to have a production cost lower than twelve point five Euros and have a selling price of twice that price t in order to target a profe profit of uh fifty uh million Euros .,IS1001a
+460.98,463.01,B,I is there a matter for a new remote control ?,IS1001a
+465.63,470.99,A,"Yeah if it's trendy , original I d fulfil",IS1001a
+470.6,471.47,B,Is it uh,IS1001a
+470.99,471.5,A,the user,IS1001a
+471.47,471.62,B,a,IS1001a
+471.5,471.81,A,needs,IS1001a
+471.62,472.02,B,single,IS1001a
+471.81,471.81,A,.,IS1001a
+472.02,474.99,B,device remote control or is it a multi-device remote control ?,IS1001a
+475.01,476.74,A,We have to discuss that point,IS1001a
+476.24,476.95,B,Ah this is not,IS1001a
+476.74,477.8,A,. On,IS1001a
+476.95,477.66,B,defined at all ?,IS1001a
+477.8,480.43,A,yeah you you can suggest points like,IS1001a
+480.4,481.02,B,Ah,IS1001a
+480.43,481.41,A,this . So,IS1001a
+481.02,481.44,B,", okay",IS1001a
+481.41,481.72,A,what,IS1001a
+481.44,481.44,B,.,IS1001a
+481.72,496.86,A,what so we have to decide for example if it can control one device or multiple . So what's what are your ideas about that ? Maybe I can have the your opinion,IS1001a
+496.64,496.87,B,Well uh,IS1001a
+496.86,497.19,A,from,IS1001a
+496.87,497.55,B,do we sell,IS1001a
+497.19,497.95,A,the marketing,IS1001a
+497.55,498.23,B,other stuff,IS1001a
+497.95,498.22,A,side ?,IS1001a
+498.23,508.09,B,"? Uh if if we bundle the remote control with something uh to sell then it could be a single device , otherwise it could be programmable one otherwise who would buy a remote control from us .",IS1001a
+509.22,515.01,A,"Okay , so if it selled uh by its own i it it would rather be for multiple device .",IS1001a
+515.48,515.79,B,Yeah .,IS1001a
+516.84,517.45,A,Do you agree ?,IS1001a
+518.07,518.43,C,Mm-hmm .,IS1001a
+518.9,538.87,A,Yeah . So maybe it should be for multiple devices . And uh do you have any ideas um of uh design ideas or any uh uh technical requirement we we should uh fulfil ?,IS1001a
+540.69,543.1,C,I think we shouldn't have too many b for,IS1001a
+543.03,543.92,B,No,IS1001a
+543.1,543.93,C,my part,IS1001a
+543.92,544.02,B,", I",IS1001a
+543.93,544.04,C,. I,IS1001a
+544.02,544.32,B,couldn,IS1001a
+544.04,544.35,C,think,IS1001a
+544.32,546.82,B,I cannot fi think of any requirements right now .,IS1001a
+547.68,550.41,C,If we don't have so many buttons could be nice,IS1001a
+550.39,550.69,A,Few,IS1001a
+550.41,550.41,C,.,IS1001a
+550.69,559.29,A,buttons . Okay . And do you have it also to be to be lighted in order to be used in the dark ? Might be a good idea .,IS1001a
+560.66,560.94,C,Yeah .,IS1001a
+565.18,575.67,A,"Okay . And do you have any um any uh idea of the trend the trend in domain , what it shouldn't it should look like , or things like that ?",IS1001a
+577.74,578.54,C,Something which,IS1001a
+578.37,578.58,B,Mm,IS1001a
+578.54,578.72,C,is,IS1001a
+578.58,578.58,B,.,IS1001a
+578.72,582.35,C,not squarey maybe uh,IS1001a
+582.15,582.4,A,With,IS1001a
+582.35,582.56,C,", not",IS1001a
+582.4,583.22,A,rou,IS1001a
+582.56,583.13,C,a box .,IS1001a
+583.22,585.93,A,okay . Like for okay,IS1001a
+585.59,585.94,B,Something,IS1001a
+585.93,585.93,A,.,IS1001a
+585.94,587.42,B,"like that , least fits in your hand .",IS1001a
+587.92,588.14,C,Yeah,IS1001a
+587.99,588.48,A,Okay,IS1001a
+588.14,588.14,C,.,IS1001a
+588.48,588.48,A,.,IS1001a
+588.5,590.77,B,Yeah . The basic requirement,IS1001a
+590.53,592.04,A,So,IS1001a
+590.77,590.77,B,.,IS1001a
+592.04,593.39,A,". Fit in your hand , yeah .",IS1001a
+596.04,596.63,B,Only a buck .,IS1001a
+597.43,607.57,A,"And also it have , i it may be it may be important for the remote control to be uh To , to resist to various shocks",IS1001a
+607.55,607.91,C,Mm-hmm,IS1001a
+607.57,608.16,A,that can,IS1001a
+607.91,607.91,C,.,IS1001a
+608.16,609.05,A,happen,IS1001a
+608.82,609.69,B,Waterproof,IS1001a
+609.05,610.5,A,if it fall,IS1001a
+609.69,609.69,B,.,IS1001a
+610.5,613.13,A,. Water-proof as well,IS1001a
+612.84,613.14,C,And I,IS1001a
+613.13,613.43,A,. Maybe,IS1001a
+613.14,613.54,C,think we,IS1001a
+613.43,613.58,A,it,IS1001a
+613.54,613.77,C,should,IS1001a
+613.58,613.77,A,is,IS1001a
+613.77,613.95,C,have,IS1001a
+613.77,614.58,A,original,IS1001a
+613.95,614.65,C,a device,IS1001a
+614.58,623.65,A,because you can uh use it in your uh in your bath whereas the others can't . Maybe water-proof would be very original .,IS1001a
+623.88,624.98,C,Sorry,IS1001a
+624.84,625.17,A,Havin,IS1001a
+624.98,624.98,C,.,IS1001a
+625.17,629.94,A,having a water-proof remote control so that the people can uh use it in their bath .,IS1001a
+630.25,630.63,B,Mm .,IS1001a
+631.29,631.66,A,That could,IS1001a
+631.52,631.76,B,B it,IS1001a
+631.66,631.96,A,be,IS1001a
+631.76,632.09,B,seems,IS1001a
+631.96,632.11,A,uh,IS1001a
+632.09,638.43,B,"uh so , but uh if you don't have an waterproof remote control it means you can just cover it with some plastic and you can sort of",IS1001a
+638.36,638.54,A,Yeah,IS1001a
+638.43,639.1,B,f,IS1001a
+638.54,644.76,A,"but , it is still something uh you have to buy and that is um",IS1001a
+644.04,644.78,B,"And , and",IS1001a
+644.76,645.04,A,not,IS1001a
+644.78,645.06,B,that's one,IS1001a
+645.04,645.65,A,maybe,IS1001a
+645.06,645.68,B,of the,IS1001a
+645.65,646.09,A,very,IS1001a
+645.68,652.87,B,that's one of the shock I mean there are people that have a remote control and they are worried that it's going to break and they put some extra plastic around it,IS1001a
+652.4,652.96,A,Yeah,IS1001a
+652.87,653.0,B,. That's,IS1001a
+652.96,653.13,A,", mayb",IS1001a
+653.0,654.84,B,people they actually,IS1001a
+654.07,654.19,A,B,IS1001a
+654.84,655.47,B,do it themselves .,IS1001a
+655.67,659.97,A,But maybe we can bulk it with uh already this plastic thing,IS1001a
+659.92,660.11,C,Yeah,IS1001a
+659.97,660.35,A,and,IS1001a
+660.11,660.11,C,.,IS1001a
+660.35,662.55,A,uh the waterproof,IS1001a
+662.44,662.97,C,directly,IS1001a
+662.55,662.84,A,uh,IS1001a
+662.68,662.96,B,I it,IS1001a
+662.84,663.25,A,stuff,IS1001a
+662.96,663.15,B,will,IS1001a
+662.97,662.97,C,.,IS1001a
+663.15,663.3,B,look,IS1001a
+663.25,663.37,A,as,IS1001a
+663.3,663.42,B,a,IS1001a
+663.37,663.7,A,well,IS1001a
+663.42,663.81,B,bulky,IS1001a
+663.7,663.7,A,.,IS1001a
+663.81,664.33,B,in that case .,IS1001a
+664.87,665.78,A,Yeah,IS1001a
+665.65,665.82,C,Yeah,IS1001a
+665.78,666.01,A,. Maybe,IS1001a
+665.82,665.82,C,.,IS1001a
+666.01,680.19,A,"we can sell uh all that together , so so plastic protection and uh and a waterproof box as well . That might be good uh track to follow .",IS1001a
+680.6,681.57,B,Like as an optional thing .,IS1001a
+682.74,684.43,A,Optional or selled,IS1001a
+683.59,684.49,C,And I I think we,IS1001a
+684.43,684.6,A,with,IS1001a
+684.49,684.63,C,should,IS1001a
+684.6,685.72,A,it,IS1001a
+684.63,685.9,C,have something,IS1001a
+685.72,685.72,A,?,IS1001a
+685.9,690.06,C,", most of the time I I lose my remote control . We should have",IS1001a
+689.92,690.15,A,Yeah,IS1001a
+690.06,690.17,C,s,IS1001a
+690.15,690.15,A,.,IS1001a
+690.17,693.33,C,uh special bu button on the T_V_,IS1001a
+692.87,693.34,A,Maybe we,IS1001a
+693.33,693.5,C,to,IS1001a
+693.34,693.54,A,can,IS1001a
+693.5,693.85,C,make,IS1001a
+693.54,694.27,A,have uh,IS1001a
+693.85,695.52,C,the remote control beeping,IS1001a
+695.32,695.52,A,But,IS1001a
+695.52,695.52,C,.,IS1001a
+695.52,697.32,A,we don't design the T_V_,IS1001a
+697.25,697.59,C,Ah,IS1001a
+697.32,697.72,A,. Maybe we,IS1001a
+697.59,698.05,C,yeah,IS1001a
+697.72,698.07,A,can have,IS1001a
+698.05,698.05,C,.,IS1001a
+698.07,702.51,A,uh something you whistle and uh the remote control uh beep .,IS1001a
+703.05,703.56,C,Yeah,IS1001a
+703.5,704.0,B,Barks,IS1001a
+703.56,703.56,C,.,IS1001a
+704.0,704.0,B,.,IS1001a
+704.44,704.69,A,Yeah,IS1001a
+704.67,705.41,C,Barks,IS1001a
+704.69,705.99,A,", barks",IS1001a
+705.41,705.41,C,.,IS1001a
+705.99,711.1,A,", yeah . So we can uh have a whistle uh remote control",IS1001a
+710.38,711.13,C,Yeah,IS1001a
+711.1,711.1,A,?,IS1001a
+711.13,713.51,C,. Yeah whistle .,IS1001a
+714.52,717.47,A,"I don't know , whistle-able ?",IS1001a
+718.12,718.43,C,Whistle,IS1001a
+718.39,718.49,A,Th,IS1001a
+718.43,720.2,C,tracking .,IS1001a
+720.32,726.53,A,"Whistle tracking yeah . Whistle tracking remote control . That's a good idea , that's very original and that's can",IS1001a
+726.19,726.7,B,That's that's,IS1001a
+726.53,727.49,A,uh improve,IS1001a
+726.7,727.66,B,"quite cool , but",IS1001a
+727.49,727.49,A,.,IS1001a
+727.66,735.82,B,uh of course we you don't normally need uh any audio uh recording stuff on your remote control right,IS1001a
+735.81,736.17,A,Yeah,IS1001a
+735.82,735.82,B,?,IS1001a
+736.17,736.49,A,d d,IS1001a
+736.43,736.58,B,So,IS1001a
+736.49,736.83,A,uh,IS1001a
+736.58,736.93,B,i it's,IS1001a
+736.83,736.83,A,.,IS1001a
+736.93,739.14,B,just going to add t to the cost .,IS1001a
+739.92,747.61,A,Yeah but s still we have to mm we have to have an advantage over our competitors . I think this is a good advantage .,IS1001a
+747.79,751.09,B,"It's cool . I think I like the idea , but I'm not sure about the what you , who",IS1001a
+751.08,751.7,A,Yeah,IS1001a
+751.09,751.96,B,is giving who's,IS1001a
+751.7,752.09,A,. We have,IS1001a
+751.96,752.22,B,giving,IS1001a
+752.09,752.5,A,to,IS1001a
+752.22,752.6,B,who's,IS1001a
+752.5,752.84,A,ask,IS1001a
+752.6,753.84,B,giving our budget . Who's,IS1001a
+753.78,755.67,A,Yeah . We have to ask the quest of,IS1001a
+755.61,756.66,B,Yeah,IS1001a
+755.67,756.78,A,that's uh design to,IS1001a
+756.66,756.99,B,. Yeah,IS1001a
+756.78,757.18,A,the,IS1001a
+756.99,756.99,B,.,IS1001a
+757.18,759.05,A,uh Industrial um Designer .,IS1001a
+760.2,762.3,C,Yeah,IS1001a
+761.23,761.73,A,Which is,IS1001a
+761.54,762.7,B,'Kay,IS1001a
+761.73,764.11,A,you,IS1001a
+762.3,763.26,C,. yeah,IS1001a
+762.7,762.7,B,.,IS1001a
+764.11,768.87,A,. Okay so try to find that for next meeting,IS1001a
+767.48,768.68,C,Okay .,IS1001a
+768.87,775.04,A,. Okay . So next meeting is in thirty minutes or so uh,IS1001a
+773.89,775.11,C,Don't panic,IS1001a
+775.04,775.16,A,. Don't,IS1001a
+775.11,775.11,C,.,IS1001a
+775.16,783.27,A,pani . So so I will ask the Industrial Designer to find out more about this industrial design,IS1001a
+782.69,783.08,C,Mm-hmm .,IS1001a
+783.27,802.64,A,"so any working any working function we have discussed . So then I will ask the User Interf Interface Designer to to think about the point we discussed like the number of buttons , the the fact that is lighted or not , things like that , and",IS1001a
+802.6,802.96,B,Mm-hmm,IS1001a
+802.64,802.97,A,what would,IS1001a
+802.96,802.96,B,.,IS1001a
+802.97,832.36,A,"be convenient for the user . And also um I will ask the Market Expert to uh try to find out what are the absolute requirements , what is absolutely needed in a remote control uh for the user . So . And then uh I will uh just ask you to think about that and uh look at your mail because you will receive uh some good advice soon .",IS1001a
+832.92,833.49,B,Mm .,IS1001a
+834.95,839.05,A,So . Thank you I think that's,IS1001a
+838.44,838.56,B,Good .,IS1001a
+838.59,839.02,C,Mm-hmm .,IS1001a
+839.05,840.47,A,all for this point .,IS1001a
+841.85,843.09,D,Thank you,IS1001a
+848.1,853.55,B,"Uh , so we come back in five minutes ? Half an hour .",IS1001a
+858.05,859.93,A,Anyway you will receive some messages .,IS1001a
+869.13,885.57,A,"Be careful . You eat it ? Does it move uh ? Okay , but I don't know if it uh is still correctly uh",IS1001a
+891.04,891.84,A,We'll see .,IS1001a
+898.73,902.64,C,Ah .,IS1001a
+24.5,24.81,C,Okay .,IS1001b
+26.34,27.56,A,Okay everyone's ready .,IS1001b
+27.85,28.15,B,Hello .,IS1001b
+29.92,115.48,A,"So we are here for uh for uh functional design . Okay ? So we are here for the functional design meeting mm so first I will show the agenda so we will uh I will take notes during this meeting so I will try to summarise it and put that summary in the shared folder if you want to look at it afterwards so then uh each of you will uh lead a presentation on the task that has been required last time so user requirement specification , technical function design and working design . Then I will uh present you some new project requirements I received from uh the management board . Then we will take uh the decision on on the remote control uh needed functions and then I will assign you the task for the next part of the meeting . Of the of the process . So uh who want to start the the presentation of what they did ?",IS1001b
+118.13,118.28,D,Mm .,IS1001b
+119.04,120.08,C,F do you want to start ?,IS1001b
+120.45,122.66,B,Make a start yeah,IS1001b
+122.04,122.51,A,You can start .,IS1001b
+122.66,130.35,B,". So . Cable , camera",IS1001b
+128.53,131.17,A,You have uh PowerPoint,IS1001b
+130.35,131.46,B,. Should be,IS1001b
+131.17,131.17,A,?,IS1001b
+131.46,135.34,B,in my in their folder no,IS1001b
+133.95,135.65,A,Ah yeah maybe there,IS1001b
+135.34,135.7,B,? Up,IS1001b
+135.65,137.34,A,. Okay,IS1001b
+135.7,135.7,B,.,IS1001b
+137.34,137.93,A,. Who are you ?,IS1001b
+138.3,144.21,B,Um at three I think . No ? Mm .,IS1001b
+147.4,150.13,A,Ouch . And,IS1001b
+152.49,154.04,C,Okay,IS1001b
+153.48,154.6,A,We have a technical,IS1001b
+154.04,154.04,C,.,IS1001b
+154.6,155.42,A,problem uh .,IS1001b
+157.82,162.58,B,Do we think w s in the in the wrong folder maybe ? It is possible .,IS1001b
+162.88,163.45,A,You put,IS1001b
+163.12,163.47,C,No,IS1001b
+163.45,163.72,A,it,IS1001b
+163.47,163.47,C,.,IS1001b
+163.72,164.19,A,on,IS1001b
+164.7,169.05,B,It was somewhere in something like this . I don't remember the name actually must be something like messenger AMI or something .,IS1001b
+169.83,170.94,C,What do you have in short cut ?,IS1001b
+171.27,171.61,B,Go up .,IS1001b
+172.21,172.97,C,Participant two .,IS1001b
+173.8,174.4,B,Yeah go up .,IS1001b
+175.56,175.76,A,Yeah .,IS1001b
+176.6,179.85,B,Again . No . Go back .,IS1001b
+180.95,182.09,A,You have no,IS1001b
+182.04,185.57,B,Uh maybe messenger AMI . Messenger .,IS1001b
+186.79,188.57,A,Over . Okay .,IS1001b
+190.12,191.03,B,No . There is nothing .,IS1001b
+195.27,198.19,A,There's no We have a,IS1001b
+198.09,198.25,B,Let's,IS1001b
+198.19,198.65,A,technical,IS1001b
+198.25,200.05,B,go and check,IS1001b
+198.65,199.88,A,problem,IS1001b
+199.44,200.12,C,Yeah,IS1001b
+199.88,199.88,A,.,IS1001b
+200.05,200.16,B,. I'll,IS1001b
+200.12,200.57,C,. Otherwise,IS1001b
+200.16,200.93,B,go and check,IS1001b
+200.57,200.99,C,", could you",IS1001b
+200.93,200.93,B,.,IS1001b
+200.99,204.66,C,just describe by hand,IS1001b
+204.3,204.6,B,Okay .,IS1001b
+204.66,206.12,C,? With the the whiteboard ?,IS1001b
+206.44,206.75,B,Yeah .,IS1001b
+206.85,208.84,A,If you remember yeah,IS1001b
+208.18,209.11,B,Yeah,IS1001b
+208.84,209.15,A,but,IS1001b
+209.11,209.43,B,. So,IS1001b
+209.15,209.5,A,that's,IS1001b
+209.43,214.68,B,uh . Basically what we want here is a remote control right,IS1001b
+214.1,214.47,A,Yeah .,IS1001b
+214.68,224.18,B,. So um the question well first of all what to control . So most people want to have a a remote for their hi-fi and T_V_ and stuff like that,IS1001b
+223.54,223.93,C,Mm-hmm .,IS1001b
+224.18,232.46,B,. And but other people want th also remotes for controlling uh and toys like robotic pets and,IS1001b
+232.39,232.73,C,Mm-hmm,IS1001b
+232.46,233.07,B,little robots,IS1001b
+232.73,232.73,C,.,IS1001b
+233.07,239.52,B,and stuff and other people also want to have remotes for controlling um whole house .,IS1001b
+239.96,240.51,C,Mm-hmm,IS1001b
+240.35,240.62,A,Yeah,IS1001b
+240.51,240.51,C,.,IS1001b
+240.6,241.01,B,Yeah,IS1001b
+240.62,240.62,A,.,IS1001b
+241.01,249.33,B,", so there's a project I think called X_ house or something like that that does that , uh you can integrate your remote with uh computers stuff",IS1001b
+249.16,249.44,C,Mm-hmm,IS1001b
+249.33,250.96,B,. So,IS1001b
+249.44,249.44,C,.,IS1001b
+250.96,260.1,B,there is one that is one thing . The other is the the finder feature yeah by whistling or whatever . Uh,IS1001b
+259.52,259.85,C,Okay .,IS1001b
+260.1,267.41,B,if you have the finder feature then you can also have uh at the same time as and general voice commands if you want yeah .,IS1001b
+267.94,268.25,C,Mm-hmm .,IS1001b
+268.43,286.37,B,So I think it should be a package in that case . Uh so the user interface will consist of two parts . One is the voice command part and on one is the actual buttons part . Uh and th the buttons part would be uh a set of buttons for choosing devices,IS1001b
+285.51,285.85,C,Mm-hmm .,IS1001b
+286.37,289.25,B,", a set of buttons for special navigation in space ,",IS1001b
+289.63,290.0,C,Mm-hmm .,IS1001b
+290.37,298.72,B,a set of buttons for linear access of medium and a set of buttons for random access .,IS1001b
+300.31,300.73,A,Okay .,IS1001b
+300.87,301.13,B,Yeah,IS1001b
+301.11,301.22,C,What,IS1001b
+301.13,301.13,B,?,IS1001b
+301.22,302.81,C,do you mean by linear access then ?,IS1001b
+302.82,305.27,B,"Like a video tape goes forward , backwards",IS1001b
+304.77,305.03,C,Ah .,IS1001b
+305.27,309.01,B,", uh fast and stuff yeah . Um",IS1001b
+308.69,309.13,A,Okay so,IS1001b
+309.01,309.01,B,.,IS1001b
+309.13,314.03,A,"special navigation , linear access , random access and there's a fourth one no ?",IS1001b
+314.73,314.95,B,Mm ?,IS1001b
+316.15,318.53,A,So the better now for special navigation ?,IS1001b
+319.04,322.39,B,Yeah . For special navigation for example you might have a T_V_ in the menu and you going to,IS1001b
+322.31,323.38,A,Okay,IS1001b
+322.39,323.92,B,change yeah,IS1001b
+323.38,324.02,A,. Then linear,IS1001b
+323.92,324.24,B,? Uh,IS1001b
+324.02,325.29,A,access,IS1001b
+324.24,324.24,B,.,IS1001b
+325.29,325.51,A,then,IS1001b
+325.42,326.45,B,Mm,IS1001b
+325.51,326.43,A,random access .,IS1001b
+326.45,328.69,B,. Yeah and also parameter,IS1001b
+328.46,328.87,A,Ah yeah,IS1001b
+328.69,330.19,B,changing,IS1001b
+328.87,329.8,A,parameter okay .,IS1001b
+330.19,334.27,B,. So if there are common parameters maybe we should put special buttons for that,IS1001b
+333.93,334.33,A,Okay,IS1001b
+334.27,335.41,B,um,IS1001b
+334.33,334.33,A,.,IS1001b
+335.41,343.62,B,or maybe we could have everything uh generic but uh there are a lot of uh remotes on the market right now,IS1001b
+343.4,343.73,A,Okay,IS1001b
+343.62,344.67,B,and,IS1001b
+343.73,343.73,A,.,IS1001b
+344.67,348.95,B,basically this is most of the almost everybody has this stuff,IS1001b
+348.64,349.25,A,Okay,IS1001b
+348.95,348.95,B,.,IS1001b
+349.25,351.63,A,and and voice command did you uh,IS1001b
+351.6,354.33,B,Voice command w we could specify anything . We could assign,IS1001b
+354.1,354.62,A,Okay,IS1001b
+354.33,354.72,B,any,IS1001b
+354.62,354.62,A,.,IS1001b
+354.72,356.85,B,button a command to any button,IS1001b
+356.5,356.89,A,Okay,IS1001b
+356.85,357.0,B,", if",IS1001b
+356.89,356.89,A,.,IS1001b
+357.0,360.84,B,"we have enough processing power , I guess so . Yeah .",IS1001b
+361.22,361.7,A,Okay .,IS1001b
+362.32,362.54,B,Yeah .,IS1001b
+362.92,366.17,A,So that's uh that close your investigations ?,IS1001b
+366.42,368.12,B,Yeah . Uh,IS1001b
+367.61,367.9,A,Okay .,IS1001b
+368.12,369.53,B,yeah I think so . Not so far,IS1001b
+369.51,370.06,A,Okay,IS1001b
+369.53,369.53,B,.,IS1001b
+370.06,372.99,A,. Maybe we can have a look at the user requirements with,IS1001b
+373.41,379.0,D,Yeah . Um I dunno if you can open,IS1001b
+378.6,379.11,A,I dunno if,IS1001b
+379.0,380.26,D,the,IS1001b
+379.11,380.28,A,I can open,IS1001b
+380.26,380.62,D,uh,IS1001b
+380.28,380.64,A,it . Maybe you,IS1001b
+380.62,380.7,D,m,IS1001b
+380.64,380.87,A,can,IS1001b
+380.7,380.89,D,is,IS1001b
+380.87,381.05,A,s,IS1001b
+380.89,381.56,D,not here .,IS1001b
+382.05,382.45,A,It's,IS1001b
+383.08,387.15,D,Uh in yeah okay,IS1001b
+386.82,387.7,A,Messenger,IS1001b
+387.15,387.31,D,. No .,IS1001b
+387.7,387.95,A,no ?,IS1001b
+388.36,394.16,D,In document . Mm computer yeah .,IS1001b
+395.98,396.75,A,In which folder ?,IS1001b
+397.0,397.65,B,Where did you put it ?,IS1001b
+398.1,399.5,D,Here . Here .,IS1001b
+401.38,402.36,A,Short-cut to,IS1001b
+402.15,403.96,B,mm,IS1001b
+402.36,402.74,A,AMI,IS1001b
+402.49,402.88,D,But it's,IS1001b
+402.74,403.01,A,shared,IS1001b
+402.88,403.05,D,not,IS1001b
+403.01,403.5,A,folder ?,IS1001b
+403.96,403.96,B,.,IS1001b
+404.38,404.81,D,Um .,IS1001b
+407.25,417.42,A,Maybe you can send it to me by email . Just to participant one . At AMI .,IS1001b
+417.6,419.69,D,"Mm-hmm . Yeah , I can do that",IS1001b
+419.58,419.76,A,I will,IS1001b
+419.69,419.69,D,.,IS1001b
+419.76,425.83,A,"try to show it to everyone , that would be more comfortable .",IS1001b
+425.97,427.79,D,Okay . Um .,IS1001b
+429.36,429.77,A,You send it ?,IS1001b
+432.93,434.76,D,It's participant one ?,IS1001b
+435.08,437.91,A,Yeah . Uh this is this email .,IS1001b
+443.45,447.11,B,I'm designing the user interface .,IS1001b
+464.66,465.44,D,Okay . You can uh .,IS1001b
+468.99,469.37,A,Okay .,IS1001b
+476.3,479.13,A,So maybe I can switch slides when you,IS1001b
+478.71,478.94,D,Yeah .,IS1001b
+479.13,484.44,A,"whenever you ask , that will be more convenient . So okay",IS1001b
+484.35,484.69,D,Okay,IS1001b
+484.44,484.97,A,", functional",IS1001b
+484.69,485.05,D,so,IS1001b
+484.97,485.61,A,requirements,IS1001b
+485.05,485.69,D,you can,IS1001b
+485.61,485.61,A,.,IS1001b
+485.69,497.63,D,you can go . Okay so in our usability lab we observed the remote control use among one hundred subjects,IS1001b
+497.08,497.37,A,Mm .,IS1001b
+497.63,502.52,D,and the subjects also filled a questionnaire,IS1001b
+502.47,502.69,A,Yeah,IS1001b
+502.52,502.72,D,okay,IS1001b
+502.69,502.69,A,.,IS1001b
+502.72,539.84,D,"? And here I have the results so you can see that um seventy five per cent of users find most remote controls ugly so we have to find something to make them more more nice , more kind . Eighty per cents of users would spend more money when the remote control would look fancy . Eighty hundred per cent of users would spend more money when the remote control would look oh to it's not good . So okay . So",IS1001b
+539.8,539.97,A,We,IS1001b
+539.84,539.99,D,it's,IS1001b
+539.97,540.16,A,can,IS1001b
+539.99,540.22,D,not,IS1001b
+540.16,540.42,A,just,IS1001b
+540.22,540.46,D,in,IS1001b
+540.42,540.67,A,keep,IS1001b
+540.46,540.69,D,theory,IS1001b
+540.67,540.88,A,doing,IS1001b
+540.69,540.92,D,but,IS1001b
+540.88,541.07,A,that,IS1001b
+540.92,541.15,D,I I,IS1001b
+541.07,541.07,A,?,IS1001b
+541.15,542.49,D,can I can say yeah .,IS1001b
+542.53,542.78,A,Yeah,IS1001b
+542.67,543.05,D,Fifty,IS1001b
+542.78,542.78,A,.,IS1001b
+543.05,564.61,D,f uh seventy five per cent of users say they s zap a lot . So mm we have to have a remote control uh very um out for that . Uh the buttons have are to be um uh uh like you say resist resisting to to shocks,IS1001b
+562.96,563.45,A,Okay .,IS1001b
+564.61,574.28,D,. Um and fifty per cents of users say they only use uh ten per cents of but of the buttons in the,IS1001b
+573.84,575.47,A,Okay,IS1001b
+574.28,575.65,D,in the remote control,IS1001b
+575.47,575.47,A,.,IS1001b
+575.65,586.64,D,. So all the buttons we we have to put are have to to have um a use a real use and not,IS1001b
+586.47,587.06,A,Okay,IS1001b
+586.64,587.09,D,only,IS1001b
+587.06,587.06,A,.,IS1001b
+587.09,587.32,D,or,IS1001b
+587.94,590.07,A,"Okay , so fewer buttons maybe",IS1001b
+589.86,590.23,D,Yeah,IS1001b
+590.07,590.38,A,would be,IS1001b
+590.23,590.75,D,. F,IS1001b
+590.38,590.64,A,good ?,IS1001b
+590.75,597.39,D,"not many buttons , and uh and uh uh u useable buttons .",IS1001b
+597.78,598.27,A,Okay .,IS1001b
+598.88,601.0,B,But what kind of remote controls did you look at ?,IS1001b
+601.7,602.09,D,Sorry ?,IS1001b
+602.53,605.09,B,What kind of task was it ? It was a T_V_ ?,IS1001b
+605.89,608.13,D,Yeah . Uh,IS1001b
+607.86,608.0,A,Yeah .,IS1001b
+608.13,610.86,D,most for most is T_V_,IS1001b
+609.97,610.95,A,Yeah but,IS1001b
+610.86,610.86,D,.,IS1001b
+610.95,616.36,A,in fact we it it seems that we are going to make a T_V_ remote control according,IS1001b
+616.15,616.44,B,Huh,IS1001b
+616.36,616.52,A,to,IS1001b
+616.44,616.44,B,.,IS1001b
+616.52,618.82,A,new requirements I received from the management,IS1001b
+618.55,618.78,B,Uh-huh .,IS1001b
+618.82,623.8,A,bo I will present them in the following,IS1001b
+621.19,621.78,B,Ah ! Good .,IS1001b
+623.8,624.24,A,. Okay,IS1001b
+623.92,624.46,D,'Kay you can,IS1001b
+624.24,624.24,A,.,IS1001b
+624.46,638.38,D,"go so . So there are other frustrations expressed by users , so they said uh they lost uh often the remote control in in the",IS1001b
+638.29,638.59,A,Yeah,IS1001b
+638.38,639.09,D,room,IS1001b
+638.59,638.59,A,.,IS1001b
+639.09,643.54,D,so they want to have a way to to,IS1001b
+644.45,644.87,A,To find,IS1001b
+644.86,644.94,D,to,IS1001b
+644.87,645.79,A,it,IS1001b
+644.94,646.73,D,find it,IS1001b
+645.79,646.06,A,. Yeah .,IS1001b
+646.73,654.83,D,. Um and um lot of the time they it takes too much time to learn how to use,IS1001b
+654.64,654.88,A,Yeah,IS1001b
+654.83,654.94,D,a,IS1001b
+654.88,654.88,A,.,IS1001b
+654.94,657.97,D,new remote control . So they want something s,IS1001b
+657.85,658.24,C,Mm-hmm,IS1001b
+657.97,658.39,D,really very,IS1001b
+658.24,658.24,C,.,IS1001b
+658.39,660.35,D,simple and uh,IS1001b
+659.65,660.06,A,Okay .,IS1001b
+660.35,666.79,D,easy to use . And uh remote controls are bad for,IS1001b
+668.55,668.81,A,What,IS1001b
+668.76,671.26,D,R_S_I_,IS1001b
+668.81,669.8,A,is her other side ?,IS1001b
+671.26,673.74,D,um I,IS1001b
+673.7,673.87,B,Other,IS1001b
+673.74,674.15,D,dunno,IS1001b
+673.87,674.15,B,side,IS1001b
+674.15,674.15,D,.,IS1001b
+674.15,679.49,B,"yeah , yo wa your wrist . It i can become painful you can have tendonditis .",IS1001b
+680.1,681.67,A,Oh yeah,IS1001b
+680.63,680.84,B,Yeah .,IS1001b
+681.67,682.51,A,? I did not knew that .,IS1001b
+682.67,685.15,B,If you also up on a computer in a strange position .,IS1001b
+685.18,687.83,A,Okay so you we have to make it uh more,IS1001b
+687.53,688.65,B,Ergonomic,IS1001b
+687.83,688.7,A,ergonomic yeah,IS1001b
+688.65,689.29,B,. But,IS1001b
+688.7,688.7,A,.,IS1001b
+689.29,690.23,B,uh,IS1001b
+690.23,690.5,D,Yeah,IS1001b
+690.23,690.57,B,. Have to,IS1001b
+690.5,690.5,D,.,IS1001b
+690.57,693.12,B,say ha ha .,IS1001b
+694.39,699.26,A,It's your job Oh .,IS1001b
+700.65,701.07,D,Uh .,IS1001b
+701.72,706.41,A,Uh sorry got a message from Microsoft .,IS1001b
+707.48,716.41,D,Okay um before that I I have some some some thing,IS1001b
+715.8,716.86,A,Yeah,IS1001b
+716.41,717.37,D,uh,IS1001b
+716.86,716.86,A,.,IS1001b
+717.37,718.92,D,to say before,IS1001b
+718.28,718.57,A,Yeah yeah .,IS1001b
+718.92,733.54,D,um We know that uh the user use uh a lot their um remote control um to to change channel,IS1001b
+732.36,732.67,A,Yeah .,IS1001b
+733.54,739.67,D,. Um and um to to change uh volume selection of,IS1001b
+739.55,740.06,A,Okay,IS1001b
+739.67,741.02,D,the,IS1001b
+740.06,740.06,A,.,IS1001b
+741.02,746.4,D,and uh and not uh a lot for setting for,IS1001b
+746.39,746.63,A,Yeah,IS1001b
+746.4,746.91,D,setting,IS1001b
+746.63,746.63,A,.,IS1001b
+746.91,749.62,D,the the channels and uh,IS1001b
+749.47,749.89,C,Mm-hmm,IS1001b
+749.62,750.07,D,thing,IS1001b
+749.89,749.89,C,.,IS1001b
+750.07,751.66,D,things like that,IS1001b
+751.27,751.54,B,Mm-hmm,IS1001b
+751.36,751.76,A,Okay,IS1001b
+751.54,751.54,B,.,IS1001b
+751.66,752.8,D,. So,IS1001b
+751.76,751.76,A,.,IS1001b
+752.8,760.72,D,it's better to put uh uh uh something very easy to set and uh,IS1001b
+759.27,759.52,A,Yeah .,IS1001b
+760.72,760.99,D,and,IS1001b
+760.87,762.5,A,This function should be very,IS1001b
+762.25,763.16,D,Very,IS1001b
+762.5,764.04,A,uh accessible,IS1001b
+763.16,764.32,D,accessible yes,IS1001b
+764.04,765.85,A,". Yeah , okay",IS1001b
+764.32,765.7,D,. That's right .,IS1001b
+765.85,767.16,A,. This is the main function okay .,IS1001b
+767.97,771.61,D,So then we asked some questions to them and,IS1001b
+771.33,771.52,A,Yeah .,IS1001b
+771.61,774.35,D,um we asked this question if,IS1001b
+774.34,774.76,A,Yeah,IS1001b
+774.35,774.9,D,they,IS1001b
+774.76,774.76,A,.,IS1001b
+774.9,784.86,D,prefer an L_C_D_ screen or on their remultific function remotes control and if they mm pay more for speech recognition in remote control,IS1001b
+784.32,784.67,A,Yeah .,IS1001b
+784.86,790.54,D,and you can go we have here the results of,IS1001b
+790.85,791.58,B,The first question .,IS1001b
+791.91,802.09,D,of the questions . So you know that um for the younger it's very important,IS1001b
+802.66,803.41,A,To have L_C_D_,IS1001b
+803.12,803.47,D,to have,IS1001b
+803.41,803.64,A,and,IS1001b
+803.47,803.66,D,the,IS1001b
+803.64,804.87,A,voice,IS1001b
+803.66,806.5,D,s yes and speech recognition,IS1001b
+804.87,804.87,A,.,IS1001b
+806.5,825.38,D,. And uh and the others is not so important but uh we know that uh uh people between fifteen and twenty five are people who watch a lot T_V_ and uh who who wh can use a lot this uh,IS1001b
+824.7,825.17,A,Okay .,IS1001b
+825.38,827.65,D,. So maybe we we can have a speech,IS1001b
+827.3,827.97,A,Yeah maybe,IS1001b
+827.65,828.5,D,recognition,IS1001b
+827.97,828.59,A,this this,IS1001b
+828.5,829.52,D,in,IS1001b
+828.59,830.16,A,is important,IS1001b
+829.52,829.74,D,. Yeah .,IS1001b
+830.16,839.81,A,. Moreover th maybe those uh like those teenager customer could advice their parents to buy this equipment and,IS1001b
+839.31,839.68,B,Mm .,IS1001b
+839.81,844.75,A,so we can we have to take care of that point of view I think or so .,IS1001b
+844.93,847.05,D,Mm,IS1001b
+846.56,846.74,A,Yeah .,IS1001b
+847.05,858.37,D,". Okay and if there is th the conclusion now . So as we say before , I think uh um a remote control lightening in the dark it's it's a good thing",IS1001b
+858.18,858.6,A,Okay,IS1001b
+858.37,858.75,D,. Uh,IS1001b
+858.6,858.6,A,.,IS1001b
+858.75,862.17,D,"not to many mud buttons like we we said before , e",IS1001b
+861.93,862.18,A,Yeah,IS1001b
+862.17,862.44,D,easy,IS1001b
+862.18,862.18,A,.,IS1001b
+862.44,876.25,D,to use uh a way to find it easily in the room and uh uh resistant to to shock and to,IS1001b
+876.0,876.39,C,Mm-hmm,IS1001b
+876.25,876.82,D,to,IS1001b
+876.39,876.39,C,.,IS1001b
+877.73,878.14,A,Okay .,IS1001b
+880.12,881.16,D,An I s no,IS1001b
+880.94,881.24,A,Okay,IS1001b
+881.16,881.98,D,", yeah",IS1001b
+881.24,882.31,A,these are the user,IS1001b
+881.98,882.4,D,. I dunno,IS1001b
+882.31,882.63,A,requi,IS1001b
+882.4,886.05,D,if you see something else important or,IS1001b
+889.4,892.22,C,I'm just thinking of some thing,IS1001b
+891.55,891.71,D,Mm .,IS1001b
+891.99,892.2,A,Yeah .,IS1001b
+892.22,901.66,C,". Um We want to have a no , I don't know if this is a good idea . We want to have a a general remote control for everything .",IS1001b
+901.82,908.14,A,No no no . We w it seems that we no want to have a T_V_ remote control,IS1001b
+907.78,908.1,C,Okay .,IS1001b
+908.14,908.55,A,. From,IS1001b
+908.26,908.46,B,Mm .,IS1001b
+908.55,910.76,A,the management board I receive,IS1001b
+910.48,910.92,C,Yeah,IS1001b
+910.76,911.69,A,an email,IS1001b
+910.92,910.92,C,.,IS1001b
+911.69,917.98,A,. Cos it would be costly uh and and also it it would take more time to develop to,IS1001b
+917.94,918.1,C,Yeah,IS1001b
+917.98,918.12,A,have,IS1001b
+918.1,918.68,C,. Yeah,IS1001b
+918.12,919.04,A,a,IS1001b
+918.68,919.04,C,yeah .,IS1001b
+919.04,920.81,A,a general generic remote,IS1001b
+920.73,921.17,C,Yeah,IS1001b
+920.81,921.28,A,control,IS1001b
+921.17,921.17,C,.,IS1001b
+921.28,921.28,A,.,IS1001b
+921.74,925.97,B,Mm I it's not true I think . The,IS1001b
+925.59,926.28,C,No no,IS1001b
+925.97,926.56,B,the second,IS1001b
+926.28,926.28,C,.,IS1001b
+926.56,927.55,B,claim that you put .,IS1001b
+928.1,929.65,A,That it would be too long to,IS1001b
+929.55,930.29,B,Yeah,IS1001b
+929.65,930.0,A,develop .,IS1001b
+930.29,931.77,B,. I think that should be the same .,IS1001b
+932.72,954.38,A,Oh yeah . Because I received that email from management board and they seems to tell that that if we want to be on the market as early as possible we should uh focus on T_V_ more where it seems that the market is more important . So maybe it's a good decision . I dunno . What's your,IS1001b
+954.18,954.6,B,I have,IS1001b
+954.38,954.69,A,opinion,IS1001b
+954.6,954.8,B,uh,IS1001b
+954.69,954.69,A,?,IS1001b
+954.8,963.58,B,I've no idea I mean I should know a bit more about how fast we can uh design it . I don't think Uh yeah .,IS1001b
+964.1,966.62,C,Finish tonight,IS1001b
+965.39,967.51,B,Yeah . Okay,IS1001b
+966.62,967.55,C,. But basically yeah,IS1001b
+967.51,967.76,B,. Yeah,IS1001b
+967.55,968.38,C,maybe,IS1001b
+967.76,967.76,B,.,IS1001b
+968.38,970.93,C,"I can continue with my presentation , it would be",IS1001b
+970.92,971.32,A,Okay,IS1001b
+970.93,971.28,C,al,IS1001b
+971.14,971.28,D,Yeah,IS1001b
+971.28,971.59,C,you,IS1001b
+971.28,971.28,D,.,IS1001b
+971.3,971.44,B,Yeah,IS1001b
+971.32,971.32,A,.,IS1001b
+971.44,971.44,B,.,IS1001b
+971.59,979.1,C,you but I think we have some technical problem or so . So I'm just going to describe briefly what we do in the remote control,IS1001b
+978.93,979.15,A,Maybe,IS1001b
+979.1,979.31,C,. If,IS1001b
+979.15,979.54,A,you can,IS1001b
+979.31,979.51,C,fact,IS1001b
+979.54,982.33,A,go to the whiteboard if you have some drawings to do I,IS1001b
+982.28,982.51,C,Yeah,IS1001b
+982.33,982.47,A,don't,IS1001b
+982.42,982.77,D,Mm,IS1001b
+982.47,982.64,A,know,IS1001b
+982.51,982.81,C,but,IS1001b
+982.64,982.64,A,.,IS1001b
+982.77,982.77,D,.,IS1001b
+984.06,987.78,C,Do I have oh yeah . Now I have enough cables .,IS1001b
+988.18,991.47,B,Like a you feel a bit like a dog with this stuff .,IS1001b
+992.36,1000.79,C,"Okay so I'm just going to describe in fact for for a remote control this is quite easy . We just have sorry , I'm going",IS1001b
+1003.68,1005.87,A,Okay . Are you okay,IS1001b
+1005.06,1006.13,C,Like that,IS1001b
+1005.87,1005.87,A,?,IS1001b
+1006.13,1060.77,C,". I'm just going to describe . Basically we have a a battery a power supply here . After that we just have um user interface . Let's say that um something like that , which could be um a L_C_D_ let's say or um an array of push button , something like that . Push button or a L_C_D_ . After that we we feed that into um uh an electronic chip . So I say U_C_ and I feed that to uh L_E_D_ which is uh infrared um which is a an infrared um component . And so what we for for myself this for for us this is quite easy .",IS1001b
+1061.01,1062.58,A,U_C_ is the central unit ?,IS1001b
+1063.53,1064.33,C,Yeah,IS1001b
+1064.13,1064.39,A,Okay,IS1001b
+1064.33,1064.53,C,. Y,IS1001b
+1064.39,1064.56,A,yeah,IS1001b
+1064.53,1064.7,C,it's,IS1001b
+1064.56,1064.56,A,.,IS1001b
+1064.7,1071.31,C,a it's this just a chip which does all the um numerical,IS1001b
+1071.73,1072.47,A,Computation,IS1001b
+1072.4,1073.05,C,numerical,IS1001b
+1072.47,1072.47,A,.,IS1001b
+1073.05,1074.01,C,computation,IS1001b
+1073.72,1073.93,A,Okay .,IS1001b
+1074.01,1096.69,C,according to your display . And so for us uh this is quite easy . We just need to take to define what we want to do when the user interface um wants something and after that we just do the coding to s and send that to to to the not the to the television,IS1001b
+1096.23,1096.64,A,Okay .,IS1001b
+1096.69,1098.48,C,. So for us this is quite easy .,IS1001b
+1099.0,1101.09,A,Okay so this is quite easy,IS1001b
+1100.69,1101.66,C,Yeah . Um,IS1001b
+1101.09,1101.83,A,. There is not that much,IS1001b
+1101.66,1102.03,C,we just,IS1001b
+1101.83,1102.37,A,constraints,IS1001b
+1102.03,1103.06,C,have to define,IS1001b
+1102.37,1102.37,A,.,IS1001b
+1103.06,1113.3,C,"the processing power that we need uh especially if we want to do some uh speech recognition , in that case that mean that we are going to use more",IS1001b
+1113.16,1113.44,B,This,IS1001b
+1113.3,1113.98,C,for simple,IS1001b
+1113.44,1115.48,B,will think this will take more time to develop,IS1001b
+1115.44,1115.75,C,Yeah,IS1001b
+1115.48,1116.35,B,also,IS1001b
+1115.75,1116.47,C,of course of,IS1001b
+1116.35,1117.53,B,. Yeah,IS1001b
+1116.47,1117.81,C,course . And,IS1001b
+1117.53,1117.53,B,.,IS1001b
+1117.81,1123.9,C,um but for a standard one this is really easy . It's a question of one,IS1001b
+1123.72,1124.28,B,Soon,IS1001b
+1123.9,1124.51,C,month and,IS1001b
+1124.28,1124.28,B,.,IS1001b
+1124.51,1124.77,C,so,IS1001b
+1124.71,1124.78,A,To,IS1001b
+1124.77,1125.06,C,on,IS1001b
+1124.78,1126.28,A,have a,IS1001b
+1125.06,1125.16,C,s,IS1001b
+1126.28,1128.51,A,you s you speak about with voi voice control ?,IS1001b
+1128.74,1130.84,C,"No no no no , I say",IS1001b
+1129.75,1131.61,A,Standard button one,IS1001b
+1130.84,1131.72,C,yeah standard,IS1001b
+1131.61,1131.61,A,.,IS1001b
+1131.72,1136.0,C,uh standard remote control takes maybe uh one month to to do that .,IS1001b
+1136.7,1141.17,B,Yeah . So the only time problem is the sp voice recognition,IS1001b
+1140.6,1141.39,C,Yeah,IS1001b
+1141.17,1142.39,B,. Yeah,IS1001b
+1141.39,1142.01,C,. Definitely .,IS1001b
+1142.39,1142.57,B,. Yeah .,IS1001b
+1143.41,1148.16,A,So do you have any idea of how long it would take to have voice recognition now ?,IS1001b
+1148.6,1151.07,C,I would say,IS1001b
+1149.3,1149.74,B,Ten years .,IS1001b
+1151.07,1159.1,C,. I would say uh about eight months to have the first results .,IS1001b
+1159.56,1161.66,A,Okay so i it's a bit long yeah .,IS1001b
+1161.8,1168.0,C,Yeah . I can Um .,IS1001b
+1174.66,1177.88,A,One month for the standard one with button,IS1001b
+1176.85,1177.17,C,Yeah .,IS1001b
+1177.88,1179.83,A,. Even if we have a L_C_D_ display ?,IS1001b
+1180.12,1190.53,C,Yeah even . I mean that this is really standard devices now . Um eight . For uh speech recognition .,IS1001b
+1193.85,1205.61,A,Okay yeah . Okay so we can take this into account . So who think it would be good to go for uh like speech recognition ?,IS1001b
+1206.48,1207.91,B,But we don't have time to market .,IS1001b
+1208.93,1209.6,C,And also,IS1001b
+1209.28,1209.69,A,Yeah it,IS1001b
+1209.6,1209.74,C,how,IS1001b
+1209.69,1209.85,A,will,IS1001b
+1209.74,1210.41,C,much,IS1001b
+1209.85,1209.85,A,.,IS1001b
+1210.41,1211.57,C,uh I think,IS1001b
+1212.63,1213.44,B,I think we should contact,IS1001b
+1213.21,1213.56,C,during,IS1001b
+1213.44,1213.97,B,management,IS1001b
+1213.56,1214.77,C,the kickoff,IS1001b
+1213.97,1213.97,B,.,IS1001b
+1214.77,1222.22,C,meeting you say that we we shouldn't we shouldn't go up to twelve point five Euro,IS1001b
+1221.69,1222.46,A,Euros,IS1001b
+1222.22,1222.57,C,per,IS1001b
+1222.46,1223.15,A,. Yeah,IS1001b
+1222.57,1223.92,C,unit,IS1001b
+1223.15,1223.52,A,", yeah .",IS1001b
+1223.92,1227.94,C,so how many units should we sell to have a,IS1001b
+1231.75,1232.59,B,Well,IS1001b
+1232.4,1232.79,A,Well,IS1001b
+1232.59,1232.84,B,. Uh,IS1001b
+1232.79,1235.58,A,each unit is is sell uh twenty five Euros .,IS1001b
+1236.46,1237.89,C,Yeah but how many yeah .,IS1001b
+1239.25,1248.35,B,"How muc how much do you get how much do you if you buy one million units h no , one hundred thousand units . Eh chips . We're gonna need chips right .",IS1001b
+1248.9,1249.11,C,Yeah .,IS1001b
+1249.48,1252.22,B,Yeah . How much will it cost for one hundred thousand ?,IS1001b
+1252.75,1255.7,C,Usually this is less tha at two dollars per chip .,IS1001b
+1256.16,1256.57,B,Okay .,IS1001b
+1257.6,1257.82,A,Because,IS1001b
+1257.67,1257.93,B,So,IS1001b
+1257.82,1257.94,A,we,IS1001b
+1257.93,1258.04,B,you,IS1001b
+1257.94,1258.08,A,are,IS1001b
+1258.04,1262.31,B,have any idea for a powerful one that has uh good enough for do speech recognition .,IS1001b
+1263.63,1264.96,C,Yeah,IS1001b
+1264.48,1265.21,B,Yeah ? Okay,IS1001b
+1264.96,1266.16,C,", we can",IS1001b
+1265.21,1267.21,B,. So . No,IS1001b
+1267.19,1267.27,A,It,IS1001b
+1267.21,1267.32,B,it,IS1001b
+1267.27,1267.54,A,seems,IS1001b
+1267.32,1267.61,B,doesn't,IS1001b
+1267.54,1267.97,A,that,IS1001b
+1267.61,1267.61,B,.,IS1001b
+1267.97,1272.72,A,that we want to sell like four million units from the,IS1001b
+1272.2,1273.35,C,Mm-hmm,IS1001b
+1272.72,1273.51,A,first meeting,IS1001b
+1273.35,1273.35,C,.,IS1001b
+1273.51,1273.51,A,.,IS1001b
+1275.16,1277.72,B,Okay . Four million .,IS1001b
+1278.76,1287.53,A,Okay . Maybe we can uh we can look at the new requirement I receive from the management board and discus discuss all function we want to have .,IS1001b
+1288.27,1288.35,D,Mm .,IS1001b
+1291.18,1298.16,C,Um I just had a question uh do you want to continue with your presenta,IS1001b
+1298.14,1298.39,A,Yeah,IS1001b
+1298.16,1298.74,C,? Is,IS1001b
+1298.39,1298.78,A,I,IS1001b
+1298.74,1298.92,C,it,IS1001b
+1298.78,1303.27,A,I will continue . Well ask your question if you want,IS1001b
+1301.94,1303.98,C,Um you say that,IS1001b
+1303.27,1303.27,A,.,IS1001b
+1303.98,1307.23,C,I don't remember by heart but thirty per cent,IS1001b
+1307.81,1308.11,D,Mm ?,IS1001b
+1308.6,1316.96,C,of the tested people say that's it's quite difficult to to to use the remote control .,IS1001b
+1317.34,1317.68,D,Yeah .,IS1001b
+1318.37,1324.99,C,Do they say that this is difficult but for the same reason or do they have other reason ?,IS1001b
+1326.63,1327.11,D,Oh,IS1001b
+1326.81,1327.36,C,To to,IS1001b
+1327.11,1328.01,D,. Would j,IS1001b
+1327.36,1332.07,C,maybe to keep in mind maybe to access to that menu you should do something like,IS1001b
+1331.96,1332.53,D,Uh,IS1001b
+1332.07,1332.5,C,that .,IS1001b
+1332.53,1338.61,D,yeah w I I think they they say that it's uh difficult to learn how to use it,IS1001b
+1338.5,1338.87,C,Mm-hmm,IS1001b
+1338.61,1338.9,D,but i,IS1001b
+1338.87,1338.87,C,.,IS1001b
+1338.9,1340.55,D,when you know how to use it,IS1001b
+1340.44,1341.87,C,Mm-hmm,IS1001b
+1340.55,1341.06,D,", it's it's",IS1001b
+1340.98,1342.13,A,Okay,IS1001b
+1341.06,1342.07,D,okay,IS1001b
+1341.87,1342.09,C,. And,IS1001b
+1342.07,1342.25,D,. But,IS1001b
+1342.13,1343.86,A,. It's not intuitive first,IS1001b
+1343.53,1343.89,D,Yeah,IS1001b
+1343.86,1343.86,A,.,IS1001b
+1343.89,1343.89,D,.,IS1001b
+1344.11,1353.7,C,"But yeah maybe and what about if we design a remote control which can be configure as you want ? You say that I want , I have six",IS1001b
+1353.49,1353.94,B,Mh-hmm,IS1001b
+1353.7,1354.12,C,button,IS1001b
+1353.94,1357.07,B,. A a lot of people are uh if you have the L_C_D_ screen,IS1001b
+1356.62,1356.94,C,Yeah .,IS1001b
+1357.07,1357.98,B,if you can,IS1001b
+1357.67,1357.94,A,Yeah .,IS1001b
+1357.98,1361.19,B,do it completely the way you want because the buttons also look,IS1001b
+1360.87,1361.12,C,Yeah .,IS1001b
+1361.19,1361.44,B,the way,IS1001b
+1361.36,1362.26,A,But,IS1001b
+1361.44,1362.61,B,you want them,IS1001b
+1362.26,1362.72,A,", but also",IS1001b
+1362.61,1362.87,B,but,IS1001b
+1362.72,1363.22,A,it seems,IS1001b
+1362.87,1363.59,B,it will be,IS1001b
+1363.22,1363.44,A,that,IS1001b
+1363.59,1366.08,B,hard to configure I mean imagine,IS1001b
+1365.1,1365.45,C,Yeah,IS1001b
+1365.17,1365.44,A,Yeah .,IS1001b
+1365.45,1365.45,C,.,IS1001b
+1366.08,1369.55,B,i uh so it's really something for the expert user,IS1001b
+1369.5,1369.86,C,Okay,IS1001b
+1369.55,1370.0,B,. So,IS1001b
+1369.86,1369.86,C,.,IS1001b
+1371.08,1378.59,B,I mean there are markets and markets . I think the young people are th uh are uh Christine here said uh,IS1001b
+1378.02,1378.28,C,Yeah .,IS1001b
+1378.59,1380.18,B,you have a,IS1001b
+1379.91,1380.14,A,Yeah .,IS1001b
+1380.18,1389.41,B,"uh it is yeah . So for our young people uh it will be cool , they can be able to use it . Th maybe their parents will not but they will configure it . I guess . I don't know if there is",IS1001b
+1389.4,1390.24,A,Yeah,IS1001b
+1389.41,1390.42,B,study about,IS1001b
+1390.16,1390.44,C,Mm-hmm,IS1001b
+1390.24,1390.52,A,. Maybe,IS1001b
+1390.42,1390.68,B,that,IS1001b
+1390.44,1390.44,C,.,IS1001b
+1390.52,1390.79,A,it would,IS1001b
+1390.68,1390.68,B,.,IS1001b
+1390.79,1392.0,A,be more complex to,IS1001b
+1391.91,1392.36,D,Mm,IS1001b
+1392.0,1392.64,A,configure,IS1001b
+1392.36,1392.36,D,.,IS1001b
+1392.64,1393.13,A,it,IS1001b
+1392.78,1393.17,C,Yeah . Yeah,IS1001b
+1393.13,1393.28,A,to,IS1001b
+1393.17,1393.17,C,.,IS1001b
+1393.28,1394.91,A,be simple,IS1001b
+1394.45,1394.64,C,Yeah .,IS1001b
+1394.8,1394.93,B,Mm,IS1001b
+1394.91,1395.44,A,than,IS1001b
+1394.93,1394.93,B,.,IS1001b
+1395.2,1395.34,D,Mm .,IS1001b
+1395.44,1396.8,A,creating a simple product,IS1001b
+1396.61,1396.95,B,And there,IS1001b
+1396.8,1396.8,A,.,IS1001b
+1396.81,1397.03,C,Yeah,IS1001b
+1396.95,1397.22,B,are,IS1001b
+1397.03,1397.03,C,.,IS1001b
+1397.22,1404.95,B,another thing is that if we make something that's simple and easy to use that's bas to use immediately that means that it will be exactly the same as everything else,IS1001b
+1404.68,1405.65,C,Yeah,IS1001b
+1404.95,1405.21,B,. All right ?,IS1001b
+1405.65,1405.82,C,. Yeah .,IS1001b
+1406.77,1411.45,B,"Otherwise , if it's different then of course everybody has somebody has to learn to use it first .",IS1001b
+1411.64,1411.77,C,Yeah,IS1001b
+1411.66,1412.31,A,Yeah,IS1001b
+1411.77,1411.77,C,.,IS1001b
+1412.31,1423.88,A,. But also we we see that that most people find it find remote controls too complex because they have too many buttons and they mainly use only channels,IS1001b
+1423.67,1423.8,D,Mm .,IS1001b
+1423.88,1424.12,A,and,IS1001b
+1423.93,1424.49,B,Mm-hmm,IS1001b
+1424.12,1424.93,A,volume,IS1001b
+1424.49,1424.49,B,.,IS1001b
+1424.93,1434.08,A,buttons . So we may just uh make a very easy to use remote control with mainly those buttons,IS1001b
+1433.5,1433.83,B,Yeah .,IS1001b
+1434.08,1447.77,A,and maybe also um some lightning stuff too because most people find also hard to to find the remote control . Losed,IS1001b
+1447.07,1447.57,B,Mm-hmm .,IS1001b
+1447.77,1467.8,A,lose it etcetera . These these are these two points are the main frustrations so maybe if we design something very simple and easy to uh find when lost it will uh add uh a serious competitive advantage without,IS1001b
+1467.36,1467.87,D,Mm,IS1001b
+1467.8,1468.24,A,making,IS1001b
+1467.87,1467.87,D,.,IS1001b
+1468.24,1470.89,A,something too complex and too long to develop .,IS1001b
+1471.87,1472.17,B,Mm-hmm .,IS1001b
+1472.97,1495.41,A,So but le let us see first the new requirement . So we don't have to so this this uh is uh is um in the this is in the same direction as we were speaking so we don't have to make a very complex remote controls to access teletext and stuff like that,IS1001b
+1494.49,1496.26,B,But teletext is just one button .,IS1001b
+1497.24,1502.06,A,Yeah but then you have to you have to define the buttons to surf,IS1001b
+1501.91,1502.67,B,You,IS1001b
+1502.06,1502.7,A,amongst,IS1001b
+1502.67,1502.87,B,you,IS1001b
+1502.7,1503.13,A,pages,IS1001b
+1502.87,1503.31,B,just write,IS1001b
+1503.13,1503.47,A,and stuff,IS1001b
+1503.31,1503.9,B,the,IS1001b
+1503.47,1503.47,A,.,IS1001b
+1503.9,1504.57,B,write the numbers .,IS1001b
+1505.17,1507.42,A,Yeah . So,IS1001b
+1507.05,1507.6,B,So will,IS1001b
+1507.42,1507.67,A,well,IS1001b
+1507.6,1509.82,B,"you add with the channel keys , right ?",IS1001b
+1510.34,1511.36,A,Yeah,IS1001b
+1511.01,1511.24,B,So .,IS1001b
+1511.36,1520.16,A,". So anyway we don't have to include this feature because it's it's not used any more by users , they prefer to s",IS1001b
+1520.1,1525.05,B,I am . I'm sure that uh it don't like but uh I don't see just one button .,IS1001b
+1525.88,1527.07,A,Yeah,IS1001b
+1526.84,1527.05,B,So .,IS1001b
+1527.07,1537.97,A,. I dunno . If i one button is still one more button . If if if we want to make it very simple we have to reduce number of buttons compared to th to our competitors .,IS1001b
+1539.01,1539.3,B,Mm-hmm .,IS1001b
+1540.07,1607.65,A,Well anyway I have this point . We can discuss . Also um so as as I told before uh it would be better if it's only for the T_V_ um because we want to be quick on on the market . And then also we have to make very uh uh clear that this uh this remote control is is part of of our products and show our corporate uh logo and and colours on the on the design as well so that uh they identify it as one of our product . So this is the the key point . So before uh finishing we can uh define uh what would be the characteristic of the o th of the control of the remote control and which button do we need which function do we want etcetera .,IS1001b
+1608.03,1609.75,B,Capital,IS1001b
+1608.18,1608.24,D,Mm .,IS1001b
+1609.75,1609.75,B,.,IS1001b
+1611.86,1627.26,A,"So do you um so so from from the the Marketing Expert I think a key aspect is the easy to use aspect , it should be",IS1001b
+1627.18,1627.64,D,Mm,IS1001b
+1627.26,1628.8,A,very simple,IS1001b
+1627.64,1627.64,D,.,IS1001b
+1628.8,1639.71,A,and most button are never used only ten per cent of the button are are used often so I think we have to do something very simple and I think we all agree on that point,IS1001b
+1639.63,1640.0,C,Mm-hmm,IS1001b
+1639.71,1640.08,A,", no",IS1001b
+1640.0,1640.0,C,.,IS1001b
+1640.04,1640.18,D,Mm,IS1001b
+1640.08,1640.08,A,?,IS1001b
+1640.18,1640.18,D,.,IS1001b
+1640.4,1643.42,B,Well if it is going to be just a T_V_ remote control it is going to be very simple .,IS1001b
+1643.89,1660.04,A,"Yeah okay . So yeah the key point here is simple . Maybe . So few buttons , channel , volume control and what el what function do you see",IS1001b
+1660.84,1661.48,B,Well if it's,IS1001b
+1661.22,1661.69,A,in addition,IS1001b
+1661.48,1661.77,B,going to,IS1001b
+1661.69,1661.8,A,to,IS1001b
+1661.77,1661.86,B,be,IS1001b
+1661.8,1662.02,A,that,IS1001b
+1661.86,1662.31,B,as simple,IS1001b
+1662.02,1662.02,A,?,IS1001b
+1662.31,1667.07,B,"as possible then just have the remote control , there is no other function that I can see really",IS1001b
+1666.95,1667.53,A,Yeah,IS1001b
+1667.07,1667.07,B,.,IS1001b
+1667.53,1670.3,A,. Maybe switch T_V_ on and off,IS1001b
+1671.24,1677.86,B,Uh no you want to keep television on so that the advertising can revenue can come back to us . Or,IS1001b
+1677.48,1678.66,A,Yeah,IS1001b
+1677.86,1678.22,B,something .,IS1001b
+1678.66,1683.68,A,". Yeah . Volume , maybe a mute button , and then",IS1001b
+1683.55,1683.88,C,Mm,IS1001b
+1683.68,1684.17,A,on off,IS1001b
+1683.88,1683.88,C,.,IS1001b
+1684.17,1686.72,A,button . And that's all ?,IS1001b
+1687.63,1693.3,C,Uh I know that som you say that many people are doing plenty of a lot of zapping .,IS1001b
+1693.57,1693.93,D,Mm-hmm .,IS1001b
+1694.04,1694.23,A,Mm .,IS1001b
+1694.71,1702.92,C,"I know tha I discovered that when I did a quick look , uh they do now som they do something which is quite nice now , you",IS1001b
+1702.86,1703.06,B,It's,IS1001b
+1702.92,1703.12,C,have a,IS1001b
+1703.06,1703.29,B,a,IS1001b
+1703.12,1703.8,C,button,IS1001b
+1703.29,1704.08,B,memory,IS1001b
+1703.8,1704.15,C,", you",IS1001b
+1704.08,1704.33,B,", yeah",IS1001b
+1704.15,1704.59,C,you press,IS1001b
+1704.33,1704.33,B,.,IS1001b
+1704.59,1706.79,C,"it , and this is uh the previous channel which",IS1001b
+1706.78,1707.63,A,Okay,IS1001b
+1706.79,1707.64,C,has come back,IS1001b
+1707.63,1707.84,A,. Yeah,IS1001b
+1707.64,1707.64,C,.,IS1001b
+1707.84,1717.75,A,"this is cool . Maybe we can include that also . Previous previous channel button . So we have like channel button , the previous channel button , the",IS1001b
+1717.67,1718.15,C,Mm-hmm,IS1001b
+1717.75,1718.49,A,volume button,IS1001b
+1718.15,1718.15,C,.,IS1001b
+1718.49,1721.13,A,", plus a mute button",IS1001b
+1720.45,1720.75,C,Mm-hmm .,IS1001b
+1721.13,1725.61,A,", and uh just the the traditional on off",IS1001b
+1725.23,1726.28,C,Mm-hmm,IS1001b
+1725.61,1726.03,A,button,IS1001b
+1725.62,1726.14,B,And uh and,IS1001b
+1726.03,1726.03,A,.,IS1001b
+1726.14,1726.31,B,of,IS1001b
+1726.28,1726.28,C,.,IS1001b
+1726.31,1728.34,B,course the channel changing buttons .,IS1001b
+1729.33,1730.26,A,Yeah . I I talk,IS1001b
+1730.08,1730.47,B,How,IS1001b
+1730.26,1730.47,A,about,IS1001b
+1730.47,1730.72,B,should,IS1001b
+1730.47,1730.74,A,that,IS1001b
+1730.72,1731.19,B,they,IS1001b
+1730.74,1730.91,A,", yeah ?",IS1001b
+1731.19,1736.66,B,how should we implement that ? Because uh could be numerical only or could be also incremental .,IS1001b
+1737.51,1742.48,A,Yeah . Incremental definitely because zapping you you switch,IS1001b
+1742.22,1742.52,B,Mm-hmm,IS1001b
+1742.48,1742.91,A,them,IS1001b
+1742.52,1742.52,B,.,IS1001b
+1742.8,1743.08,C,Let's,IS1001b
+1742.91,1742.91,A,.,IS1001b
+1743.08,1751.96,C,"say that we can do something like that . This is uh incremental , but once you press it for a long time , you go five by five .",IS1001b
+1754.21,1754.44,A,We go,IS1001b
+1754.33,1754.46,C,To,IS1001b
+1754.44,1754.92,A,faster,IS1001b
+1754.46,1755.39,C,go fa,IS1001b
+1754.92,1754.92,A,?,IS1001b
+1755.39,1756.08,C,to go faster .,IS1001b
+1758.03,1758.37,A,Mm,IS1001b
+1758.34,1758.73,B,Mm,IS1001b
+1758.37,1758.37,A,.,IS1001b
+1758.73,1772.85,B,". It's an interesting idea , that if you press it for a long time it does something else , in general . So if you you have your ten buttons for the for the numeric the numerical buttons and you have instead of having just one memory",IS1001b
+1773.32,1773.49,C,Yeah .,IS1001b
+1773.94,1779.43,B,you have if you press them for a long time No . Doesn't work does it .,IS1001b
+1781.21,1784.3,A,Maybe we should have also a digit,IS1001b
+1784.2,1784.36,B,Maybe,IS1001b
+1784.3,1784.73,A,button,IS1001b
+1784.36,1790.76,B,we should have a complete keyboard and just type console commands,IS1001b
+1790.58,1790.83,A,Yeah,IS1001b
+1790.76,1791.05,B,. Change,IS1001b
+1790.83,1790.83,A,.,IS1001b
+1791.05,1794.74,B,channel to eight . No .,IS1001b
+1795.69,1801.56,A,Maybe we have also to have digits or only incremental . I dunno bec because,IS1001b
+1801.53,1801.67,B,Well,IS1001b
+1801.56,1801.72,A,if,IS1001b
+1801.67,1801.79,B,if,IS1001b
+1801.72,1801.81,A,you,IS1001b
+1801.79,1801.96,B,it's,IS1001b
+1801.81,1801.96,A,have,IS1001b
+1801.96,1802.36,B,useful,IS1001b
+1801.96,1802.2,A,the,IS1001b
+1802.36,1806.25,B,like if if you want to change between three channels for example then you h,IS1001b
+1805.96,1806.12,A,Uh .,IS1001b
+1806.25,1809.01,B,you cannot you cannot cannot work with just memory being incremental .,IS1001b
+1809.91,1815.07,A,Yeah . Because you have your previous channel button if you have incremental only it's,IS1001b
+1815.03,1815.28,C,Yeah,IS1001b
+1815.07,1815.4,A,not,IS1001b
+1815.28,1815.28,C,.,IS1001b
+1815.4,1822.55,A,uh it isn't worth it because the previous channel is eith either minus one or plus one,IS1001b
+1820.99,1823.76,B,Yeah . Yeah,IS1001b
+1822.55,1823.82,A,. So I think we need also,IS1001b
+1823.76,1823.76,B,.,IS1001b
+1823.82,1825.91,A,digits,IS1001b
+1825.27,1825.57,C,Okay .,IS1001b
+1825.91,1835.5,A,. Maybe we we can make very obvious the channel and volume button button and smaller button down there with the the digits .,IS1001b
+1836.12,1840.73,B,Yeah when you zap usually you will have to press the same button all the time,IS1001b
+1839.86,1840.06,A,Yeah .,IS1001b
+1840.73,1841.14,B,and,IS1001b
+1841.41,1843.65,C,Or we can do something like that . We can,IS1001b
+1843.35,1843.62,B,Yeah .,IS1001b
+1843.65,1850.7,C,design the remote control to have access . You know some remote control have uh protection,IS1001b
+1850.49,1850.81,B,Mm-hmm,IS1001b
+1850.7,1850.87,C,and,IS1001b
+1850.81,1850.81,B,.,IS1001b
+1850.87,1853.29,C,so you you y,IS1001b
+1854.12,1854.41,A,Yeah .,IS1001b
+1854.56,1854.75,B,Hey,IS1001b
+1854.61,1854.98,C,You,IS1001b
+1854.75,1861.72,B,I just thought this thing there is a I mean you know there is are some with a wheel like this . Instead of having the up down buttons for,IS1001b
+1861.54,1861.82,A,Yeah,IS1001b
+1861.72,1862.13,B,uh,IS1001b
+1861.82,1861.82,A,.,IS1001b
+1862.1,1862.43,C,Yeah,IS1001b
+1862.13,1862.61,B,you can have,IS1001b
+1862.43,1862.75,C,", a kind",IS1001b
+1862.61,1863.75,B,the wheel,IS1001b
+1862.75,1863.51,C,of joystick .,IS1001b
+1863.75,1864.08,B,. Yeah .,IS1001b
+1864.39,1867.54,A,Yeah . Maybe we can have a wheel for incremental,IS1001b
+1867.52,1867.85,B,Yeah,IS1001b
+1867.54,1868.08,A,. Okay,IS1001b
+1867.85,1867.85,B,.,IS1001b
+1868.08,1875.02,A,". So have a wheel for incremental , have the digits uh on the lower side that can be closed so as",IS1001b
+1874.98,1875.44,C,Mm-hmm,IS1001b
+1875.02,1875.5,A,you say,IS1001b
+1875.44,1875.44,C,.,IS1001b
+1875.5,1876.14,A,"protected ,",IS1001b
+1876.44,1876.8,B,Mm-hmm .,IS1001b
+1878.41,1880.61,A,and uh yeah I think this,IS1001b
+1880.61,1880.73,B,On,IS1001b
+1880.61,1880.73,A,is,IS1001b
+1880.73,1880.83,B,the,IS1001b
+1880.73,1880.95,A,the,IS1001b
+1880.83,1881.06,B,lower,IS1001b
+1880.95,1881.23,A,basi,IS1001b
+1881.06,1884.29,B,side I think it you have to turn it . No,IS1001b
+1884.07,1884.33,A,And do,IS1001b
+1884.29,1884.38,B,? If,IS1001b
+1884.33,1884.92,A,we,IS1001b
+1884.38,1884.96,B,we do,IS1001b
+1884.92,1885.01,A,do,IS1001b
+1884.96,1885.92,B,that,IS1001b
+1885.01,1885.9,A,we have a,IS1001b
+1885.58,1886.09,C,Or a or,IS1001b
+1885.92,1885.92,B,.,IS1001b
+1886.09,1890.89,C,"a ball , yeah , not a a wheel but a ball , and you say uh",IS1001b
+1890.25,1891.02,A,"No , a wheel is",IS1001b
+1890.88,1891.21,B,Yeah,IS1001b
+1890.89,1891.14,C,to,IS1001b
+1891.02,1891.57,A,better,IS1001b
+1891.21,1891.21,B,.,IS1001b
+1891.57,1893.37,A,. I would say the wheel is better,IS1001b
+1892.82,1893.51,B,Because,IS1001b
+1893.37,1893.54,A,. What,IS1001b
+1893.51,1893.66,B,of,IS1001b
+1893.54,1893.76,A,is,IS1001b
+1893.66,1894.59,B,that,IS1001b
+1893.76,1895.12,A,the expert of uh,IS1001b
+1895.13,1895.39,C,Yeah .,IS1001b
+1895.48,1900.78,B,Because it's uh it's it's not like a volume which is smooth yeah ? The channels change one by one,IS1001b
+1900.25,1900.48,C,Yeah .,IS1001b
+1900.78,1904.72,B,. So you have to the user has to like to should feel the the,IS1001b
+1904.5,1904.84,C,Yeah,IS1001b
+1904.72,1904.84,B,the,IS1001b
+1904.84,1905.55,C,", the",IS1001b
+1904.84,1905.79,B,discrete,IS1001b
+1905.55,1905.71,C,yeah,IS1001b
+1905.69,1907.4,A,Okay,IS1001b
+1905.71,1905.71,C,.,IS1001b
+1905.79,1906.88,B,sense a bit .,IS1001b
+1907.4,1908.13,A,. Yeah,IS1001b
+1908.0,1908.19,B,Yeah,IS1001b
+1908.13,1908.32,A,. That's,IS1001b
+1908.19,1908.19,B,.,IS1001b
+1908.32,1918.94,A,a good idea . Well also we have to decide uh so it should be lightening in the dark I think because most people lost their remote,IS1001b
+1918.79,1919.76,C,'S quite,IS1001b
+1918.94,1919.44,A,control .,IS1001b
+1919.76,1920.88,C,it's quite easy we do,IS1001b
+1920.72,1921.14,A,Okay,IS1001b
+1920.88,1921.22,C,that,IS1001b
+1921.14,1921.14,A,.,IS1001b
+1921.22,1922.79,C,w with back light on,IS1001b
+1922.78,1923.5,B,Yeah,IS1001b
+1922.79,1923.61,C,the,IS1001b
+1923.5,1923.71,B,. Even,IS1001b
+1923.61,1923.74,C,on,IS1001b
+1923.71,1923.86,B,if,IS1001b
+1923.74,1923.88,C,the,IS1001b
+1923.86,1924.04,B,i,IS1001b
+1923.88,1924.15,C,wheel,IS1001b
+1924.04,1924.61,B,L_E_D_,IS1001b
+1924.15,1924.15,C,.,IS1001b
+1924.61,1926.08,B,uh or a if if it's the L_C_D_,IS1001b
+1925.79,1926.33,C,A blue,IS1001b
+1926.08,1926.33,B,feature,IS1001b
+1926.33,1926.46,C,a,IS1001b
+1926.33,1927.01,B,uh,IS1001b
+1926.46,1927.34,C,blue L_E_D_,IS1001b
+1927.01,1927.43,B,whatever,IS1001b
+1927.34,1927.52,C,and,IS1001b
+1927.43,1927.81,B,", yeah",IS1001b
+1927.48,1928.31,A,Yeah,IS1001b
+1927.52,1928.02,C,we sell,IS1001b
+1927.81,1927.81,B,.,IS1001b
+1928.02,1928.35,C,that,IS1001b
+1928.31,1928.48,A,", and",IS1001b
+1928.35,1928.61,C,um,IS1001b
+1928.48,1928.73,A,do we,IS1001b
+1928.61,1928.61,C,.,IS1001b
+1928.73,1928.97,A,put,IS1001b
+1928.82,1929.0,B,Yeah,IS1001b
+1928.97,1929.44,A,an,IS1001b
+1929.0,1929.0,B,.,IS1001b
+1929.44,1935.52,A,L_C_D_ display ? Because it was important for young customers if you remember .,IS1001b
+1935.55,1938.51,B,I think it's only put on if cou have multi function,IS1001b
+1938.48,1938.65,C,Yeah,IS1001b
+1938.51,1938.69,B,. If you,IS1001b
+1938.65,1938.65,C,.,IS1001b
+1938.69,1943.88,B,do not multi function then there is no p point in having L_C_D_ . Just increase the cost,IS1001b
+1943.57,1943.93,A,Okay,IS1001b
+1943.88,1943.97,B,. The,IS1001b
+1943.93,1943.93,A,.,IS1001b
+1943.97,1945.4,B,user does not have an advantage really,IS1001b
+1945.28,1945.54,A,So,IS1001b
+1945.4,1945.4,B,.,IS1001b
+1945.54,1946.48,A,no L_C_D_ ?,IS1001b
+1946.59,1946.98,C,Mm-hmm,IS1001b
+1946.75,1946.97,D,Hmm .,IS1001b
+1946.98,1946.98,C,.,IS1001b
+1947.8,1952.64,A,And so no speech as well because it w it would delay too much the,IS1001b
+1952.32,1952.78,C,Okay,IS1001b
+1952.64,1953.21,A,development,IS1001b
+1952.78,1952.78,C,.,IS1001b
+1952.81,1953.45,B,Well if it's going,IS1001b
+1953.21,1953.67,A,process,IS1001b
+1953.45,1953.86,B,to delay,IS1001b
+1953.67,1953.67,A,.,IS1001b
+1953.86,1959.35,B,yeah but uh it will be cool . It would . Because a user could say C_N_N_ for example and it would go,IS1001b
+1958.84,1959.04,D,Mm-hmm .,IS1001b
+1959.35,1960.85,B,C_N_N_ . Mm .,IS1001b
+1960.94,1962.99,A,Yeah . That would be cool . But,IS1001b
+1962.62,1962.8,B,Yeah .,IS1001b
+1962.99,1967.79,A,eight months is really long and Maybe we can just uh,IS1001b
+1970.4,1972.74,C,Ten years,IS1001b
+1972.9,1986.39,A,Okay . So um I I will uh I will so I we will move to next meeting so in after the lunch break,IS1001b
+1986.33,1986.64,C,Mm-hmm,IS1001b
+1986.39,1987.93,A,uh,IS1001b
+1986.64,1986.64,C,.,IS1001b
+1987.93,2007.13,A,here are the individual uh action uh you are required to do but you will be uh recalled to the actions by uh email I think but you can take notes if you if you want but well the instruction will be sent . So thank you for uh your,IS1001b
+2006.91,2007.2,C,Okay,IS1001b
+2007.13,2007.83,A,suggestion,IS1001b
+2007.2,2007.2,C,.,IS1001b
+2007.83,2013.3,A,and I I will make a summary of that meeting that I will put in the shared folder you,IS1001b
+2013.19,2014.24,C,Okay,IS1001b
+2013.3,2014.88,A,can't see,IS1001b
+2014.24,2014.61,C,. Okay .,IS1001b
+2014.88,2038.63,A,and uh and then you will um you will be able to to see what has been uh has been said on on this meeting and and what has been decided . Uh maybe for next meeting uh send me your presentation before by email so that we can see them uh altogether,IS1001b
+2038.23,2039.38,B,Yeah,IS1001b
+2038.63,2038.82,A,. That,IS1001b
+2038.8,2038.92,D,Mm,IS1001b
+2038.82,2038.97,A,would,IS1001b
+2038.92,2038.92,D,.,IS1001b
+2038.97,2039.42,A,be easier,IS1001b
+2039.38,2039.69,B,. What,IS1001b
+2039.42,2039.42,A,.,IS1001b
+2039.69,2042.37,B,is the folder that you put yours in ? And did it it did work ?,IS1001b
+2042.85,2043.06,D,No .,IS1001b
+2043.33,2043.67,A,No it did,IS1001b
+2043.66,2043.79,D,No,IS1001b
+2043.67,2043.86,A,not,IS1001b
+2043.79,2044.84,D,no,IS1001b
+2043.86,2044.73,A,work . She send,IS1001b
+2044.59,2045.51,B,Ah yeah,IS1001b
+2044.73,2045.06,A,it,IS1001b
+2044.84,2045.59,D,. I dunno,IS1001b
+2045.06,2045.55,A,to me by,IS1001b
+2045.51,2045.72,B,. Mm,IS1001b
+2045.55,2046.04,A,email,IS1001b
+2045.59,2046.01,D,", I dunno",IS1001b
+2045.72,2045.72,B,.,IS1001b
+2046.01,2046.11,D,it,IS1001b
+2046.04,2046.04,A,.,IS1001b
+2046.11,2046.11,D,.,IS1001b
+2046.9,2047.44,B,Okay .,IS1001b
+2047.62,2050.34,A,"So maybe this is better , to send it by email",IS1001b
+2050.23,2050.52,B,Okay what,IS1001b
+2050.34,2051.89,A,. Okay,IS1001b
+2050.52,2051.22,B,is your email ?,IS1001b
+2051.89,2057.49,A,? So yeah I I'm it's in the first uh email so I'm participant one,IS1001b
+2057.26,2057.96,B,At participant,IS1001b
+2057.49,2059.32,A,at AMI,IS1001b
+2057.96,2058.8,B,one . Okay .,IS1001b
+2059.32,2071.66,A,"uh where is that , it's here . Participant one at AMI . Okay . So see you after lunch break .",IS1001b
+2072.66,2072.87,D,'Kay,IS1001b
+2072.77,2072.97,B,Well,IS1001b
+2072.87,2073.09,D,thank,IS1001b
+2072.97,2073.23,B,during,IS1001b
+2073.09,2074.01,D,you,IS1001b
+2073.23,2074.9,B,lunch break actually,IS1001b
+2074.01,2074.01,D,.,IS1001b
+2074.9,2074.9,B,.,IS1001b
+2087.3,2096.14,B,So next time we should have a fight . How about uh management or something . Who happens to be your friend .,IS1001b
+31.39,31.84,A,Okay .,IS1001c
+32.45,32.72,C,Mm-hmm .,IS1001c
+33.23,145.4,A,"So we are here for the concept design meeting . So , we will first start by summarizing the mm the previous meeting and the decision we've taken . Uh I will take notes during this meeting so uh that you can uh look at my uh folder to see the summary of this meeting afterwards . So each of you will uh show us the various investigation they've done during uh previous uh hours . We'll then t take decision in concert and then uh uh we will uh define the nest next task , to have to be done before the next meeting . So , last time we decided to have a simple interface . We also decided to have a wheel to change channel previous channel button . Channel digit uh buttons should be uh protected by plastic cover or something for the remote control to look very simple . We have also button for volume , and to switch on off the T_V_ . We have also uh the lightening feature for the remote control to be easy to find , and for fast development and low cost we have decided to have no L_C_D_ no voice features . So now uh we will have three presentations . So the conceptual specification by Industrial Designer , the specification of the U_I_ by or",IS1001c
+145.32,145.7,C,Abdul,IS1001c
+145.4,148.18,A,U_I_,IS1001c
+145.7,147.7,C,al-Hasred is my name .,IS1001c
+148.18,167.64,A,okay . And uh the last point is uh trend watching by Market Expert . So maybe we can start with uh industrial design . So this is the presentation .,IS1001c
+167.74,168.97,B,"Uh , I_D_ you want ?",IS1001c
+172.92,174.28,A,Maybe I can switch slide,IS1001c
+174.25,174.53,B,Yeah,IS1001c
+174.28,174.63,A,uh,IS1001c
+174.53,174.53,B,.,IS1001c
+174.63,175.58,A,on your request,IS1001c
+175.38,175.8,B,I only,IS1001c
+175.58,175.58,A,.,IS1001c
+175.8,185.33,B,"v have three slides , so . I just look at the mm um just this . On some web pages",IS1001c
+185.22,185.44,A,Yeah,IS1001c
+185.33,185.46,B,to,IS1001c
+185.44,185.44,A,.,IS1001c
+185.46,221.34,B,"find some documentation and I think a remote control is , as I s mentioned previously , you just have a a very simple chip and the mm the user interface is just done usually by push button and in our case we are using a um a wheel control . So uh uh I was looking basically for that chip , which is uh very very standard , and uh I just looked for the wheel sensor and the standard push button . And um yeah we can change directly",IS1001c
+221.29,221.54,A,Yeah,IS1001c
+221.34,222.03,B,. In fact,IS1001c
+221.54,221.54,A,.,IS1001c
+222.03,238.06,B,"I have the number of that element which is very standard for remote control . The push button are usually extremely cheap , but I just have one problem and this is related with the wheel sensor , which seems to be quite expensive .",IS1001c
+238.83,239.37,A,Okay,IS1001c
+238.84,239.13,C,Mm-hmm .,IS1001c
+239.36,239.73,B,And,IS1001c
+239.37,239.37,A,.,IS1001c
+239.73,249.52,B,I think we if we could just talk about that if we really need a wheel sensor or if we can not if if we could combine something with the push button .,IS1001c
+250.86,251.26,A,Okay .,IS1001c
+251.51,251.96,B,Uh,IS1001c
+251.72,251.81,C,Yeah .,IS1001c
+251.96,257.04,B,a wheel sensor is fifty time the price of a a a push button .,IS1001c
+257.16,257.43,A,But,IS1001c
+257.34,257.66,C,Mm,IS1001c
+257.43,257.71,A,is it,IS1001c
+257.66,257.66,C,.,IS1001c
+257.71,263.51,A,a significant price on the whole remote control ? Because,IS1001c
+263.47,263.7,B,Yeah,IS1001c
+263.51,263.96,A,we can,IS1001c
+263.7,263.7,B,.,IS1001c
+263.96,268.17,A,afford up to twelve Euros for the price of the remote control .,IS1001c
+269.01,269.69,B,Yeah I I,IS1001c
+269.64,270.12,A,So,IS1001c
+269.69,269.77,B,th,IS1001c
+270.12,280.41,A,"will will will this with uh including all possible things , so buttons , wheel and the chip , be uh lower than twelve Euros to produce",IS1001c
+280.35,280.57,B,But,IS1001c
+280.41,280.41,A,?,IS1001c
+280.57,286.55,B,I don't think that uh we should We should talk about uh the,IS1001c
+286.43,286.96,C,Yeah,IS1001c
+286.55,286.97,B,design,IS1001c
+286.96,286.96,C,.,IS1001c
+286.97,288.66,B,of the box also which,IS1001c
+288.29,288.67,A,Okay,IS1001c
+288.66,289.11,B,needs some,IS1001c
+288.95,289.43,C,Also,IS1001c
+289.11,289.77,B,money,IS1001c
+289.43,290.2,C,have to,IS1001c
+289.77,290.22,B,. But,IS1001c
+290.2,294.19,C,say Did you receive the email about the voice recognition ?,IS1001c
+296.02,298.67,B,Um that's all,IS1001c
+298.11,298.47,C,No ?,IS1001c
+298.67,299.42,B,yeah,IS1001c
+299.14,299.69,A,You received,IS1001c
+299.42,299.8,B,. I haven't,IS1001c
+299.69,300.19,A,something,IS1001c
+299.8,300.09,B,chec,IS1001c
+300.4,307.41,C,Yeah . You we uh an email from the manufacturing division that they have basically a voice recognition chip already developed .,IS1001c
+308.6,308.99,A,Hmm,IS1001c
+308.7,309.22,C,Says,IS1001c
+308.99,308.99,A,.,IS1001c
+310.36,319.85,C,Yeah . It says that ri right now they just use it to uh to record uh answers to particular questions . But I guess,IS1001c
+319.76,320.11,A,And,IS1001c
+319.85,320.18,C,it could,IS1001c
+320.11,320.32,A,could,IS1001c
+320.18,320.59,C,be,IS1001c
+320.32,321.67,A,it be adapted ?,IS1001c
+321.9,328.16,C,I guess it's possible . I mean instead of recording the answers you can just uh record uh something simpler like,IS1001c
+328.12,328.51,A,Okay,IS1001c
+328.16,328.62,C,a,IS1001c
+328.51,328.68,A,and,IS1001c
+328.62,328.99,C,command,IS1001c
+328.68,329.23,A,there can,IS1001c
+328.99,328.99,C,.,IS1001c
+329.23,330.68,A,uh recognize some commands,IS1001c
+330.56,330.87,C,Yeah,IS1001c
+330.68,331.05,A,and stuff,IS1001c
+330.87,331.09,C,you reco,IS1001c
+331.05,331.05,A,?,IS1001c
+331.09,334.94,C,"recognize commands and you can record new commands and stuff , so if they already",IS1001c
+334.73,335.19,A,Okay,IS1001c
+334.94,335.23,C,have it,IS1001c
+335.19,335.19,A,.,IS1001c
+335.23,336.24,C,as uh as a chip,IS1001c
+337.25,337.55,A,Yeah,IS1001c
+337.4,337.75,C,then we,IS1001c
+337.55,337.55,A,.,IS1001c
+337.75,338.33,C,we could use it .,IS1001c
+338.71,344.47,A,Okay maybe we can just uh listen to this presentation and then take decision later,IS1001c
+344.11,344.46,C,Okay,IS1001c
+344.45,345.45,B,Mm-hmm,IS1001c
+344.46,344.46,C,.,IS1001c
+344.47,345.51,A,on according,IS1001c
+345.45,346.4,B,. Yeah,IS1001c
+345.51,346.43,A,to those news,IS1001c
+346.4,346.63,B,but,IS1001c
+346.43,346.43,A,.,IS1001c
+346.63,362.52,B,"I think it's yeah Sorry , I haven't written my personal references . Um the I I just want to mention the the problem of the the r wheels sensor which is much more expensive than any push button",IS1001c
+362.42,362.8,A,Okay,IS1001c
+362.52,363.0,B,", and if",IS1001c
+362.8,362.8,A,.,IS1001c
+363.0,365.97,B,we could reduce that . We,IS1001c
+365.71,365.94,C,Mm-hmm .,IS1001c
+365.97,374.8,B,we have already some good things uh with um um with the backlight of the push button .,IS1001c
+375.27,380.52,C,"I have a question about that actually . Um , what is the purpose of the light ?",IS1001c
+381.81,387.01,B,Just to to make something which is uh slightly more design that uh a,IS1001c
+386.81,387.09,C,Is,IS1001c
+387.01,387.95,B,squarey box,IS1001c
+387.81,388.2,A,You can,IS1001c
+387.95,388.27,B,with,IS1001c
+388.2,388.62,A,easily,IS1001c
+388.27,389.24,B,a rubber,IS1001c
+388.62,389.64,A,find the button,IS1001c
+389.54,389.91,C,But,IS1001c
+389.64,390.71,A,in the dark or so ?,IS1001c
+390.71,396.47,C,"But in th in the dark uh Yeah but is going to be always turned on , the light ?",IS1001c
+397.97,403.17,A,"It will be turned on when the when the user move the remote control I think , no",IS1001c
+403.04,403.26,C,But if,IS1001c
+403.17,403.17,A,?,IS1001c
+403.26,405.22,C,"you move it then you have it , you don't need to find it .",IS1001c
+405.63,406.05,A,Hmm .,IS1001c
+407.73,410.0,C,"You can see the buttons better , of course",IS1001c
+409.65,410.92,A,Yeah,IS1001c
+410.0,410.27,C,. Yeah .,IS1001c
+410.92,413.55,A,. Yeah . Yeah . True .,IS1001c
+414.51,415.23,B,Yeah . Actually,IS1001c
+415.02,415.3,C,But,IS1001c
+415.23,415.23,B,.,IS1001c
+415.3,420.3,C,if you move it then you have to have some sensor to when you move it to detect your movement .,IS1001c
+422.1,425.55,B,As soon as you thought to move the the remote control you have the light .,IS1001c
+426.3,428.35,C,"Yeah , but you need another sensor for that , right ?",IS1001c
+429.09,430.28,B,Yeah . Again .,IS1001c
+430.35,433.49,C,Yeah no it's too expensive .,IS1001c
+437.36,439.53,B,"I don't think that this is really expensive , but",IS1001c
+439.26,439.59,C,Okay,IS1001c
+439.53,439.74,B,at,IS1001c
+439.59,439.59,C,.,IS1001c
+439.74,442.13,B,the end this is plenty of,IS1001c
+441.91,442.11,C,Mm .,IS1001c
+442.13,444.78,B,unexpen eh,IS1001c
+444.74,445.55,C,Extra,IS1001c
+444.78,445.93,B,very cheap,IS1001c
+445.55,445.93,C,". Yeah , okay .",IS1001c
+445.93,448.1,B,devices but uh,IS1001c
+447.22,447.36,C,Mm .,IS1001c
+448.1,449.3,B,the bill starts to be,IS1001c
+449.41,454.17,C,"Yeah , but I expected also the wheel would be cheap but you tell me that it is very expensive so , yeah",IS1001c
+454.07,454.4,B,First,IS1001c
+454.17,454.17,C,.,IS1001c
+454.4,462.0,B,of all I was thinking to have a a continuous light and you w when t you you you you press the on button you have,IS1001c
+461.9,462.0,C,Mm .,IS1001c
+462.0,464.39,B,"the light on your remote control , when",IS1001c
+464.23,464.56,C,Mm-hmm,IS1001c
+464.39,464.8,B,you,IS1001c
+464.56,464.56,C,.,IS1001c
+464.8,467.31,B,want to turn off your device,IS1001c
+466.69,471.63,A,"But it can be uh battery consuming , no ? To",IS1001c
+471.6,471.7,B,Yeah,IS1001c
+471.63,471.86,A,have,IS1001c
+471.7,472.09,B,", a",IS1001c
+471.86,472.28,A,the light,IS1001c
+472.09,472.62,B,little,IS1001c
+472.28,472.94,A,always on,IS1001c
+472.62,473.06,B,bit,IS1001c
+472.94,472.94,A,?,IS1001c
+473.06,474.67,B,. A little,IS1001c
+474.53,474.8,C,Mm,IS1001c
+474.67,474.97,B,bit,IS1001c
+474.8,474.8,C,.,IS1001c
+474.97,474.97,B,.,IS1001c
+475.54,477.87,A,Well we will discuss that after maybe,IS1001c
+478.16,478.31,B,Yeah .,IS1001c
+478.38,479.23,C,Okay,IS1001c
+479.19,479.39,A,the,IS1001c
+479.23,479.66,C,. So,IS1001c
+479.39,480.4,A,other presentations,IS1001c
+479.66,480.72,C,uh my one,IS1001c
+480.4,480.4,A,.,IS1001c
+480.72,483.61,C,", it uh should be in the shared folder .",IS1001c
+484.07,484.35,A,Yeah,IS1001c
+484.22,484.28,C,So .,IS1001c
+484.35,484.35,A,.,IS1001c
+486.12,487.03,C,It was last time I saw it .,IS1001c
+490.26,491.04,A,And it is .,IS1001c
+496.58,502.36,C,Okay . So,IS1001c
+502.16,502.63,A,Okay,IS1001c
+502.36,502.87,C,", just move",IS1001c
+502.63,502.63,A,.,IS1001c
+502.87,512.82,C,"to the next slide . So basically want very simple , right ? That's the major idea , as simple",IS1001c
+512.69,513.47,A,Yeah,IS1001c
+512.82,513.32,C,as possible .,IS1001c
+513.47,513.7,A,. Yeah .,IS1001c
+514.31,530.33,C,"So I just look at some current designs uh on the web , of usually more complicated remote controls . And let's look at two of them because uh th even though they have many buttons they look quite simple . And in our case we just uh reject the buttons what we don't need",IS1001c
+530.12,530.5,A,Yeah,IS1001c
+530.33,530.56,C,and it,IS1001c
+530.5,530.5,A,.,IS1001c
+530.56,533.15,C,become even simpler . Um . So,IS1001c
+533.12,533.27,A,And,IS1001c
+533.15,533.15,C,.,IS1001c
+533.27,538.01,A,also does it uh fit well in hand ? Because it was uh th,IS1001c
+537.99,538.99,C,Yeah,IS1001c
+538.01,539.28,A,your wrist problem,IS1001c
+538.99,539.65,C,. Well this,IS1001c
+539.28,539.93,A,with the usage,IS1001c
+539.65,540.42,C,these uh,IS1001c
+539.93,539.93,A,.,IS1001c
+540.42,547.02,C,"these remotes are quite big , so go to the next page , so . We have all these buttons as you can see , but most",IS1001c
+547.02,547.41,A,Yeah,IS1001c
+547.02,547.54,C,of them,IS1001c
+547.41,547.41,A,.,IS1001c
+547.54,548.89,C,", we just need the ones in the middle .",IS1001c
+549.68,549.99,B,Yeah,IS1001c
+549.76,550.0,A,Yeah,IS1001c
+549.99,549.99,B,.,IS1001c
+550.0,550.0,A,.,IS1001c
+550.02,553.79,C,"So , from the bottom or whatever is there",IS1001c
+553.64,553.85,A,Yeah,IS1001c
+553.79,554.27,C,", uh",IS1001c
+553.85,553.85,A,.,IS1001c
+554.27,558.99,C,"the uh the numbers and then the top , uh until the ten also , this middle part",IS1001c
+558.88,559.05,A,Yeah,IS1001c
+558.99,559.12,C,", and",IS1001c
+559.05,559.05,A,.,IS1001c
+559.12,567.22,C,"on the left one is exactly the same . So it's basically more or less how we would like it , with a big volume control , big channel control , and mute and power , yeah",IS1001c
+567.03,568.14,A,Yeah,IS1001c
+567.22,567.96,C,? These are the basic thing .,IS1001c
+568.14,569.74,A,. So it's only the central part .,IS1001c
+570.0,574.16,C,"So basically , w software we will build will look more or less the same as these two .",IS1001c
+574.47,579.48,A,Yeah . With a maybe a more ergonomic design on on the,IS1001c
+579.08,579.55,C,"Yeah , if you",IS1001c
+579.48,579.83,A,bottom,IS1001c
+579.55,579.92,C,"have , for",IS1001c
+579.83,580.06,A,part,IS1001c
+579.92,581.5,C,example,IS1001c
+580.06,580.06,A,.,IS1001c
+581.5,585.6,C,I think that the volume and the buttons that are there on the top are not very easy to reach with your thumb . It,IS1001c
+585.58,585.87,A,Yeah,IS1001c
+585.6,586.48,C,could be,IS1001c
+585.87,585.87,A,.,IS1001c
+586.48,588.46,C,"on the right side , for example",IS1001c
+588.06,588.51,A,Okay,IS1001c
+588.46,589.4,C,. Yeah,IS1001c
+588.51,588.51,A,.,IS1001c
+589.4,595.7,C,. Because we don't have these input buttons and this other stuff that they have . And I think that the plastic cover is not very good uh,IS1001c
+595.41,595.77,A,Okay,IS1001c
+595.7,596.22,C,idea,IS1001c
+595.77,595.77,A,.,IS1001c
+596.22,602.01,C,"because you open it , it can break , you ca you can do various things . Uh",IS1001c
+601.14,602.34,A,Okay,IS1001c
+602.01,602.45,C,you just need,IS1001c
+602.34,602.5,A,. S,IS1001c
+602.45,606.07,C,to put the channel numbers somewhere a bit out of the way .,IS1001c
+607.06,607.81,A,Okay,IS1001c
+607.72,607.87,C,So,IS1001c
+607.81,608.18,A,. Will,IS1001c
+607.87,608.66,C,that they're separate,IS1001c
+608.18,608.8,A,be down,IS1001c
+608.66,609.16,C,a bit,IS1001c
+608.8,609.24,A,or,IS1001c
+609.16,610.26,C,", yeah",IS1001c
+609.24,609.6,A,Okay .,IS1001c
+610.26,622.52,C,". Uh and it's easy to press the other the big buttons , but uh , it's not that difficult to press the the channel buttons either . Mm . Yeah , I think that if you put the cover it will be even more difficult for the user .",IS1001c
+622.76,623.27,A,Okay .,IS1001c
+625.15,634.71,C,"Alright , you won't yeah . Usually what I have noticed that people put the plastic cover on things that you normally don't mess with , like buttons for t uh tuning the channels and",IS1001c
+634.71,635.25,A,Okay,IS1001c
+634.71,636.46,C,stuff like that,IS1001c
+635.25,635.25,A,.,IS1001c
+636.46,641.34,C,. Yeah . That you want to protect a bit . And I think it's uh it's reasonable .,IS1001c
+642.05,642.46,A,Okay .,IS1001c
+642.86,647.87,C,"So , I don't think Yeah , this is just the the wheel . We could",IS1001c
+647.81,648.06,A,Mm,IS1001c
+647.87,648.06,C,use,IS1001c
+648.06,648.06,A,.,IS1001c
+648.06,652.63,C,"the some wheels can be pushed down , could use the push down of the wheel for the record if we want .",IS1001c
+653.42,653.75,B,Mm-hmm .,IS1001c
+654.19,661.3,C,Uh so we could just basically use one just wheel and uh user could use just the wheel to do everything with,IS1001c
+661.0,661.28,A,Yeah .,IS1001c
+661.3,663.13,C,the channels in that case .,IS1001c
+664.23,668.93,A,Maybe the wheel will be a good advantage over our competitors .,IS1001c
+669.71,669.99,B,Mm-hmm .,IS1001c
+670.79,680.58,A,Because otherwise it's pretty standard apart the fact that it's very simple . So maybe it's worse to uh,IS1001c
+680.57,680.73,B,To,IS1001c
+680.58,680.79,A,to,IS1001c
+680.73,680.96,B,s,IS1001c
+680.79,684.13,A,have more expense on that's that aspect .,IS1001c
+684.47,684.81,B,Mm-hmm .,IS1001c
+685.45,688.3,C,"Yeah , I guess the market researcher will tell us all about that .",IS1001c
+689.17,704.2,A,"Okay . So we can move to the Is there any question ? For designer of user interface ? or we can move to the next part , maybe , and discuss afterwards ?",IS1001c
+714.18,714.64,A,Okay,IS1001c
+714.38,714.94,D,Okay,IS1001c
+714.64,714.64,A,.,IS1001c
+714.94,717.23,D,", I can go ? Can",IS1001c
+716.77,716.94,A,Yeah .,IS1001c
+717.23,745.88,D,"I ? So now the recent investigation we we have done fo of the remote control um . So , the most important aspect for remote controls is to be fancy look and feel and not current functional look and feel . And um the second aspect is uh that the remote control should be uh technological innovative .",IS1001c
+746.76,747.2,A,Okay,IS1001c
+747.11,747.29,D,And,IS1001c
+747.2,747.2,A,.,IS1001c
+747.29,762.3,D,"the third most important aspect is to to is that the co remote control should be easy to use . So , are things we are we have uh speak about before",IS1001c
+761.32,761.67,C,Mm-hmm .,IS1001c
+761.86,762.1,A,Yeah .,IS1001c
+762.3,765.97,D,. Yeah . And um so you you can go,IS1001c
+766.63,766.81,A,Yeah .,IS1001c
+767.06,792.03,D,"after . And there is a fashion watchers in Paris and Milan that have detected the following trends , uh fruits and vegetables will be the most important theme for clothes , shoes , and furnitures . So , maybe if our remote control have to be a fruit form or vegetable form something",IS1001c
+791.65,792.17,A,Okay,IS1001c
+792.03,792.28,D,like,IS1001c
+792.17,792.17,A,.,IS1001c
+792.28,792.87,D,"that , or",IS1001c
+793.03,794.01,B,I support an apple .,IS1001c
+795.45,805.7,D,And the mm the material is expected to be spongy . Uh I don't know which material can be spongy,IS1001c
+805.16,805.36,A,Yeah .,IS1001c
+805.7,806.43,D,", and if you",IS1001c
+806.6,807.16,A,This is good,IS1001c
+807.11,807.28,C,Well,IS1001c
+807.16,807.49,A,also,IS1001c
+807.28,808.35,C,", wou wou",IS1001c
+807.49,808.6,A,for,IS1001c
+808.35,812.73,C,"I think we can certainly just put the electronics in a spongy thing , it it",IS1001c
+812.66,812.83,B,Yeah,IS1001c
+812.73,812.86,C,would,IS1001c
+812.83,812.83,B,.,IS1001c
+812.86,813.97,C,"work , right",IS1001c
+813.64,814.49,A,Yeah,IS1001c
+813.68,813.95,D,Mm-hmm,IS1001c
+813.7,813.87,B,Yeah .,IS1001c
+813.95,813.95,D,.,IS1001c
+813.97,814.21,C,? Yeah .,IS1001c
+814.49,817.77,A,. I think it is good also f to have a spongy,IS1001c
+817.21,817.89,C,You can throw it to,IS1001c
+817.77,818.19,A,material,IS1001c
+817.89,818.68,C,the television,IS1001c
+818.19,818.99,A,", yeah",IS1001c
+818.68,818.68,C,.,IS1001c
+818.99,819.53,A,". Yeah , because",IS1001c
+819.37,820.74,D,Okay,IS1001c
+819.53,820.02,A,it's,IS1001c
+819.96,820.29,B,Yeah,IS1001c
+820.02,820.61,A,robust,IS1001c
+820.29,820.62,B,. Me too,IS1001c
+820.61,820.61,A,.,IS1001c
+820.62,820.62,B,.,IS1001c
+820.74,821.55,D,"It's robust , yeah .",IS1001c
+821.58,830.82,C,"Hey that's a cool one . We could say that if you throw it , you have a sensor , and you throw it and hits the television and turns it off . When it d uh takes a shock .",IS1001c
+831.8,832.52,A,Yeah uh,IS1001c
+832.22,832.55,B,Ah,IS1001c
+832.28,833.34,D,Not good,IS1001c
+832.52,834.14,A,sorry,IS1001c
+832.55,833.48,B,it's okay . I know,IS1001c
+833.34,833.34,D,.,IS1001c
+833.48,834.3,B,that they do that,IS1001c
+834.14,834.14,A,?,IS1001c
+834.3,835.44,B,for alarm clock,IS1001c
+835.39,835.95,D,An,IS1001c
+835.44,835.79,B,also,IS1001c
+835.76,836.03,C,Yeah,IS1001c
+835.79,835.79,B,.,IS1001c
+835.95,836.22,D,and,IS1001c
+836.03,836.03,C,.,IS1001c
+836.22,841.13,D,and uh this uh you can yeah you can say that . You ca uh you,IS1001c
+840.9,841.16,A,No,IS1001c
+841.13,841.69,D,can,IS1001c
+841.16,841.16,A,.,IS1001c
+841.69,842.52,D,go,IS1001c
+841.91,842.03,A,Yeah .,IS1001c
+842.52,844.32,D,uh before,IS1001c
+843.99,844.35,A,Before,IS1001c
+844.32,844.6,D,", before",IS1001c
+844.35,844.35,A,?,IS1001c
+844.6,850.88,D,", yes . And you know here the more iz important aspect is the fancy look and feel",IS1001c
+850.58,850.88,A,Yeah .,IS1001c
+850.88,853.4,D,", after is uh technological innovative",IS1001c
+853.36,853.6,A,Yeah,IS1001c
+853.4,853.67,D,", and",IS1001c
+853.6,853.6,A,.,IS1001c
+853.67,854.87,D,after the easy to,IS1001c
+854.87,855.43,A,Yeah,IS1001c
+854.87,855.23,D,use .,IS1001c
+855.43,859.71,A,. I think it's innovative to use the mm the wheel because I,IS1001c
+859.64,859.79,B,Yeah,IS1001c
+859.71,859.99,A,think,IS1001c
+859.79,859.79,B,.,IS1001c
+859.91,860.4,D,Yeah,IS1001c
+859.99,860.7,A,no one,IS1001c
+860.4,861.19,D,that's why,IS1001c
+860.7,861.66,A,else has,IS1001c
+861.19,861.73,D,Yeah,IS1001c
+861.66,861.83,A,. Has,IS1001c
+861.73,861.91,D,that's,IS1001c
+861.83,862.11,A,it,IS1001c
+861.91,862.24,D,why I,IS1001c
+862.11,862.11,A,?,IS1001c
+862.24,865.21,D,think we have to keep that if it's possible .,IS1001c
+865.25,866.2,A,Yeah . I think,IS1001c
+865.94,866.21,B,Mm-hmm,IS1001c
+866.2,867.65,A,it's,IS1001c
+866.21,866.21,B,.,IS1001c
+867.65,871.28,A,it makes it both easy and both innos innovative,IS1001c
+870.73,871.75,D,Innovative,IS1001c
+871.28,872.2,A,. So,IS1001c
+871.75,871.86,D,. Mm .,IS1001c
+872.2,874.3,A,I think it's a good aspect and it should,IS1001c
+874.18,874.34,C,How,IS1001c
+874.3,874.36,A,be,IS1001c
+874.34,874.45,C,do,IS1001c
+874.36,874.66,A,kept,IS1001c
+874.45,874.77,C,we make,IS1001c
+874.66,874.66,A,.,IS1001c
+874.77,876.56,C,it look cool is the question .,IS1001c
+877.56,878.82,A,"Cool , fancy ?",IS1001c
+879.17,879.66,C,Yeah .,IS1001c
+880.2,885.61,A,We have to make it l look like a fruit or vegetable,IS1001c
+884.8,887.63,D,Yeah,IS1001c
+885.61,886.82,A,. Maybe,IS1001c
+886.6,887.59,B,What about,IS1001c
+886.82,887.62,A,uh,IS1001c
+887.59,888.58,B,um,IS1001c
+887.62,888.99,A,um,IS1001c
+887.63,887.71,D,. Mm .,IS1001c
+888.99,890.62,A,a colour that remember,IS1001c
+890.58,890.92,D,Oh,IS1001c
+890.62,890.96,A,some,IS1001c
+890.92,891.29,D,", colour",IS1001c
+890.96,891.4,A,fruit,IS1001c
+891.29,891.39,D,", yeah .",IS1001c
+891.4,893.24,A,"uh , things like that .",IS1001c
+893.32,894.03,C,Well the obvious thing,IS1001c
+893.87,895.05,D,Oh i,IS1001c
+894.03,894.93,C,"is a banana , I guess .",IS1001c
+895.05,895.68,D,i,IS1001c
+897.73,898.34,A,Maybe yeah,IS1001c
+898.05,898.34,D,I thought,IS1001c
+898.34,898.34,A,.,IS1001c
+898.34,903.75,D,"about a a pear , for example . You know the pear , is like that and it's it's easy to",IS1001c
+903.64,904.58,A,Yeah,IS1001c
+903.75,904.66,D,to have in in,IS1001c
+904.58,904.77,A,", and",IS1001c
+904.66,905.15,D,hand,IS1001c
+904.77,905.57,A,it's ergonomic,IS1001c
+905.15,905.7,D,and uh,IS1001c
+905.57,906.1,A,as well .,IS1001c
+906.2,906.47,D,Yeah .,IS1001c
+907.83,908.49,A,A pear,IS1001c
+907.98,908.72,C,The banana is also,IS1001c
+908.49,908.49,A,.,IS1001c
+908.72,909.18,C,ergonomic .,IS1001c
+910.13,912.54,A,Yeah . Maybe pear yeah or something like that .,IS1001c
+912.65,914.72,D,Or a fruit like that . I dunno .,IS1001c
+914.8,918.65,A,Yeah . We can discuss that uh . D D Is is there anything you want to add ?,IS1001c
+919.0,920.63,C,Is there any fruit that is spongy ?,IS1001c
+922.93,930.13,A,"I don't think so . I think we we can have like yeah a pear is good , fit well , or banana as you told .",IS1001c
+931.78,932.13,C,Yeah,IS1001c
+931.89,932.43,B,And,IS1001c
+932.09,932.37,A,Something,IS1001c
+932.13,932.13,C,.,IS1001c
+932.37,932.46,A,like,IS1001c
+932.43,932.85,B,for,IS1001c
+932.46,932.66,A,that .,IS1001c
+932.85,939.92,B,"maybe look and feel , what about a a piece of ice , with blue L_E_D_ inside ?",IS1001c
+940.58,940.98,A,But that's,IS1001c
+940.86,941.14,C,You can,IS1001c
+940.98,941.23,A,not,IS1001c
+941.14,941.28,C,make,IS1001c
+941.23,941.37,A,in,IS1001c
+941.28,941.53,C,it,IS1001c
+941.37,942.29,A,the trend,IS1001c
+941.53,941.71,C,um,IS1001c
+942.07,942.32,B,Yeah,IS1001c
+942.29,942.4,A,. . The,IS1001c
+942.32,942.32,B,.,IS1001c
+942.4,944.52,A,"trend is spongy , and vegetable",IS1001c
+944.01,944.3,B,Yeah .,IS1001c
+944.52,945.04,A,fruits .,IS1001c
+945.04,946.34,C,"It's not hard , the metal .",IS1001c
+946.55,947.75,B,Yeah,IS1001c
+946.88,949.05,A,I,IS1001c
+947.49,948.41,C,Plastic,IS1001c
+947.75,947.75,B,.,IS1001c
+948.41,948.41,C,.,IS1001c
+949.05,952.77,A,think p spongy is good because it it will be robust as well .,IS1001c
+953.08,953.36,B,Yep .,IS1001c
+954.35,958.55,A,"So , I think we can keep the wheel because it's",IS1001c
+958.45,958.67,B,Yeah,IS1001c
+958.55,958.78,A,uh,IS1001c
+958.67,958.67,B,.,IS1001c
+958.78,984.97,A,"easy , it's innovative , even if the cost is a bit higher , and we also have to find a , so , a fruit like pear or banana wit uh any others idea you have . What kind of fr fruit would you like to to control your T_V_ with ?",IS1001c
+990.7,991.02,C,Mm .,IS1001c
+994.14,994.34,A,Odi,IS1001c
+994.18,995.95,B,"Banana I think , it's a nice idea .",IS1001c
+996.42,997.59,A,Banana is also,IS1001c
+997.14,997.57,B,Because,IS1001c
+997.59,999.1,A,yellow so you you,IS1001c
+998.97,999.15,B,But,IS1001c
+999.1,1001.5,A,can't lost your remote control,IS1001c
+1001.26,1002.13,D,Yeah,IS1001c
+1001.5,1001.81,A,then .,IS1001c
+1001.83,1002.18,C,Yeah,IS1001c
+1002.13,1002.13,D,.,IS1001c
+1002.18,1002.18,C,.,IS1001c
+1002.9,1005.73,B,You y you don't use the banana when,IS1001c
+1005.73,1005.82,C,Two,IS1001c
+1005.73,1005.87,B,the,IS1001c
+1005.82,1005.91,C,of,IS1001c
+1005.87,1006.25,B,banana,IS1001c
+1005.91,1006.27,C,the button,IS1001c
+1006.25,1006.45,B,is,IS1001c
+1006.27,1006.54,C,", yeah",IS1001c
+1006.45,1006.92,B,curving,IS1001c
+1006.54,1006.54,C,.,IS1001c
+1006.92,1010.08,B,"like that , but when the banana is curving like that",IS1001c
+1009.52,1010.01,C,Yeah .,IS1001c
+1010.08,1011.68,B,", with the wheel on the top",IS1001c
+1011.49,1011.93,C,Yeah,IS1001c
+1011.68,1012.05,B,and to,IS1001c
+1011.93,1011.93,C,.,IS1001c
+1012.05,1013.91,B,"control , and here you have",IS1001c
+1013.73,1013.96,D,But you,IS1001c
+1013.91,1013.97,B,a,IS1001c
+1013.96,1014.17,D,don't,IS1001c
+1013.97,1014.32,B,a,IS1001c
+1014.17,1015.35,D,have,IS1001c
+1014.32,1016.3,B,push button to,IS1001c
+1017.24,1017.62,A,I think,IS1001c
+1017.33,1017.65,C,Yeah so you,IS1001c
+1017.62,1017.89,A,it's,IS1001c
+1017.65,1017.94,C,can just,IS1001c
+1017.89,1017.95,A,a,IS1001c
+1017.94,1018.11,C,have,IS1001c
+1017.95,1018.14,A,good,IS1001c
+1018.11,1018.87,C,uh,IS1001c
+1018.14,1018.77,A,"idea , yeah .",IS1001c
+1018.87,1025.12,C,"just have this curve , yeah , and you move uh your hand here to press the buttons and then you move uh on the other side",IS1001c
+1025.0,1025.34,A,Yeah,IS1001c
+1025.12,1025.49,C,. So,IS1001c
+1025.34,1025.34,A,.,IS1001c
+1025.49,1025.72,C,you can,IS1001c
+1025.6,1025.78,B,Yeah,IS1001c
+1025.72,1025.88,C,have,IS1001c
+1025.78,1025.78,B,.,IS1001c
+1025.88,1028.48,C,"it on on two sides and it'll be cool , no ?",IS1001c
+1028.52,1037.26,A,Yeah . I think it's a good design and it's innovative as well then . Maybe we can keep the banana . And it will be very easy to find .,IS1001c
+1037.3,1037.36,C,You,IS1001c
+1037.32,1037.75,B,And,IS1001c
+1037.36,1037.91,C,can put also,IS1001c
+1037.75,1038.23,B,everybody,IS1001c
+1037.91,1038.42,C,vibrator,IS1001c
+1038.23,1038.61,B,knows,IS1001c
+1038.42,1038.72,C,inside,IS1001c
+1038.61,1038.85,B,what,IS1001c
+1038.72,1038.72,C,.,IS1001c
+1038.85,1040.88,B,is a banana . Basically,IS1001c
+1040.15,1040.4,D,Yeah .,IS1001c
+1040.88,1044.09,B,. If you if you start with uh fancy fruits and,IS1001c
+1044.05,1044.79,C,Ah-ha,IS1001c
+1044.09,1045.0,B,fra s,IS1001c
+1044.79,1045.08,C,. You can,IS1001c
+1045.0,1045.22,B,and,IS1001c
+1045.08,1045.38,C,also,IS1001c
+1045.22,1045.42,B,tha,IS1001c
+1045.38,1052.94,C,take into account the fact that the banana fits with the colour scheme of our company,IS1001c
+1051.09,1052.06,B,Oh,IS1001c
+1051.12,1051.38,A,Yeah .,IS1001c
+1052.06,1053.59,B,", yeah",IS1001c
+1052.94,1053.66,C,. Yeah,IS1001c
+1052.98,1053.81,A,Yeah it's,IS1001c
+1053.66,1053.66,C,.,IS1001c
+1053.81,1056.6,A,really uh really a good point .,IS1001c
+1060.18,1068.86,C,"I hope the students of management die , but anyway . Now who are recording this meeting ?",IS1001c
+1070.61,1075.28,A,I think it So One second .,IS1001c
+1082.01,1094.17,A,"So we have to take some decision on this aspect . So , uh so for sorry , for uh component , so",IS1001c
+1095.81,1096.16,B,So,IS1001c
+1096.5,1098.73,A,"we have to think about those aspects , sorry .",IS1001c
+1099.64,1102.19,B,So we will just use a a standard battery ?,IS1001c
+1102.76,1103.12,A,Yeah .,IS1001c
+1103.68,1111.5,B,And uh the chip we chip imprint we know exactly which one we are going to use . Uh what do you mean by case ?,IS1001c
+1112.3,1116.4,A,"I think it's the box that should be spongy , banana's",IS1001c
+1115.82,1116.04,B,Yeah .,IS1001c
+1116.4,1116.8,A,shape .,IS1001c
+1116.93,1124.31,B,"Uh I mean for me if we use a a spongy banana case , doesn't matter . I just want to have so something",IS1001c
+1123.96,1124.41,C,The only th,IS1001c
+1124.31,1126.88,B,to prin to to fix my,IS1001c
+1126.44,1126.76,C,Yeah .,IS1001c
+1126.88,1130.03,B,my components onto that box,IS1001c
+1129.89,1130.05,C,Y,IS1001c
+1130.03,1130.26,B,", and",IS1001c
+1130.05,1130.38,C,Yeah that,IS1001c
+1130.26,1130.51,B,that's,IS1001c
+1130.38,1130.54,C,can,IS1001c
+1130.51,1130.58,B,it,IS1001c
+1130.54,1130.67,C,be,IS1001c
+1130.58,1130.58,B,.,IS1001c
+1130.67,1131.68,C,in inside th in the,IS1001c
+1131.67,1131.84,B,Yeah,IS1001c
+1131.68,1132.53,C,structure,IS1001c
+1131.84,1132.49,B,yeah . Yeah .,IS1001c
+1132.53,1137.98,C,. But uh the thing is that the buttons and the wheel have to be I mean,IS1001c
+1137.95,1139.11,B,Spongy,IS1001c
+1137.98,1139.17,C,if it's spongy,IS1001c
+1139.11,1139.53,B,also,IS1001c
+1139.17,1139.76,C,then the,IS1001c
+1139.53,1139.53,B,.,IS1001c
+1139.76,1148.82,C,"buttons and the wheel have to I mean if it's spongy then it's going to move , right ? So , it's going to be bend a lot . So if we try to",IS1001c
+1148.64,1148.81,B,Oh,IS1001c
+1148.66,1149.01,A,But,IS1001c
+1148.81,1149.01,B,no,IS1001c
+1148.82,1149.1,C,push the,IS1001c
+1149.01,1149.33,B,I think,IS1001c
+1149.1,1149.43,C,buttons,IS1001c
+1149.33,1149.51,B,it's,IS1001c
+1149.43,1150.12,C,", it",IS1001c
+1149.51,1149.99,B,possible .,IS1001c
+1150.12,1150.53,C,You think it's,IS1001c
+1150.49,1150.72,A,No,IS1001c
+1150.53,1150.87,C,possible,IS1001c
+1150.72,1150.88,A,the,IS1001c
+1150.87,1150.87,C,?,IS1001c
+1150.88,1154.84,A,"button would be In fact it it should be something odd shaped , with",IS1001c
+1154.79,1154.99,B,Yeah,IS1001c
+1154.84,1155.65,A,a spongy,IS1001c
+1154.99,1154.99,B,.,IS1001c
+1155.65,1156.16,A,cover .,IS1001c
+1156.32,1156.73,C,Okay,IS1001c
+1156.34,1157.1,B,Yeah,IS1001c
+1156.73,1156.73,C,.,IS1001c
+1157.1,1158.09,B,. This is uh like,IS1001c
+1157.96,1158.19,C,Yeah,IS1001c
+1158.09,1158.22,B,the,IS1001c
+1158.19,1158.19,C,.,IS1001c
+1162.26,1173.92,A,"Okay odd shape with spongy cover . And standard battery okay , a chip imprint , there's no specific problem . So we agree to put the wheel",IS1001c
+1174.07,1174.42,B,Mm-hmm .,IS1001c
+1179.86,1183.82,B,"Wheel on the top . Button , where do we want some buttons ?",IS1001c
+1185.01,1189.86,C,"Well , usually hold 'Kay , we want it to be good also for the left-hand users , right ?",IS1001c
+1190.31,1190.69,B,Yeah .,IS1001c
+1192.28,1193.04,C,Uh,IS1001c
+1192.37,1194.53,A,So it have to it has to be symmetrical .,IS1001c
+1195.89,1206.46,C,"Yeah but okay . Sa let's say that th o It has to be basically you can only take two sides , one on ths this side where is the thumb and the other side where there is uh",IS1001c
+1206.44,1207.64,B,Yep,IS1001c
+1206.46,1207.99,C,yeah also the thumb,IS1001c
+1207.64,1207.82,B,. Yep .,IS1001c
+1207.99,1212.94,C,". Basically . Or you could use use this one , but I don't know if it's very comfortable , to use",IS1001c
+1212.84,1213.11,A,Yeah,IS1001c
+1212.94,1213.18,C,this one,IS1001c
+1213.11,1213.45,A,maybe,IS1001c
+1213.18,1213.45,C,for the,IS1001c
+1213.45,1213.66,A,the,IS1001c
+1213.45,1213.7,C,wheel,IS1001c
+1213.66,1213.87,A,thumb,IS1001c
+1213.7,1213.7,C,.,IS1001c
+1213.87,1215.09,A,is more comfortable .,IS1001c
+1215.09,1217.36,C,This for the wheel and then this for the buttons,IS1001c
+1217.03,1217.37,A,Yeah,IS1001c
+1217.36,1217.56,C,? Should,IS1001c
+1217.37,1217.69,A,I think,IS1001c
+1217.56,1217.79,C,have,IS1001c
+1217.69,1217.84,A,it's,IS1001c
+1217.79,1217.97,C,the,IS1001c
+1217.84,1218.15,A,okay,IS1001c
+1217.97,1218.99,C,two sides,IS1001c
+1218.15,1219.06,A,for both,IS1001c
+1218.99,1218.99,C,.,IS1001c
+1219.06,1220.4,A,right and left,IS1001c
+1220.31,1220.73,B,Mm-hmm,IS1001c
+1220.4,1220.63,A,. Mm .,IS1001c
+1220.73,1220.73,B,.,IS1001c
+1221.17,1224.76,C,"So if the left , we have the op",IS1001c
+1225.27,1228.98,A,I think you can turn it this way also . You can,IS1001c
+1228.95,1230.26,C,Wheel,IS1001c
+1228.98,1230.59,A,do both with,IS1001c
+1230.26,1231.6,C,Wheel buttons,IS1001c
+1230.59,1231.05,A,both hands .,IS1001c
+1231.6,1232.02,C,". Yeah , the problem",IS1001c
+1231.94,1232.18,A,I think,IS1001c
+1232.02,1232.21,C,is if,IS1001c
+1232.18,1232.32,A,it's,IS1001c
+1232.21,1232.69,C,you have,IS1001c
+1232.32,1232.57,A,okay .,IS1001c
+1232.69,1237.39,C,"buttons and wheel then when you turn it around , the buttons are on the other side . So you cannot see them .",IS1001c
+1238.61,1239.74,A,"Well , you",IS1001c
+1239.57,1239.81,C,Yeah,IS1001c
+1239.74,1239.96,A,you,IS1001c
+1239.81,1239.81,C,.,IS1001c
+1239.96,1243.0,A,will get used to it . And moreover,IS1001c
+1242.05,1243.35,C,So the buttons have to be here,IS1001c
+1243.0,1243.72,A,", th",IS1001c
+1243.35,1244.0,C,and the wheel,IS1001c
+1243.72,1244.27,A,the button,IS1001c
+1244.0,1244.27,C,has,IS1001c
+1244.27,1244.71,A,ar,IS1001c
+1244.27,1244.63,C,to be,IS1001c
+1244.71,1250.13,A,"are lighted so you you immediately identify the right side , because",IS1001c
+1249.92,1250.19,C,Y,IS1001c
+1250.13,1251.29,A,you have light on buttons .,IS1001c
+1251.37,1256.84,C,"Yeah I know , but uh if you hold with your left hand , and the wheel is here , and the buttons are here",IS1001c
+1256.6,1256.81,A,Yeah .,IS1001c
+1256.84,1260.0,C,", then when you turn it around the buttons will be on the other side .",IS1001c
+1260.59,1277.69,A,"No you you I think you will use it only on the right or left hand , whether you are righty or lefty . I think for lefty it's okay . I can do this movement , and for righty as well . I think this doesn't change that much .",IS1001c
+1279.52,1279.9,C,Okay .,IS1001c
+1281.06,1281.31,A,Yeah ?,IS1001c
+1282.58,1285.41,C,Okay . Maybe . Yeah .,IS1001c
+1287.0,1302.59,A,"So , for interface we said also that we have uh this banana shape with button on the s on the side . And and uh a wheel on the top .",IS1001c
+1302.9,1303.23,B,Mm-hmm .,IS1001c
+1303.91,1304.11,C,Yeah .,IS1001c
+1311.97,1368.16,A,"So the colour is yellow . I think it's uh we defined everything according to what we should what the decision we should take , yeah . So maybe we can um we can uh work on those aspects uh until next meeting . So have the final uh look and feel design according to the decision . And have the the user interface design and uh then evaluate the prodyuc the product . That is to say , uh check if it fit the the requirement uh given by the users , but according to uh your presentation it seems to be okay . It seems to be fancy , innovative , and easy to use .",IS1001c
+1370.14,1370.47,B,Mm-hmm .,IS1001c
+1370.84,1383.56,A,So so to prepare the prototype I would suggest that the Industrial Designer and the User Interface Designer uh work together . That would uh,IS1001c
+1385.3,1385.62,B,Yeah,IS1001c
+1385.48,1386.18,A,be better,IS1001c
+1385.62,1385.62,B,.,IS1001c
+1386.18,1395.97,A,", I think . And uh And so uh you will receive further instruction by emails , as usual .",IS1001c
+1397.27,1397.86,C,Mm-hmm,IS1001c
+1397.82,1400.86,A,So,IS1001c
+1397.86,1398.42,C,. Yes master .,IS1001c
+1400.86,1402.56,A,do you need to add anything ?,IS1001c
+1403.3,1403.57,C,No .,IS1001c
+1404.71,1405.45,A,You feel okay ?,IS1001c
+1405.96,1406.22,C,Yeah .,IS1001c
+1406.53,1410.09,A,You feel uh free to express what you want to say,IS1001c
+1409.75,1410.08,C,Yeah .,IS1001c
+1410.09,1412.2,A,? You don't feel too constrained ?,IS1001c
+1414.52,1414.61,C,No .,IS1001c
+1416.04,1417.77,A,You don't feel free to answer this,IS1001c
+1417.52,1417.91,C,Maybe you can,IS1001c
+1417.77,1417.77,A,?,IS1001c
+1417.91,1421.99,C,make uh uh mm okay .,IS1001c
+1422.72,1424.1,A,"Okay , so",IS1001c
+1424.7,1425.37,B,Thank you .,IS1001c
+1425.52,1425.94,A,See you .,IS1001c
+5.59,24.59,A,Okay . Je croix que c'est dommage de le it will be sad to destroy this prototype . It really looks like a banana .,IS1001d
+25.08,25.77,C,It is a banana .,IS1001d
+26.33,26.82,A,It is,IS1001d
+26.82,26.95,C,It,IS1001d
+26.82,28.38,A,a banana,IS1001d
+26.95,28.22,C,is the essence of bananas .,IS1001d
+28.38,28.38,A,.,IS1001d
+33.28,34.36,C,I would be confused with this thing .,IS1001d
+46.23,46.46,A,Mm .,IS1001d
+46.69,47.09,C,S,IS1001d
+47.67,49.21,D,Mm-hmm,IS1001d
+47.81,52.16,A,Okay,IS1001d
+49.21,49.21,D,.,IS1001d
+49.46,50.25,C,How is everyone ?,IS1001d
+52.16,54.35,A,. Hi,IS1001d
+53.14,53.46,B,Hi .,IS1001d
+54.35,58.37,A,. So we are here for the detailed design meeting .,IS1001d
+59.77,60.25,C,Mm-hmm .,IS1001d
+61.09,115.12,A,So we will uh I will first present what we are going to do in this meeting . Then uh I've I will also take notes during this meeting and I will send you uh a summary then as usual . We will then look at the evaluation criteria of the prototype presented by uh our two colleagues that make good work . And uh then we will see the financial aspects and the cost of the product . Then we will uh evaluate the product . And uh end with the conclusion of this project and see whether it fits with it fulf if it fulfil the requirement or not .,IS1001d
+115.99,116.38,B,Mm-hmm .,IS1001d
+116.44,138.55,A,"So d let's start with the cost aspect so so I look at the aspect discussed last time , that is to say uh to have a standard battery , to have a yellow banana shaped uh case with uh a rubber material around it to be uh",IS1001d
+138.4,138.59,C,Like a,IS1001d
+138.55,138.7,A,to,IS1001d
+138.59,139.27,C,banana,IS1001d
+138.7,139.53,A,feel spongy,IS1001d
+139.27,139.27,C,.,IS1001d
+139.53,147.55,A,", and uh also at the different aspect like having a wheel",IS1001d
+146.93,147.18,B,Mm-hmm .,IS1001d
+147.55,158.64,A,"etcetera . And the cost ended to be ten point seven Euros . So which is uh good , because we had a price gap of twelve point five Euros .",IS1001d
+159.1,159.45,B,Mm-hmm .,IS1001d
+159.89,174.72,A,"So for the financial aspect it's okay , we can uh we can continue with this product uh as if , and we are now going to see the project evaluation with uh our marketing expert .",IS1001d
+175.75,181.22,D,Yeah . Okay . So uh you can have my,IS1001d
+180.92,181.38,A,Yeah,IS1001d
+181.22,181.77,D,project,IS1001d
+181.38,181.38,A,.,IS1001d
+181.77,182.06,D,in,IS1001d
+182.58,183.75,A,You have a presentation,IS1001d
+183.71,183.96,D,Uh,IS1001d
+183.75,183.75,A,?,IS1001d
+183.96,184.88,D,yeah just a,IS1001d
+187.81,188.73,A,Participant,IS1001d
+188.2,188.44,D,Four .,IS1001d
+188.73,189.79,A,"four , yes .",IS1001d
+191.22,191.95,D,Evaluation .,IS1001d
+192.38,196.9,A,Okay . Okay .,IS1001d
+196.98,200.8,D,Okay . So you can go . We can go through .,IS1001d
+201.2,201.92,A,Okay .,IS1001d
+202.82,220.65,D,So I made an evaluation and the the evaluation criteria is made according to the users' requirements and the market trends we talked about uh during the previous uh meetings . So you can go through and,IS1001d
+220.04,220.51,A,Okay .,IS1001d
+220.65,228.15,D,okay so uh we have uh six points . We we talked about before,IS1001d
+228.14,228.71,A,Okay,IS1001d
+228.15,228.84,D,. So we we,IS1001d
+228.71,228.71,A,.,IS1001d
+228.84,238.48,D,"want to have a product fancy look and feel , technologically innovative , easy to use , fashion , easy to find in a room , and robust",IS1001d
+237.86,238.25,A,Yeah,IS1001d
+237.94,238.26,B,Mm-hmm,IS1001d
+238.25,238.25,A,.,IS1001d
+238.26,238.26,B,.,IS1001d
+238.48,244.15,D,", uh and uh uh I have a scale of uh seven points",IS1001d
+243.99,244.3,A,Yeah,IS1001d
+244.15,244.88,D,. Okay,IS1001d
+244.3,244.3,A,.,IS1001d
+244.88,248.6,D,. So I go through all the uh all the points here,IS1001d
+248.4,248.69,A,Yeah,IS1001d
+248.6,249.54,D,", and",IS1001d
+248.69,248.69,A,.,IS1001d
+249.54,258.99,D,"uh according to what you think about the this project you can uh mm make a one point , two point or seven point . Okay",IS1001d
+258.63,259.02,A,Okay,IS1001d
+258.99,259.13,D,? And,IS1001d
+259.02,259.02,A,.,IS1001d
+259.13,261.76,D,"after we ha we have an an average , and uh we see .",IS1001d
+262.54,262.87,B,Mm-hmm,IS1001d
+262.55,262.95,A,Okay,IS1001d
+262.87,263.45,D,The,IS1001d
+262.87,262.87,B,.,IS1001d
+262.95,262.95,A,.,IS1001d
+263.45,267.9,D,"okay ? Uh so uh fancy look and feel , what do",IS1001d
+267.86,268.41,A,Okay,IS1001d
+267.9,268.83,D,you think,IS1001d
+268.41,269.06,A,. Maybe you can,IS1001d
+268.83,269.53,D,? F between,IS1001d
+269.06,271.6,A,presen,IS1001d
+269.53,270.63,D,o one and seven .,IS1001d
+271.6,280.39,A,okay . Maybe hold it . So I think it's uh very uh very nice,IS1001d
+280.26,280.53,C,I give,IS1001d
+280.39,280.53,A,. What,IS1001d
+280.53,280.67,C,it,IS1001d
+280.53,280.67,A,do you,IS1001d
+280.67,281.12,C,a,IS1001d
+280.67,280.88,A,think ?,IS1001d
+281.12,282.03,C,I give it a five .,IS1001d
+283.32,286.79,A,Yeah . So it's between one and seven,IS1001d
+286.32,286.51,D,Yeah .,IS1001d
+286.79,288.61,A,? Seven is the highest uh,IS1001d
+288.13,288.71,D,Seven,IS1001d
+288.61,288.88,A,? I will,IS1001d
+288.71,289.07,D,is the,IS1001d
+288.88,289.87,A,give a six .,IS1001d
+291.12,293.05,B,I will give a a five .,IS1001d
+293.94,294.15,D,Mm-hmm .,IS1001d
+296.34,296.75,C,And,IS1001d
+296.71,297.06,D,sorry,IS1001d
+296.75,298.28,C,you,IS1001d
+297.06,297.06,D,.,IS1001d
+298.28,300.07,C,? Do you vote uh Christine,IS1001d
+299.69,301.83,D,eh,IS1001d
+300.07,301.46,C,? Do you also vote ?,IS1001d
+301.83,304.67,D,"? No , I just want to see something",IS1001d
+310.44,312.84,A,Maybe we all have to agree on a common,IS1001d
+313.68,315.4,C,"Well , we can very easily .",IS1001d
+315.57,315.7,A,Yeah,IS1001d
+315.59,316.21,D,Mm-hmm,IS1001d
+315.7,315.7,A,.,IS1001d
+316.21,326.9,D,. Uh I think uh and need to as well .,IS1001d
+327.22,328.55,A,No problem,IS1001d
+328.31,328.58,D,Need to,IS1001d
+328.55,328.83,A,. So,IS1001d
+328.58,328.84,D,uh I,IS1001d
+328.83,329.09,A,this,IS1001d
+328.84,329.19,D,don't know if,IS1001d
+329.09,329.21,A,is,IS1001d
+329.19,329.3,D,you,IS1001d
+329.21,329.66,A,your,IS1001d
+329.3,333.85,D,we ha we have to put uh one uh f If it's better or,IS1001d
+344.39,344.71,A,One,IS1001d
+344.4,344.51,C,I,IS1001d
+344.71,346.05,A,is most,IS1001d
+345.83,346.06,D,Uh-uh,IS1001d
+346.05,346.05,A,.,IS1001d
+346.06,350.21,D,. Um,IS1001d
+349.64,350.25,A,"Well , we can",IS1001d
+350.21,350.21,D,.,IS1001d
+350.25,352.24,A,choose what we want,IS1001d
+351.41,352.32,D,Yeah,IS1001d
+352.24,352.63,A,. Okay,IS1001d
+352.32,352.72,D,. Or maybe,IS1001d
+352.63,352.81,A,", let's",IS1001d
+352.72,352.88,D,we,IS1001d
+352.81,352.94,A,say,IS1001d
+352.88,353.1,D,can,IS1001d
+352.94,353.16,A,that,IS1001d
+353.1,354.3,D,say,IS1001d
+353.16,354.44,A,seven is the best,IS1001d
+354.3,354.71,D,s seven,IS1001d
+354.44,354.44,A,.,IS1001d
+354.71,357.38,D,is the best,IS1001d
+356.4,356.7,A,Okay .,IS1001d
+357.38,359.54,D,mm,IS1001d
+357.69,359.75,A,So so do,IS1001d
+359.54,359.54,D,.,IS1001d
+359.75,366.3,A,"note the grade we have five , six for me",IS1001d
+365.48,365.89,B,Five .,IS1001d
+366.3,367.54,A,", five . And",IS1001d
+367.36,369.07,D,Oh sorry,IS1001d
+367.54,369.24,A,what what's your choice,IS1001d
+369.07,369.71,D,. Six,IS1001d
+369.24,372.08,A,"? How much would you give on the fancy aspect , on",IS1001d
+372.07,373.1,D,Uh,IS1001d
+372.08,373.41,A,the fashionable aspect,IS1001d
+373.1,373.43,D,s,IS1001d
+373.41,373.41,A,?,IS1001d
+373.43,375.2,D,you can how much what ?,IS1001d
+375.32,378.22,A,How much would you you don't answer to this uh,IS1001d
+377.86,378.34,D,Oh yes,IS1001d
+378.22,378.71,A,questionnaire,IS1001d
+378.34,378.96,D,I,IS1001d
+378.71,378.71,A,?,IS1001d
+378.96,382.32,D,"mm I dunno mm , I think six , it's a good uh",IS1001d
+382.46,384.2,C,So it will have five point five average,IS1001d
+383.85,384.23,A,Five,IS1001d
+384.2,384.2,C,.,IS1001d
+384.23,385.27,A,point five average .,IS1001d
+385.29,387.09,D,Yeah . Wa,IS1001d
+386.45,386.75,C,Mm,IS1001d
+386.45,386.76,A,Okay,IS1001d
+386.75,386.75,C,.,IS1001d
+386.76,386.76,A,.,IS1001d
+387.09,393.62,D,can . Okay,IS1001d
+392.77,393.45,A,"Well , does it",IS1001d
+393.62,402.15,D,". I sorry . Okay . So after , the technological aspect ?",IS1001d
+404.32,406.69,A,"Okay , techne technological aspect .",IS1001d
+407.0,414.08,D,So we we said uh we have uh a new technological uh thing with a wheel .,IS1001d
+414.34,416.17,A,"Yeah , we have the wheel",IS1001d
+415.82,416.17,D,Uh .,IS1001d
+416.17,427.61,A,". We also have the rubber material , which make it uh like new also . I think I would give a five .",IS1001d
+428.3,429.15,C,It's four .,IS1001d
+429.59,429.84,A,Four,IS1001d
+429.69,430.41,B,A four,IS1001d
+429.84,429.84,A,?,IS1001d
+430.41,431.48,B,also,IS1001d
+431.21,431.44,C,Yeah .,IS1001d
+431.48,435.71,B,", because , except for the wheel , we don't have so much innovation . The rubber is",IS1001d
+436.07,436.48,A,Okay,IS1001d
+436.39,436.5,C,D,IS1001d
+436.48,436.48,A,.,IS1001d
+436.5,437.04,C,are we including,IS1001d
+436.72,437.06,B,Uh a four,IS1001d
+437.04,437.16,C,the,IS1001d
+437.06,437.31,B,. I,IS1001d
+437.16,437.62,C,voice,IS1001d
+437.31,437.48,B,I,IS1001d
+437.62,440.82,C,are you glu are we including the voice in the end or not,IS1001d
+440.68,440.99,A,No,IS1001d
+440.82,441.29,C,? Huh,IS1001d
+440.99,440.99,A,.,IS1001d
+441.29,442.5,C,? No . Okay .,IS1001d
+443.86,445.15,A,So,IS1001d
+444.46,444.64,D,No .,IS1001d
+445.15,447.32,A,what's your uh grade,IS1001d
+446.58,446.85,D,Four .,IS1001d
+447.32,450.43,A,"? Four ? So we have four , four f and five",IS1001d
+450.27,450.53,D,We can,IS1001d
+450.43,450.43,A,?,IS1001d
+450.53,451.97,D,put four,IS1001d
+450.8,451.8,C,Yeah . For,IS1001d
+451.67,451.87,A,Yeah,IS1001d
+451.8,452.1,C,twenty,IS1001d
+451.87,452.23,A,", four",IS1001d
+451.97,452.48,D,? Everyone,IS1001d
+452.1,452.49,C,five,IS1001d
+452.23,452.23,A,.,IS1001d
+452.48,452.61,D,is,IS1001d
+452.49,452.49,C,.,IS1001d
+452.61,453.42,D,okay or,IS1001d
+453.3,453.74,A,Four,IS1001d
+453.42,453.89,D,four poin,IS1001d
+453.74,455.01,A,", yeah , let's put four",IS1001d
+454.64,454.97,D,Four .,IS1001d
+455.01,455.01,A,.,IS1001d
+455.31,455.45,C,Yeah .,IS1001d
+457.52,458.59,D,Okay .,IS1001d
+458.66,459.6,A,Doesn't it,IS1001d
+461.53,464.64,D,Very easy to use . Do you think it's easy to use ?,IS1001d
+465.38,465.58,B,Yeah,IS1001d
+465.44,465.79,A,Yeah,IS1001d
+465.58,465.58,B,.,IS1001d
+465.79,465.86,A,", I",IS1001d
+465.86,465.94,C,I,IS1001d
+465.86,466.12,A,think,IS1001d
+465.94,466.18,C,give a,IS1001d
+466.12,467.42,A,so,IS1001d
+466.18,466.91,C,"seven , I think .",IS1001d
+467.42,469.36,A,. Yeah,IS1001d
+467.44,467.94,B,Six .,IS1001d
+469.36,475.69,A,. I would give a I would give a seven as well . It's very easy to use .,IS1001d
+475.8,476.11,D,Mm,IS1001d
+476.04,476.51,B,Six,IS1001d
+476.11,476.57,D,", six",IS1001d
+476.51,476.51,B,.,IS1001d
+476.57,477.37,D,for me also .,IS1001d
+478.2,478.97,A,So,IS1001d
+478.24,478.48,D,Six,IS1001d
+478.33,478.73,C,'Kay,IS1001d
+478.48,480.92,D,point five,IS1001d
+478.73,478.73,C,.,IS1001d
+478.97,479.25,A,six,IS1001d
+479.25,479.57,B,Six,IS1001d
+479.25,480.0,A,point five,IS1001d
+479.57,480.16,B,six six,IS1001d
+480.0,480.0,A,.,IS1001d
+480.16,480.6,B,point five .,IS1001d
+480.92,481.46,D,. Okay,IS1001d
+481.38,481.83,A,Okay,IS1001d
+481.46,481.46,D,.,IS1001d
+481.83,481.83,A,.,IS1001d
+484.47,487.71,D,Is it fashion,IS1001d
+485.94,488.41,A,"Oh yeah , its its f its fruit",IS1001d
+487.71,489.44,D,? Seven,IS1001d
+488.41,489.6,A,fruit shape . I would say,IS1001d
+489.44,489.44,D,?,IS1001d
+489.6,491.92,A,seven . And is very,IS1001d
+491.9,492.06,D,Yeah,IS1001d
+491.92,492.14,A,very,IS1001d
+492.06,492.4,D,it's,IS1001d
+492.14,492.42,A,nice,IS1001d
+492.4,492.8,D,fashion,IS1001d
+492.42,492.92,A,design,IS1001d
+492.8,493.04,D,", because",IS1001d
+492.92,492.92,A,.,IS1001d
+493.04,493.94,D,"it's a fruit , and",IS1001d
+493.89,494.09,C,Yeah,IS1001d
+493.94,494.33,D,we say,IS1001d
+494.09,494.33,C,", we can",IS1001d
+494.33,494.66,D,that,IS1001d
+494.33,494.81,C,we can put,IS1001d
+494.66,495.86,D,the,IS1001d
+494.81,495.77,C,a seven here . Yeah .,IS1001d
+495.83,496.16,B,Yeah,IS1001d
+495.86,496.53,D,"yeah , seven",IS1001d
+496.16,496.76,B,", seven",IS1001d
+496.53,496.53,D,.,IS1001d
+496.61,496.7,A,Yeah,IS1001d
+496.68,497.13,C,Yeah,IS1001d
+496.7,497.04,A,. Seven,IS1001d
+496.76,496.76,B,.,IS1001d
+497.04,497.29,A,", okay",IS1001d
+497.13,497.13,C,.,IS1001d
+497.29,497.29,A,.,IS1001d
+497.65,498.79,C,"Well , we hope .",IS1001d
+500.21,500.44,B,Easy,IS1001d
+500.3,500.63,D,Uh,IS1001d
+500.44,500.9,B,to find,IS1001d
+500.63,500.94,D,easy to,IS1001d
+500.9,500.9,B,.,IS1001d
+500.94,505.85,D,find in a room,IS1001d
+502.17,505.88,B,I lost my banana,IS1001d
+505.85,505.85,D,?,IS1001d
+505.88,505.88,B,.,IS1001d
+506.13,507.61,A,I think you can't miss it .,IS1001d
+508.33,508.72,C,Yeah .,IS1001d
+509.2,509.44,D,Yeah,IS1001d
+509.35,509.72,A,Okay,IS1001d
+509.44,509.44,D,?,IS1001d
+509.72,510.54,B,Uh,IS1001d
+509.72,509.72,A,.,IS1001d
+510.16,510.56,C,"Yeah , I think",IS1001d
+510.54,510.54,B,.,IS1001d
+510.56,513.39,C,it's cool . I think we can put a six here .,IS1001d
+513.43,515.5,D,"We have the lightning , or",IS1001d
+516.9,517.24,A,Yeah,IS1001d
+516.99,517.56,D,The lighting,IS1001d
+517.24,517.96,A,", we have",IS1001d
+517.56,517.56,D,.,IS1001d
+517.96,520.32,A,the we don't sesh especially,IS1001d
+520.14,520.47,C,So you'll,IS1001d
+520.32,520.59,A,have,IS1001d
+520.47,520.61,C,make,IS1001d
+520.59,520.71,A,the,IS1001d
+520.61,520.74,C,the,IS1001d
+520.71,521.18,A,lightning,IS1001d
+520.74,521.3,C,material,IS1001d
+521.18,521.59,A,but,IS1001d
+521.3,524.16,C,"transparent so that it uh lights up completely , or",IS1001d
+524.48,526.42,A,So it's yellow . It's okay . I think,IS1001d
+526.24,526.87,D,Yeah,IS1001d
+526.42,527.09,A,it's very,IS1001d
+526.87,526.87,D,.,IS1001d
+527.09,528.99,A,easy to,IS1001d
+528.02,528.43,D,Seven ?,IS1001d
+528.99,530.73,A,I would say seven . It's hard to,IS1001d
+530.59,532.15,B,Six,IS1001d
+530.73,531.17,A,miss it .,IS1001d
+532.15,532.89,B,. Yeah,IS1001d
+532.45,532.67,C,Yeah,IS1001d
+532.66,532.78,D,Is,IS1001d
+532.67,532.67,C,.,IS1001d
+532.78,533.19,D,it,IS1001d
+532.89,533.18,B,", okay .",IS1001d
+533.19,534.02,D,is it robust ?,IS1001d
+535.22,535.85,A,"Yeah , it's",IS1001d
+535.54,536.08,B,Uh f,IS1001d
+535.85,537.23,A,rubber,IS1001d
+536.08,537.3,B,"yeah , it's ru it's",IS1001d
+537.23,537.47,A,", made",IS1001d
+537.3,537.57,B,rubber,IS1001d
+537.47,537.69,A,of,IS1001d
+537.57,537.57,B,.,IS1001d
+537.69,542.12,A,"rubber , I think it's m it's uh more rubber than uh",IS1001d
+541.92,542.98,B,Yeah,IS1001d
+542.12,542.77,A,other remote,IS1001d
+542.71,543.09,C,Yeah,IS1001d
+542.77,543.31,A,control,IS1001d
+542.98,542.98,B,.,IS1001d
+543.09,543.62,C,the only,IS1001d
+543.31,543.31,A,.,IS1001d
+543.62,547.26,C,"problem there might be which know , i if it's very sensitive",IS1001d
+547.19,548.87,A,Yeah,IS1001d
+547.26,548.16,C,", they will",IS1001d
+547.97,548.21,B,Yeah,IS1001d
+548.16,548.22,C,", I",IS1001d
+548.21,548.21,B,.,IS1001d
+548.22,548.57,C,don't know,IS1001d
+548.87,552.66,A,. But it is uh it is surrounded by rubber material,IS1001d
+551.56,552.05,C,Yeah,IS1001d
+551.99,552.29,B,Yeah,IS1001d
+552.05,552.42,C,", okay",IS1001d
+552.29,552.29,B,.,IS1001d
+552.42,552.42,C,.,IS1001d
+552.66,554.17,A,. So maybe we can put a six .,IS1001d
+554.79,555.04,B,Yeah,IS1001d
+554.93,555.1,C,Mm,IS1001d
+555.04,555.04,B,.,IS1001d
+555.1,555.1,C,.,IS1001d
+556.29,556.68,D,Everybody,IS1001d
+556.29,556.7,B,Six,IS1001d
+556.68,557.21,D,is,IS1001d
+556.7,557.94,B,or five,IS1001d
+557.21,558.35,D,"okay , six",IS1001d
+557.94,558.49,B,. Five,IS1001d
+558.35,558.35,D,.,IS1001d
+558.46,558.81,A,Six,IS1001d
+558.49,558.49,B,.,IS1001d
+558.72,559.25,C,Six,IS1001d
+558.81,559.34,A,is okay,IS1001d
+559.25,559.67,C,", yeah",IS1001d
+559.34,559.34,A,?,IS1001d
+559.67,559.88,C,", for",IS1001d
+559.77,560.22,B,Six,IS1001d
+559.78,560.96,D,Yeah,IS1001d
+559.88,560.05,C,me .,IS1001d
+560.22,560.22,B,.,IS1001d
+560.96,562.23,D,. Okay,IS1001d
+561.52,561.79,A,Yeah,IS1001d
+561.78,562.06,C,Yeah,IS1001d
+561.79,561.79,A,.,IS1001d
+562.06,562.06,C,.,IS1001d
+562.23,564.25,D,. S now,IS1001d
+563.65,564.46,A,Tadada,IS1001d
+564.25,565.4,D,um,IS1001d
+564.46,564.46,A,.,IS1001d
+565.4,565.75,D,so .,IS1001d
+566.44,566.73,A,We have to,IS1001d
+566.61,567.67,C,Twenty,IS1001d
+566.73,567.36,A,sum up,IS1001d
+567.06,567.82,D,Thirteen,IS1001d
+567.36,567.78,A,everything,IS1001d
+567.67,567.67,C,.,IS1001d
+567.78,567.78,A,.,IS1001d
+567.82,572.52,D,"uh , twenty , twenty six point five , uh seven",IS1001d
+572.37,573.27,C,Thirty,IS1001d
+572.52,573.48,D,", thirty two , thirty",IS1001d
+573.27,573.45,C,. Thir,IS1001d
+573.48,578.43,D,six . That's that's okay ? Six .,IS1001d
+580.6,580.84,C,Okay .,IS1001d
+581.35,581.93,A,Six is a,IS1001d
+581.91,582.78,D,Good,IS1001d
+581.93,582.16,A,good,IS1001d
+582.78,585.84,D,. Uh if we say that seven it's uh,IS1001d
+585.64,586.02,C,Yeah,IS1001d
+585.8,586.04,A,Yeah,IS1001d
+585.84,586.15,D,it's,IS1001d
+586.02,586.19,C,", the",IS1001d
+586.04,586.18,A,", the",IS1001d
+586.15,586.25,D,the,IS1001d
+586.18,586.37,A,be,IS1001d
+586.19,586.29,C,top,IS1001d
+586.25,586.71,D,better,IS1001d
+586.37,586.37,A,.,IS1001d
+586.71,588.23,D,", and when uh s",IS1001d
+587.91,588.23,A,Okay,IS1001d
+588.11,588.38,C,Mm,IS1001d
+588.23,588.59,D,six,IS1001d
+588.23,588.44,A,", so",IS1001d
+588.38,588.38,C,.,IS1001d
+588.44,588.79,A,six,IS1001d
+588.59,588.86,D,sit,IS1001d
+588.79,588.94,A,is,IS1001d
+588.86,589.1,D,six,IS1001d
+588.94,589.34,A,a,IS1001d
+589.1,590.6,D,are good it's a good uh p product,IS1001d
+590.35,590.75,C,So will,IS1001d
+590.6,590.95,D,", I think",IS1001d
+590.75,591.11,C,become,IS1001d
+590.95,590.95,D,.,IS1001d
+591.11,591.54,C,eight soon ?,IS1001d
+592.16,596.01,A,"So it's a good evaluation , I think . It's very promising .",IS1001d
+596.21,600.94,C,"Yeah , well it's a bit biased",IS1001d
+599.81,600.39,D,We have a good,IS1001d
+600.22,600.37,A,Huh .,IS1001d
+600.39,601.08,D,price,IS1001d
+600.94,600.94,C,.,IS1001d
+601.08,602.06,D,and uh .,IS1001d
+602.47,602.85,B,Yeah .,IS1001d
+604.11,604.51,C,Okay,IS1001d
+604.15,604.6,D,Good,IS1001d
+604.51,604.51,C,.,IS1001d
+604.52,604.73,A,So,IS1001d
+604.6,604.6,D,.,IS1001d
+604.73,607.51,A,this prototype is quite nice .,IS1001d
+607.78,611.72,C,Because I saw uh some phones that were banana shaped,IS1001d
+611.49,611.73,A,Yeah,IS1001d
+611.72,612.11,C,", uh",IS1001d
+611.73,611.73,A,.,IS1001d
+612.11,614.4,C,"wireless phones not mobile ones , wireless",IS1001d
+614.29,614.67,A,Okay,IS1001d
+614.4,615.47,C,for the house,IS1001d
+614.67,614.67,A,.,IS1001d
+615.47,625.63,C,", uh quite big also , and they were selling something like a hundred Euros , two hundred Euros . Just a just a phone , wireless",IS1001d
+625.33,625.65,B,Mm-hmm,IS1001d
+625.41,626.04,A,So,IS1001d
+625.63,625.63,C,.,IS1001d
+625.65,625.65,B,.,IS1001d
+626.04,630.57,A,"having this at twenty five Euros is uh quite attractive , I think",IS1001d
+630.2,630.54,C,Yeah .,IS1001d
+630.57,632.38,A,. I think,IS1001d
+632.33,632.48,B,But,IS1001d
+632.38,632.88,A,the,IS1001d
+632.48,637.58,B,almo also the complexity between a phone and a remote control is not,IS1001d
+637.49,638.66,C,Yeah,IS1001d
+637.58,638.39,B,cannot compare .,IS1001d
+638.66,639.13,C,. Yeah,IS1001d
+639.04,639.4,A,Yeah,IS1001d
+639.13,639.49,C,", it's much",IS1001d
+639.4,639.4,A,.,IS1001d
+639.49,640.19,C,"more complex , but",IS1001d
+641.88,692.7,A,"So , I think , we can summarise . So we have seen the prototype . It's very nice according to the work of our two designer . The the the financial aspect were okay . We we have the cost below uh our threshold and so we could sell at twenty five Euros and make i make profit . The the evaluation give satisfying result as well . So I think we can move to the last part of the meeting . So the cost is in the budget , the evaluation is okay , so I th I think we can now uh open champagne and make a huge party",IS1001d
+692.4,692.72,B,Start,IS1001d
+692.7,692.76,A,. I,IS1001d
+692.72,692.96,B,to,IS1001d
+692.76,693.11,A,don't know if,IS1001d
+692.96,694.22,B,eat banana,IS1001d
+693.11,694.44,A,it's provided by,IS1001d
+694.22,694.22,B,.,IS1001d
+694.44,700.16,A,uh by the meeting staff,IS1001d
+698.69,699.09,D,Mm-hmm .,IS1001d
+699.62,700.09,C,Okay .,IS1001d
+700.16,702.06,A,. Okay so congratulation .,IS1001d
+703.12,703.33,B,Yeah,IS1001d
+703.27,703.88,C,Congratulations,IS1001d
+703.33,703.33,B,.,IS1001d
+703.49,704.25,A,Nice product,IS1001d
+703.88,704.53,C,to the team,IS1001d
+704.25,704.25,A,.,IS1001d
+704.53,706.82,C,". Uh very well , we worked together fantastically",IS1001d
+706.76,706.96,A,Yeah,IS1001d
+706.82,706.82,C,.,IS1001d
+706.96,712.51,A,. I think it was a good collaboration uh . Aspect .,IS1001d
+712.98,714.07,C,So what does the management say ?,IS1001d
+715.6,715.94,A,Sorry ?,IS1001d
+716.01,717.7,C,What does the management say ?,IS1001d
+717.98,723.24,A,I think we will have um much bigger project next time and a much bigger salary as well .,IS1001d
+723.48,723.81,C,Ah .,IS1001d
+724.93,732.16,A,All it depends on who watch this meeting,IS1001d
+731.29,732.6,B,Yeah,IS1001d
+732.16,733.39,A,. We don't know,IS1001d
+732.6,732.6,B,.,IS1001d
+733.17,733.47,C,Yeah,IS1001d
+733.39,733.39,A,.,IS1001d
+733.47,733.47,C,.,IS1001d
+734.64,735.83,A,Okay,IS1001d
+735.14,735.45,C,Okay .,IS1001d
+735.83,738.87,A,", so good guys",IS1001d
+738.75,739.44,B,Okay,IS1001d
+738.87,739.81,A,", so see you for",IS1001d
+739.44,739.44,B,.,IS1001d
+739.81,743.64,A,next uh successful project,IS1001d
+742.68,743.99,B,Yeah . Fruits,IS1001d
+743.64,743.64,A,.,IS1001d
+743.99,743.99,B,.,IS1001d
+744.61,744.81,D,Mm 'kay .,IS1001d
+751.73,751.76,C,Mm .,IS1001d

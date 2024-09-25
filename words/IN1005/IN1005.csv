@@ -1,0 +1,1612 @@
+Start,End,Speaker,Speech,meeting
+32.88,35.05,D,So is it correct or no ?,IN1005.
+35.89,36.25,A,Oops .,IN1005.
+36.75,39.45,B,You never know whether you've got these things on right or not,IN1005.
+38.88,39.11,D,Hmm ?,IN1005.
+39.45,41.72,B,. You never know whether they're on right or not,IN1005.
+41.24,42.94,D,Yeah,IN1005.
+41.72,41.72,B,.,IN1005.
+41.87,42.12,C,Yeah .,IN1005.
+42.94,44.19,D,". Well , so we hope .",IN1005.
+44.43,53.91,B,"Feels wrong . Okay , so I don't need that . Okay",IN1005.
+53.35,53.87,C,Okay .,IN1005.
+53.91,63.47,B,. So David came in to me and to say uh i something we'd been talking about for a while was some stuff I'd been working on about using these topic models,IN1005.
+63.03,63.31,A,Mm-hmm,IN1005.
+63.13,63.37,D,Mm-hmm,IN1005.
+63.31,63.31,A,.,IN1005.
+63.37,63.37,D,.,IN1005.
+63.47,70.54,B,"with uh with networks , with n things with links between them , documents that are linked . Uh",IN1005.
+70.31,71.07,A,The rapple,IN1005.
+70.54,71.82,B,n,IN1005.
+71.07,71.86,A,also,IN1005.
+71.82,72.05,B,uh,IN1005.
+71.86,72.48,A,. No,IN1005.
+72.05,72.66,B,it's actually,IN1005.
+72.48,72.48,A,.,IN1005.
+72.66,82.28,B,"it's related to rapple , but it's not actually that th this is something I haven't actually been working on for a couple of months now , uh just because I came up with something more interesting",IN1005.
+82.08,83.23,A,Okay,IN1005.
+82.28,83.62,B,"that I've been working on , but",IN1005.
+83.23,83.23,A,.,IN1005.
+83.62,97.93,B,"uh th at the time basically I'd been trying to use P_L_S_A_ and those types of models on web pages , and that came up with uh a big problem in that most web pages have very very little text on them .",IN1005.
+98.11,98.33,D,Mm-hmm .,IN1005.
+98.52,116.17,B,"But you can tell what they're about based on the other texts on the site , the texts on the things they're linked to , so what I wanted to know was can you combine the topic models that the pages , that have lots of text on them , with something else that that tells you what a page that has no or very little text on it",IN1005.
+115.36,116.18,A,Mm-hmm . With,IN1005.
+116.17,116.74,B,based,IN1005.
+116.18,117.05,A,the link here,IN1005.
+116.74,117.27,B,on the links,IN1005.
+117.05,117.36,A,in,IN1005.
+117.27,117.54,B,", yeah",IN1005.
+117.36,117.36,A,.,IN1005.
+117.54,135.21,B,". So quite simply if you have a page one which is like a home page , and that'll maybe have five links and a picture on it , and then because it links to page two and page three . Can you tell what this is about",IN1005.
+135.05,135.25,D,Yeah,IN1005.
+135.21,135.21,B,?,IN1005.
+135.25,135.25,D,.,IN1005.
+135.32,135.42,A,Mm-hmm .,IN1005.
+135.56,168.32,B,"Yeah , so I started looking at uh Google page rank , which kinda does this by saying well , the links go the other way , it says if this page is about fish or in Google , they say if this page is good in some way , and it links to this other page , and we don't know what this is , then that page is more likely to be good . And it's just page rank is just a simple algorithm for doing this over the whole big network . So I wanted to combine the topic models that tell you beforehand what you think this page and this page are about",IN1005.
+167.71,167.99,A,Mm-hmm .,IN1005.
+168.32,216.19,B,"with this to maybe get a better idea . So the idea is say you've got some text on a page , that's only part of the picture about what of what the page is really about , and the links pointing to that page are also part of the picture . So I basically came up with an algorithm that's just a i it plugs P_L_S_A_ uh plugs page rank into P_L_S_A_ , right , so page rank you basically just d uh say You basically take the how good this page is , which is X_ , and how good this page is , which is Y_ , and you then say this page is based on uh how do you do this ? Based on the the links coming into it",IN1005.
+215.77,216.06,A,Mm-hmm .,IN1005.
+216.19,226.38,B,", uh it's just a like a sum over all the the links of uh well , X_ link I guess",IN1005.
+225.54,226.69,A,"Of the value , yeah",IN1005.
+226.38,226.71,B,. O of,IN1005.
+226.69,227.21,A,", mm-hmm",IN1005.
+226.71,227.43,B,of the value,IN1005.
+227.21,228.14,A,. Mm,IN1005.
+227.43,228.25,B,. Uh uh the but it's,IN1005.
+228.14,228.28,A,of,IN1005.
+228.25,228.44,B,not,IN1005.
+228.28,228.69,A,the,IN1005.
+228.44,228.65,B,it's,IN1005.
+228.69,230.91,A,previous r uh page rank or,IN1005.
+230.6,230.98,B,Yeah,IN1005.
+230.91,231.5,A,of,IN1005.
+230.98,231.63,B,. If if so,IN1005.
+231.5,231.58,A,the,IN1005.
+231.63,234.97,B,if this is page rank of X_,IN1005.
+234.58,234.87,A,Okay .,IN1005.
+234.97,249.96,B,", page rank of Y_ . I think this is roughly it off hand . Page rank of Z_ . So you say page rank of Z_ is equal to uh one over a constant to normalise",IN1005.
+249.59,250.12,A,Mm-hmm,IN1005.
+249.96,251.12,B,it,IN1005.
+250.12,250.12,A,.,IN1005.
+251.12,258.53,B,. Uh sum over all the links into Z_ of page rank of the link,IN1005.
+258.12,258.31,A,Mm-hmm .,IN1005.
+258.53,279.39,B,". Yeah , tha it's like that , yeah ? So similar idea . If you got a vector that says what the topics are , say you've learned from P_L_S_A_ a d a distribution of topics for every page , so if you say a probability of topic one for uh for page uh Z_",IN1005.
+279.31,279.59,A,Mm-hmm .,IN1005.
+281.03,304.4,B,"uh is equal to , and you can use the same sort of thing . Right , so nicking a whole bunch of maths from how you work out page rank , uh it comes up with uh just uh an iterative algorithm , which is just uh the current probability of topic one given Z_ , so that's probability old plus uh",IN1005.
+306.12,306.46,C,Okay,IN1005.
+306.42,306.57,B,i,IN1005.
+306.46,306.46,C,.,IN1005.
+306.57,312.88,B,"yeah , plus that and then you normalise between them , so you say alpha and one minus alpha . Yeah",IN1005.
+312.03,312.26,C,Okay .,IN1005.
+312.88,329.47,B,". So w basically what you're saying here , one minus alpha say link contribution you can call this I guess . So what you're saying is that a page is partly from its text that you've got on the page , and it's partly from what the links say it's about . So that alpha thing is how much do you trust the text on",IN1005.
+329.38,329.89,A,Uh-huh,IN1005.
+329.47,329.93,B,the page,IN1005.
+329.89,329.89,A,.,IN1005.
+329.93,333.12,B,", and how much do you trust the links . So that alpha could be different for every page .",IN1005.
+333.32,334.95,A,Mm,IN1005.
+334.8,336.31,B,So,IN1005.
+334.95,335.51,A,. Okay .,IN1005.
+336.31,346.42,B,"what I did then was try this on a big database of web pages . Uh and I had some results from that , but they were all on temp two , so that's not important right now . Uh",IN1005.
+345.55,346.07,D,Mm-hmm .,IN1005.
+346.42,371.81,B,"but as it is not really important , I can regenerate that . The problem was that this gives you a new vector of topics for every page . So you've got two vectors , you've got the one that you've just got from P_L_S_A_ or whatever model , and you've got the one that you get from this . Uh how do you tell which one's better ? I had no way to evaluate this well . How do you tell that this page because you don't know where the topics are , 'cause they're",IN1005.
+371.79,372.24,A,Mm,IN1005.
+371.81,373.45,B,learned automatically,IN1005.
+372.17,372.51,C,Yeah,IN1005.
+372.24,372.62,A,uh-huh,IN1005.
+372.51,372.51,C,.,IN1005.
+372.62,372.62,A,.,IN1005.
+373.45,375.01,B,", uh",IN1005.
+374.91,375.03,A,So,IN1005.
+375.01,375.27,B,so,IN1005.
+375.03,384.59,A,"wait uh , I don't get it . You you have two representation , one which comes from this link uh stuff , and one f this one is not based on P_L_S_A_ too",IN1005.
+383.9,384.59,B,It it is,IN1005.
+384.59,385.09,A,? Yeah,IN1005.
+384.59,385.39,B,", yeah , because",IN1005.
+385.09,385.09,A,.,IN1005.
+385.1,385.51,C,It is the,IN1005.
+385.39,385.62,B,uh,IN1005.
+385.51,386.58,C,initialisation,IN1005.
+385.62,386.66,B,b,IN1005.
+386.58,387.57,C,of,IN1005.
+386.66,387.59,B,"yeah , you initialise",IN1005.
+387.36,387.52,A,Okay .,IN1005.
+387.57,387.57,C,.,IN1005.
+387.59,391.09,B,it with uh actually thi this is kinda,IN1005.
+390.91,391.09,A,Y,IN1005.
+391.09,393.72,B,"wrong , this is not old , but start",IN1005.
+393.47,393.73,A,A T_,IN1005.
+393.72,393.92,B,this,IN1005.
+393.73,394.19,A,", yeah",IN1005.
+393.92,395.26,B,is how you,IN1005.
+394.19,395.44,A,", uh okay",IN1005.
+395.26,395.59,B,this,IN1005.
+395.26,396.4,C,Yeah,IN1005.
+395.44,395.44,A,.,IN1005.
+395.59,396.64,B,is how you you start,IN1005.
+396.4,396.78,C,. But then,IN1005.
+396.64,397.38,B,it off,IN1005.
+396.78,397.59,C,it is iterative,IN1005.
+397.38,397.55,B,. So,IN1005.
+397.55,398.4,A,Yeah,IN1005.
+397.55,397.79,B,this,IN1005.
+397.59,397.59,C,.,IN1005.
+397.79,398.86,B,this is what P_L_S_A_,IN1005.
+398.4,399.15,A,". Yeah , okay , okay",IN1005.
+398.86,399.24,B,gives you to,IN1005.
+399.15,399.15,A,.,IN1005.
+399.24,401.58,B,"start with , and then you iterate this and it becomes",IN1005.
+401.39,402.44,C,Okay,IN1005.
+401.58,402.14,B,something else .,IN1005.
+402.3,402.51,A,Okay,IN1005.
+402.44,402.55,C,. So,IN1005.
+402.51,402.51,A,.,IN1005.
+402.55,406.37,C,you you should first train the P_L_S_A_ stuff,IN1005.
+405.94,406.32,B,Yeah .,IN1005.
+406.37,410.53,C,", then you initialise this link uh spreading thing",IN1005.
+410.23,411.71,B,Mm-hmm,IN1005.
+410.53,412.13,C,", and then you iterate over",IN1005.
+411.71,412.55,B,". That's it , exactly",IN1005.
+412.13,412.88,C,okay,IN1005.
+412.55,412.75,B,", yeah .",IN1005.
+412.88,420.87,C,. And it converge and so you have the boost uh initial P_L_S_A_ and P_L_S_A_ plus the link thing,IN1005.
+420.74,421.26,B,Exactly,IN1005.
+420.87,421.18,C,then .,IN1005.
+421.26,430.04,B,", yeah , so you've now got you've got P_L_S_A_ gives you two probabilities , right ? So it gives you a probability of a topic given a document",IN1005.
+429.9,430.09,C,Yeah,IN1005.
+430.04,430.17,B,", which",IN1005.
+430.09,430.09,C,.,IN1005.
+430.17,436.28,B,is Z_ given D_ and a probability of a word given a topic,IN1005.
+435.06,435.3,A,Mm-hmm .,IN1005.
+435.96,436.12,C,Mm .,IN1005.
+436.28,439.38,B,. So this is the same for both models,IN1005.
+439.21,439.64,C,Yeah,IN1005.
+439.38,440.13,B,. Yeah,IN1005.
+439.64,439.64,C,.,IN1005.
+439.97,440.27,D,"Oh , this",IN1005.
+440.13,440.99,B,? Well,IN1005.
+440.27,441.63,D,is is frozen,IN1005.
+440.99,441.79,B,"yeah , what",IN1005.
+441.63,442.33,D,frozen,IN1005.
+441.79,442.44,B,you do is you're,IN1005.
+442.33,442.69,D,okay,IN1005.
+442.44,443.08,B,taking,IN1005.
+442.69,443.44,D,. Mm-hmm,IN1005.
+443.08,443.54,B,this,IN1005.
+443.44,443.44,D,.,IN1005.
+443.54,443.98,B,and,IN1005.
+443.95,444.0,A,Ah,IN1005.
+443.98,444.32,B,iterating,IN1005.
+444.0,444.39,A,uh,IN1005.
+444.32,444.5,B,over,IN1005.
+444.39,444.7,A,okay,IN1005.
+444.5,444.71,B,it,IN1005.
+444.7,444.7,A,.,IN1005.
+444.71,450.58,B,", the probability of the topic given the document . Uh so have I made that clear , I'm I'm not sure if I'm explaining this",IN1005.
+450.55,451.09,D,Yeah,IN1005.
+450.56,450.76,A,Yeah,IN1005.
+450.58,451.17,B,well,IN1005.
+450.76,451.19,A,yeah,IN1005.
+451.09,451.09,D,", .",IN1005.
+451.17,452.1,B,. Okay,IN1005.
+451.19,451.54,A,", it's okay .",IN1005.
+452.1,453.73,B,". Right , so",IN1005.
+453.57,453.74,C,So,IN1005.
+453.73,453.93,B,y,IN1005.
+453.74,455.19,C,th,IN1005.
+453.93,454.73,B,i you m,IN1005.
+455.19,458.79,C,"yeah , you you you were saying that you would like to evaluate that now",IN1005.
+458.78,459.1,B,Yeah,IN1005.
+458.79,459.29,C,". Yeah , right",IN1005.
+459.1,459.41,B,", so",IN1005.
+459.29,459.29,C,.,IN1005.
+459.41,473.22,B,"we were struggling at how do you evaluate this , because uh I mean if you look at the way that P_L_S_A_ and all those kind of models have been evaluated , it's th they never quantitative quantitatively do anything , they always say uh well",IN1005.
+473.03,473.66,D,Perplexity,IN1005.
+473.22,474.12,B,", look at the clustering",IN1005.
+473.66,474.18,D,", uh",IN1005.
+474.12,474.61,B,", there's",IN1005.
+474.18,474.18,D,.,IN1005.
+474.61,475.88,B,here we've got,IN1005.
+475.62,476.03,A,Mm mm,IN1005.
+475.88,476.09,B,some,IN1005.
+476.03,476.5,A,mm,IN1005.
+476.09,476.52,B,documents,IN1005.
+476.5,476.5,A,.,IN1005.
+476.52,481.19,B,"that all appear to be about the same thing , and here's where we get some other documents that all appear to be about the same thing , and you can't really tell",IN1005.
+480.79,481.1,A,Yeah .,IN1005.
+481.19,483.93,B,"exactly how good that is , you can just get an idea that it's",IN1005.
+484.06,486.81,A,Or they use the perplexity on the,IN1005.
+486.11,486.31,D,Yeah .,IN1005.
+486.81,492.72,A,"the likelihood to say oh good , this likelihood is uh is it's smaller than",IN1005.
+492.26,492.87,B,"Yeah , so",IN1005.
+492.72,492.9,A,the,IN1005.
+492.87,492.94,B,tha,IN1005.
+492.9,493.3,A,other,IN1005.
+492.94,493.3,B,that's the,IN1005.
+493.3,493.33,A,. Mm,IN1005.
+493.3,493.52,B,first,IN1005.
+493.33,493.33,A,.,IN1005.
+493.52,500.43,B,"thing th that thing when I spoke to you about this , you suggested d use the likelihood and Pedro came up with a really good example why that could be bad",IN1005.
+500.04,500.38,A,Mm-hmm .,IN1005.
+500.43,524.21,B,". So you have uh you have the uh oh , let me thing of what this was . It was to do with cars basically , if you have you have a topic that's uh representing cars , and you can tell that that's representing cars by looking at this distribution , and it's the same for both",IN1005.
+523.51,523.78,A,Mm-hmm .,IN1005.
+524.21,542.58,B,". Now you wanna tell which i i this page , uh Pedro's example of what it was , is that is says on the page Lotus Elise . Okay ? And that uh no f I can't I just remember it was a really can you ig remember what it was ?",IN1005.
+542.73,543.66,D,"Oh , no re no I",IN1005.
+543.63,544.09,B,No,IN1005.
+543.66,544.44,D,don't even remember,IN1005.
+544.09,544.62,B,", okay",IN1005.
+544.44,545.52,D,the,IN1005.
+544.62,544.62,B,.,IN1005.
+545.52,551.27,D,the you said I would tell you that evaluation should be done based on likelihood or perplexity .,IN1005.
+551.87,554.69,B,"Yeah , I didn't really consider doing it on perplexity , actually",IN1005.
+554.47,555.67,D,Well it's,IN1005.
+554.69,555.8,B,", that to be hon",IN1005.
+555.53,555.79,A,Uh it's,IN1005.
+555.67,556.42,D,bu,IN1005.
+555.79,555.91,A,the,IN1005.
+555.8,556.53,B,but,IN1005.
+555.91,556.72,A,same,IN1005.
+555.96,556.13,C,Hmm .,IN1005.
+556.42,556.82,D,yeah,IN1005.
+556.53,557.05,B,okay,IN1005.
+556.72,556.72,A,.,IN1005.
+556.82,557.51,D,", it's basically",IN1005.
+557.05,557.05,B,.,IN1005.
+557.51,558.02,D,"the same , but",IN1005.
+559.09,559.66,C,But but,IN1005.
+559.53,559.91,D,I dunno,IN1005.
+559.66,560.02,C,maybe,IN1005.
+559.91,559.91,D,.,IN1005.
+560.02,564.2,C,you you could have some some other,IN1005.
+563.9,564.29,D,"Yeah , another",IN1005.
+564.2,565.07,C,labelli,IN1005.
+564.29,565.08,D,task,IN1005.
+565.07,565.39,C,li,IN1005.
+565.08,565.37,D,or,IN1005.
+565.39,582.86,C,"or the task like if if you imagine you have some labelling on of of the web pages like like like for example you you look at at at at at a set of pages , and you have the m the directory entries of these pages",IN1005.
+582.82,583.39,B,Okay,IN1005.
+582.86,584.08,C,", so",IN1005.
+583.39,583.39,B,.,IN1005.
+584.08,608.99,C,"so f like Yahoo or entries , so you have categories and and entries , so for example you have I dunno , cars , S_U_V_ , etcetera . So what you would like would be that two pages on in the same um category should be closer than than two pages being spread across different categories .",IN1005.
+609.7,612.73,B,"Is that fair though , because I think one of the things with these",IN1005.
+612.6,612.83,C,But,IN1005.
+612.73,612.99,B,topic,IN1005.
+612.83,614.35,C,you,IN1005.
+612.99,614.48,B,models is that you don't know you,IN1005.
+614.35,614.62,C,you,IN1005.
+614.48,615.12,B,can't,IN1005.
+614.62,614.85,C,would,IN1005.
+614.82,615.15,D,Yeah,IN1005.
+614.85,615.51,C,not use,IN1005.
+615.12,615.41,B,make,IN1005.
+615.15,615.15,D,.,IN1005.
+615.41,615.55,B,them,IN1005.
+615.51,615.99,C,this,IN1005.
+615.55,615.86,B,cluster,IN1005.
+615.99,622.93,C,"you will not use the Yahoo directory or n the directory in the training step of i of the model , okay",IN1005.
+622.6,622.97,B,Okay,IN1005.
+622.93,623.08,C,. This,IN1005.
+622.97,622.97,B,.,IN1005.
+623.08,652.75,C,"is something you have just for evaluation , and then for example you you your task would be to say I have some page and and I know where it is in the in the in the directory , and I have another page , I don't know where it is , and I would like to to know uh whether it is in the same category as the first one , just by comparing their uh aspects .",IN1005.
+653.49,654.63,A,I it's making the assumption,IN1005.
+654.3,654.53,B,Hmm .,IN1005.
+654.63,658.41,A,that uh this human categorisation is related,IN1005.
+658.4,658.93,B,Yeah,IN1005.
+658.41,659.13,A,to the one that,IN1005.
+658.93,658.93,B,.,IN1005.
+659.13,660.13,A,is discovered,IN1005.
+659.72,660.25,C,If they have,IN1005.
+660.13,660.28,A,uh,IN1005.
+660.25,660.36,C,the,IN1005.
+660.28,660.35,A,mm .,IN1005.
+660.36,662.07,C,same uh yeah,IN1005.
+661.82,661.99,A,Mm .,IN1005.
+662.07,676.97,C,". So basically what you would like to check if is is is there some similarity in the in the in the aspect distribution , tells me uh something about uh the sim the the fact that they could be on the same category in",IN1005.
+676.84,677.17,D,Mm-hmm,IN1005.
+676.97,677.52,C,the,IN1005.
+677.17,677.17,D,.,IN1005.
+677.52,681.31,C,the this end end label categories .,IN1005.
+681.38,681.63,D,Yeah .,IN1005.
+681.75,695.99,B,Okay . And that is is that really fair though ? Can you say that if a set of documents if the clustering of these documents is closer to the effecti what you what you've got there is uh a clustering of documents a,IN1005.
+695.83,697.01,C,Yeah,IN1005.
+695.99,696.2,B,as,IN1005.
+696.01,696.55,A,"Oh , yeah",IN1005.
+696.2,697.01,B,your devaluation,IN1005.
+696.55,696.55,A,.,IN1005.
+697.01,697.68,B,", yeah",IN1005.
+697.01,697.36,C,. Yeah .,IN1005.
+697.68,700.88,B,"? Uh thi this these labels , the Yahoo categories",IN1005.
+700.29,701.99,C,"Yeah , yeah",IN1005.
+700.88,702.37,B,", that's that's a clustering",IN1005.
+701.99,702.25,C,. Yeah .,IN1005.
+702.37,706.69,B,. So you're by saying that this clustering is closer to that clustering,IN1005.
+706.69,706.88,A,No,IN1005.
+706.69,706.89,B,is,IN1005.
+706.88,707.17,A,", but",IN1005.
+706.89,707.02,B,is,IN1005.
+706.95,707.11,D,No,IN1005.
+707.02,707.19,B,does,IN1005.
+707.11,707.32,D,no,IN1005.
+707.19,707.35,B,that,IN1005.
+707.32,707.43,D,no,IN1005.
+707.35,707.97,B,necessarily,IN1005.
+707.43,708.71,D,", i no",IN1005.
+707.97,708.26,B,mean that,IN1005.
+708.18,708.3,C,No no,IN1005.
+708.26,708.44,B,it's,IN1005.
+708.3,708.77,C,no,IN1005.
+708.44,708.77,B,better,IN1005.
+708.71,708.83,D,no,IN1005.
+708.77,708.77,B,?,IN1005.
+708.77,708.91,C,no,IN1005.
+708.83,709.02,D,no,IN1005.
+708.91,708.99,C,no .,IN1005.
+709.02,710.79,D,"no , it's doesn't have to be that if",IN1005.
+710.66,710.97,C,How would,IN1005.
+710.79,713.86,D,if you use the latent representations or,IN1005.
+713.76,713.96,B,Mm-hmm,IN1005.
+713.86,714.31,D,distribution,IN1005.
+713.96,713.96,B,.,IN1005.
+714.31,722.71,D,"over aspects , you could use this to save two documents uh in the same directory or not . And this you should be able to evaluate then",IN1005.
+721.86,722.65,C,So so,IN1005.
+722.4,722.76,B,Okay,IN1005.
+722.65,722.86,C,so,IN1005.
+722.71,722.9,D,. Um,IN1005.
+722.76,722.76,B,.,IN1005.
+722.86,727.48,C,w what what you would have have basically would be to have a directory,IN1005.
+727.24,727.49,B,Mm-hmm,IN1005.
+727.48,727.98,C,which,IN1005.
+727.49,727.49,B,.,IN1005.
+727.98,769.18,C,"give you labels for some part of the documents . Okay , so this is a directory and this is some some some some web page , okay . So the labelled one , okay . And you have some page which are unlabelled but you have links between those two . So what what you would do is that you would try and P_L_S_A_ and and uh and use a model over that . Then then you would like to for example what f what could be very simple would be just to then to match each pages like that . So let's say you have you have a a page which is labelled",IN1005.
+768.47,768.7,B,Mm-hmm .,IN1005.
+769.18,820.4,C,", and you say okay , the the label page two should get should be the one w which it is the most similar to , or any kind of classification rules you can imagine . And so and so you say okay , what what's if I from from this page which have the similar so so the the criterion would be to compare those two distribution , okay , and then and then you would like to assign to this document too where you don't know the labels the same one as this one . And and here , that you use only for test , so this is your . Then you can evaluate how wrong you are or cu how close you are from the real assignment , the right directory category",IN1005.
+819.92,820.2,A,But,IN1005.
+819.92,820.41,B,Mm-kay,IN1005.
+820.2,820.5,A,I have,IN1005.
+820.4,820.49,C,. In,IN1005.
+820.41,820.41,B,.,IN1005.
+820.49,820.62,C,this,IN1005.
+820.5,820.99,A,the feeling,IN1005.
+820.62,821.19,C,way I think,IN1005.
+820.99,821.77,A,i,IN1005.
+821.19,821.96,C,it's fair if,IN1005.
+821.77,821.9,A,in,IN1005.
+821.96,835.25,C,you kn if you know only if you know only that and that and what you would like to discover is this . This is a r like,IN1005.
+835.13,835.41,B,Mm,IN1005.
+835.25,835.57,C,a real,IN1005.
+835.41,835.41,B,.,IN1005.
+835.57,846.73,C,task . Like like if if if this directory uh uh company would like to extend this directory to new pages without the hassle of having human labelling .,IN1005.
+848.29,851.96,A,But in this case you you have to use uh the label one,IN1005.
+851.93,852.18,C,Yeah,IN1005.
+851.96,852.44,A,", yeah . Your",IN1005.
+852.18,852.48,C,", you have",IN1005.
+852.44,852.66,A,los,IN1005.
+852.48,856.55,C,t you use this one . You you only have the labels for some uh small,IN1005.
+856.47,856.77,A,But,IN1005.
+856.55,856.81,C,part,IN1005.
+856.77,857.13,A,how,IN1005.
+856.81,857.34,C,of the,IN1005.
+857.13,859.4,A,does it enter in that,IN1005.
+859.32,859.46,B,We,IN1005.
+859.39,859.72,C,So,IN1005.
+859.4,859.83,A,? I,IN1005.
+859.46,859.94,B,uh I think,IN1005.
+859.83,860.06,A,i you,IN1005.
+859.94,860.27,B,your point,IN1005.
+860.06,860.39,A,have to,IN1005.
+860.27,860.45,B,was,IN1005.
+860.39,860.68,A,train,IN1005.
+860.45,860.68,B,that you,IN1005.
+860.68,861.19,A,your,IN1005.
+860.68,861.32,B,you train this,IN1005.
+861.19,861.22,A,uh,IN1005.
+861.32,862.79,B,"without labelling first , yeah ?",IN1005.
+863.0,868.06,C,So you you would train it you this is this is t,IN1005.
+867.89,868.24,A,Your,IN1005.
+868.06,868.53,C,t,IN1005.
+868.24,868.7,A,training,IN1005.
+868.53,868.83,C,all,IN1005.
+868.7,868.86,A,data,IN1005.
+868.83,869.47,C,all,IN1005.
+868.86,868.86,A,.,IN1005.
+869.47,874.39,C,those links are known . The links between some labelled document and unlabelled document .,IN1005.
+874.76,881.77,A,"Yeah , but the point is that you should change in a way that to take the label into account , or not ?",IN1005.
+882.23,885.19,C,I d I think you can do it as a two step process,IN1005.
+884.97,885.22,A,Okay,IN1005.
+885.19,885.56,C,. First,IN1005.
+885.22,885.22,A,.,IN1005.
+885.56,899.99,C,"you you train uh well maybe s it wou could be better if if if you take it into account . But but maybe you can you can do just a two step process , first one you have this uh unsupervised task over both P_L_",IN1005.
+899.77,900.04,A,Okay,IN1005.
+899.99,900.17,C,and,IN1005.
+900.04,900.57,A,", okay",IN1005.
+900.17,901.72,C,P_U_,IN1005.
+900.57,900.57,A,.,IN1005.
+901.72,910.4,C,", and then you from these unsupervised starts you can know which document of P_L_ is close from the document of P_U_ or the reverse",IN1005.
+909.89,910.13,D,Yeah .,IN1005.
+910.4,910.61,C,. And you,IN1005.
+910.61,911.0,B,Mm,IN1005.
+910.61,911.24,C,can infer,IN1005.
+911.0,911.0,B,.,IN1005.
+911.24,912.78,C,some label,IN1005.
+912.58,912.91,D,Clearly,IN1005.
+912.78,913.09,C,to,IN1005.
+912.91,913.34,D,wha we,IN1005.
+913.09,913.57,C,a document,IN1005.
+913.34,913.69,D,we had,IN1005.
+913.57,913.81,C,of,IN1005.
+913.69,914.59,D,done,IN1005.
+913.81,914.07,C,P_L_ .,IN1005.
+914.59,921.83,D,"these . You can train after that uh an S_V_M_ , saying this is category one or two on the label document",IN1005.
+921.59,921.81,B,Mm-hmm .,IN1005.
+921.83,937.37,D,", and then we will have an unlabelled document and you just say this is directory one or two . And if it should improve it , if you say this feature extraction process is better than you can have a better cleaner separation between those two .",IN1005.
+938.28,946.97,B,"Well th yeah , the the thing that worries me about this approach is that say the really really really simple example of this where your directory had two categories in it",IN1005.
+946.74,946.96,A,Mm-hmm .,IN1005.
+946.97,947.42,B,", uh good",IN1005.
+947.27,948.06,C,Yeah,IN1005.
+947.42,948.18,B,and bad,IN1005.
+948.06,948.19,C,. Yeah,IN1005.
+948.18,948.35,B,", and",IN1005.
+948.19,948.4,C,yeah,IN1005.
+948.35,948.67,B,and,IN1005.
+948.4,948.4,C,.,IN1005.
+948.67,953.27,B,"and you run P_L_S_A_ on it , now that doesn't do it good and bad , it does , I dunno , English and French",IN1005.
+953.25,953.7,A,Mm-mm,IN1005.
+953.27,954.24,B,pages,IN1005.
+953.7,953.7,A,.,IN1005.
+954.24,959.7,B,", so they don't match , but the clustering is still very good in in one respect . Uh but",IN1005.
+959.48,959.84,D,"Yeah , well",IN1005.
+959.7,959.88,B,but,IN1005.
+959.84,960.22,D,but,IN1005.
+959.88,967.5,B,"you you can extend that up , even if you have a hundred categories , P_L_S_A_ can find a hundred clusters that are a good clustering , but are completely unrelated",IN1005.
+967.49,967.67,D,Yeah,IN1005.
+967.5,967.71,B,to the,IN1005.
+967.67,968.28,D,", well",IN1005.
+967.71,968.33,B,directory,IN1005.
+968.28,968.39,D,", but",IN1005.
+968.33,968.33,B,.,IN1005.
+968.39,973.62,D,"I mean if you have to judge it's with respect to a given task , I mean",IN1005.
+972.97,973.24,B,Hmm .,IN1005.
+973.62,976.84,D,"you can't say of course it's always good , because it's",IN1005.
+976.52,977.08,A,"No , but",IN1005.
+976.84,977.38,D,maximising,IN1005.
+977.08,977.26,A,w,IN1005.
+977.38,977.89,D,the likelihood,IN1005.
+977.53,977.92,B,But but,IN1005.
+977.89,978.11,D,of,IN1005.
+977.92,978.31,B,what I wanna,IN1005.
+978.11,978.89,D,whatever,IN1005.
+978.31,978.91,B,know i,IN1005.
+978.89,978.89,D,.,IN1005.
+978.91,984.48,B,is that which of them has the better representation of a given page,IN1005.
+984.12,984.62,C,Yeah,IN1005.
+984.48,984.86,B,. So,IN1005.
+984.62,985.0,C,", but",IN1005.
+984.86,986.48,B,so given a random page,IN1005.
+986.38,986.56,D,Yeah,IN1005.
+986.48,986.82,B,", uh",IN1005.
+986.56,986.56,D,.,IN1005.
+986.82,988.21,B,and these two models,IN1005.
+988.18,988.42,C,Yeah,IN1005.
+988.21,988.61,B,", uh",IN1005.
+988.42,988.42,C,.,IN1005.
+988.61,994.06,B,"and the wo the words that these two models give , which is more likely to",IN1005.
+992.39,997.41,C,Yeah . But but here you can you you say given a random page of P_U_,IN1005.
+996.82,997.08,B,Mm-hmm .,IN1005.
+997.41,1017.19,C,", which of those two model is more likely to to to to to say for example that thi the page of P_L_ which is the most similar , so you so so from this so you take any distribution comparison things , so so Hoffmann in his paper was doing just cosine similarity , but you can",IN1005.
+1017.14,1017.36,B,Mm,IN1005.
+1017.19,1017.47,C,do,IN1005.
+1017.36,1017.36,B,.,IN1005.
+1017.47,1029.29,C,"anything . So so you just compare uh those two distributions so of D_ one and D_ two , okay",IN1005.
+1027.98,1028.24,B,Mm-hmm .,IN1005.
+1029.29,1047.66,C,? And so with that you can you can determine for example for a document o of the set two to the most similar So you you you you select D_ one so in this set which is the most similar to D_ two according to the distribution from one or the other model,IN1005.
+1048.42,1048.68,B,Mm-hmm .,IN1005.
+1049.29,1066.53,C,and then and then for this document you automatically assign to it the label of the document uh one and you check with this which is your uh your your if you are right or not .,IN1005.
+1067.45,1067.65,D,Mm .,IN1005.
+1068.18,1069.26,C,This is what what,IN1005.
+1069.24,1069.64,B,Okay,IN1005.
+1069.26,1069.99,C,this is very,IN1005.
+1069.64,1069.64,B,.,IN1005.
+1069.99,1075.71,C,related to what Frank did with the with the keyword uh image annotation,IN1005.
+1075.36,1075.81,D,"Yeah , it's",IN1005.
+1075.71,1075.93,C,. So,IN1005.
+1075.81,1075.97,D,the,IN1005.
+1075.93,1076.04,C,you,IN1005.
+1075.97,1076.45,D,same,IN1005.
+1076.04,1076.48,C,would have,IN1005.
+1076.45,1076.45,D,.,IN1005.
+1076.48,1080.23,C,"a set of keywords , the set of image label with keywords",IN1005.
+1080.06,1080.34,D,Mm-hmm,IN1005.
+1080.23,1080.36,C,", and",IN1005.
+1080.34,1080.34,D,.,IN1005.
+1080.36,1093.29,C,"he has a set of unlabelled image with some , and it would check whether the the label he assigns , so in this case annotation word h are correct . And I think it's fair uh it's fair uh",IN1005.
+1093.28,1093.64,B,Yeah,IN1005.
+1093.29,1093.7,C,setup,IN1005.
+1093.64,1093.64,B,.,IN1005.
+1093.7,1093.7,C,.,IN1005.
+1095.27,1095.73,B,Okay .,IN1005.
+1095.86,1096.46,D,Fus,IN1005.
+1095.9,1096.54,C,So maybe,IN1005.
+1096.46,1096.46,D,.,IN1005.
+1096.54,1105.98,C,"this classification rule is not the best . There there's some might be some work to do , but the general idea , I think it's it's fair evaluations , it's a task .",IN1005.
+1106.91,1112.26,B,S okay . I'm I'm just n concerned that that's,IN1005.
+1111.98,1112.37,C,That can,IN1005.
+1112.26,1112.46,B,uh,IN1005.
+1112.37,1112.46,C,be,IN1005.
+1112.46,1112.68,B,that,IN1005.
+1112.46,1112.74,C,dep,IN1005.
+1112.68,1130.39,B,"that's it's answering a question that evaluates in some way , but maybe not in the way that Well that maybe not is the same way I was thinking , but maybe it's a better way um so what I mean by that is that sorry , I'm trying to process all this",IN1005.
+1130.26,1130.79,C,Yeah,IN1005.
+1130.39,1130.74,B,. Uh,IN1005.
+1130.79,1130.79,C,.,IN1005.
+1133.92,1139.3,B,"Yeah , i it's the same thing , like it it does tell you whether this uh which clustering is better for this task",IN1005.
+1138.86,1139.08,C,Yeah,IN1005.
+1139.03,1139.25,D,Mm-hmm,IN1005.
+1139.08,1139.08,C,.,IN1005.
+1139.25,1139.25,D,.,IN1005.
+1139.3,1144.28,B,", but it doesn't tell you which clustering better represents the pages necessarily",IN1005.
+1143.49,1143.93,C,No,IN1005.
+1143.92,1144.2,A,But,IN1005.
+1143.93,1144.31,C,", but",IN1005.
+1144.2,1145.03,A,i,IN1005.
+1144.28,1144.42,B,. But,IN1005.
+1144.31,1144.76,C,according,IN1005.
+1144.42,1144.83,B,it it's,IN1005.
+1144.76,1144.84,C,to,IN1005.
+1144.83,1144.97,B,it,IN1005.
+1144.84,1145.06,C,this,IN1005.
+1144.97,1145.25,B,you,IN1005.
+1145.06,1146.17,C,directory,IN1005.
+1145.25,1146.55,B,you could say that it,IN1005.
+1146.17,1146.5,C,yeah .,IN1005.
+1146.55,1147.02,B,possibly,IN1005.
+1146.61,1147.36,D,Yeah,IN1005.
+1147.02,1147.8,B,doe it probably,IN1005.
+1147.36,1147.82,D,. 'Cause I don't,IN1005.
+1147.8,1148.05,B,does,IN1005.
+1147.82,1148.13,D,think there,IN1005.
+1148.05,1148.05,B,.,IN1005.
+1148.13,1149.85,D,is any way to say generally,IN1005.
+1149.81,1150.35,A,No,IN1005.
+1149.85,1150.4,D,this this,IN1005.
+1150.35,1150.35,A,.,IN1005.
+1150.4,1150.98,D,is better,IN1005.
+1150.8,1151.9,C,yeah,IN1005.
+1150.98,1151.31,D,or,IN1005.
+1150.98,1151.39,B,Okay,IN1005.
+1151.31,1151.87,D,worse,IN1005.
+1151.39,1151.39,B,.,IN1005.
+1151.81,1152.07,A,The,IN1005.
+1151.87,1151.87,D,.,IN1005.
+1151.9,1152.17,C,. I,IN1005.
+1152.07,1152.32,A,the,IN1005.
+1152.17,1152.4,C,I,IN1005.
+1152.32,1152.48,A,there,IN1005.
+1152.4,1152.48,C,I,IN1005.
+1152.48,1152.64,A,is,IN1005.
+1152.48,1152.71,C,think,IN1005.
+1152.64,1153.1,A,not,IN1005.
+1152.71,1153.03,C,it's w,IN1005.
+1153.1,1155.87,A,uh v uh perfect uh clustering clus,IN1005.
+1155.69,1156.02,D,Yeah,IN1005.
+1155.87,1156.03,A,wh,IN1005.
+1156.02,1156.02,D,.,IN1005.
+1156.03,1156.33,A,what,IN1005.
+1156.23,1156.35,C,Yeah,IN1005.
+1156.33,1156.5,A,is,IN1005.
+1156.35,1156.35,C,.,IN1005.
+1156.5,1158.05,A,the how do you judge uh what,IN1005.
+1158.01,1158.09,D,It,IN1005.
+1158.05,1158.21,A,is,IN1005.
+1158.09,1158.27,D,has,IN1005.
+1158.21,1158.3,A,a,IN1005.
+1158.21,1158.7,C,Yeah,IN1005.
+1158.27,1158.37,D,to,IN1005.
+1158.3,1158.49,A,good,IN1005.
+1158.37,1158.51,D,be,IN1005.
+1158.49,1159.07,A,clustering,IN1005.
+1158.51,1158.85,D,re it,IN1005.
+1158.7,1158.7,C,.,IN1005.
+1158.85,1159.11,D,has to,IN1005.
+1159.07,1159.07,A,?,IN1005.
+1159.11,1162.21,D,be really to with respect to this,IN1005.
+1161.38,1162.89,C,Yeah,IN1005.
+1162.21,1162.97,D,", this clustering makes",IN1005.
+1162.89,1163.09,C,. What's,IN1005.
+1162.97,1163.26,D,sense,IN1005.
+1163.09,1163.31,C,good,IN1005.
+1163.26,1163.39,D,or,IN1005.
+1163.31,1163.47,C,with,IN1005.
+1163.32,1163.65,B,Mm,IN1005.
+1163.39,1164.21,D,I dunno,IN1005.
+1163.47,1164.06,C,the directory,IN1005.
+1163.65,1163.65,B,.,IN1005.
+1164.06,1164.31,C,is that,IN1005.
+1164.21,1164.21,D,.,IN1005.
+1164.31,1186.63,C,"you have a good coverage of various topic humans humans can label . But then if you want to detect different languages , this is another task . I think the task of this latent model is to discover some some semantic like some topic proximity between documents , and here this la this directory is doing the same thing , like associating some topics with some documents manually . So",IN1005.
+1186.48,1186.64,B,Yeah,IN1005.
+1186.63,1187.14,C,comparing,IN1005.
+1186.64,1186.74,B,i,IN1005.
+1187.14,1190.39,C,them is is is is good setup,IN1005.
+1190.21,1190.41,A,And,IN1005.
+1190.39,1190.65,C,with,IN1005.
+1190.41,1190.79,A,you're not,IN1005.
+1190.65,1190.94,C,respect,IN1005.
+1190.79,1191.38,A,exactly,IN1005.
+1190.94,1191.63,C,to the goal,IN1005.
+1191.38,1191.95,A,compar,IN1005.
+1191.63,1191.63,C,.,IN1005.
+1191.95,1193.56,A,uh . You're comparing them,IN1005.
+1193.65,1195.86,C,"I compare those two , like the P_L_S_A_ and",IN1005.
+1195.85,1196.27,A,Ah,IN1005.
+1195.86,1196.68,C,the one,IN1005.
+1196.27,1197.24,A,", okay okay",IN1005.
+1196.68,1197.46,C,over this same,IN1005.
+1197.24,1198.62,A,. Yeah yeah,IN1005.
+1197.46,1198.74,C,task of assigning good,IN1005.
+1198.62,1198.93,A,. Yeah,IN1005.
+1198.74,1199.27,C,directory,IN1005.
+1198.93,1198.93,A,.,IN1005.
+1199.27,1207.94,C,". I don't know if if it if it will provide good result result or not , but it is clearly a benchmark for those two",IN1005.
+1207.69,1208.93,D,Yeah,IN1005.
+1207.94,1208.44,C,goals .,IN1005.
+1208.93,1213.55,D,. You can e even keep the bag of words and do the cosine comparison or,IN1005.
+1214.16,1215.55,A,Also,IN1005.
+1214.76,1215.57,C,On on the,IN1005.
+1215.35,1215.71,B,Mm,IN1005.
+1215.55,1215.84,A,like,IN1005.
+1215.57,1216.07,C,infra,IN1005.
+1215.71,1215.71,B,.,IN1005.
+1215.76,1215.93,D,Just,IN1005.
+1215.84,1216.52,A,a baseline,IN1005.
+1215.93,1216.25,D,showing,IN1005.
+1216.07,1216.66,C,yeah,IN1005.
+1216.25,1216.68,D,just showing,IN1005.
+1216.52,1216.94,A,", yeah",IN1005.
+1216.66,1217.0,C,", yeah",IN1005.
+1216.68,1217.08,D,how,IN1005.
+1216.94,1216.94,A,.,IN1005.
+1217.0,1217.0,C,.,IN1005.
+1217.08,1220.39,D,just first how better this is with respect to bag of words and,IN1005.
+1220.11,1220.5,C,Yeah,IN1005.
+1220.39,1220.84,D,hopefully,IN1005.
+1220.5,1220.5,C,.,IN1005.
+1220.84,1222.8,D,then how you,IN1005.
+1222.65,1222.88,C,Like,IN1005.
+1222.8,1223.6,D,new,IN1005.
+1222.88,1223.65,C,bag o yeah,IN1005.
+1223.6,1223.82,D,uh,IN1005.
+1223.65,1223.65,C,.,IN1005.
+1223.82,1227.01,D,regularised P_L_Z_ given D_ is,IN1005.
+1226.98,1227.15,C,Yeah,IN1005.
+1227.01,1227.79,D,. I,IN1005.
+1227.15,1227.65,C,", you can have",IN1005.
+1227.64,1228.02,B,Okay,IN1005.
+1227.65,1227.91,C,tree,IN1005.
+1227.79,1228.35,D,dunno,IN1005.
+1227.91,1228.42,C,setups,IN1005.
+1228.02,1228.02,B,.,IN1005.
+1228.35,1228.97,D,just,IN1005.
+1228.42,1228.67,C,", uh yeah .",IN1005.
+1228.97,1230.68,D,uh yeah it's basic .,IN1005.
+1230.89,1237.4,C,"Yeah , basic cosine over the P_ of T_ given D_ , so over all this uh empirical distribution",IN1005.
+1236.86,1237.08,D,Mm-hmm .,IN1005.
+1237.4,1239.86,C,. And the two uh aspect uh models .,IN1005.
+1240.43,1240.72,D,But,IN1005.
+1241.82,1243.51,B,Mm . I,IN1005.
+1243.5,1243.63,A,You,IN1005.
+1243.51,1244.96,B,think,IN1005.
+1243.63,1248.19,A,m you still not combi,IN1005.
+1244.96,1247.71,B,"mm . Uh no , I th I'm I'm coming round to it actually",IN1005.
+1247.66,1253.74,D,Yeah,IN1005.
+1247.71,1247.71,B,.,IN1005.
+1248.17,1250.23,C,We have to repeat over and over,IN1005.
+1249.64,1250.36,B,"No , I'm",IN1005.
+1250.23,1250.41,C,. This,IN1005.
+1250.36,1250.48,B,so,IN1005.
+1250.41,1250.52,C,is,IN1005.
+1250.48,1251.43,B,I,IN1005.
+1250.52,1252.37,C,like advertisement,IN1005.
+1251.15,1251.5,A,No no,IN1005.
+1251.43,1251.78,B,I,IN1005.
+1251.5,1251.95,A,", but it's",IN1005.
+1251.78,1252.31,B,I think,IN1005.
+1251.95,1252.77,A,another,IN1005.
+1252.31,1252.52,B,I,IN1005.
+1252.37,1252.67,C,. No no,IN1005.
+1252.52,1252.74,B,g uh,IN1005.
+1252.67,1252.98,C,", it's",IN1005.
+1252.74,1253.04,B,I,IN1005.
+1252.98,1254.29,C,joke,IN1005.
+1253.04,1253.86,B,I get it . Uh I I,IN1005.
+1253.74,1253.74,D,.,IN1005.
+1253.86,1254.39,B,th I think it,IN1005.
+1254.29,1254.29,C,.,IN1005.
+1254.39,1261.2,B,"probably is fair , I'm just I I've gotten um uncomfortable with it , but I think that'll go if I think about it enough . Uh",IN1005.
+1260.9,1261.28,D,Yeah,IN1005.
+1260.95,1261.34,C,"No , it's",IN1005.
+1261.2,1261.52,B,but,IN1005.
+1261.28,1261.28,D,.,IN1005.
+1261.34,1261.47,C,jus,IN1005.
+1261.52,1270.43,B,"but yeah , the it it but it just seems a little suspect , but I think that's just from the whole point that you can't tell which clustering is b better",IN1005.
+1269.74,1269.99,A,Mm .,IN1005.
+1270.06,1270.67,C,Yeah,IN1005.
+1270.38,1271.16,D,Yeah,IN1005.
+1270.43,1270.83,B,. But uh,IN1005.
+1270.67,1271.08,C,", yeah",IN1005.
+1270.83,1271.25,B,what I'd thought,IN1005.
+1271.08,1271.23,C,. This,IN1005.
+1271.16,1271.46,D,", just",IN1005.
+1271.23,1271.41,C,is,IN1005.
+1271.25,1271.55,B,before,IN1005.
+1271.41,1272.13,C,really,IN1005.
+1271.46,1271.59,D,know,IN1005.
+1271.55,1272.09,B,was,IN1005.
+1271.59,1271.8,D,where .,IN1005.
+1272.09,1272.27,B,could,IN1005.
+1272.13,1273.18,C,yeah,IN1005.
+1272.27,1273.35,B,you get people to evaluate,IN1005.
+1273.18,1273.37,C,", yeah",IN1005.
+1273.35,1273.53,B,this,IN1005.
+1273.37,1273.37,C,.,IN1005.
+1273.53,1280.33,B,"by by hand basically , could you give people a set of pages and like say you did it with five topics for example",IN1005.
+1279.71,1280.03,C,Yeah .,IN1005.
+1280.33,1288.9,B,". Uh now you give people five sheets uh you give uh a t a a user five sheets of paper , each with words in varying sizes",IN1005.
+1288.83,1289.07,C,Yeah,IN1005.
+1288.9,1289.33,B,representing,IN1005.
+1289.07,1289.07,C,.,IN1005.
+1289.33,1297.36,B,"the probability of that topic for example . Try give the user these pieces of paper to get an idea of what these topics are , that's this P_ of W_ given Z_",IN1005.
+1296.9,1297.29,A,Mm-hmm,IN1005.
+1297.12,1297.43,D,Yeah,IN1005.
+1297.29,1297.29,A,.,IN1005.
+1297.36,1297.55,B,. And,IN1005.
+1297.43,1297.43,D,.,IN1005.
+1297.55,1304.56,B,"then you give them some pages , and say which one would you which piece of paper would you put that",IN1005.
+1304.07,1304.36,C,Yeah .,IN1005.
+1304.56,1311.73,B,"with , and then you get like an intuitive ide uh like how would a person cluster pages given",IN1005.
+1311.61,1312.08,A,Mm,IN1005.
+1311.73,1312.22,B,the what,IN1005.
+1312.08,1312.08,A,.,IN1005.
+1312.22,1314.07,B,these topics supposedly are,IN1005.
+1313.97,1314.13,C,Yeah,IN1005.
+1314.07,1314.25,B,. 'Cause,IN1005.
+1314.13,1314.13,C,.,IN1005.
+1314.25,1318.52,B,"i you've got something that's fixed , the the P_ of W_ given Z_ with respect to both models",IN1005.
+1317.9,1318.85,C,Yeah,IN1005.
+1318.52,1318.95,B,. So I,IN1005.
+1318.85,1319.06,C,. But,IN1005.
+1318.95,1319.12,B,was,IN1005.
+1319.06,1319.17,C,the,IN1005.
+1319.12,1319.25,B,tr,IN1005.
+1319.17,1319.53,C,point,IN1005.
+1319.25,1319.66,B,I was hoping,IN1005.
+1319.53,1319.67,C,is,IN1005.
+1319.66,1319.77,B,you,IN1005.
+1319.67,1319.94,C,that,IN1005.
+1319.77,1320.16,B,could use,IN1005.
+1319.94,1321.18,C,the Z_,IN1005.
+1320.16,1320.71,B,that to,IN1005.
+1321.18,1341.79,C,"the the the aspect like the Z_ are are are come unsupervisely . It's it's more like if you were giving the people you you said to them okay , uh divide me this bunch of documents into five topics , and you don't give them the topics a priori , you know . So the two person could come up with very different",IN1005.
+1341.24,1342.88,A,Mm-mm,IN1005.
+1341.79,1342.02,C,one,IN1005.
+1341.98,1342.25,B,Mm,IN1005.
+1342.02,1342.41,C,is very,IN1005.
+1342.25,1342.25,B,.,IN1005.
+1342.41,1343.09,C,interesting i,IN1005.
+1342.88,1343.34,A,. In fact,IN1005.
+1343.09,1343.34,C,in,IN1005.
+1343.34,1352.57,A,"I I have seen a paper in I_C_M_L_ where the guy was trying to learn which word he um aspects of clustering , so I",IN1005.
+1352.48,1352.68,B,Mm-hmm,IN1005.
+1352.57,1352.78,A,give,IN1005.
+1352.68,1352.68,B,.,IN1005.
+1352.78,1358.62,A,you I give the real users mm the person um a bunch of marbles,IN1005.
+1358.25,1358.45,B,Mm-hmm .,IN1005.
+1358.62,1369.33,A,"and they begin to say okay , and they have to divide it in five group , and in the end it's not al it's it's always different to the clustering each people has , because it's completely subjective",IN1005.
+1368.72,1369.43,B,"Yeah , okay",IN1005.
+1369.33,1369.58,A,. But,IN1005.
+1369.43,1369.43,B,.,IN1005.
+1369.58,1377.14,A,"in but there is uh some characteristic that are for transparency , colour , which are um features that made",IN1005.
+1376.78,1377.98,C,Yeah,IN1005.
+1377.14,1378.82,A,the clustering,IN1005.
+1377.98,1378.21,C,. Right,IN1005.
+1378.18,1378.55,D,Mm-hmm,IN1005.
+1378.21,1378.21,C,.,IN1005.
+1378.55,1378.55,D,.,IN1005.
+1378.82,1379.27,A,", that can",IN1005.
+1379.18,1379.51,B,Hmm,IN1005.
+1379.27,1379.97,A,be extracted,IN1005.
+1379.51,1379.51,B,.,IN1005.
+1379.97,1381.54,A,even if the clustering it's always,IN1005.
+1381.49,1381.69,C,Yeah,IN1005.
+1381.54,1382.06,A,different,IN1005.
+1381.69,1381.69,C,.,IN1005.
+1382.06,1382.06,A,.,IN1005.
+1383.94,1384.37,B,Okay .,IN1005.
+1384.57,1385.47,C,So I I,IN1005.
+1385.23,1385.59,A,So so,IN1005.
+1385.47,1386.03,C,think,IN1005.
+1385.59,1386.07,A,that's only to,IN1005.
+1386.03,1386.11,C,I,IN1005.
+1386.07,1386.24,A,say,IN1005.
+1386.11,1386.34,C,think,IN1005.
+1386.24,1386.51,A,that,IN1005.
+1386.34,1387.87,C,it's,IN1005.
+1386.51,1388.07,A,uh it's it can be really,IN1005.
+1387.87,1388.15,C,yeah,IN1005.
+1388.07,1388.83,A,infinitive,IN1005.
+1388.15,1388.15,C,.,IN1005.
+1388.83,1389.25,A,clustering,IN1005.
+1388.85,1389.44,B,"See , the the",IN1005.
+1389.25,1389.25,A,.,IN1005.
+1389.44,1411.68,B,"thing about web pages I thought as well in that getting humans to evaluate it in some way is that you have most of the web pages that are uh well a lot of the web pages that are important in some way are are are home pages , so Google dot com doesn't actually say the words search on it , I think . I maybe it says go , but you only know it's about search through the",IN1005.
+1411.66,1411.99,A,Mm-hmm,IN1005.
+1411.68,1412.1,B,thing,IN1005.
+1411.99,1411.99,A,.,IN1005.
+1412.1,1415.23,B,", but someone looking at it can tell that it's a search engine , because",IN1005.
+1414.92,1415.23,C,Yeah,IN1005.
+1415.23,1415.33,B,of,IN1005.
+1415.23,1415.23,C,.,IN1005.
+1415.33,1424.23,B,"the way it's laid out , because of the pictures on it and because of all of that . There's a lot of information that's completely lost in this bag of words representation , and I was hoping that in",IN1005.
+1424.08,1424.36,C,Yeah,IN1005.
+1424.23,1424.48,B,some,IN1005.
+1424.36,1424.36,C,.,IN1005.
+1424.48,1433.09,B,"way you could use that to evaluate this . I have no idea how , but uh",IN1005.
+1432.28,1433.11,A,Say another,IN1005.
+1433.09,1433.28,B,yeah,IN1005.
+1433.11,1433.43,A,another,IN1005.
+1433.28,1433.28,B,.,IN1005.
+1433.43,1436.76,A,example apart from uh this uh search . Uh,IN1005.
+1436.71,1436.89,B,Mm,IN1005.
+1436.76,1437.06,A,I don't,IN1005.
+1436.89,1436.89,B,.,IN1005.
+1437.06,1443.59,A,"get it exactly . What you mean , then don't don't use a Google page because it's uh too uh",IN1005.
+1443.34,1444.06,C,But eve,IN1005.
+1443.59,1444.38,A,s root,IN1005.
+1444.06,1444.64,C,ev,IN1005.
+1444.38,1444.88,A,", but uh",IN1005.
+1444.64,1444.99,C,even,IN1005.
+1444.88,1445.27,A,another,IN1005.
+1444.99,1445.53,C,someone,IN1005.
+1445.27,1445.78,A,page,IN1005.
+1445.53,1445.98,C,would would,IN1005.
+1445.78,1446.32,A,mm,IN1005.
+1445.98,1446.41,C,provide,IN1005.
+1446.32,1446.32,A,.,IN1005.
+1446.41,1463.13,C,"very different labels , like like someone would say it's a page in English , someone would say it's a it's a it's a it's a it's a web page uh wh which has very few uh information in it or anything . So I think there's no hard clustering , and what's",IN1005.
+1463.12,1463.38,B,Yeah,IN1005.
+1463.13,1463.56,C,good with,IN1005.
+1463.38,1463.38,B,.,IN1005.
+1463.56,1484.83,C,those model is that they they can they they are intended to provide you some some kind of way to compare two documents rather than to give you pre-defined sets of documents . This is not hard clustering . The o I I don't think one one one aspect or one latent topic has any sense by his own,IN1005.
+1484.82,1484.97,D,Yeah,IN1005.
+1484.83,1485.0,C,. It's,IN1005.
+1484.97,1485.09,D,", yeah",IN1005.
+1485.0,1485.18,C,when,IN1005.
+1485.09,1485.09,D,.,IN1005.
+1485.18,1524.31,C,"you have the word set and the word distribution that you c you can tell something . If you just take one of them alone , so you take all the P_ of Z_ given D_ and all of the P_ of W_ given giv given Z_ , you you you can do anything with that . It's it's the whole set . I would say an an and this is oh it it should be evaluated , meaning that like for example uh the the example about marbles is that the point what you can learn from all these sets made by people is that is that those two those two marble would be consider as more likely to be in the same",IN1005.
+1524.09,1524.41,A,Mm,IN1005.
+1524.31,1525.07,C,sets,IN1005.
+1524.41,1524.41,A,.,IN1005.
+1525.07,1527.82,C,", because they they share some common",IN1005.
+1527.32,1527.56,B,Mm .,IN1005.
+1527.82,1537.28,C,properties which are not seen as the same for every one . But they share some common properties that people will notice . And if you look,IN1005.
+1537.01,1537.26,B,Yeah .,IN1005.
+1537.28,1552.38,C,"at the two the d all possible pairs of marble , you would have some mu much more agreement between people than than if you look at the predefined sets people would would just cut at some precise uh point . You know what's",IN1005.
+1552.8,1559.93,B,"Okay , I think I know it . But it yeah , thi this is effectively what we have here though , and th that directory is one clustering of the marbles",IN1005.
+1559.47,1559.73,C,Yeah,IN1005.
+1559.5,1559.94,A,Mm-hmm,IN1005.
+1559.73,1559.73,C,.,IN1005.
+1559.93,1560.05,B,. And,IN1005.
+1559.94,1559.94,A,.,IN1005.
+1560.05,1564.65,B,you're hoping that it it so what you're saying is that I have two clusterings of marbles,IN1005.
+1564.45,1564.66,C,Yeah,IN1005.
+1564.65,1564.77,B,for,IN1005.
+1564.66,1564.66,C,.,IN1005.
+1564.77,1572.87,B,"my two models , and I have a test clustering of marbles . It's saying that one of these is more close to the test t t to the the one that",IN1005.
+1572.81,1573.22,C,Well,IN1005.
+1572.87,1573.65,B,we've been given,IN1005.
+1573.22,1573.3,C,you,IN1005.
+1573.25,1573.4,D,No,IN1005.
+1573.3,1573.51,C,don't,IN1005.
+1573.4,1573.72,D,", it",IN1005.
+1573.51,1573.86,C,you don't,IN1005.
+1573.65,1573.76,B,", is",IN1005.
+1573.72,1573.89,D,does,IN1005.
+1573.76,1574.0,B,that,IN1005.
+1573.86,1574.03,C,really,IN1005.
+1574.0,1574.24,B,it's,IN1005.
+1574.03,1574.32,C,have,IN1005.
+1574.24,1574.48,B,saying,IN1005.
+1574.32,1574.52,C,two,IN1005.
+1574.48,1575.01,B,that,IN1005.
+1574.52,1575.05,C,clustering,IN1005.
+1575.01,1575.13,B,what,IN1005.
+1575.05,1575.67,C,no,IN1005.
+1575.13,1575.7,B,does that actually,IN1005.
+1575.67,1575.77,C,no,IN1005.
+1575.7,1576.24,B,say,IN1005.
+1575.77,1576.35,C,no no,IN1005.
+1576.05,1576.3,A,Oh,IN1005.
+1576.24,1576.35,B,? That,IN1005.
+1576.3,1576.58,A,", it's",IN1005.
+1576.35,1576.58,B,doesn't,IN1005.
+1576.35,1577.02,C,", you don't",IN1005.
+1576.58,1576.73,A,not,IN1005.
+1576.58,1576.81,B,uh it,IN1005.
+1576.73,1576.9,A,that,IN1005.
+1576.81,1577.05,B,says,IN1005.
+1577.02,1577.14,C,you,IN1005.
+1577.05,1577.19,B,it's,IN1005.
+1577.14,1577.37,C,don't,IN1005.
+1577.19,1577.44,B,g,IN1005.
+1577.37,1577.56,C,really,IN1005.
+1577.44,1577.65,B,better,IN1005.
+1577.56,1577.75,C,have,IN1005.
+1577.65,1577.81,B,for,IN1005.
+1577.75,1577.92,C,two,IN1005.
+1577.81,1578.02,B,this,IN1005.
+1577.92,1578.52,C,clustering,IN1005.
+1578.02,1578.33,B,task,IN1005.
+1578.24,1579.0,D,Yeah,IN1005.
+1578.33,1578.7,B,", but it doesn't",IN1005.
+1578.52,1579.38,C,. No,IN1005.
+1578.7,1579.09,B,really say,IN1005.
+1579.0,1579.94,D,. It,IN1005.
+1579.09,1579.46,B,anything,IN1005.
+1579.38,1579.68,C,no,IN1005.
+1579.46,1579.8,B,else,IN1005.
+1579.68,1579.8,C,no,IN1005.
+1579.8,1579.8,B,.,IN1005.
+1579.8,1579.96,C,no,IN1005.
+1579.94,1580.22,D,doesn't,IN1005.
+1579.96,1580.27,C,", you don't",IN1005.
+1580.22,1580.41,D,have,IN1005.
+1580.27,1580.44,C,have,IN1005.
+1580.41,1580.52,D,to,IN1005.
+1580.44,1580.59,C,two,IN1005.
+1580.52,1580.91,D,match,IN1005.
+1580.59,1581.13,C,clustering,IN1005.
+1580.91,1580.91,D,.,IN1005.
+1581.13,1587.13,C,of of of marbles . What you have is y is you have is you have one clustering of marble,IN1005.
+1586.85,1587.09,B,Mm-hmm .,IN1005.
+1587.13,1602.54,C,", which is this one , and then you have lots of people telling you I consider those marbles as very uh have to have very salient feature that they share in common , I I c I would like them to be in the same cluster . And you c and and and those two",IN1005.
+1602.13,1602.45,B,Okay .,IN1005.
+1602.54,1614.81,C,", so and one of them is labelled , and the other is not labelled . So you look at that , you say oh , someone told this one was very similar , and this one is said to be blue for example , I dunno if it's the label . So I put it in the blue bag .",IN1005.
+1616.39,1616.79,B,Okay,IN1005.
+1616.56,1616.88,C,But,IN1005.
+1616.79,1616.79,B,.,IN1005.
+1616.88,1628.38,C,"but you don't you never use the blue bag , you don't ask the people to look at the blue bag . You just look at the people you you just have the people to compare those two marbles . And then it happens that some of them have been clustered .",IN1005.
+1630.14,1630.47,A,People,IN1005.
+1630.14,1630.62,C,And and,IN1005.
+1630.47,1632.93,A,being your algorithm ? That's the point,IN1005.
+1632.58,1633.84,C,Yeah,IN1005.
+1632.93,1637.58,A,? Mm,IN1005.
+1633.84,1637.31,C,". Yeah . Yeah , this is I reverse both",IN1005.
+1637.23,1638.56,D,Yeah,IN1005.
+1637.31,1640.21,C,role,IN1005.
+1637.58,1638.58,A,. It's getting,IN1005.
+1638.56,1639.38,D,. But,IN1005.
+1639.29,1640.44,B,Okay,IN1005.
+1639.38,1640.72,D,"yeah , it just",IN1005.
+1640.21,1640.64,C,. The this,IN1005.
+1640.44,1640.78,B,. Uh and,IN1005.
+1640.64,1640.73,C,is,IN1005.
+1640.72,1641.2,D,re,IN1005.
+1640.73,1640.82,C,the,IN1005.
+1640.78,1640.95,B,so,IN1005.
+1640.82,1641.39,C,players,IN1005.
+1640.95,1641.44,B,and so if I,IN1005.
+1641.39,1641.39,C,.,IN1005.
+1641.44,1647.71,B,"get that right , what what the algorithms are still coming up with is in this way you're looking at a clustering of marbles , yeah ? If",IN1005.
+1647.54,1648.02,C,I,IN1005.
+1647.71,1648.04,B,each of,IN1005.
+1648.02,1648.1,C,i,IN1005.
+1648.04,1648.12,B,the,IN1005.
+1648.1,1648.33,C,no,IN1005.
+1648.12,1648.62,B,algorithms,IN1005.
+1648.33,1648.71,C,no,IN1005.
+1648.62,1648.84,B,comes,IN1005.
+1648.71,1648.96,C,no,IN1005.
+1648.84,1648.98,B,up,IN1005.
+1648.96,1649.09,C,no,IN1005.
+1648.98,1649.12,B,with,IN1005.
+1649.09,1649.65,C,no,IN1005.
+1649.12,1649.54,B,a defin,IN1005.
+1649.65,1657.25,C,". It comes up with not with the clustering but with some way to compare two marbles , okay",IN1005.
+1656.59,1656.85,D,Mm-hmm .,IN1005.
+1657.25,1657.89,C,. Some,IN1005.
+1657.38,1658.12,B,Ah okay,IN1005.
+1657.89,1658.78,C,would say,IN1005.
+1658.12,1658.53,B,", right , that",IN1005.
+1658.48,1658.63,D,Yeah,IN1005.
+1658.53,1658.73,B,makes,IN1005.
+1658.63,1658.63,D,.,IN1005.
+1658.73,1659.03,B,sense,IN1005.
+1658.78,1659.14,C,would say,IN1005.
+1659.03,1659.03,B,.,IN1005.
+1659.14,1678.01,C,"I consider those two ones are completely dissimilar , and the other ones say they are very similar . And if you find that in your unl unlabelled clustering those two uh balls uh marbles happen to be in the same uh cluster , you said the user algorithm might be wrong . But you average that over lots of documents .",IN1005.
+1679.1,1679.51,B,Okay .,IN1005.
+1680.93,1685.7,D,Because the the latent aspects really doesn't have to match the final uh,IN1005.
+1685.31,1685.82,A,Mm-hmm,IN1005.
+1685.7,1686.65,D,directory,IN1005.
+1685.82,1686.41,A,", exactly .",IN1005.
+1686.65,1694.25,D,"category . It can be anything but it's just a way of saying yeah , those documen documents are similar in some sense . So",IN1005.
+1696.77,1697.46,A,We're not trying,IN1005.
+1697.2,1697.68,B,Okay,IN1005.
+1697.46,1697.83,A,to to,IN1005.
+1697.68,1697.68,B,.,IN1005.
+1697.83,1698.23,A,fit,IN1005.
+1697.83,1698.36,D,Is it just,IN1005.
+1698.23,1698.43,A,yeah,IN1005.
+1698.36,1698.43,D,it,IN1005.
+1698.43,1698.43,A,.,IN1005.
+1698.43,1703.46,D,just sometime dangerous to say th these latent aspects means this,IN1005.
+1703.29,1703.66,B,Okay,IN1005.
+1703.46,1703.84,D,. Yeah,IN1005.
+1703.66,1703.84,B,. I'm,IN1005.
+1703.84,1703.93,D,", I",IN1005.
+1703.84,1704.35,B,convinced,IN1005.
+1703.93,1704.62,D,think,IN1005.
+1704.35,1704.93,B,", I'm convinced",IN1005.
+1704.62,1705.23,D,yeah,IN1005.
+1704.93,1705.34,B,", alright",IN1005.
+1705.23,1705.92,D,. Good,IN1005.
+1705.34,1706.4,B,. So it's good,IN1005.
+1705.92,1707.66,D,", good good",IN1005.
+1706.4,1708.23,B,. Right . Uh,IN1005.
+1707.66,1707.66,D,.,IN1005.
+1708.23,1754.41,B,"alright , well thanks . Um I'm trying to think of anything I haven't said about the stuff , but that uh from looking at the results I got it looked quite good , um just like hand reading them in that one of the things I did was I started a i a web crawl at the IDIAP homepage . It did not very many pages , only like two thousand or something like that , but enough to get the pages that were close to IDIAP to have a lot of links between them . So that there was enough to be able to run this link clustering algorithm . So what you find is that the pages around IDIAP , there's a lot of English pa speaking pages and a lot of French speaking pages , so of course this uh P_L_S_A_ completely separated those out into into categories . Uh so when I looked at the the word likelihoods , there were two topics . One was very clearly English words that most likely word",IN1005.
+1754.36,1754.6,A,Mm,IN1005.
+1754.41,1754.65,B,was the,IN1005.
+1754.6,1754.6,A,.,IN1005.
+1754.65,1758.58,B,", and one was very clearly French words most likely words was de I think and",IN1005.
+1758.21,1758.4,D,Mm-hmm .,IN1005.
+1758.58,1759.07,B,uh,IN1005.
+1759.36,1760.87,A,You had onl two topics,IN1005.
+1760.81,1761.0,B,No,IN1005.
+1760.87,1761.11,A,? Or,IN1005.
+1761.0,1761.22,B,", I had",IN1005.
+1761.11,1761.59,A,no,IN1005.
+1761.22,1761.74,B,many topics,IN1005.
+1761.59,1764.1,A,? Yeah,IN1005.
+1761.74,1764.59,B,". The others looked like garbage , couldn't tell what they might have been . But",IN1005.
+1764.1,1764.1,A,.,IN1005.
+1764.44,1764.62,C,Yeah,IN1005.
+1764.59,1765.0,B,anyway,IN1005.
+1764.62,1764.62,C,.,IN1005.
+1765.0,1766.75,B,", uh tha that's often the case , when you look at it you can",IN1005.
+1766.67,1766.93,A,Yeah,IN1005.
+1766.75,1766.95,B,tell,IN1005.
+1766.93,1767.14,A,", yeah",IN1005.
+1766.95,1767.2,B,very,IN1005.
+1767.14,1767.52,A,", yeah",IN1005.
+1767.18,1767.53,C,Yeah,IN1005.
+1767.2,1767.6,B,clearly that,IN1005.
+1767.52,1767.52,A,.,IN1005.
+1767.53,1767.53,C,.,IN1005.
+1767.6,1768.73,B,one or two topics are a b,IN1005.
+1768.58,1768.77,D,Yeah,IN1005.
+1768.73,1768.97,B,not,IN1005.
+1768.77,1769.24,D,", and",IN1005.
+1768.97,1769.31,B,the rest,IN1005.
+1769.24,1769.51,D,the,IN1005.
+1769.31,1769.45,B,", yeah .",IN1005.
+1769.51,1769.95,D,others,IN1005.
+1769.67,1770.94,C,Yeah,IN1005.
+1769.95,1771.48,D,usually don't mean anything,IN1005.
+1770.94,1771.58,C,. Yeah,IN1005.
+1771.46,1771.63,B,It,IN1005.
+1771.48,1771.95,D,", yeah",IN1005.
+1771.58,1771.67,C,. They,IN1005.
+1771.63,1771.73,B,is,IN1005.
+1771.67,1771.84,C,make,IN1005.
+1771.73,1771.73,B,.,IN1005.
+1771.84,1772.14,C,sense,IN1005.
+1771.95,1771.95,D,.,IN1005.
+1772.14,1804.78,C,"only so global optimisation , the likelihood is optimisable globally over the whole aspects , etcetera . So it's it's you never ask the model to do hard clustering of documents , you just uh ask uh it to find a distribution over aspects such that a document uh is more likely according to the restriction that the number aspe aspect is limited . And and so it the it just makes sense on the uh looking at the whole set . So y I think all evaluation should take that into account and look at the whole aspect set",IN1005.
+1804.77,1805.01,B,Ok,IN1005.
+1804.78,1810.58,C,. Like here you look at the aspect set because you look at the similarity of two distribution . An any,IN1005.
+1810.4,1810.61,D,Mm-hmm,IN1005.
+1810.58,1810.76,C,st,IN1005.
+1810.61,1810.61,D,.,IN1005.
+1810.76,1821.83,C,"any kind of thing you where you un unfold the model and look at it manually , looks weird , like like in those Hoffmann papers where show you columns with words or things",IN1005.
+1821.8,1822.01,D,Mm-hmm,IN1005.
+1821.83,1821.83,C,.,IN1005.
+1822.01,1822.01,D,.,IN1005.
+1822.86,1850.19,B,"Hmm . That w uh anyway , that when I run it on that , uh what I found was , looking through some of the sites uh I looked for the sites that the models differed on , that where one said it was probably an English phrase and the other said it was probably a french phrase , and I found a good few examples where you had a site that looked uh well one that I remember off hand was it was a page and it was a big picture , and links down the site , but the links were all pictures . So you couldn't the the words were in French and",IN1005.
+1850.13,1850.49,A,Mm-hmm,IN1005.
+1850.19,1851.18,B,"the links , but",IN1005.
+1850.49,1850.49,A,.,IN1005.
+1851.18,1871.74,B,"there were no words picked up by the when I did the crawl for the model . And there was a small bit down here , and in this there was uh meant to be picture in there , but it didn't load uh or uh b it was meant to be something else , and it said uh in English it said four O_ four this page cannot be found . So all the words on this page were English , but it was very very clearly a French page",IN1005.
+1871.16,1871.43,A,Mm-hmm .,IN1005.
+1871.74,1877.31,B,". So the first model said it was an English page 'cause all the words were in English , second model said very definitely a French page because all of these",IN1005.
+1877.25,1877.34,A,It,IN1005.
+1877.31,1877.66,B,pointed,IN1005.
+1877.34,1878.29,A,was linki,IN1005.
+1877.66,1878.3,B,to French sites,IN1005.
+1878.29,1878.79,A,", mm-hmm",IN1005.
+1878.3,1878.5,B,and it,IN1005.
+1878.46,1878.89,C,Okay,IN1005.
+1878.5,1878.86,B,was only,IN1005.
+1878.79,1879.19,A,", mm-hmm",IN1005.
+1878.86,1879.16,B,pointed,IN1005.
+1878.89,1878.89,C,.,IN1005.
+1879.16,1879.5,B,to,IN1005.
+1879.19,1879.19,A,.,IN1005.
+1879.5,1879.69,B,it was,IN1005.
+1879.67,1879.95,D,Okay,IN1005.
+1879.69,1880.06,B,something,IN1005.
+1879.95,1879.95,D,.,IN1005.
+1880.06,1881.27,B,"dot F_R_ as well , it's",IN1005.
+1881.56,1881.99,C,Okay .,IN1005.
+1882.04,1884.22,A,So it was a a good point for you,IN1005.
+1883.89,1885.4,B,Yeah,IN1005.
+1884.19,1884.34,D,For,IN1005.
+1884.22,1884.52,A,. Mm,IN1005.
+1884.34,1884.85,D,your model,IN1005.
+1884.52,1884.91,A,mm-hmm mm,IN1005.
+1884.85,1885.47,D,", mm",IN1005.
+1884.91,1884.91,A,.,IN1005.
+1885.4,1885.67,B,. So,IN1005.
+1885.47,1885.66,D,", good .",IN1005.
+1885.67,1887.43,B,I I found a couple of examples that were kinda,IN1005.
+1887.32,1887.52,A,Like,IN1005.
+1887.43,1887.6,B,like,IN1005.
+1887.52,1887.77,A,this,IN1005.
+1887.6,1888.2,B,that,IN1005.
+1887.77,1888.33,A,", yeah , mm mm",IN1005.
+1888.2,1888.86,B,. Mm,IN1005.
+1888.33,1888.66,A,"mm , okay .",IN1005.
+1888.86,1934.26,B,"but the the problem that I found when I ran it , uh the th the thing that was a bad point was that if you have uh say tryin I was trying to say if you could evaluate this with search given some keywords like which model would more likely find you a p good document , that that sort of approach . Uh what I found was that say you had uh Uh th tha that's not too relevant necessarily , but if you have say a topic distribution for uh one page , and it very very highly scores on the P_L_S_A_ for one of the the topics , and that's right , okay , this model , because it's averaging out over all the pages nearby",IN1005.
+1933.31,1934.97,A,Mm-hmm . mm,IN1005.
+1934.26,1935.02,B,", all of the topic",IN1005.
+1934.97,1934.97,A,.,IN1005.
+1935.02,1936.91,B,distributions become more flat,IN1005.
+1936.81,1937.17,A,Mm-mm,IN1005.
+1936.91,1937.24,B,. It it,IN1005.
+1937.17,1937.17,A,.,IN1005.
+1937.24,1938.84,B,becomes more uncertain about everything .,IN1005.
+1938.95,1939.38,C,Okay,IN1005.
+1939.26,1939.45,B,So,IN1005.
+1939.38,1939.38,C,.,IN1005.
+1939.45,1941.04,B,I don't know if that's necessarily a good thing or,IN1005.
+1941.03,1941.95,A,Mm-mm,IN1005.
+1941.04,1942.03,B,not,IN1005.
+1941.72,1942.03,C,Yeah,IN1005.
+1941.95,1942.47,A,", probably",IN1005.
+1942.03,1942.78,B,", yeah",IN1005.
+1942.03,1942.03,C,.,IN1005.
+1942.47,1942.99,A,"not , yeah",IN1005.
+1942.78,1943.13,B,. In in,IN1005.
+1942.99,1942.99,A,.,IN1005.
+1943.13,1945.02,B,some cases it's gonna be a bad thing,IN1005.
+1944.84,1945.24,A,Mm-mm,IN1005.
+1945.02,1945.68,B,", b",IN1005.
+1945.24,1945.24,A,.,IN1005.
+1945.68,1946.11,B,because,IN1005.
+1945.69,1946.03,C,Yeah .,IN1005.
+1946.11,1952.49,B,"ev every page is linked by the way the algorithm works , every page is linked eventually to everything else",IN1005.
+1952.0,1952.46,A,Mm-mm .,IN1005.
+1952.49,1965.72,B,", so it every page has information incorporated in it . Or i the distribution learned for every page has information incorporated in it , from every other page's distribution as well , so it averages out , it flattens all the distributions",IN1005.
+1965.48,1966.95,C,Yeah,IN1005.
+1965.62,1965.79,A,Mm,IN1005.
+1965.72,1966.17,B,", depending",IN1005.
+1965.79,1965.79,A,.,IN1005.
+1966.17,1967.11,B,on what this alpha is,IN1005.
+1966.95,1967.8,C,. Yeah,IN1005.
+1967.07,1967.51,A,Yeah,IN1005.
+1967.11,1967.11,B,.,IN1005.
+1967.51,1967.82,A,mm,IN1005.
+1967.8,1967.99,C,. But,IN1005.
+1967.82,1968.1,A,. And,IN1005.
+1967.99,1982.96,C,"also it depends on that could be a good effect . Because if you if you can be if you can if you are uh highly reliable about one page , but all the page linking to it are actually about very different topics",IN1005.
+1982.53,1982.78,B,Mm-hmm .,IN1005.
+1982.96,1995.1,C,", so you could say maybe I was wrong from deciding only due to the text that this page was about this aspect distribution , because because all the other pages are voting in different direction .",IN1005.
+1996.56,1998.08,B,Well I I think that the thing is,IN1005.
+1998.03,1999.09,C,While there's a balance,IN1005.
+1999.88,2009.17,B,"Yeah , that that there's a balance in the uh for example take a page like uh Slashdot , and it's like a news site uh for geeks , and",IN1005.
+2008.83,2009.98,A,Mm-hmm,IN1005.
+2009.17,2010.03,B,you have,IN1005.
+2009.98,2009.98,A,.,IN1005.
+2010.03,2011.04,B,uh,IN1005.
+2010.33,2011.6,D,Nerd,IN1005.
+2011.04,2011.9,B,"nerds , yeah",IN1005.
+2011.6,2013.6,D,. Nerd,IN1005.
+2011.9,2013.6,B,". News for nerds , stuff that matters",IN1005.
+2013.59,2014.1,A,Yeah,IN1005.
+2013.6,2013.6,D,.,IN1005.
+2013.6,2014.57,B,. Uh,IN1005.
+2014.1,2014.1,A,.,IN1005.
+2014.57,2022.67,B,"all of the like hundreds of thousands of pages point to that , but they're about completely different things , so you in effect are losing information about what that page is about",IN1005.
+2022.65,2022.92,C,Hmm,IN1005.
+2022.67,2023.06,B,", because",IN1005.
+2022.92,2022.92,C,.,IN1005.
+2023.06,2024.44,B,there's so many things pointing to,IN1005.
+2024.35,2024.65,C,Yeah,IN1005.
+2024.44,2024.82,B,it and,IN1005.
+2024.65,2024.65,C,.,IN1005.
+2024.75,2026.1,A,Um,IN1005.
+2024.82,2025.8,B,they all average out as,IN1005.
+2026.1,2030.67,A,"this alpha , i can it be dependent of the of the document",IN1005.
+2030.21,2030.77,B,"Yeah , so",IN1005.
+2030.67,2031.49,A,? And,IN1005.
+2030.77,2031.12,B,that,IN1005.
+2031.49,2035.03,A,how many text is in it ? Or something,IN1005.
+2034.18,2034.76,B,Th that's my,IN1005.
+2034.64,2035.04,D,Mm,IN1005.
+2034.76,2035.05,B,first,IN1005.
+2035.03,2035.12,A,uh,IN1005.
+2035.04,2035.04,D,.,IN1005.
+2035.05,2035.32,B,idea,IN1005.
+2035.12,2035.37,A,yeah,IN1005.
+2035.32,2035.56,B,w,IN1005.
+2035.37,2035.37,A,.,IN1005.
+2035.56,2038.29,B,was how I set this I remember for the Lotus thing wasn't,IN1005.
+2038.26,2038.42,A,Mm,IN1005.
+2038.29,2038.77,B,there,IN1005.
+2038.42,2038.42,A,.,IN1005.
+2038.77,2046.06,B,"? Um so I thought you wanna probably set this alpha per page , there's probably some heuristics , for example this page , there's no text in it",IN1005.
+2045.68,2046.13,A,Mm-hmm,IN1005.
+2046.06,2046.19,B,", will",IN1005.
+2046.13,2047.36,A,", so",IN1005.
+2046.19,2047.66,B,set it very low in user information,IN1005.
+2047.36,2047.49,A,mm .,IN1005.
+2047.66,2055.28,B,"for the links . Problem is , this is what Pedro immediately said , what if you have a page that looks like this ? It's got a big picture of a car uh",IN1005.
+2055.55,2055.76,A,Mm-hmm .,IN1005.
+2057.75,2061.37,C,Pedro's always speaks about cars,IN1005.
+2059.86,2061.24,D,"Yeah , cars and",IN1005.
+2060.74,2061.29,B,"Anyway , and it",IN1005.
+2061.24,2061.68,D,web,IN1005.
+2061.29,2061.77,B,says,IN1005.
+2061.37,2061.37,C,.,IN1005.
+2061.68,2061.68,D,.,IN1005.
+2061.77,2066.25,B,"Lotus Elise , so you know that it's definitely about car , but it's only got two words",IN1005.
+2066.18,2066.4,A,Mm-hmm,IN1005.
+2066.25,2066.49,B,. So you,IN1005.
+2066.4,2066.4,A,.,IN1005.
+2066.49,2084.65,B,"can't just do it by words , because those two words completely specify into something or other . Uh su you suggested doing likelihood , but at that time and I can't remember what my problem was with that . It might not have been a good thing , but you've got two likelihoods for it as well",IN1005.
+2084.16,2084.74,C,But I think,IN1005.
+2084.65,2084.84,B,. No,IN1005.
+2084.74,2085.02,C,for,IN1005.
+2084.84,2085.03,B,", maybe",IN1005.
+2085.02,2085.32,C,any,IN1005.
+2085.03,2085.17,B,not .,IN1005.
+2085.32,2092.93,C,kind of way you have to select those alpha you you have to look at the effect on on the re on the t evaluation task,IN1005.
+2092.22,2092.52,B,Mm .,IN1005.
+2092.93,2097.64,C,. And then maybe you can find some patterns that are then then once,IN1005.
+2097.38,2097.76,B,"Yeah , maybe",IN1005.
+2097.64,2097.93,C,you have,IN1005.
+2097.76,2097.94,B,do it,IN1005.
+2097.93,2098.36,C,the,IN1005.
+2097.94,2098.99,B,by cross-validation,IN1005.
+2098.36,2099.68,C,once you have the task,IN1005.
+2098.99,2099.33,B,", something .",IN1005.
+2099.68,2116.98,C,", you could look at at which pages are completely missed by one model , which others are are successful with one model , and and you can maybe infer some some rules afterwards . But if you have no task , you can uh blindly select s good alphas .",IN1005.
+2118.14,2118.67,B,"Okay , there's",IN1005.
+2118.61,2119.72,C,Like like if if,IN1005.
+2119.61,2119.73,A,Oh,IN1005.
+2119.72,2119.87,C,you,IN1005.
+2119.73,2119.93,A,", of",IN1005.
+2119.87,2120.11,C,look,IN1005.
+2119.93,2120.38,A,course,IN1005.
+2120.11,2120.47,C,at,IN1005.
+2120.38,2120.8,A,. Yeah,IN1005.
+2120.47,2120.95,C,uh if,IN1005.
+2120.8,2121.06,A,", mm",IN1005.
+2120.95,2121.18,C,you look,IN1005.
+2121.06,2121.06,A,.,IN1005.
+2121.18,2121.47,C,at your,IN1005.
+2121.4,2121.49,B,Mm,IN1005.
+2121.47,2121.76,C,task,IN1005.
+2121.49,2121.49,B,.,IN1005.
+2121.76,2135.03,C,"and you see that , I dunno uh , the the long pages for example have good P_L_S_A_ model without fusing links , so then you can infer some heuristics like okay , the alpha should be proportional to the lengths",IN1005.
+2134.73,2134.79,A,Mm .,IN1005.
+2135.03,2140.16,C,"or anything like that , or to the number of image in the pages , or anything",IN1005.
+2139.71,2139.96,B,Hmm .,IN1005.
+2140.16,2145.82,C,. But you should have some some task where you can individually look at,IN1005.
+2145.69,2145.84,A,Yeah,IN1005.
+2145.82,2145.96,C,the,IN1005.
+2145.84,2146.14,A,", yeah",IN1005.
+2145.96,2146.44,C,performance,IN1005.
+2146.14,2146.56,A,", w w I",IN1005.
+2146.44,2146.57,C,on,IN1005.
+2146.56,2146.84,A,think,IN1005.
+2146.57,2146.99,C,every,IN1005.
+2146.84,2147.09,A,we've,IN1005.
+2146.99,2147.17,C,on,IN1005.
+2147.09,2147.39,A,agree,IN1005.
+2147.17,2147.4,C,every,IN1005.
+2147.39,2147.47,A,on,IN1005.
+2147.4,2148.69,C,page,IN1005.
+2147.47,2148.24,A,"that , yeah",IN1005.
+2147.89,2148.65,B,Yeah,IN1005.
+2148.24,2148.45,A,. Mm-mm .,IN1005.
+2148.65,2148.85,B,", that",IN1005.
+2148.69,2149.02,C,. And,IN1005.
+2148.85,2149.03,B,that,IN1005.
+2149.02,2149.27,C,and,IN1005.
+2149.03,2149.62,B,is fair,IN1005.
+2149.27,2149.91,C,and,IN1005.
+2149.62,2149.62,B,.,IN1005.
+2149.91,2156.79,C,and at as a second step you could infer some kind of rule about how to select alphas with respect to the task .,IN1005.
+2159.87,2160.39,B,"Yeah , okay",IN1005.
+2160.37,2160.65,C,Maybe,IN1005.
+2160.39,2160.39,B,.,IN1005.
+2160.65,2162.56,C,it's v it's very simple rules,IN1005.
+2162.35,2162.73,B,It yeah,IN1005.
+2162.56,2162.78,C,", but",IN1005.
+2162.73,2162.92,B,", d",IN1005.
+2162.78,2165.16,C,select them blindly s,IN1005.
+2164.99,2165.18,B,No,IN1005.
+2165.16,2165.38,C,might,IN1005.
+2165.18,2165.18,B,.,IN1005.
+2165.38,2165.85,C,be odd .,IN1005.
+2166.88,2173.64,B,"Yeah , i so uh I I think that that's too easy . You can do it with some heuristics and you can learn it from the task results",IN1005.
+2173.58,2173.86,C,Yeah,IN1005.
+2173.64,2174.02,B,in or,IN1005.
+2173.86,2173.86,C,.,IN1005.
+2174.02,2174.37,B,combine,IN1005.
+2174.35,2174.64,A,Mm,IN1005.
+2174.37,2174.72,B,the two,IN1005.
+2174.64,2174.64,A,.,IN1005.
+2174.72,2176.69,B,", so tha that's kinda straightforward , I think .",IN1005.
+2176.93,2180.97,A,Mm probably heuristic it will be easier to compute,IN1005.
+2180.44,2181.0,B,"Yeah , the the",IN1005.
+2180.97,2181.31,A,because,IN1005.
+2181.0,2181.57,B,the thing about,IN1005.
+2181.45,2181.66,C,Yeah,IN1005.
+2181.57,2181.74,B,doing,IN1005.
+2181.66,2181.66,C,.,IN1005.
+2181.74,2196.38,B,"it through cross-validation or something like that with the task is uh the problem with doing a page rank style algorithm is that is that it gets better it it converges better and it gives you better results , the closer a network is to being a small world network",IN1005.
+2195.92,2197.35,A,Mm-hmm,IN1005.
+2196.14,2196.44,D,Mm-hmm,IN1005.
+2196.38,2196.54,B,. So,IN1005.
+2196.44,2196.44,D,.,IN1005.
+2196.54,2198.24,B,small world network mean,IN1005.
+2197.35,2198.38,A,". Mm-hmm , yeah",IN1005.
+2198.24,2198.71,B,basically,IN1005.
+2198.38,2198.42,A,", mm .",IN1005.
+2198.71,2202.95,B,"some far links , but generally very clustered locally",IN1005.
+2202.79,2202.99,C,Yeah,IN1005.
+2202.95,2203.8,B,. Uh,IN1005.
+2202.99,2202.99,C,.,IN1005.
+2203.8,2214.61,B,"now the thing about doing a web crawl is , the bigger your web crawl , the closer it'll be to the overall structure of the net n the internet , which is a small world network . The smaller your web crawl , the less small world network like it's gonna be",IN1005.
+2214.27,2214.96,A,Mm,IN1005.
+2214.61,2214.61,B,.,IN1005.
+2214.73,2215.1,D,Mm-hmm,IN1005.
+2214.75,2215.05,C,Yeah,IN1005.
+2214.96,2214.96,A,.,IN1005.
+2215.05,2215.05,C,.,IN1005.
+2215.1,2215.1,D,.,IN1005.
+2215.5,2229.22,B,"So the more pages you get , the better your results . And people running this style of algorithm , the page rank style stuff , generally run it on about two million or twenty million pages , or whatever . The the Stanford web base data set that I was using for this , for",IN1005.
+2228.92,2229.4,C,Yeah,IN1005.
+2229.22,2229.6,B,for,IN1005.
+2229.4,2229.4,C,.,IN1005.
+2229.6,2238.18,B,"a bit of this um , they have a a d I can't remember off hand , but they have m maybe a bit over a theta byte worth of web pages",IN1005.
+2237.92,2239.31,A,Mm,IN1005.
+2238.18,2239.25,B,in this,IN1005.
+2239.23,2239.57,C,But,IN1005.
+2239.25,2239.34,B,", a",IN1005.
+2239.31,2239.31,A,.,IN1005.
+2239.34,2239.61,B,bunch of,IN1005.
+2239.57,2240.42,C,but,IN1005.
+2239.61,2240.73,B,servers,IN1005.
+2240.42,2241.22,C,but still,IN1005.
+2240.73,2241.11,B,. Uh,IN1005.
+2241.22,2247.19,C,"li like the the the work I did on on hyperlinks , like I used uh Wikipedia",IN1005.
+2246.65,2247.42,B,"Yeah , maybe Wikipedia",IN1005.
+2247.19,2247.67,C,", i",IN1005.
+2247.42,2247.71,B,is a,IN1005.
+2247.67,2247.79,C,I,IN1005.
+2247.71,2247.88,B,good,IN1005.
+2247.79,2248.02,C,think,IN1005.
+2247.88,2248.09,B,thing,IN1005.
+2248.02,2248.21,C,it's,IN1005.
+2248.09,2248.52,B,to do,IN1005.
+2248.21,2248.77,C,g because,IN1005.
+2248.52,2248.52,B,.,IN1005.
+2248.77,2253.45,C,it has fairly high level of inside links between,IN1005.
+2252.34,2262.99,B,Was I was concerned about Wikipedia though was that it's while it has a high level of inside links that has a lot of directory style links as well that might mess up it actually being a,IN1005.
+2262.77,2263.41,C,Yeah,IN1005.
+2262.99,2263.54,B,see wh while,IN1005.
+2263.41,2263.62,C,. Well,IN1005.
+2263.54,2263.63,B,you,IN1005.
+2263.62,2263.75,C,you,IN1005.
+2263.63,2264.01,B,have,IN1005.
+2263.75,2274.19,C,can categorise them because they are th it's there's a structure on the on the web page . So you you can select only the links which are within the article or within the categories,IN1005.
+2273.9,2274.28,B,Ah okay,IN1005.
+2274.19,2275.4,C,or,IN1005.
+2274.28,2274.75,B,", that's good .",IN1005.
+2275.4,2278.85,C,"it's it's it's well-structured , it's it's uh easy to manipulate and",IN1005.
+2279.28,2284.09,B,That plus I guess it's actually straightforward to say to start with is this a small world network and then,IN1005.
+2283.71,2284.31,C,Yeah,IN1005.
+2284.09,2284.34,B,run it on,IN1005.
+2284.31,2284.43,C,. You,IN1005.
+2284.34,2284.48,B,that,IN1005.
+2284.43,2284.64,C,can,IN1005.
+2284.48,2284.48,B,.,IN1005.
+2284.64,2288.17,C,even isolate the directory from the categories of Wikipedia .,IN1005.
+2288.65,2293.37,B,"You were running that on what we what was it , like half a million pages , something like that",IN1005.
+2293.1,2293.4,C,Well,IN1005.
+2293.37,2293.55,B,? Is,IN1005.
+2293.4,2294.06,C,yeah,IN1005.
+2293.55,2294.08,B,it,IN1005.
+2294.06,2295.97,C,", actually",IN1005.
+2294.08,2296.12,B,and that was for half of it ? Uh if I remember,IN1005.
+2295.97,2296.24,C,I,IN1005.
+2296.12,2296.12,B,.,IN1005.
+2296.24,2299.46,C,I I divided in three equal size parts,IN1005.
+2299.11,2299.47,B,Okay,IN1005.
+2299.46,2299.72,C,which,IN1005.
+2299.47,2299.47,B,.,IN1005.
+2299.72,2303.02,C,have one hundred fifty documents,IN1005.
+2302.59,2303.03,B,"Okay , the",IN1005.
+2303.02,2303.12,C,. There,IN1005.
+2303.03,2303.18,B,whole,IN1005.
+2303.12,2303.2,C,are a,IN1005.
+2303.18,2303.43,B,thing,IN1005.
+2303.2,2303.59,C,thousand,IN1005.
+2303.43,2303.75,B,was,IN1005.
+2303.59,2306.06,C,"documents . And well , but",IN1005.
+2306.45,2309.6,A,Did you manage to to divide the link uh properly or,IN1005.
+2309.97,2314.56,C,"Well , what I did with the link well , but this is not th exactly the same setup you would",IN1005.
+2314.34,2314.81,A,Okay,IN1005.
+2314.56,2315.59,C,have,IN1005.
+2314.81,2314.81,A,.,IN1005.
+2315.59,2323.16,C,". So in this setup , the whole link structure could be known , and the only thing you wou don't you w don't know would be the assignation to uh",IN1005.
+2322.57,2322.97,A,Mm-hmm .,IN1005.
+2323.16,2325.8,C,to a category . In my setup,IN1005.
+2325.56,2325.9,B,Mm,IN1005.
+2325.8,2325.92,C,it,IN1005.
+2325.9,2325.9,B,.,IN1005.
+2325.92,2339.29,C,"was different , because I I sh I couldn't use the links between different sets . But this is not I don't want to mess you up with that , it's not the same kind of experiment . But you could just use the whole corpus like this",IN1005.
+2338.86,2339.08,B,Mm-hmm .,IN1005.
+2339.29,2347.82,C,", and and for some of them you assume you don't know the the category assignment . And then you can run this set of experiments over Wikipedia",IN1005.
+2347.32,2348.31,B,Okay,IN1005.
+2347.82,2347.82,C,.,IN1005.
+2348.31,2355.32,B,". I mean I think off hand thinking about this model it would have to work better , because two things in the same category are going to be linked",IN1005.
+2354.85,2356.25,C,Yeah,IN1005.
+2355.32,2356.44,B,. So,IN1005.
+2356.25,2356.6,C,. But this,IN1005.
+2356.44,2358.08,B,it it,IN1005.
+2356.6,2358.09,C,"is the yeah , this is the hypothesis",IN1005.
+2358.08,2358.3,B,yeah,IN1005.
+2358.09,2358.46,C,between,IN1005.
+2358.3,2358.3,B,.,IN1005.
+2358.46,2361.78,C,this uh in this P_L_S_A_ with link stuff .,IN1005.
+2362.36,2363.82,B,Okay,IN1005.
+2363.42,2364.13,C,Oh yeah,IN1005.
+2363.82,2364.26,B,". Yeah , that's",IN1005.
+2364.13,2364.45,C,", I",IN1005.
+2364.26,2364.65,B,I think,IN1005.
+2364.45,2364.52,C,thi,IN1005.
+2364.65,2368.79,B,"tha it's gonna be more true in some networks and in some tasks than others , and",IN1005.
+2368.75,2369.33,C,Yeah,IN1005.
+2368.79,2369.53,B,I think in the Wikipedia,IN1005.
+2369.33,2369.64,C,. But you,IN1005.
+2369.53,2369.72,B,it's,IN1005.
+2369.64,2369.84,C,can,IN1005.
+2369.72,2369.97,B,probably,IN1005.
+2369.84,2370.15,C,you can,IN1005.
+2369.97,2370.16,B,gonna,IN1005.
+2370.15,2370.36,C,think,IN1005.
+2370.16,2370.57,B,be,IN1005.
+2370.36,2370.74,C,also,IN1005.
+2370.57,2370.83,B,it's a good,IN1005.
+2370.74,2370.94,C,at,IN1005.
+2370.83,2371.03,B,one to,IN1005.
+2370.94,2371.14,C,at,IN1005.
+2371.03,2371.26,B,test,IN1005.
+2371.14,2371.68,C,other,IN1005.
+2371.26,2371.37,B,on .,IN1005.
+2371.68,2381.27,C,"uh task like that . Like for example you can take proceedings and assume the categories are the keywords of the of the d of the documents , and",IN1005.
+2381.23,2381.49,B,Mm-hmm,IN1005.
+2381.27,2381.54,C,then,IN1005.
+2381.49,2381.49,B,.,IN1005.
+2381.54,2391.01,C,"if you have the archive of a journal , you can you can use the l the links between uh the citation links . So if you want to have a bigger stuff so",IN1005.
+2390.97,2391.29,B,Okay,IN1005.
+2391.01,2391.53,C,Wikipedia,IN1005.
+2391.29,2391.29,B,.,IN1005.
+2391.53,2410.71,C,"would be kind of very small with lots of Engli in links , and then if you take a journal you will have less links and and more documents . And then you would be likely to say that P_L_S_A_ might be better over that , because you don't have enough links . So you",IN1005.
+2409.66,2410.0,B,Okay .,IN1005.
+2410.71,2427.18,C,"you you can find examples which are not the web I think it's good to work in closed set . Wikipedia is kind of closed set , ma even if there's lots of outside links , but there's lots of inside links . You have to think at at at at at at at database where there's lot of in links",IN1005.
+2426.53,2426.79,B,Hmm .,IN1005.
+2427.18,2452.36,C,". Wikipedia might be one , citation , for example if if you take the NIPS arch archive , which is available . NIPS author always other NIPS author , which are often themselves , etcetera . Well , it's reported , I I won't say . So but but but but yeah , I think th th this kind of setup maybe web pages it's hard to find , sets of web pages which have good links stuff if you start from",IN1005.
+2452.16,2452.64,B,Mm-hmm,IN1005.
+2452.36,2452.85,C,one page,IN1005.
+2452.64,2452.64,B,.,IN1005.
+2452.85,2454.15,C,or something .,IN1005.
+2455.05,2462.63,B,"Okay . Yeah , it I'll maybe I'll have a look at the Wikipedia stuff anyway . I'm stuck doing something else for the next month or two anyway , so . Uh",IN1005.
+2462.22,2462.53,C,Okay .,IN1005.
+2462.63,2476.75,B,"this is always the case . Uh the there's another thing , um uh this was new but I haven't thought about this too much , but it's on the same lines in that uh have have you guys seen this uh correlated topic models work",IN1005.
+2476.31,2476.92,D,"Which ones , uh",IN1005.
+2476.75,2477.32,B,? Correlated,IN1005.
+2476.92,2476.92,D,?,IN1005.
+2477.32,2480.08,B,"topic models . It's David Blei , the guy that came up with uh",IN1005.
+2479.8,2480.17,D,"No , no",IN1005.
+2480.08,2480.35,B,with,IN1005.
+2480.17,2480.17,D,.,IN1005.
+2480.31,2480.85,A,L_D_A_,IN1005.
+2480.35,2481.35,B,L_D_A_,IN1005.
+2480.85,2480.85,A,.,IN1005.
+2481.35,2491.91,B,". He's got uh a new model that's it's published in NIPS this year , but his co-author put it on their web site a month or two ago . So uh you know L_D_A_ ? D you all know L_D_A_ or",IN1005.
+2491.53,2491.82,A,Mm-hmm .,IN1005.
+2491.91,2541.6,B,"yeah . Uh okay . So a L_D_A_ you basically draw a a Dirichlet which says like what type of document this is effectively , and then you draw a topic given that Dirichlet distribution and then you draw words given that . Alright , well that's for for every word and that's once for the document and that's you've got a parameter coming at this globally . So that that's roughly what the model is , plus other little bits . But anyway , so what they did was they they reworked this because one of the problems with L_D_A_ , and I think P_L_S_A_ has this problem as well in is that uh the more topics you have , the less uh expressive it can be , because the topics it cluster it it pushes a document if it is pulling a document into one topic , it pushes another topic away from that",IN1005.
+2541.59,2541.89,A,Mm-hmm,IN1005.
+2541.6,2541.93,B,. Doesn't,IN1005.
+2541.89,2541.89,A,.,IN1005.
+2541.93,2565.21,B,"that make sense ? So the topics are necessarily trying to be different from each other . So the more topics you have , the more th they're sort of squeezing into the space of what things can be about uh and things are kinda pushed out , so once you m go over you try it one corpus , and once you go over about a hundred , maybe two hundred topics , uh the the new you add more topics and it doesn't get better in any way",IN1005.
+2564.93,2565.34,A,Mm-hmm,IN1005.
+2565.21,2565.62,B,", the model",IN1005.
+2565.34,2565.34,A,.,IN1005.
+2565.62,2579.89,B,"doesn't . The n new topics are effectively going to just be garbage . Uh , alright , so what they did was they they they stopped using the Dirichlet and uh they're starting to use uh a Gaussian there . So",IN1005.
+2578.78,2579.0,D,Hmm .,IN1005.
+2579.89,2600.4,B,"it it in to spare the details basically , they've they've got a variable here , I think they call it eta uh and they from this generate a distribution of topics in some way , but it's generated from a Gaussian space , from a from a a space , so it's given a a mean and covariance uh and",IN1005.
+2600.22,2602.19,C,"But it's discrete uh no , the",IN1005.
+2602.79,2631.41,B,"Yeah , uh so what it does , the this is the the bit that took me forever to understand actually , uh same model , but this is given a Gaussian space it maps that down into the simplex of what a topic can be about . The so the simplex basically if you've got a say you've got two topics . Now say i i say you get three topics , that makes more easier to draw . Uh for this is theta one theta two",IN1005.
+2631.1,2631.41,A,Mm-hmm .,IN1005.
+2631.41,2644.11,B,"theta three , these are the probabilities that that a document is about uh this theta one is the probability that this document is about topic one . Theta two is so these guys all have to add up to one , yeah",IN1005.
+2643.9,2644.18,A,Mm-hmm,IN1005.
+2644.11,2644.11,B,?,IN1005.
+2644.18,2644.18,A,.,IN1005.
+2644.53,2649.2,B,Uh so that basically means that what a document is about lies on this,IN1005.
+2649.15,2649.42,A,Mm,IN1005.
+2649.2,2649.52,B,space,IN1005.
+2649.42,2650.0,A,pyramid,IN1005.
+2649.52,2650.33,B,between them,IN1005.
+2650.0,2650.18,A,", yeah .",IN1005.
+2650.33,2667.58,B,", yeah . So this is the simplex . Uh so basically a distribution generated by this guy is basically a point on this simplex . So what they do is they've got a distribution that maps uh a Gaussian and some space into a distribution on this thing , so it maps",IN1005.
+2667.43,2667.88,C,Okay,IN1005.
+2667.58,2668.55,B,it into,IN1005.
+2667.88,2667.88,C,.,IN1005.
+2668.55,2676.54,B,"Gaussian in that . The cool thing about that is that if you've got two Gaussians , you can tell how close they are . So you can now tell how close two topic",IN1005.
+2676.51,2676.99,A,Ah,IN1005.
+2676.54,2677.12,B,distributions,IN1005.
+2676.99,2677.27,A,", okay",IN1005.
+2677.12,2677.36,B,are,IN1005.
+2677.27,2677.27,A,.,IN1005.
+2677.36,2735.1,B,", right ? So you can have as many as you like , uh and you can tell that they're close to each other , so there's load of ideas that I had about this uh in that if you can tell that two topic distributions are close to each other . So for example if you split a document into two parts and said that the two parts have to be close in the distribution , you can see how the doc t the document changes , for exa stu stuff based on that . With this idea , what if rather than working with this P_ of Z_ given D_ thing that you had from P_L_S_A_ , but what if you worked from these Gaussians that you get for every document and you said that in some some function that said uh that the Gaussian representing this should be similar to the ones linking to it . Now I haven't thought about any of the maths for this , but but it should be uh straightforward I guess to to formulate a basic in terms of the mean should be similar and the covariance maybe should be similar as well . So it might actually be a better model again",IN1005.
+2735.08,2735.38,C,Yeah,IN1005.
+2735.1,2736.09,B,. I,IN1005.
+2735.38,2735.38,C,.,IN1005.
+2736.09,2737.75,B,dunno,IN1005.
+2736.68,2737.19,D,Okay,IN1005.
+2736.96,2737.27,A,Yeah,IN1005.
+2737.19,2737.19,D,.,IN1005.
+2737.27,2737.27,A,.,IN1005.
+2737.75,2742.01,B,". I'll send you guys the link for that correlated topic model stuff if you want , but uh",IN1005.
+2741.92,2742.13,C,Yeah,IN1005.
+2742.01,2742.44,B,I,IN1005.
+2742.13,2742.13,C,.,IN1005.
+2742.44,2743.54,B,don't know if it's too interesting to,IN1005.
+2743.54,2743.9,A,Mm-mm,IN1005.
+2743.54,2743.67,B,you .,IN1005.
+2743.9,2743.9,A,.,IN1005.
+2746.19,2746.45,C,'Kay,IN1005.
+2746.2,2747.27,B,Okay,IN1005.
+2746.45,2747.48,C,", yeah",IN1005.
+2746.73,2747.06,A,'Kay .,IN1005.
+2747.27,2747.51,B,. Alright,IN1005.
+2747.48,2748.37,C,", thanks",IN1005.
+2747.51,2748.4,B,", well than thanks for hearing",IN1005.
+2748.37,2748.37,C,.,IN1005.
+2748.4,2751.19,B,me out and the idea especially,IN1005.
+2749.76,2749.89,A,Mm-mm .,IN1005.
+2750.14,2750.79,C,"Okay , yeah .",IN1005.
+2751.19,2753.51,B,. Maybe I can do more with this,IN1005.
+2752.77,2754.78,A,In two,IN1005.
+2753.51,2753.66,B,. Alright .,IN1005.
+2753.9,2755.06,D,Well in in three months,IN1005.
+2754.78,2755.51,A,months,IN1005.
+2755.06,2755.06,D,.,IN1005.
+2755.49,2756.45,B,Yeah,IN1005.
+2755.51,2756.46,A,", yeah",IN1005.
+2756.45,2756.45,B,", .",IN1005.
+2756.46,2756.46,A,.,IN1005.
+2757.16,2760.48,C,Well there are lots of good ideas that are recorded and someone will,IN1005.
+2760.76,2768.51,D,"Oh yeah , it's too late , three months . We should wait",IN1005.
+2763.16,2763.88,C,Yeah,IN1005.
+2763.18,2763.63,B,"Yeah , b",IN1005.
+2763.88,2766.38,C,. Because the data like will be released very soon,IN1005.
+2766.36,2766.72,B,Bastien,IN1005.
+2766.38,2766.38,C,.,IN1005.
+2766.72,2769.21,B,", you can't release this data for four months",IN1005.
+2768.51,2768.51,D,.,IN1005.
+2769.21,2769.21,B,.,IN1005.

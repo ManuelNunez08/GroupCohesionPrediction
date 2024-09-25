@@ -1,0 +1,1852 @@
+Start,End,Speaker,Speech,meeting
+43.05,43.53,A,Okay .,IN1008.
+43.94,44.35,C,Okay .,IN1008.
+45.01,46.57,B,No . I don't uh,IN1008.
+49.36,52.5,C,Should I start ? Maybe by presenting the project little,IN1008.
+52.42,52.82,D,Okay,IN1008.
+52.5,54.2,C,bit,IN1008.
+52.82,52.82,D,.,IN1008.
+54.2,57.85,C,". Okay , so historically it was um uh last year Prof",IN1008.
+57.65,57.9,D,Mm-hmm,IN1008.
+57.85,58.34,C,Delambeaux,IN1008.
+57.9,57.9,D,.,IN1008.
+58.34,64.85,C,in uh his C_S_C_W_ classes uh asked the student to design a table,IN1008.
+64.51,64.82,D,Okay .,IN1008.
+64.85,68.96,C,". And all the students , and Guillaume wa was a student of this class",IN1008.
+68.57,68.89,D,Okay .,IN1008.
+68.96,70.65,C,", was very excited",IN1008.
+70.55,70.87,D,Mm-hmm,IN1008.
+70.65,70.93,C,uh to,IN1008.
+70.87,70.87,D,.,IN1008.
+70.93,84.57,C,"design such a table . So he decided to um to make more research on this topic . So the general topic uh is about uh interactive table , um disappearing computer",IN1008.
+84.43,84.71,D,Okay,IN1008.
+84.57,85.79,C,", um",IN1008.
+84.71,84.71,D,.,IN1008.
+85.79,100.76,C,what is the other one . Um um na uh in the general fi field of uh collaborative computer supported collaborative learning .,IN1008.
+100.92,101.26,D,Okay .,IN1008.
+101.46,118.36,C,"So the idea is we have different people collaborating uh in a pedagogical purpose . And uh we know that when we put a computer in front of them , uh it doesn't help focusing on collaboration",IN1008.
+117.47,117.74,D,Yeah .,IN1008.
+118.36,139.42,C,". So if we make the computing um functionalities disappearing on on the in the furniture , in the wall or other things like that , we may more efficiently support uh collaboration than the the learning . So I arrived uh in June , something like that , a couple",IN1008.
+139.24,139.71,D,Okay,IN1008.
+139.42,140.03,C,of month,IN1008.
+139.71,139.71,D,.,IN1008.
+140.03,152.16,C,ago . Uh Guillaume and uh Michael uh are two students that are working uh four four months,IN1008.
+151.82,152.0,D,Yeah .,IN1008.
+152.16,154.79,C,to their master project,IN1008.
+153.78,154.14,D,Okay .,IN1008.
+154.79,159.35,C,. And they start working on two uh different uh sub-projects,IN1008.
+158.95,159.16,D,Mm-hmm .,IN1008.
+159.35,166.02,C,. So Guillaume is working on the noise sensitive table . It's uh what we are discussing about uh today .,IN1008.
+166.35,166.71,D,Okay .,IN1008.
+167.12,180.02,C,"So the idea is uh okay , w we have in the lab a notion about um root mirroring . The idea is if we can provide a feedback to people working together",IN1008.
+179.49,179.74,D,Mm-hmm .,IN1008.
+180.02,184.11,C,", uh it may help them self-regulating their activity",IN1008.
+184.0,184.33,D,Okay,IN1008.
+184.11,185.44,C,", their collaboration",IN1008.
+184.33,184.33,D,.,IN1008.
+185.44,196.77,C,. So could be normative or not . In our own case we want to have uh a table that would be accessible by by students . Uh at O_P_F_L_ we are uh,IN1008.
+199.152,200.87,D,. Ok okay,IN1008.
+200.83,201.14,C,At,IN1008.
+200.87,200.87,D,.,IN1008.
+201.14,211.46,C,O_P_F_L_ uh the learning centre will be built in a couple of uh years . So the idea we we will have plenty of rooms uh like in libraries or meeting rooms,IN1008.
+211.13,211.41,D,Mm-hmm .,IN1008.
+211.46,230.04,C,"where student will arrive and work . So if we have this table uh that is accesi accessible to students if they arrive , if we provide a feedback of um who is talking , um instantly the uh at one moment or uh through time or the turn taking",IN1008.
+229.94,230.13,D,Mm,IN1008.
+230.04,230.22,C,", uh",IN1008.
+230.13,230.13,D,.,IN1008.
+230.22,238.46,C,"maybe they will just by seeing an explicit uh feedback of that , they will um take profit uh of it and um",IN1008.
+238.81,244.64,D,So do you know uh which way you give the feedback ? Light or I saw,IN1008.
+244.29,244.89,C,Yes,IN1008.
+244.64,244.97,D,something,IN1008.
+244.89,244.89,C,.,IN1008.
+244.97,245.38,D,like that,IN1008.
+245.34,245.72,A,Okay,IN1008.
+245.38,245.38,D,.,IN1008.
+245.72,256.27,A,", uh for for uh the noise sensitive table project um we decided to um to take the noise uh as input",IN1008.
+255.78,256.13,D,Okay .,IN1008.
+256.27,260.42,A,", and uh give a feedback uh with LEDs on the table",IN1008.
+260.35,260.57,D,Hmm,IN1008.
+260.42,260.69,A,. So,IN1008.
+260.57,260.57,D,.,IN1008.
+260.69,264.56,A,this is uh one of the the possibilities that were,IN1008.
+264.35,264.6,D,Hmm,IN1008.
+264.56,264.87,A,offered,IN1008.
+264.6,264.6,D,.,IN1008.
+264.87,268.46,A,to us . But uh we decided to do to do uh it this way .,IN1008.
+269.29,274.58,C,The idea is to have uh peripher peripherical uh information,IN1008.
+274.45,274.84,D,Mm-hmm,IN1008.
+274.58,274.88,C,. We don't,IN1008.
+274.84,274.84,D,.,IN1008.
+274.88,283.05,C,"want people to focus on uh what's going on , uh what on the feedback . So we don't want histogram or very precise information",IN1008.
+282.64,282.81,D,Mm .,IN1008.
+283.05,288.91,C,. But we will uh have LEDs that will be distant . There will be six centimetres between each LED,IN1008.
+288.87,289.23,D,Okay,IN1008.
+288.91,289.32,C,with a,IN1008.
+289.23,289.23,D,.,IN1008.
+289.32,301.52,C,"blurring glass . The idea is to have more um a kind of uh art , artistic uh feedback , to have a kind of general feeling of what's going on . Something about",IN1008.
+301.71,302.05,D,Okay .,IN1008.
+302.88,303.58,C,Uh dance .,IN1008.
+303.95,318.15,B,"Well I guess it's just a restriction we took . So so we don't uh the m amount of money we have to spend . Otherwise we could have uh we could imagine to have a whole table of of uh s well , of L_E_D_s",IN1008.
+317.67,317.93,D,Yeah .,IN1008.
+318.15,326.31,B,. And then y you can really start to to some regions of the table . So,IN1008.
+325.15,326.64,D,"Maybe more complex , yeah",IN1008.
+326.31,327.33,B,yeah,IN1008.
+326.64,326.94,D,. Yeah .,IN1008.
+327.33,327.33,B,.,IN1008.
+328.74,328.98,D,So,IN1008.
+328.78,329.12,A,"Yes , the",IN1008.
+328.98,329.13,D,th,IN1008.
+329.12,333.92,A,the first uh the first idea of the project uh was to have um the whole table covered by LEDs .,IN1008.
+334.02,340.85,D,Hmm . But yeah,IN1008.
+335.9,337.72,A,But uh for the prototype,IN1008.
+337.64,337.92,C,For,IN1008.
+337.72,338.07,A,of this,IN1008.
+337.92,338.56,C,practical,IN1008.
+338.07,339.75,A,isn't,IN1008.
+338.56,339.3,C,reasons .,IN1008.
+339.75,341.08,A,this is not the,IN1008.
+340.85,340.85,D,.,IN1008.
+341.08,342.95,A,the way we implement it now,IN1008.
+342.88,343.33,D,To,IN1008.
+342.95,345.11,A,. But,IN1008.
+343.33,345.76,D,the border basically some distance,IN1008.
+345.11,345.97,A,uh in fact,IN1008.
+345.76,345.99,D,? Or,IN1008.
+345.97,347.18,A,we have a,IN1008.
+346.45,347.63,C,We kept uh one,IN1008.
+347.18,347.83,A,there was,IN1008.
+347.63,347.98,C,paper,IN1008.
+347.83,348.92,A,th,IN1008.
+347.98,348.32,C,sheet .,IN1008.
+348.92,349.45,A,"yes , th",IN1008.
+349.43,349.62,D,Okay,IN1008.
+349.45,349.81,A,there was,IN1008.
+349.62,350.52,D,. O okay,IN1008.
+349.81,350.55,A,the the,IN1008.
+350.52,350.52,D,.,IN1008.
+350.55,358.76,A,"restriction that if we cover the le the table with LEDs , uh some won't be visible because uh you have uh",IN1008.
+357.85,358.59,D,"Obviously , yeah .",IN1008.
+358.76,368.03,A,yes . So um if there is information displayed under the the sheets uh the it won't be um,IN1008.
+367.88,368.32,D,Okay,IN1008.
+368.03,368.36,A,very,IN1008.
+368.32,368.32,D,.,IN1008.
+368.36,373.81,A,"useful . So we decided to have it uh yes , thirty centimetre",IN1008.
+372.88,373.19,D,Okay .,IN1008.
+373.7,374.13,C,So,IN1008.
+373.81,374.57,A,uh,IN1008.
+374.13,374.69,C,uh the,IN1008.
+374.57,375.12,A,at,IN1008.
+374.69,375.32,C,first,IN1008.
+375.12,375.34,A,each,IN1008.
+375.32,375.58,C,shape,IN1008.
+375.34,375.59,A,side,IN1008.
+375.58,375.7,C,of,IN1008.
+375.59,375.59,A,.,IN1008.
+375.7,380.87,C,the table the shape of the table obviously is one of the factor on that will change the collaboration,IN1008.
+380.63,380.86,D,Hmm .,IN1008.
+380.87,390.46,C,. So uh but we don't want to start with too many parameters . So we start with a table that is approximatively the tab uh of the table where we are now,IN1008.
+389.85,390.12,D,Yeah .,IN1008.
+390.46,396.64,C,. And we will have uh a square shape like this that will be here and a second one that would be there,IN1008.
+396.52,396.69,D,Yeah,IN1008.
+396.64,396.83,C,. So,IN1008.
+396.69,396.69,D,.,IN1008.
+396.83,399.81,C,we will have something like this,IN1008.
+398.99,399.33,D,Okay .,IN1008.
+399.81,403.1,C,. Like this . That will be the our first uh real prototype .,IN1008.
+403.32,403.54,D,Right .,IN1008.
+405.81,414.94,C,Okay . And the so this L_E_D_ modules are being uh designed uh now . We should have them in a couple of,IN1008.
+414.62,415.18,A,weeks,IN1008.
+414.94,416.38,C,weeks,IN1008.
+415.18,415.18,A,.,IN1008.
+415.53,415.81,D,Hmm .,IN1008.
+416.38,428.12,C,. And uh we will be able to uh start uh evaluating uh the prototypes . Uh uh about the C_S_C_W_ class,IN1008.
+427.4,427.52,D,Mm .,IN1008.
+428.12,441.76,C,", that will start at the end at the beginning of November . Uh so the student will be asked to design uh a table . So to find the shape uh of the table to get uh who the and put that uh on",IN1008.
+441.68,442.02,D,Okay,IN1008.
+441.76,442.52,C,the um,IN1008.
+442.02,442.02,D,.,IN1008.
+442.52,451.74,C,on table uh legs . And we will uh so at the beginning we wanted to put this L_E_D_ modules uh in the tables,IN1008.
+451.48,451.74,D,Mm-hmm .,IN1008.
+451.74,475.58,C,". But we won't make it because uh for solidity reason of the table . You know , it's not very uh strong uh wood . Um so we will rather beam uh the L_E_D_ on the table . So we come back to a more richer display . B but we will um restrict it to a small uh to have the same display",IN1008.
+475.44,475.65,B,Oh,IN1008.
+475.58,476.12,C,. LED,IN1008.
+475.65,476.56,B,let's,IN1008.
+476.12,476.84,C,lights,IN1008.
+476.56,476.56,B,.,IN1008.
+476.84,481.6,C,uh that will be distant uh six centimetres between LEDs,IN1008.
+481.2,481.55,D,Okay .,IN1008.
+481.574,481.574,A,.,IN1008.
+481.6,482.15,C,. So we will,IN1008.
+481.94,483.44,A,This is,IN1008.
+482.15,483.27,C,simulate our,IN1008.
+483.44,486.71,A,for prac practical reason and uh also,IN1008.
+486.5,488.02,D,But don't,IN1008.
+486.71,488.04,A,a matter of time . Because uh,IN1008.
+488.02,488.83,D,yeah . Don't,IN1008.
+488.68,489.02,B,Does,IN1008.
+488.83,494.6,D,you think with a beam also you have less problems with the sheets,IN1008.
+494.21,494.71,A,Yes . But,IN1008.
+494.6,495.04,D,? Or,IN1008.
+494.71,495.53,A,uh th there,IN1008.
+495.04,495.56,D,you don't want,IN1008.
+495.53,495.77,A,are,IN1008.
+495.56,496.04,D,to do that,IN1008.
+495.77,496.31,A,o,IN1008.
+496.04,496.04,D,.,IN1008.
+496.31,498.2,A,"other problems , like um",IN1008.
+498.02,498.39,D,Yeah,IN1008.
+498.2,498.53,A,yes,IN1008.
+498.39,498.39,D,.,IN1008.
+498.53,501.35,A,", the the information display on the sheets . So we",IN1008.
+501.32,501.77,D,Okay,IN1008.
+501.35,501.95,A,don't know if,IN1008.
+501.77,501.77,D,.,IN1008.
+501.95,502.28,A,it's,IN1008.
+503.5,503.65,C,And,IN1008.
+503.62,504.12,D,Confusing,IN1008.
+503.65,504.46,C,we have,IN1008.
+504.12,504.92,D,", yeah",IN1008.
+504.42,506.03,A,Yes,IN1008.
+504.46,505.37,C,yeah,IN1008.
+504.92,505.19,D,. Hmm .,IN1008.
+505.37,506.11,C,. And we,IN1008.
+506.03,506.42,A,. True,IN1008.
+506.11,506.85,C,have the feeling,IN1008.
+506.42,506.42,A,.,IN1008.
+506.85,514.3,C,"that to have the information embedded in the table , make it part of the table , it I don't know , we'll",IN1008.
+514.2,514.62,D,Okay,IN1008.
+514.3,514.62,C,we we,IN1008.
+514.62,514.71,D,. No,IN1008.
+514.62,514.79,C,will,IN1008.
+514.71,514.86,D,", it's",IN1008.
+514.79,515.21,C,try,IN1008.
+514.86,515.39,D,a choice,IN1008.
+515.21,516.85,C,uh,IN1008.
+515.39,515.64,D,. Yeah .,IN1008.
+516.85,523.64,C,we don't really know what uh will happen with this prototype . We are very excited about that,IN1008.
+522.0,522.35,D,Okay .,IN1008.
+523.64,529.37,C,". Okay , uh maybe before uh going on on this subject we can talk talk a little bit",IN1008.
+529.26,529.56,B,Yeah,IN1008.
+529.37,529.56,C,on,IN1008.
+529.56,529.7,B,", I",IN1008.
+529.56,529.82,C,uh,IN1008.
+529.7,532.05,B,can just explain my project,IN1008.
+531.06,531.27,D,Mm-hmm .,IN1008.
+532.05,534.57,B,". It's completely different from this one . Well , it's",IN1008.
+534.21,534.47,D,Yeah .,IN1008.
+534.57,541.82,B,"also about tables , but the idea is if uh uh the several students come to a table with their laptops",IN1008.
+541.43,541.69,D,Mm-hmm .,IN1008.
+541.82,546.15,B,", they should be able to to share information easily",IN1008.
+545.4,545.78,D,Okay .,IN1008.
+546.15,554.11,B,". And uh in fact w what we we are doing now , we project um another screen on on the table",IN1008.
+553.27,553.49,D,Yep .,IN1008.
+554.11,562.52,B,", and different people are are are able to use their their mouse of their laptop to go to the to the project screen there",IN1008.
+562.22,562.56,D,Okay,IN1008.
+562.52,562.95,B,and,IN1008.
+562.56,562.56,D,.,IN1008.
+562.95,568.13,B,uh the project screen is just another Windows machine that is running,IN1008.
+567.57,567.95,D,Yeah .,IN1008.
+568.13,574.74,B,". So you just have another f computer more or less you can use , but you can use it with your your own mouse and keyboard .",IN1008.
+574.76,578.26,D,But physically it's just uh something flat,IN1008.
+578.05,578.66,B,Exactly,IN1008.
+578.26,578.8,D,on the table,IN1008.
+578.66,578.66,B,.,IN1008.
+578.8,579.59,D,"again , yeah .",IN1008.
+579.79,579.95,C,Huh .,IN1008.
+581.11,585.52,B,But uh in contrary to to having al another keyboard and mouse that,IN1008.
+585.26,585.61,D,Okay,IN1008.
+585.52,585.82,B,only,IN1008.
+585.61,585.61,D,.,IN1008.
+585.82,592.9,B,"one person can use , now the different persons can use the the screen um at the same time with the with the mouse .",IN1008.
+593.12,593.52,D,Okay .,IN1008.
+593.88,599.45,C,So based on the fact that most of the P_F_L_ student have their own laptop,IN1008.
+598.81,599.07,D,Yeah .,IN1008.
+599.45,612.44,C,"uh the idea is the similar idea uh is to okay , people are coming on a should be able to very easily uh use some um resources offered to them",IN1008.
+612.24,612.63,D,Okay,IN1008.
+612.44,612.68,C,. So,IN1008.
+612.63,612.63,D,.,IN1008.
+612.68,618.95,C,"so the idea is to help them socialising , organising their own work",IN1008.
+618.88,619.2,D,Hmm,IN1008.
+618.95,619.24,C,", and",IN1008.
+619.2,619.2,D,.,IN1008.
+619.24,624.32,C,"uh not in a classroom setting , but in a social place where they could gather .",IN1008.
+625.05,630.7,D,"Okay . Yeah , so it's different , but still uh yeah , it's",IN1008.
+630.46,630.76,B,I'll,IN1008.
+630.7,631.09,D,same,IN1008.
+630.76,633.3,B,s still the same subjects . It's,IN1008.
+632.82,633.13,D,Okay .,IN1008.
+633.3,635.09,B,it's collaborative work . But uh,IN1008.
+635.76,636.7,C,Different directions,IN1008.
+636.7,636.89,B,It,IN1008.
+636.7,636.7,C,.,IN1008.
+636.78,637.28,D,Okay,IN1008.
+636.89,637.41,B,has nothing,IN1008.
+637.28,637.28,D,.,IN1008.
+637.41,639.96,B,to do with uh audio processing,IN1008.
+639.7,640.88,D,Yeah,IN1008.
+639.96,640.92,B,and uh,IN1008.
+640.88,640.88,D,.,IN1008.
+640.92,643.94,B,L_E_D_ . So,IN1008.
+642.82,643.23,D,Okay .,IN1008.
+644.27,652.48,C,Okay . So uh maybe we can focus a little uh uh bit more on the what we have done about uh the noise sensitive table,IN1008.
+651.5,651.75,D,Yeah .,IN1008.
+652.48,663.84,C,. Tell you about uh what we're interested in on the so we start so Guillaume started by uh developing the application that,IN1008.
+663.53,663.84,D,Mm-hmm .,IN1008.
+663.84,674.46,C,get the audio input . So we want it to have a modular architecture to be able to improve each uh layer separately,IN1008.
+674.02,674.38,D,Okay .,IN1008.
+674.46,682.76,C,". So the audio input uh is quite basic , no ? We u we use uh sound cards to to get",IN1008.
+682.5,682.75,D,Mm-hmm .,IN1008.
+682.76,691.17,C,"uh the signals and to detect to uh on to ha and we have a threshold to detect uh when someone is talking , at least when",IN1008.
+691.06,691.38,D,Okay,IN1008.
+691.17,691.73,C,the noise,IN1008.
+691.38,691.38,D,.,IN1008.
+691.73,695.59,C,is uh at uh is bigger that uh specific levels,IN1008.
+695.38,695.61,D,Mm-hmm,IN1008.
+695.59,695.59,C,.,IN1008.
+695.61,695.61,D,.,IN1008.
+696.4,725.54,C,"And then we get this information about people talking , not talking , and to say okay uh , this one is talking for X_ time or uh has been talking uh X_ percent of the five last minutes . Or two people are talking together . So this is more semantic uh layer . Uh we call that interaction uh models . And uh uh so when different conditions are trigger are detected , we trigger on the interaction event",IN1008.
+724.93,725.16,D,Mm-hmm .,IN1008.
+725.54,729.52,C,. So very simple one could be one person is talking,IN1008.
+729.46,730.14,D,Yeah,IN1008.
+729.52,731.07,C,. So,IN1008.
+730.14,730.35,D,", yeah .",IN1008.
+731.07,732.59,C,it's uh the easy one .,IN1008.
+732.75,737.27,A,And there is uh a lot of programmes now about this implementation . Is it's not,IN1008.
+737.09,737.61,C,It's still,IN1008.
+737.27,737.98,A,uh it's,IN1008.
+737.61,740.04,C,in progress,IN1008.
+737.98,740.07,A,not obvious . Hmm,IN1008.
+740.04,740.39,C,. Still,IN1008.
+740.07,740.47,A,? Still,IN1008.
+740.39,740.48,C,in,IN1008.
+740.47,740.55,A,in,IN1008.
+740.48,741.22,C,progress,IN1008.
+740.55,741.8,A,progress,IN1008.
+741.22,741.22,C,.,IN1008.
+741.4,741.97,B,Anyway,IN1008.
+741.8,742.09,A,. Almost,IN1008.
+741.97,742.59,B,", uh",IN1008.
+742.09,742.38,A,done .,IN1008.
+742.59,750.06,B,I think the the details of the implementation is not that important . It's more important that first we want to to have some events like two,IN1008.
+749.97,750.32,D,Hmm,IN1008.
+750.06,750.44,B,people,IN1008.
+750.32,750.32,D,.,IN1008.
+750.44,752.55,B,are talking or one,IN1008.
+752.05,752.26,D,Right .,IN1008.
+752.55,757.52,B,one started and another started and uh well,IN1008.
+757.33,757.69,D,Hmm,IN1008.
+757.52,757.82,B,", more",IN1008.
+757.69,757.69,D,.,IN1008.
+757.82,761.45,B,"or less broke into the speech of the first person , and so on",IN1008.
+761.13,761.6,D,Okay,IN1008.
+761.45,761.62,B,. And,IN1008.
+761.6,761.6,D,.,IN1008.
+761.62,765.11,B,then you can start to visualise these uh different situations .,IN1008.
+765.32,765.5,C,So,IN1008.
+765.35,765.55,D,Right,IN1008.
+765.5,765.63,C,the,IN1008.
+765.55,765.55,D,.,IN1008.
+765.63,782.47,C,"last layer is about this visualisation . W we will uh we are thinking about the visual grammar , meaning that when we have an interaction event that is uh fired , we uh will associate uh a way of visuali visualising",IN1008.
+782.43,782.77,D,Mm-hmm,IN1008.
+782.47,782.8,C,it,IN1008.
+782.77,782.77,D,.,IN1008.
+782.8,792.64,C,". So for instance if someone is talking , uh we can just have a light that will centre on the point that is uh close to him",IN1008.
+792.1,792.27,D,Mm-hmm .,IN1008.
+792.64,801.02,C,. That could be an uh instant uh feedback . And if he has been talking maybe seventy percent of the last five minutes,IN1008.
+800.61,801.03,D,Or too,IN1008.
+801.02,801.22,C,", as",IN1008.
+801.03,801.88,D,long,IN1008.
+801.22,803.98,C,"me , uh",IN1008.
+801.88,804.53,D,. Oh,IN1008.
+802.41,802.63,A,Mm-hmm .,IN1008.
+803.98,804.62,C,uh it,IN1008.
+804.53,804.76,D,", just",IN1008.
+804.62,804.83,C,it,IN1008.
+804.76,805.07,D,kidding,IN1008.
+804.83,805.22,C,may be,IN1008.
+805.07,805.07,D,.,IN1008.
+805.22,810.93,C,reflected as the um intensity or size of a s a cycle,IN1008.
+810.85,811.24,D,Okay,IN1008.
+810.93,810.93,C,.,IN1008.
+811.24,811.24,D,.,IN1008.
+811.69,813.26,C,Centre on the same point,IN1008.
+813.2,813.42,D,Yeah,IN1008.
+813.26,813.42,C,. And,IN1008.
+813.42,813.42,D,.,IN1008.
+813.42,820.98,C,"then if there's turn taking , we can show waves of light going from uh me to you uh or from other people . Or",IN1008.
+820.78,820.88,D,Yeah .,IN1008.
+820.98,826.49,C,using the centre part of the table to show some something more about the um uh,IN1008.
+826.47,826.87,D,Right,IN1008.
+826.49,827.34,C,more general,IN1008.
+826.87,826.87,D,.,IN1008.
+827.34,828.26,C,uh dynamic .,IN1008.
+829.66,832.96,B,Well that's uh I guess it's first prototype i,IN1008.
+832.7,832.96,D,Mm-hmm .,IN1008.
+832.96,846.43,B,you see we start with uh people two people talk or and don't and don't they . Uh afterwards uh one could imagine that you for example you can detect that someone is a bit angry or is,IN1008.
+846.43,846.73,D,Yeah,IN1008.
+846.43,847.71,B,uh yelling,IN1008.
+846.73,846.73,D,.,IN1008.
+847.71,848.59,B,. And wi with,IN1008.
+848.5,848.72,C,Or,IN1008.
+848.59,848.92,B,different,IN1008.
+848.72,849.21,C,laughing,IN1008.
+848.92,849.85,B,colours,IN1008.
+849.21,849.21,C,.,IN1008.
+849.85,855.79,B,with uh with different colours on on table you could uh display this this uh,IN1008.
+854.98,857.03,D,"Ah , so you ha you",IN1008.
+855.79,857.03,B,give some feedback . But,IN1008.
+857.03,857.24,D,you,IN1008.
+857.03,857.3,B,uh,IN1008.
+857.24,859.13,D,might have multiple colours ? Or,IN1008.
+858.76,859.06,A,Yes .,IN1008.
+859.08,859.78,B,Yep,IN1008.
+859.13,860.39,D,yeah,IN1008.
+859.32,859.72,C,Yes .,IN1008.
+859.78,860.31,B,. That's uh,IN1008.
+860.39,861.43,D,". Sorry , didn't get that .",IN1008.
+861.82,872.89,C,In uh we can change inte so we have uh eight by eight uh two times LEDs . Each uh LED is actually three LEDs um . Th uh,IN1008.
+872.88,873.85,D,Yeah,IN1008.
+872.89,874.03,C,M_G_B_ LED . And,IN1008.
+873.85,874.06,D,. Yeah,IN1008.
+874.03,874.12,C,we,IN1008.
+874.06,874.06,D,.,IN1008.
+874.12,875.57,C,can change the intensity,IN1008.
+875.51,875.78,D,Alright,IN1008.
+875.57,876.2,C,. So it's,IN1008.
+875.78,875.78,D,.,IN1008.
+876.2,878.42,C,already quite a rich uh feedback .,IN1008.
+879.07,879.51,D,Okay,IN1008.
+879.18,879.63,B,Once we,IN1008.
+879.51,879.51,D,.,IN1008.
+879.63,882.41,B,get the hardware,IN1008.
+880.94,881.97,D,Yeah,IN1008.
+881.05,882.69,C,Yes,IN1008.
+881.97,881.97,D,. .,IN1008.
+882.41,882.41,B,.,IN1008.
+882.69,893.08,C,. And just a last thing . So this table is uh two different things . It's uh one object that will uh g provide a feedback to the terminal users,IN1008.
+892.86,893.24,D,Mm-hmm,IN1008.
+893.08,893.36,C,", people",IN1008.
+893.24,893.24,D,.,IN1008.
+893.36,895.58,C,collaborating around uh the table,IN1008.
+895.51,895.72,D,Right,IN1008.
+895.58,895.8,C,. But,IN1008.
+895.72,895.72,D,.,IN1008.
+895.8,905.47,C,it also a tool for us as a researcher to test uh both the interaction event we want to detect,IN1008.
+905.2,905.43,D,Mm-hmm .,IN1008.
+905.47,908.87,C,and to test the visualisation . So,IN1008.
+908.4,908.78,D,Okay .,IN1008.
+908.87,923.07,C,um we will be able to edit some uh interaction rules and the visualisation uh grammar . And uh we will be able to process to post-process some conversation just to see what happens and,IN1008.
+922.69,923.0,D,Mm-hmm .,IN1008.
+923.07,930.14,C,to uh have these um models on feedback working when people are using the table .,IN1008.
+930.5,933.77,D,Okay . Hmm .,IN1008.
+937.13,937.63,C,So I think,IN1008.
+937.59,937.67,D,No,IN1008.
+937.63,937.77,C,it,IN1008.
+937.67,937.8,D,", it's",IN1008.
+937.77,938.03,C,was,IN1008.
+937.8,938.36,D,quite clear .,IN1008.
+939.05,939.21,B,Mm .,IN1008.
+941.27,946.51,D,So uh I guess you want to know what you could do with an array maybe ?,IN1008.
+946.61,947.26,C,Yes,IN1008.
+947.2,947.9,A,Mm,IN1008.
+947.26,947.26,C,.,IN1008.
+947.9,948.7,A,yes .,IN1008.
+948.74,955.3,B,Yes . Everything from um multi switch administration of uh audio and how,IN1008.
+955.13,955.37,D,Mm-hmm,IN1008.
+955.3,955.39,B,you,IN1008.
+955.37,955.37,D,.,IN1008.
+955.39,956.88,B,can uh,IN1008.
+956.87,957.05,A,Yes,IN1008.
+956.88,957.48,B,analyse,IN1008.
+957.05,957.52,A,. Uh,IN1008.
+957.48,961.14,B,"it , uh what information you can get out of speech and so on . So",IN1008.
+961.52,961.87,D,Yeah .,IN1008.
+961.92,968.93,A,I have one or or two question . I don't know if you want to to begin with the the explanation about the the release .,IN1008.
+970.39,971.89,C,Um Maybe we could,IN1008.
+971.75,973.29,D,Or,IN1008.
+971.89,973.59,C,summarise the question we,IN1008.
+973.29,973.78,D,yeah,IN1008.
+973.59,973.92,C,were,IN1008.
+973.78,974.78,D,. Yeah,IN1008.
+973.92,974.62,C,thinking about .,IN1008.
+974.78,975.78,D,". Yeah , it's good",IN1008.
+975.69,976.38,A,O,IN1008.
+975.78,976.7,D,idea,IN1008.
+976.38,976.66,A,okay .,IN1008.
+976.7,978.12,D,. Just give some questions uh,IN1008.
+978.42,988.25,A,So um I have actually two questions that are uh just practical question abo about my um my implementation now,IN1008.
+987.77,988.0,D,Mm-hmm .,IN1008.
+988.25,988.66,A,. Uh,IN1008.
+988.32,988.91,C,So basically,IN1008.
+988.66,989.71,A,i,IN1008.
+988.91,991.84,C,"what we want we want to know when A_ is talking , B_",IN1008.
+991.65,991.9,A,No,IN1008.
+991.84,991.98,C,is,IN1008.
+991.9,991.9,A,.,IN1008.
+991.98,992.97,C,talking and uh,IN1008.
+994.07,994.28,D,Right .,IN1008.
+994.93,996.79,C,Basic information we need,IN1008.
+996.43,996.82,A,So,IN1008.
+996.79,996.79,C,. .,IN1008.
+996.82,1002.78,A,and the first information is um about the the noise level . N,IN1008.
+1002.32,1002.56,D,Mm-hmm .,IN1008.
+1002.78,1010.94,A,"not the noise level , the sound level . Uh because uh what you get from from the microphones is uh a curve",IN1008.
+1010.47,1010.69,D,Mm .,IN1008.
+1010.94,1019.69,A,". And um a way the way uh it is implemented now uh to detect yes , you have a uh I",IN1008.
+1019.61,1019.71,D,Mm-hmm,IN1008.
+1019.69,1019.94,A,have,IN1008.
+1019.71,1019.71,D,.,IN1008.
+1019.94,1031.82,A,packets uh for uh let's say uh this is uh this is uh not uh fixed . But uh I have packets for about um uh alpha second . So,IN1008.
+1031.82,1032.2,D,Okay,IN1008.
+1031.82,1032.2,A,it's uh,IN1008.
+1032.2,1032.2,D,.,IN1008.
+1032.2,1039.16,A,"second . And uh on these packets I want to know the the sound level , the average sound level",IN1008.
+1038.06,1038.35,D,Mm-hmm .,IN1008.
+1039.16,1047.43,A,. So uh the way I do it now is uh to to take uh each top of the curves' bottoms and,IN1008.
+1047.3,1047.43,D,Yeah .,IN1008.
+1047.43,1050.26,A,uh just making leverage this .,IN1008.
+1050.62,1050.87,D,Mm-hmm .,IN1008.
+1051.82,1058.46,A,But I don't know if it's it's not really um the best way to do it . But I don't know uh if,IN1008.
+1058.78,1060.9,D,You mean the top of the wave-form,IN1008.
+1060.55,1060.8,A,Yes .,IN1008.
+1060.9,1061.22,D,? Okay .,IN1008.
+1061.71,1075.17,B,"Probably it's uh it's f be a good idea if you have s two uh with um with source like uh books or web page centre . Give a lot of information how it is audio programming and so on works , cetera",IN1008.
+1074.55,1074.81,D,Yeah .,IN1008.
+1075.17,1079.67,B,. Maybe you you know some at least a good book that's uh dealing with this stuff .,IN1008.
+1080.3,1080.67,D,Oh,IN1008.
+1081.06,1083.79,C,Maybe we can uh go through the different questions and then,IN1008.
+1083.76,1085.09,A,Okay,IN1008.
+1083.79,1084.82,C,you can organise,IN1008.
+1084.76,1084.91,B,Mm-hmm,IN1008.
+1084.82,1084.99,C,your,IN1008.
+1084.91,1084.91,B,.,IN1008.
+1084.99,1086.54,C,own,IN1008.
+1085.09,1085.99,A,. So this is,IN1008.
+1085.56,1085.91,D,Okay .,IN1008.
+1085.99,1086.58,A,this the the,IN1008.
+1086.54,1086.77,C,? Um,IN1008.
+1086.58,1086.81,A,first,IN1008.
+1086.77,1086.91,C,I,IN1008.
+1086.81,1087.21,A,question,IN1008.
+1086.91,1087.42,C,would just,IN1008.
+1087.21,1087.21,A,.,IN1008.
+1087.42,1096.51,C,add something . Uh we are not interested so much in sound level but uh in the level of uh the sound that corresponds to voice .,IN1008.
+1097.67,1097.89,D,Hmm,IN1008.
+1097.76,1098.17,A,Yes,IN1008.
+1097.89,1097.89,D,.,IN1008.
+1098.17,1104.88,A,. But I think uh this is two different problems . Uh the filtering must be must be done before .,IN1008.
+1105.37,1106.46,C,"Mm-mm . Okay , it",IN1008.
+1106.45,1106.59,A,And,IN1008.
+1106.46,1106.6,C,was,IN1008.
+1106.59,1106.82,A,after,IN1008.
+1106.6,1106.86,C,just,IN1008.
+1106.82,1107.03,A,that,IN1008.
+1106.86,1107.09,C,a,IN1008.
+1107.03,1111.32,A,uh if you have uh a cleaned curve and you can uh,IN1008.
+1111.16,1111.32,D,Hmm .,IN1008.
+1111.32,1111.98,A,just apply,IN1008.
+1111.68,1113.33,C,Okay,IN1008.
+1111.98,1114.08,A,uh functionally,IN1008.
+1113.33,1113.77,C,. Go on .,IN1008.
+1114.08,1121.01,A,. And uh the second question was about um uh filtering and uh F_F_T_,IN1008.
+1119.88,1120.19,D,Mm-hmm .,IN1008.
+1121.01,1123.2,A,"yeah , what you can get from it . Uh",IN1008.
+1123.82,1124.2,D,Okay .,IN1008.
+1126.5,1128.29,C,And I would add uh,IN1008.
+1128.14,1128.48,A,general,IN1008.
+1128.29,1128.56,C,one,IN1008.
+1128.48,1128.99,A,questions,IN1008.
+1128.56,1129.52,C,more,IN1008.
+1128.99,1128.99,A,.,IN1008.
+1129.52,1137.91,C,. It's about um because what we can uh record is uh sound uh origins . So in po uh so,IN1008.
+1137.82,1138.2,A,Okay,IN1008.
+1137.91,1138.4,C,no,IN1008.
+1138.2,1138.2,A,.,IN1008.
+1138.4,1140.11,C,sonic points,IN1008.
+1139.93,1140.1,D,Yeah .,IN1008.
+1140.11,1144.08,C,. But what we are interested in is people,IN1008.
+1143.73,1144.02,D,Yeah .,IN1008.
+1144.08,1149.46,C,". So the question is if someone is moving , I'm talking",IN1008.
+1149.28,1149.52,D,Hmm,IN1008.
+1149.46,1150.49,C,here,IN1008.
+1149.52,1149.52,D,.,IN1008.
+1150.49,1162.8,C,", I stop talking , I'm going here , I'm talking . How to detect that it's the same people . If we want to uh integrate information to say these people has uh spoken seventy percent of the time in the five last minutes",IN1008.
+1162.61,1162.98,D,Okay,IN1008.
+1162.8,1163.37,C,. Obviously,IN1008.
+1162.98,1162.98,D,.,IN1008.
+1163.37,1176.54,C,we need to uh to know that it's the same people . So right now our practical solution is to have one uh microphone close to um every place where people are supposed to sit,IN1008.
+1176.43,1176.82,D,Mm-hmm,IN1008.
+1176.54,1176.92,C,. So we,IN1008.
+1176.82,1176.82,D,.,IN1008.
+1176.92,1182.43,C,"can infer that if a sound is coming in this area , it's the same . So kind of trick . But",IN1008.
+1182.34,1183.2,A,Mm-hmm,IN1008.
+1182.43,1183.61,C,for the beginning,IN1008.
+1183.2,1184.04,A,. Uh o,IN1008.
+1183.61,1184.16,C,it's enough,IN1008.
+1184.04,1184.26,A,yes,IN1008.
+1184.16,1184.16,C,.,IN1008.
+1184.26,1198.88,A,", I will just add something . Um is there a way to uh to from one uh from one stream",IN1008.
+1198.53,1198.73,D,Yeah .,IN1008.
+1198.88,1205.96,A,to uh to build two streams that correspond to the the voice of one people and the voice of the second,IN1008.
+1205.18,1206.9,D,"Yeah , yeah . Okay",IN1008.
+1205.96,1206.23,A,? the,IN1008.
+1206.9,1207.87,D,. Separation uh,IN1008.
+1207.97,1208.27,A,Yes .,IN1008.
+1209.59,1211.79,B,And is possible to do this in real time .,IN1008.
+1213.01,1213.29,D,Yeah .,IN1008.
+1213.76,1214.34,B,That's uh,IN1008.
+1216.65,1233.98,C,"And a last question that is related t uh our last if I not find another one , um About people , if someone is leaving or if someone uh maybe it would be something ev uh",IN1008.
+1233.89,1234.17,D,Hmm,IN1008.
+1233.98,1234.27,C,quite,IN1008.
+1234.17,1234.17,D,.,IN1008.
+1234.27,1240.15,C,"complex even for you . If someone is staying here , but is quiet",IN1008.
+1239.43,1239.67,D,Mm-hmm .,IN1008.
+1240.15,1243.94,C,"or leaving , how can we detect that someone is here but quiet ? Okay .",IN1008.
+1245.12,1247.47,D,Well you need a camera,IN1008.
+1247.06,1247.87,C,I know,IN1008.
+1247.47,1248.02,D,. Obviously,IN1008.
+1247.87,1248.15,C,. But,IN1008.
+1248.02,1250.98,D,. I,IN1008.
+1248.15,1250.63,C,how to integrate the information ? Uh,IN1008.
+1250.98,1252.18,D,mean will you have a camera ?,IN1008.
+1252.5,1253.22,A,No,IN1008.
+1252.89,1253.21,B,No .,IN1008.
+1253.22,1254.66,A,. And,IN1008.
+1253.27,1254.83,C,Not not yet,IN1008.
+1254.66,1254.87,A,it,IN1008.
+1254.83,1255.11,C,. Maybe,IN1008.
+1254.87,1255.11,A,it this,IN1008.
+1255.11,1255.49,C,later,IN1008.
+1255.11,1256.33,A,is not uh,IN1008.
+1255.49,1255.78,C,on . But,IN1008.
+1255.97,1257.26,D,Maybe you can detect breathing .,IN1008.
+1258.44,1260.8,C,"Oh , the wait and the sit .",IN1008.
+1261.17,1266.69,D,"Yeah . Yeah , that you could do . Or on the table uh there should be well .",IN1008.
+1267.18,1267.18,C,.,IN1008.
+1267.38,1270.17,B,"Yeah , but what happens if o someone is standing then ?",IN1008.
+1270.58,1275.31,C,Or putting his bag on the okay . But it was just to,IN1008.
+1275.18,1275.59,D,Okay,IN1008.
+1275.31,1275.91,C,it's a question,IN1008.
+1275.59,1275.72,D,uh,IN1008.
+1275.91,1278.79,C,. I'm not sure we will talk too much about that today .,IN1008.
+1279.41,1283.38,A,a sound question . Sound related question .,IN1008.
+1283.48,1286.69,D,Okay .,IN1008.
+1287.45,1289.97,C,Uh not directly . But it's uh related .,IN1008.
+1290.46,1292.56,D,Mm . Well,IN1008.
+1292.66,1299.65,C,So in a couple of days we will get this um uh the fire-wire uh box,IN1008.
+1299.06,1299.38,D,Okay .,IN1008.
+1299.65,1304.79,C,. So we will we have chosen one that has eight uh line up,IN1008.
+1304.29,1304.55,D,Mm-hmm .,IN1008.
+1304.79,1305.6,C,. So we'll be able,IN1008.
+1305.44,1305.64,A,Line,IN1008.
+1305.6,1305.7,C,to,IN1008.
+1305.64,1305.86,A,in,IN1008.
+1305.7,1306.66,C,have,IN1008.
+1305.86,1305.86,A,.,IN1008.
+1306.66,1316.17,C,"line in , sorry . So we will be able to plug uh up to eight uh microphones with uh jack plugs",IN1008.
+1315.46,1315.77,D,Okay .,IN1008.
+1316.17,1322.47,C,to exhale air with the possibility of extending with eight more X_L_R_ uh microphone,IN1008.
+1322.25,1322.91,D,So you,IN1008.
+1322.47,1323.05,C,with another,IN1008.
+1322.91,1323.2,D,I think,IN1008.
+1323.05,1323.56,C,box,IN1008.
+1323.2,1323.64,D,Guillaume said,IN1008.
+1323.56,1323.56,C,.,IN1008.
+1323.64,1325.68,D,"that's optic , something like that ? Or",IN1008.
+1325.53,1325.97,A,Uh,IN1008.
+1325.72,1325.93,B,Yeah .,IN1008.
+1325.97,1328.16,A,yes . The the communication between the,IN1008.
+1328.05,1329.61,D,Okay,IN1008.
+1328.16,1329.68,A,the extension and,IN1008.
+1329.61,1329.82,D,. So,IN1008.
+1329.68,1330.25,A,is,IN1008.
+1329.82,1330.41,D,you you need,IN1008.
+1330.25,1330.5,A,uh,IN1008.
+1330.41,1331.55,D,a different,IN1008.
+1330.5,1331.0,A,of the .,IN1008.
+1331.55,1334.94,D,"you need a microphone with um a device inside , right ?",IN1008.
+1335.45,1337.83,B,"No , no , no . In fact uh",IN1008.
+1336.61,1337.14,D,Ho how does it,IN1008.
+1337.12,1337.22,A,No,IN1008.
+1337.14,1337.55,D,work,IN1008.
+1337.22,1338.12,A,", no , no . Uh",IN1008.
+1337.55,1337.55,D,?,IN1008.
+1337.83,1338.15,B,that's,IN1008.
+1338.12,1338.39,A,okay,IN1008.
+1338.15,1338.57,B,uh it's,IN1008.
+1338.39,1338.39,A,.,IN1008.
+1338.57,1340.55,B,"another thing , this optic . Well uh",IN1008.
+1340.46,1340.66,C,So,IN1008.
+1340.55,1340.7,B,m,IN1008.
+1340.66,1340.87,C,we,IN1008.
+1340.7,1341.03,B,we have,IN1008.
+1340.87,1348.09,C,"ha we have the computer , we have the the main box with the eight line ins",IN1008.
+1346.75,1348.34,A,And the fire-wire port,IN1008.
+1348.01,1348.35,D,Okay,IN1008.
+1348.09,1348.35,C,. And,IN1008.
+1348.34,1348.6,A,. And,IN1008.
+1348.35,1348.35,D,.,IN1008.
+1348.35,1349.27,C,it's fire-wire,IN1008.
+1348.6,1349.64,A,there is an extension,IN1008.
+1349.27,1349.27,C,.,IN1008.
+1349.64,1353.22,A,for this this uh this device,IN1008.
+1352.72,1352.97,D,Yeah .,IN1008.
+1353.22,1354.1,A,connected to,IN1008.
+1354.09,1354.42,C,It,IN1008.
+1354.1,1354.65,A,it,IN1008.
+1354.42,1355.18,C,is optic,IN1008.
+1354.65,1355.57,A,uh with uh,IN1008.
+1355.18,1355.18,C,.,IN1008.
+1355.57,1356.27,A,optic fibre .,IN1008.
+1356.49,1357.04,C,To have,IN1008.
+1356.74,1357.02,B,Ye,IN1008.
+1357.04,1359.58,C,eight more X_L_R_ if we need it,IN1008.
+1359.53,1359.9,D,Okay,IN1008.
+1359.58,1359.96,C,. But we,IN1008.
+1359.9,1359.9,D,.,IN1008.
+1359.96,1362.62,C,are not sure to to buy it now . But we can extend,IN1008.
+1362.3,1362.67,D,Mm,IN1008.
+1362.62,1362.79,C,it,IN1008.
+1362.67,1362.67,D,.,IN1008.
+1362.79,1362.79,C,.,IN1008.
+1363.12,1366.16,B,"Actually , it's not really an extension to the first box , just",IN1008.
+1365.87,1366.37,C,That's uh,IN1008.
+1366.16,1368.93,B,an indu industry standard uh,IN1008.
+1368.59,1368.81,D,Hmm .,IN1008.
+1368.93,1370.88,B,uh protocol between these two uh,IN1008.
+1371.29,1374.45,D,"It's another fire-wire or not fire-wire , but um",IN1008.
+1374.4,1376.59,B,Well well there's a special protocol to,IN1008.
+1376.35,1376.59,D,Okay .,IN1008.
+1376.59,1379.38,B,to deliver uh audio signals and uh,IN1008.
+1379.33,1380.21,D,But,IN1008.
+1379.38,1380.31,B,its path through,IN1008.
+1380.21,1381.79,D,concretely,IN1008.
+1380.31,1381.44,B,uh o um,IN1008.
+1381.79,1384.55,D,you would use that to get higher quality signals ?,IN1008.
+1385.31,1387.18,A,Yes,IN1008.
+1385.95,1386.53,D,Y that's all .,IN1008.
+1387.1,1387.37,B,Well,IN1008.
+1387.17,1387.77,C,Yes,IN1008.
+1387.18,1387.68,A,. Uh,IN1008.
+1387.358,1387.358,D,.,IN1008.
+1387.37,1387.74,B,actually,IN1008.
+1387.68,1388.09,A,yes,IN1008.
+1387.74,1387.99,B,", just",IN1008.
+1387.77,1388.02,C,. Well,IN1008.
+1387.99,1388.38,B,to have,IN1008.
+1388.09,1388.09,A,.,IN1008.
+1388.38,1391.16,B,the the ICSLA e uh,IN1008.
+1390.75,1390.99,D,Yeah,IN1008.
+1390.77,1391.19,C,We are not,IN1008.
+1390.99,1390.99,D,.,IN1008.
+1391.16,1391.59,B,possibly,IN1008.
+1391.19,1391.9,C,sure about,IN1008.
+1391.59,1391.93,B,to to,IN1008.
+1391.9,1392.18,C,what,IN1008.
+1391.93,1392.25,B,branch,IN1008.
+1392.18,1392.39,C,kind,IN1008.
+1392.25,1392.88,B,ICSLA,IN1008.
+1392.39,1393.02,C,of microphone,IN1008.
+1392.88,1392.88,B,.,IN1008.
+1393.02,1394.61,C,we should use,IN1008.
+1393.81,1394.76,D,"Ah okay , okay",IN1008.
+1394.61,1394.91,C,. So,IN1008.
+1394.76,1394.76,D,.,IN1008.
+1394.91,1400.39,C,we wanted to uh that's a first thing . So we wanted to have open possibilities . And secondly,IN1008.
+1399.7,1399.82,D,Yeah .,IN1008.
+1400.39,1413.52,C,", maybe we will use this box , you know , to get uh data . I don't know if in another experiment , maybe in another project , if we want to have comments of different people around the table or o elsewhere",IN1008.
+1413.32,1413.49,D,Yeah .,IN1008.
+1413.52,1419.48,C,. Uh getting uh having the possibility of using X_L_R_ microphone could be uh uh could be neat,IN1008.
+1419.35,1419.85,D,Hmm,IN1008.
+1419.48,1420.13,C,. So,IN1008.
+1419.85,1419.85,D,.,IN1008.
+1420.13,1420.49,C,everything,IN1008.
+1420.33,1420.56,A,Be,IN1008.
+1420.49,1420.59,C,is,IN1008.
+1420.56,1420.81,A,because,IN1008.
+1420.59,1421.0,C,open,IN1008.
+1420.81,1421.22,A,for now,IN1008.
+1421.0,1421.0,C,.,IN1008.
+1421.22,1432.71,A,uh I'm just sampling the sound that uh eight thousand . So uh just uh something very very rel I could uh even uh go to lower,IN1008.
+1432.6,1432.91,D,Okay,IN1008.
+1432.71,1433.42,A,. But uh,IN1008.
+1432.91,1432.91,D,.,IN1008.
+1433.42,1438.36,A,"this is just to get the the s the noise , the sound level",IN1008.
+1438.15,1438.54,D,And how,IN1008.
+1438.36,1439.45,A,. But uh if I want to,IN1008.
+1439.39,1439.65,D,Hmm,IN1008.
+1439.45,1439.86,A,record,IN1008.
+1439.65,1439.65,D,.,IN1008.
+1439.86,1445.49,A,the conversation with uh uh a processing,IN1008.
+1445.0,1445.55,D,Hmm,IN1008.
+1445.49,1445.8,A,after,IN1008.
+1445.55,1446.01,D,. You mean,IN1008.
+1445.8,1445.86,A,th,IN1008.
+1446.01,1448.53,D,you meant eight kilo uh sampling frequency ?,IN1008.
+1448.8,1455.18,A,"Yes , to to have a better sound quality . Uh perhaps it's better to have a X_ array , yeah",IN1008.
+1454.88,1455.1,D,Yeah .,IN1008.
+1455.18,1455.9,A,. Something like that .,IN1008.
+1456.65,1461.63,D,Uh we use sixteen . So that's eight kilo band-width . Sixteen,IN1008.
+1461.53,1461.97,A,Yes,IN1008.
+1461.63,1462.13,D,kilo,IN1008.
+1461.97,1461.97,A,.,IN1008.
+1462.13,1465.97,D,uh sampling frequency . It it's not bad . Uh,IN1008.
+1465.478,1465.478,A,.,IN1008.
+1465.97,1466.68,D,it's quite decent .,IN1008.
+1466.9,1467.19,A,Okay .,IN1008.
+1467.97,1478.71,D,Um Mm f before answering the questions uh th there's also a point of uh precision of localization if you use an array,IN1008.
+1477.88,1478.22,A,Mm-hmm .,IN1008.
+1478.71,1484.46,D,. So if you use higher frequencies you can get more precise localization,IN1008.
+1483.65,1486.12,A,"Sure , sure",IN1008.
+1484.46,1485.74,D,. But maybe you don't need it .,IN1008.
+1486.12,1491.61,A,. But uh what is the the gain ? In terms of uh position ?,IN1008.
+1492.82,1495.15,D,Uh that I can't answer directly .,IN1008.
+1495.96,1498.37,A,Uh uh uh centimetres or uh more ?,IN1008.
+1499.21,1501.94,D,"Uh it depends on your set-up , you know . Um",IN1008.
+1501.39,1501.65,A,Okay .,IN1008.
+1501.94,1503.67,D,you have to test basically .,IN1008.
+1504.7,1511.39,A,M uh what you get is uh the real position or uh just uh the angle at which the the sound comes ?,IN1008.
+1511.55,1517.06,D,Um Y you get uh the angle,IN1008.
+1516.71,1516.91,A,Mm-hmm .,IN1008.
+1517.06,1522.07,D,. The most precise one is the asymmet in the horizontal plane,IN1008.
+1520.73,1520.98,A,Mm-hmm .,IN1008.
+1522.07,1528.56,D,. Then you also get elevation . But it's not very precise . It's more of an indication . And radius is very bad .,IN1008.
+1529.05,1529.35,A,Okay .,IN1008.
+1530.22,1532.48,D,If you use a planar geometry like this one .,IN1008.
+1533.39,1533.93,A,"Yes , sure .",IN1008.
+1534.21,1542.2,D,Yeah . Um you can use multiple ones and do some um um triangulation,IN1008.
+1542.04,1543.37,A,Yes,IN1008.
+1542.2,1542.2,D,.,IN1008.
+1543.2,1543.33,B,Hmm .,IN1008.
+1543.37,1549.08,A,. Uh because uh there there is just um four microphones that are,IN1008.
+1548.34,1549.63,D,"Eight , eight",IN1008.
+1549.08,1549.42,A,eight .,IN1008.
+1549.63,1551.41,D,. These are only screws,IN1008.
+1551.19,1551.45,A,Okay,IN1008.
+1551.41,1551.96,D,. Microphones,IN1008.
+1551.45,1552.13,A,", yes . Okay",IN1008.
+1551.96,1552.43,D,are,IN1008.
+1552.13,1552.57,A,", but there",IN1008.
+1552.43,1552.67,D,on,IN1008.
+1552.57,1552.74,A,are,IN1008.
+1552.67,1554.55,D,bottom,IN1008.
+1552.74,1555.21,A,in uh in a plan,IN1008.
+1554.55,1555.19,D,". Yeah , yeah .",IN1008.
+1555.21,1561.2,A,. Okay . Because uh at at T_P_F_N_ there is a lab that is uh has done almost the same thing,IN1008.
+1560.88,1561.15,D,Mm-hmm .,IN1008.
+1561.2,1571.01,A,". But they have uh eight microphone that are uh at uh yes , the eight um the eight uh uh cor corner of uh",IN1008.
+1570.97,1571.03,D,A,IN1008.
+1571.01,1571.12,A,a,IN1008.
+1571.03,1571.63,D,cube,IN1008.
+1571.12,1571.78,A,cube,IN1008.
+1571.63,1572.01,D,? Okay,IN1008.
+1571.78,1572.08,A,", yes",IN1008.
+1572.01,1572.01,D,.,IN1008.
+1572.08,1572.08,A,.,IN1008.
+1573.51,1582.1,D,"Yeah , then you might get uh better direction in elevation . But I'm not sure it's really relevant",IN1008.
+1581.71,1582.27,C,"No , we are not",IN1008.
+1582.1,1583.32,D,. Um,IN1008.
+1582.27,1582.44,C,very,IN1008.
+1582.28,1582.47,A,The,IN1008.
+1582.44,1582.92,C,interested,IN1008.
+1582.47,1582.95,A,elevation,IN1008.
+1582.92,1583.12,C,in,IN1008.
+1582.95,1583.89,A,", no",IN1008.
+1583.12,1583.12,C,.,IN1008.
+1583.32,1583.87,D,no,IN1008.
+1583.34,1583.73,B,No .,IN1008.
+1583.87,1584.54,D,. So,IN1008.
+1583.89,1590.95,A,". But uh what is could be relevant , it's not uh almost it's not always the case with the the um",IN1008.
+1591.36,1592.91,D,Uh if people move forward,IN1008.
+1592.89,1593.51,A,Yes,IN1008.
+1592.91,1593.14,D,", yeah .",IN1008.
+1593.51,1597.2,A,", the the position , the the radius of the",IN1008.
+1597.37,1599.03,D,"Ah , the radius",IN1008.
+1598.82,1599.48,A,Yes,IN1008.
+1599.03,1599.62,D,? Th then,IN1008.
+1599.48,1599.81,A,", it could",IN1008.
+1599.62,1599.82,D,the r,IN1008.
+1599.81,1600.07,A,be,IN1008.
+1599.82,1600.38,D,the problem,IN1008.
+1600.07,1600.07,A,.,IN1008.
+1600.38,1605.55,D,"is not the geometry , it's the um I you need more than one basically .",IN1008.
+1606.14,1606.84,A,"Yes , okay .",IN1008.
+1607.3,1609.01,D,With one you will only get direction .,IN1008.
+1609.69,1610.62,C,More than one,IN1008.
+1610.74,1612.57,D,Microphone array,IN1008.
+1612.55,1612.77,A,Yes,IN1008.
+1612.57,1613.69,D,. So,IN1008.
+1612.77,1614.26,A,. Because um,IN1008.
+1613.44,1613.79,B,Uh-huh .,IN1008.
+1614.26,1620.93,A,because i the um the distance between the the microphone is too uh,IN1008.
+1619.26,1619.98,C,Mm-mm mm-mm,IN1008.
+1619.76,1619.93,D,Mm .,IN1008.
+1619.98,1619.98,C,.,IN1008.
+1620.93,1621.81,A,is too low to,IN1008.
+1621.78,1622.3,C,Okay,IN1008.
+1621.88,1622.64,B,Well,IN1008.
+1622.3,1622.3,C,.,IN1008.
+1622.64,1626.35,B,uh so you say this one already works to uh to tell the the,IN1008.
+1626.21,1627.05,D,Direction,IN1008.
+1626.35,1627.39,B,direction,IN1008.
+1627.05,1627.23,D,", yeah .",IN1008.
+1627.39,1634.13,B,. Um would it also work if you placed uh the microphones at at the border of the table,IN1008.
+1633.68,1634.37,D,Um,IN1008.
+1634.13,1636.94,B,"? You see , now you you have it quite central",IN1008.
+1636.49,1636.78,D,Yeah .,IN1008.
+1636.94,1642.56,B,. And uh what happens if if you put them here on around the table ? Would it work as well ? Or,IN1008.
+1642.9,1647.16,D,"It's a different option , yeah . Um",IN1008.
+1645.85,1647.62,B,You just didn't try ? Or,IN1008.
+1647.16,1652.47,D,we haven't tried that because we are not going to have the special kind of table,IN1008.
+1652.17,1652.49,B,Mm-hmm,IN1008.
+1652.31,1652.45,A,Mm-hmm .,IN1008.
+1652.47,1653.23,D,. More,IN1008.
+1652.49,1652.49,B,.,IN1008.
+1653.23,1659.22,D,"uh this is not a good example but we have like a box , just bring the box and put it",IN1008.
+1658.96,1659.27,B,Yeah,IN1008.
+1659.22,1659.36,D,. So,IN1008.
+1659.27,1659.27,B,.,IN1008.
+1659.36,1662.7,D,it uh we could not consider that,IN1008.
+1662.57,1662.73,B,Yeah,IN1008.
+1662.7,1662.85,D,. But,IN1008.
+1662.73,1662.98,B,", it is",IN1008.
+1662.85,1663.28,D,in your,IN1008.
+1662.98,1663.35,B,clear,IN1008.
+1663.28,1663.6,D,case,IN1008.
+1663.35,1663.67,B,", this",IN1008.
+1663.6,1663.76,D,it,IN1008.
+1663.67,1663.67,B,.,IN1008.
+1663.76,1668.82,D,"could be interesting , yeah . Unless people put something on the microphone",IN1008.
+1667.9,1668.37,A,"Yes , sure .",IN1008.
+1668.82,1670.3,D,. But um,IN1008.
+1670.53,1674.32,C,They won't have nice light uh lighting on in front of them .,IN1008.
+1675.88,1676.2,D,Yeah,IN1008.
+1675.97,1676.52,A,Yes,IN1008.
+1676.14,1676.52,C,they,IN1008.
+1676.16,1676.41,B,No,IN1008.
+1676.2,1676.2,D,.,IN1008.
+1676.41,1676.41,B,.,IN1008.
+1676.52,1676.72,C,would,IN1008.
+1676.52,1676.89,A,", but I",IN1008.
+1676.72,1677.39,C,maybe,IN1008.
+1676.89,1678.12,A,think the,IN1008.
+1677.39,1677.75,C,careful .,IN1008.
+1678.12,1686.29,A,the most relevant part is the um the other uh the hardware that synchronize the microphones and that .,IN1008.
+1686.46,1687.95,D,Right . But,IN1008.
+1687.73,1687.93,C,But,IN1008.
+1687.95,1693.28,D,that I'm I think after the meeting we can go and talk to Olivier about that,IN1008.
+1692.35,1692.67,C,Okay .,IN1008.
+1692.87,1693.16,A,Yes,IN1008.
+1693.09,1693.63,B,Mm-hmm,IN1008.
+1693.16,1693.16,A,.,IN1008.
+1693.28,1693.69,D,. I'm not the,IN1008.
+1693.63,1693.63,B,.,IN1008.
+1693.69,1695.25,D,person for hardware .,IN1008.
+1695.61,1695.8,B,No .,IN1008.
+1695.85,1699.33,C,So maybe w uh you could present a different work uh,IN1008.
+1699.12,1699.4,D,Yeah,IN1008.
+1699.33,1699.5,C,you,IN1008.
+1699.4,1699.4,D,.,IN1008.
+1699.5,1702.59,C,have done . And uh I don't know how they are .,IN1008.
+1703.13,1707.15,D,"Yeah , I'll t I'll try to present uh I guess it corresponds to your questions .",IN1008.
+1708.63,1710.88,C,"So you told us it was different pieces , more",IN1008.
+1710.71,1710.98,D,Yeah,IN1008.
+1710.88,1711.18,C,than,IN1008.
+1710.98,1710.98,D,.,IN1008.
+1711.18,1712.69,C,one integrated device,IN1008.
+1712.41,1712.97,D,So the,IN1008.
+1712.69,1712.69,C,.,IN1008.
+1712.97,1722.91,D,the lowest layer would be the first two questions . Um you asked about how to detect um activity . Currently,IN1008.
+1722.55,1722.84,A,Yes .,IN1008.
+1722.91,1725.78,D,"you're thresholding the t maximum of your wave-form , right .",IN1008.
+1726.36,1729.31,A,Mm not maximum . The the average on the,IN1008.
+1729.13,1729.37,D,Ah,IN1008.
+1729.14,1729.47,C,Oh,IN1008.
+1729.31,1729.39,A,on,IN1008.
+1729.37,1730.04,D,", ah",IN1008.
+1729.39,1729.52,A,the,IN1008.
+1729.47,1729.53,C,uh,IN1008.
+1729.52,1729.91,A,packets .,IN1008.
+1730.04,1733.09,D,. Okay . And you're looking for a peak .,IN1008.
+1734.03,1735.49,A,"Uh yes , the",IN1008.
+1735.26,1735.45,D,Yeah .,IN1008.
+1735.49,1740.47,A,the I take the the b I g when I go up to the the curve uh,IN1008.
+1740.21,1740.38,D,Yeah .,IN1008.
+1740.47,1743.69,A,I'm uh on the at the local maximum,IN1008.
+1743.28,1743.52,D,Yeah .,IN1008.
+1743.69,1746.79,A,. I take it . Then the next uh,IN1008.
+1746.63,1747.0,D,Hmm,IN1008.
+1746.79,1747.16,A,local,IN1008.
+1747.0,1747.0,D,.,IN1008.
+1747.16,1751.13,A,minimum and uh taking this uh,IN1008.
+1750.24,1750.71,D,Okay .,IN1008.
+1751.13,1751.33,C,What,IN1008.
+1751.13,1751.35,A,this,IN1008.
+1751.33,1751.5,C,would,IN1008.
+1751.35,1752.42,A,range,IN1008.
+1751.5,1752.6,C,be the d difference,IN1008.
+1752.42,1752.68,A,", doing",IN1008.
+1752.6,1752.88,C,between,IN1008.
+1752.68,1753.1,A,average,IN1008.
+1752.88,1753.51,C,detecting,IN1008.
+1753.1,1753.38,A,on it .,IN1008.
+1753.51,1755.52,C,the average or detecting the maximum ?,IN1008.
+1756.51,1757.33,D,Uh,IN1008.
+1757.31,1759.4,A,Yes . Difference,IN1008.
+1758.98,1759.61,C,What what,IN1008.
+1759.4,1759.4,A,.,IN1008.
+1759.61,1761.48,C,would be the difference ? What is the,IN1008.
+1761.47,1762.14,A,Difference,IN1008.
+1761.48,1761.88,C,difference ?,IN1008.
+1762.14,1764.43,A,is uh is that if I just uh,IN1008.
+1764.59,1766.06,C,It's a kind of filtering already ?,IN1008.
+1766.44,1767.44,D,Yeah,IN1008.
+1766.54,1767.39,A,Mm yes .,IN1008.
+1767.44,1774.38,D,". Yeah . And your second question uh was about F_F_T_ , what can be done with F_F_T_",IN1008.
+1773.11,1773.37,A,Yes .,IN1008.
+1774.38,1785.49,D,. So um the approach we're taking here is to answer both questions the same time . We use F_F_T_ to do detection . We don't,IN1008.
+1785.37,1785.69,A,Okay,IN1008.
+1785.49,1785.87,D,use,IN1008.
+1785.69,1785.69,A,.,IN1008.
+1785.87,1789.27,D,"the wave-form , the raw wave-form . So",IN1008.
+1789.04,1790.25,A,A,IN1008.
+1789.27,1789.92,D,um,IN1008.
+1790.25,1792.81,A,you have uh you have fifteen implementations . Uh,IN1008.
+1793.32,1798.02,D,We split um we split the signal in small frames,IN1008.
+1797.98,1798.36,A,Yes,IN1008.
+1798.02,1798.74,D,", like sixteen",IN1008.
+1798.36,1798.36,A,.,IN1008.
+1798.74,1800.71,D,millisecond,IN1008.
+1800.15,1801.66,C,Sixty,IN1008.
+1800.19,1800.5,A,Okay .,IN1008.
+1800.71,1801.43,D,. Sixteen .,IN1008.
+1801.66,1801.97,C,? Okay,IN1008.
+1801.78,1802.25,A,Sixteen,IN1008.
+1801.97,1801.97,C,.,IN1008.
+1802.25,1802.25,A,.,IN1008.
+1803.07,1810.38,D,"Um each frame is taking thirty two millisecond of signal , just to give an idea . And",IN1008.
+1809.99,1810.23,C,again .,IN1008.
+1810.38,1812.93,D,"there is a one frame every sixteen millisecond , and they",IN1008.
+1812.9,1813.18,C,Uh-huh,IN1008.
+1812.93,1813.79,D,overlap,IN1008.
+1813.18,1813.18,C,.,IN1008.
+1813.79,1814.83,D,of fifty percent .,IN1008.
+1815.48,1815.89,C,Okay .,IN1008.
+1817.67,1818.45,D,Um,IN1008.
+1818.78,1821.82,C,So it's thirty two millisecond frames,IN1008.
+1821.61,1822.74,D,Yeah,IN1008.
+1821.82,1822.63,C,taken each,IN1008.
+1822.74,1829.6,D,. Each sixteen millisecond . Well th these are details . It's just to give,IN1008.
+1829.06,1830.82,C,An idea,IN1008.
+1829.6,1831.17,D,an idea,IN1008.
+1830.82,1831.6,C,. So something,IN1008.
+1831.17,1831.8,D,. Um,IN1008.
+1831.6,1834.31,C,like that . So why are you overlapping ?,IN1008.
+1836.51,1838.0,D,Well it's uh the,IN1008.
+1837.76,1838.02,C,I have,IN1008.
+1838.0,1838.35,D,the,IN1008.
+1838.02,1838.44,C,a rough,IN1008.
+1838.35,1838.38,D,c,IN1008.
+1838.44,1840.23,C,idea . But uh,IN1008.
+1840.11,1840.85,D,Because,IN1008.
+1840.23,1841.35,C,what is the main interest,IN1008.
+1840.85,1841.53,D,usually when,IN1008.
+1841.35,1841.35,C,?,IN1008.
+1841.53,1847.99,D,"you do F_F_T_ , y if I'm getting into details , but you you apply um a window",IN1008.
+1847.36,1847.76,C,Mm-hmm .,IN1008.
+1847.99,1851.87,D,to avoid effect . So the beginning and the end,IN1008.
+1851.18,1852.0,C,"Yeah , and it's",IN1008.
+1851.87,1852.8,D,it,IN1008.
+1852.0,1852.84,C,kind of crappy,IN1008.
+1852.8,1852.91,D,it,IN1008.
+1852.84,1852.84,C,.,IN1008.
+1852.91,1855.55,D,"i it's not crappy , it's just not very much rep",IN1008.
+1855.12,1856.6,C,Precise,IN1008.
+1855.55,1856.88,D,represented because,IN1008.
+1856.6,1858.31,C,. Okay,IN1008.
+1856.88,1858.87,D,you apply um,IN1008.
+1858.31,1858.7,C,. Okay .,IN1008.
+1858.87,1860.5,D,"a window which has this shape , having",IN1008.
+1860.47,1860.61,C,Mm,IN1008.
+1860.5,1861.86,D,window,IN1008.
+1860.61,1862.27,C,mm mm . So you use,IN1008.
+1861.86,1863.12,D,. So they're very,IN1008.
+1862.27,1863.31,C,the first and,IN1008.
+1863.12,1863.49,D,yeah,IN1008.
+1863.31,1863.63,C,last,IN1008.
+1863.49,1863.49,D,.,IN1008.
+1863.63,1865.93,C,point to detect what is between .,IN1008.
+1866.96,1872.52,D,"No , I'm saying uh when you take your signal you take one frame , you apply the window",IN1008.
+1871.45,1871.78,C,Mm-hmm .,IN1008.
+1872.52,1880.31,D,", uh and the window is simply uh coefficients you give . And you give higher coefficient to the middle than to",IN1008.
+1879.93,1880.27,A,Sure .,IN1008.
+1880.31,1882.13,D,the extreme,IN1008.
+1880.6,1880.97,C,Mm-mm .,IN1008.
+1882.13,1884.84,D,. So if you don't do overlap,IN1008.
+1884.59,1885.04,B,You lose,IN1008.
+1884.84,1885.52,D,y,IN1008.
+1885.04,1886.02,B,information,IN1008.
+1885.52,1886.62,D,you will lose,IN1008.
+1886.02,1886.25,B,. Um .,IN1008.
+1886.62,1887.5,D,information,IN1008.
+1887.07,1887.42,C,Okay .,IN1008.
+1887.5,1888.54,D,at the beginning and the end .,IN1008.
+1889.94,1890.67,A,"Okay , okay .",IN1008.
+1891.19,1894.56,D,Okay . But you don't have to do overlap . I mean uh it's um,IN1008.
+1895.52,1903.73,A,"Yes , and then I just uh because uh we are using um uh an open s an open source framework",IN1008.
+1903.62,1903.87,D,Hmm,IN1008.
+1903.73,1903.95,A,to do,IN1008.
+1903.87,1903.87,D,.,IN1008.
+1903.95,1910.78,A,"this , there is uh something , I don't know if you know i know it , uh calls Sphinx",IN1008.
+1910.14,1911.66,D,Um,IN1008.
+1910.78,1913.28,A,", that is doing uh",IN1008.
+1911.66,1914.18,D,"C_M_U_ , no",IN1008.
+1913.28,1913.76,A,s sorry .,IN1008.
+1914.18,1915.61,D,? Is it from C_M_U_,IN1008.
+1915.6,1916.89,A,Yes,IN1008.
+1915.61,1916.57,D,? Um uh yeah .,IN1008.
+1916.89,1921.09,A,. Doing um voice recognition,IN1008.
+1919.98,1920.62,D,"Yeah , yeah .",IN1008.
+1921.09,1927.46,A,. And uh I just use it for the for the for the microphone and the acquisition,IN1008.
+1926.84,1927.3,D,Right .,IN1008.
+1927.46,1932.99,A,. So uh there is uh already uh an F_F_T_ uh module implemented in it,IN1008.
+1932.18,1932.76,D,"Yeah , yeah .",IN1008.
+1932.99,1935.21,A,. I didn't test it,IN1008.
+1934.68,1934.95,D,Yeah .,IN1008.
+1935.21,1937.75,A,. But um,IN1008.
+1937.3,1940.32,D,F_F_T_ is only a tool . Uh um,IN1008.
+1939.38,1939.64,B,Yeah,IN1008.
+1939.56,1939.73,A,Yes,IN1008.
+1939.64,1939.64,B,.,IN1008.
+1939.73,1939.95,A,", sure .",IN1008.
+1940.32,1949.75,D,uh what we do release a phase domain analysis . We only use the phase between the microphones . Um,IN1008.
+1950.18,1953.15,A,"Y yes , for the for the the position , .",IN1008.
+1953.28,1954.73,D,"Yeah , but also for detection .",IN1008.
+1955.39,1956.58,A,Also for detection,IN1008.
+1956.4,1957.95,D,Yeah,IN1008.
+1956.58,1956.58,A,.,IN1008.
+1957.95,1969.96,D,. Um we have a way so um I don't think I should get into details . But basically the beginning is your signal which you slice into frame . You do F_F_T_,IN1008.
+1969.45,1969.68,A,Mm-hmm .,IN1008.
+1969.96,1983.95,D,"on each mic . And the end is um a number of uh frequency beams which are used by each person , to uh explain roughly",IN1008.
+1983.9,1984.08,C,So,IN1008.
+1983.95,1984.78,D,. S,IN1008.
+1984.08,1984.49,C,you are,IN1008.
+1984.78,1986.2,D,so when you speak,IN1008.
+1985.84,1986.23,C,Mm-hmm,IN1008.
+1986.2,1986.52,D,", speech",IN1008.
+1986.23,1986.23,C,.,IN1008.
+1986.52,1988.12,D,is wide band,IN1008.
+1987.71,1987.95,A,Mm-hmm .,IN1008.
+1988.12,1999.21,D,. So um the more active you are the more band-width you use . So you will get a large value of band-width for people who speak,IN1008.
+1998.28,1998.69,C,Mm-hmm .,IN1008.
+1999.21,2002.93,D,. And uh for the others it will random . It will be a small value .,IN1008.
+2003.61,2006.18,C,Corresponding to breath or a little noise .,IN1008.
+2006.34,2008.18,D,Or just background noise,IN1008.
+2007.85,2008.14,C,'Kay .,IN1008.
+2008.18,2010.86,D,. And so,IN1008.
+2010.52,2011.33,A,"'Kay , yes . Sure",IN1008.
+2010.86,2011.16,D,uh,IN1008.
+2011.33,2011.59,A,. Okay .,IN1008.
+2011.99,2015.19,C,But you're talking about the microphone array here,IN1008.
+2014.93,2015.65,D,Yeah,IN1008.
+2015.19,2015.19,C,?,IN1008.
+2015.65,2019.66,D,". 'Cause one problem if you use energy based methods , which is probably",IN1008.
+2019.52,2019.99,A,Yes,IN1008.
+2019.66,2020.25,D,more,IN1008.
+2019.99,2019.99,A,.,IN1008.
+2020.25,2027.49,D,"uh the thing you've been using so far , is that it's not um quite related to location",IN1008.
+2026.96,2027.15,A,No .,IN1008.
+2027.49,2031.59,D,. So you can have um uh,IN1008.
+2029.92,2031.21,C,Strong background noise .,IN1008.
+2031.59,2051.36,D,"for one person you can have uh a high energy signal which is difficult to locate , and visa versa . Um I think in your case you're quite interested in the location . So I would advise to um use more uh phase domain methods .",IN1008.
+2052.23,2053.08,C,So phase,IN1008.
+2053.33,2054.02,D,Um,IN1008.
+2053.98,2055.97,B,Well that's something with F_F_T_s .,IN1008.
+2056.19,2057.75,D,"Once you have the fifty , for",IN1008.
+2057.59,2058.07,C,Uh-huh,IN1008.
+2057.75,2058.53,D,each frequency,IN1008.
+2058.07,2058.07,C,.,IN1008.
+2058.53,2060.72,D,you have uh the magnitude,IN1008.
+2060.11,2060.29,B,And,IN1008.
+2060.11,2060.6,C,Uh-huh,IN1008.
+2060.29,2060.98,B,the phase,IN1008.
+2060.6,2060.6,C,.,IN1008.
+2060.72,2062.12,D,and the phase,IN1008.
+2060.98,2060.98,B,.,IN1008.
+2062.05,2062.26,A,Yes,IN1008.
+2062.12,2062.33,D,. So,IN1008.
+2062.26,2062.26,A,.,IN1008.
+2062.33,2062.46,D,you,IN1008.
+2062.42,2062.82,C,Okay,IN1008.
+2062.46,2063.0,D,can compare,IN1008.
+2062.82,2062.82,C,.,IN1008.
+2063.0,2070.84,D,the phase of the microphones . And this is directly linked to the direction of the person . Um,IN1008.
+2071.75,2075.54,B,So the magnitude you don't really use ? Or and for,IN1008.
+2075.54,2076.15,D,Sometimes,IN1008.
+2075.54,2076.21,B,this uh,IN1008.
+2076.15,2083.94,D,"we use it , but not it's not the first thing we use . I know it's a bit counterintuitive . But um maybe I'll go t to the",IN1008.
+2083.92,2084.53,B,Well,IN1008.
+2083.94,2085.22,D,board,IN1008.
+2084.53,2085.84,B,uh,IN1008.
+2085.16,2085.44,A,Okay,IN1008.
+2085.22,2085.47,D,. Yeah,IN1008.
+2085.44,2085.44,A,.,IN1008.
+2085.47,2085.47,D,.,IN1008.
+2085.84,2089.61,B,uh uh I did a speech processing uh course and,IN1008.
+2089.02,2089.31,D,Okay .,IN1008.
+2089.61,2096.82,B,I'm not sure if they a uh they also um mm learns that that . We more used the face than the magnitude . So uh,IN1008.
+2095.92,2096.92,D,"R right , for",IN1008.
+2096.82,2096.99,B,I,IN1008.
+2096.92,2097.27,D,a single,IN1008.
+2096.99,2097.29,B,guess,IN1008.
+2097.27,2097.63,D,channel,IN1008.
+2097.29,2097.85,B,the,IN1008.
+2097.63,2103.7,D,it's not very meaningful . But here it's relative phase between the microphones . So,IN1008.
+2103.34,2103.65,B,Uh-huh .,IN1008.
+2103.7,2106.05,D,uh I'll just try to um,IN1008.
+2106.03,2106.15,A,Y,IN1008.
+2106.05,2106.29,D,s,IN1008.
+2106.15,2106.29,A,you,IN1008.
+2106.29,2107.06,D,summarise,IN1008.
+2106.29,2107.07,A,have to detect uh,IN1008.
+2107.06,2107.06,D,.,IN1008.
+2107.07,2112.83,A,an event on one microphone and uh know when it's happened on uh on the other one,IN1008.
+2112.28,2112.87,D,"No , that's",IN1008.
+2112.83,2113.97,A,. No,IN1008.
+2112.87,2114.61,D,what I don't do,IN1008.
+2113.97,2114.33,A,? Okay .,IN1008.
+2114.61,517.263,D,. Um this would be valid for uh like speech recognition with a single channel . That would be a very good idea . But if you choose to use multiple channels um let's say you have four of them .,IN1008.
+2134.17,2142.73,D,", with F_F_T_ you can just uh , as I said , l look at the phase between the microphones at a given frequency .",IN1008.
+2143.55,2151.04,C,So the phase the time between uh audio signals for um,IN1008.
+2150.79,2151.85,D,Um,IN1008.
+2151.04,2151.97,C,for this microphone,IN1008.
+2151.85,2152.06,D,it,IN1008.
+2151.97,2152.1,C,on,IN1008.
+2152.06,2152.28,D,is,IN1008.
+2152.1,2152.3,C,this,IN1008.
+2152.28,2152.93,D,linked,IN1008.
+2152.3,2152.56,C,microph,IN1008.
+2152.93,2155.15,D,"to this value , yeah",IN1008.
+2153.95,2154.32,C,Okay .,IN1008.
+2155.15,2165.32,D,. Uh basically the time you're mentioning is this value . And this is the frequency . And this is an angle in radians .,IN1008.
+2165.57,2165.81,A,Mm-hmm .,IN1008.
+2166.01,2166.37,C,Okay .,IN1008.
+2167.75,2192.39,D,"So uh F_F_T_ gives you a measure of these values . Uh this , I can point to a paper , uh I don't think this is the right place to explain everything . But will give you if you look at your table , uh what we have developed here is an approach where um th uh you divide the space in sectors .",IN1008.
+2193.69,2193.94,A,Mm-hmm .,IN1008.
+2194.36,2196.81,D,For example ten sectors around the table,IN1008.
+2196.77,2197.16,C,Mm-hmm,IN1008.
+2196.81,2196.81,D,.,IN1008.
+2197.16,2197.16,C,.,IN1008.
+2198.58,2203.3,D,And uh in each sector you will get the value .,IN1008.
+2204.28,2207.32,A,It's related to the number of microphones around,IN1008.
+2206.86,2207.8,D,No,IN1008.
+2207.32,2207.52,A,. No .,IN1008.
+2207.8,2248.95,D,". It's uh application dependent . For example um Well this is not . And on this one you could have a large value . On on on those ones , small values . Uh these are number frequencies which we estimate with several steps from these measures . So to conclude what we are doing is uh we estimate how much of the frequency spectrum you are occupying when you speak , or I am occupying in this direction when I speak",IN1008.
+2248.34,2248.67,A,Okay,IN1008.
+2248.56,2248.69,B,Mm-hmm,IN1008.
+2248.67,2248.67,A,.,IN1008.
+2248.69,2248.69,B,.,IN1008.
+2248.95,2257.17,D,. And it turns out that um this is quite good to do uh detection and localization at the same time .,IN1008.
+2258.83,2259.12,A,Mm-hmm,IN1008.
+2258.91,2259.26,D,Bec,IN1008.
+2259.12,2259.12,A,.,IN1008.
+2259.26,2265.32,D,because you know in a sector space there is uh uh this much activity .,IN1008.
+2265.91,2266.25,C,Mm-hmm .,IN1008.
+2266.62,2269.11,A,"Okay , this is a measure of the activity o okay",IN1008.
+2268.8,2269.47,D,Yeah,IN1008.
+2269.11,2269.11,A,.,IN1008.
+2269.47,2296.15,D,", yeah . Um more recently um I've worked on uh um prolongating this with a more precise direction evaluation to know where in the sector the person is . So that uh that's not much work . Once you have done this , this is can be this can be done quite quickly .",IN1008.
+2297.07,2301.15,B,And what happen uh if two person are talking at the same time ? This,IN1008.
+2301.09,2301.34,D,Then,IN1008.
+2301.15,2301.66,B,it just,IN1008.
+2301.34,2301.48,D,you,IN1008.
+2301.66,2303.56,B,get two sectors that are higher,IN1008.
+2303.23,2303.99,D,"Yeah , y",IN1008.
+2303.56,2304.08,B,than others,IN1008.
+2303.99,2304.11,D,well,IN1008.
+2304.08,2304.39,B,", no",IN1008.
+2304.11,2304.52,D,I I,IN1008.
+2304.39,2304.39,B,?,IN1008.
+2304.52,2308.97,D,use a value . But then you'll get two large values . Yeah . So,IN1008.
+2308.72,2309.27,C,And,IN1008.
+2309.02,2309.37,B,Sounds,IN1008.
+2309.27,2309.38,C,do,IN1008.
+2309.37,2309.37,B,.,IN1008.
+2309.38,2314.85,C,"you get something about the um distance of the guy that is talking , or just a",IN1008.
+2314.82,2315.43,D,No,IN1008.
+2314.85,2315.46,C,direction,IN1008.
+2315.43,2315.63,D,. Just,IN1008.
+2315.46,2315.46,C,?,IN1008.
+2315.63,2316.85,D,direction . Yeah .,IN1008.
+2316.96,2317.25,C,Okay,IN1008.
+2317.17,2317.31,A,Th,IN1008.
+2317.25,2317.25,C,.,IN1008.
+2317.31,2321.15,A,there there is a distance . But it's not very uh very effective .,IN1008.
+2321.99,2323.82,D,"Well , f yeah",IN1008.
+2323.17,2324.09,A,As as you mentioned,IN1008.
+2323.82,2324.46,D,", I it's not",IN1008.
+2324.09,2324.09,A,.,IN1008.
+2324.46,2329.63,D,uh i it's an inherent problem to the geometry you,IN1008.
+2329.53,2329.83,A,It's,IN1008.
+2329.63,2331.35,D,use,IN1008.
+2329.7,2330.08,C,Mm-mm .,IN1008.
+2331.35,2336.24,D,". You can for example , if you use another array , uh",IN1008.
+2335.5,2335.86,C,Mm-hmm .,IN1008.
+2336.24,2338.24,D,you can intersect lines of direction .,IN1008.
+2338.69,2339.07,C,Okay .,IN1008.
+2339.9,2351.82,A,And uh from from this kind of if information you can uh let's say have uh a finger print of the user to know uh if this is the same user speaking .,IN1008.
+2352.57,2353.19,D,Uh,IN1008.
+2354.65,2355.03,A,So,IN1008.
+2356.18,2358.88,D,Mm maybe,IN1008.
+2358.03,2358.64,B,Well,IN1008.
+2358.38,2358.76,A,Not sure,IN1008.
+2358.64,2358.96,B,uh,IN1008.
+2358.76,2359.09,A,. Because,IN1008.
+2358.88,2359.4,D,. Uh,IN1008.
+2358.96,2359.37,B,uh,IN1008.
+2359.09,2359.46,A,the the,IN1008.
+2359.4,2360.7,D,uh,IN1008.
+2359.46,2360.38,A,um,IN1008.
+2360.7,2370.29,D,"I w mm I wouldn't trust it too much . Classically , what you do is you extract the signal of the person",IN1008.
+2369.76,2370.08,A,Okay,IN1008.
+2370.02,2370.35,B,Mm-hmm,IN1008.
+2370.08,2370.08,A,.,IN1008.
+2370.29,2371.12,D,. Um,IN1008.
+2370.35,2370.35,B,.,IN1008.
+2371.12,2387.63,D,"one interesting thing is that these numbers are not uh arbitrary things . They represent the number frequencies where a given person is dominant . But when you have two of them , which might be interesting for separation , you know already when you have done this processing uh",IN1008.
+2387.53,2387.98,A,Which,IN1008.
+2387.63,2396.86,D,w which part of the frequencies of the spectrum um belongs to this person and to that person . And then it's easy to separate the signals .,IN1008.
+2397.49,2398.02,C,You mean that,IN1008.
+2397.75,2398.07,B,Yeah,IN1008.
+2398.02,2398.33,C,each,IN1008.
+2398.07,2398.07,B,.,IN1008.
+2398.33,2402.8,C,person will have a specific frequency because i the way he's talking or,IN1008.
+2402.33,2402.8,A,range,IN1008.
+2402.8,2403.05,C,his,IN1008.
+2402.8,2402.8,A,.,IN1008.
+2403.05,2403.89,C,localization,IN1008.
+2403.78,2404.02,B,No,IN1008.
+2403.89,2403.89,C,?,IN1008.
+2404.02,2404.92,B,", it's more than .",IN1008.
+2405.17,2407.01,D,Um,IN1008.
+2406.15,2407.11,C,It's a kind of uh,IN1008.
+2407.01,2407.21,D,both,IN1008.
+2407.11,2407.57,C,speaking,IN1008.
+2407.21,2407.21,D,.,IN1008.
+2407.57,2408.94,C,styles ? Both,IN1008.
+2408.88,2409.07,B,No,IN1008.
+2408.94,2408.94,C,.,IN1008.
+2409.07,2409.3,B,", it's uh",IN1008.
+2409.46,2412.57,D,It's it's more an instantaneous um,IN1008.
+2412.438,2412.438,A,.,IN1008.
+2412.57,2415.24,D,this is still instantaneous . This is for one time frame .,IN1008.
+2416.75,2417.3,A,"Yes , okay .",IN1008.
+2417.43,2436.64,D,"If you look at all your frequencies for example uh zero to four kilohertz , um you can split it and say uh all these parts belong to person one here . And",IN1008.
+2436.38,2436.61,A,So,IN1008.
+2436.64,2439.56,D,uh all the other parts belong to the other person,IN1008.
+2439.0,2439.66,A,This is this,IN1008.
+2439.56,2439.56,D,.,IN1008.
+2439.66,2447.27,A,is a bit arbitrary . Because uh perhaps uh person two will have uh some frequencies in the range of,IN1008.
+2448.1,2453.92,D,That's correct . But then uh you can look statistically it wi it will be negligible,IN1008.
+2453.48,2453.77,A,Okay .,IN1008.
+2453.92,2457.17,D,um because the r of uh of the difference level .,IN1008.
+2457.56,2463.64,A,"And if you reconstruct the stream from this uh this range , you will uh get something uh that is uh",IN1008.
+2463.35,2466.08,D,"Yeah . It's uh you can listen to it , yeah",IN1008.
+2465.61,2465.89,A,Okay .,IN1008.
+2466.08,2474.3,D,. And then you can do some uh maybe higher level um analysis where you get the pitch of the person or,IN1008.
+2474.44,2474.79,B,Mm-hmm .,IN1008.
+2474.8,2477.84,C,I don't really get your last uh diagram,IN1008.
+2477.1,2477.45,D,This,IN1008.
+2477.84,2481.17,C,", yes . So it's at one given moment still",IN1008.
+2480.58,2481.62,D,"Yeah , yeah",IN1008.
+2481.17,2481.84,C,? Okay,IN1008.
+2481.62,2481.89,D,. And this,IN1008.
+2481.84,2482.1,C,", so",IN1008.
+2481.89,2482.29,D,is,IN1008.
+2482.1,2488.57,C,you can say that f this frequency belongs more to this person and this one more to this one,IN1008.
+2487.61,2488.08,D,Exactly .,IN1008.
+2488.57,2492.61,C,? But some frequency may maybe are not used neither by uh,IN1008.
+2492.31,2492.5,D,Yeah .,IN1008.
+2492.61,2494.42,C,guy the guy one or the guy two .,IN1008.
+2494.71,2500.83,D,Then it's uh random . And that's why you get these values uh,IN1008.
+2500.2,2501.58,C,Okay,IN1008.
+2500.83,2501.6,D,which are random,IN1008.
+2501.58,2501.91,C,. maybe,IN1008.
+2501.6,2501.6,D,.,IN1008.
+2501.91,2503.83,C,they are using the same frequency,IN1008.
+2503.73,2504.85,D,Yeah,IN1008.
+2503.83,2504.75,C,. so you need to s,IN1008.
+2504.85,2507.22,D,". Yeah , but this is very rare",IN1008.
+2506.55,2506.85,C,Okay .,IN1008.
+2507.22,2511.08,D,". And when it happens , one is always masking the other",IN1008.
+2510.84,2511.18,C,Okay,IN1008.
+2511.08,2513.02,D,in practice,IN1008.
+2511.18,2512.92,C,. Okay .,IN1008.
+2513.02,2514.05,D,. So um,IN1008.
+2514.41,2522.66,C,And can you detect if someone is laughing or angry d uh there is kind of signature uh even if,IN1008.
+2522.29,2522.72,D,Yeah,IN1008.
+2522.66,2522.85,C,we,IN1008.
+2522.72,2522.72,D,.,IN1008.
+2522.85,2524.27,C,can't really trust it uh,IN1008.
+2524.22,2524.38,D,No,IN1008.
+2524.27,2524.63,C,uh,IN1008.
+2524.38,2524.95,D,no . But,IN1008.
+2524.63,2525.04,C,s,IN1008.
+2524.95,2526.25,D,uh,IN1008.
+2525.04,2526.31,C,one hundred percent of the time,IN1008.
+2526.25,2526.5,D,I've,IN1008.
+2526.31,2526.46,C,. Uh,IN1008.
+2526.5,2543.73,D,"I've seen quite a few papers I I've n not done it myself . I'm really on the lowest level . Um but uh once you have done this , as I said , you can uh separate the signals and um",IN1008.
+2545.02,2546.74,C,And do processing,IN1008.
+2546.22,2547.29,D,do,IN1008.
+2546.74,2547.09,C,on it .,IN1008.
+2547.29,2548.5,D,do processing . Uh,IN1008.
+2549.96,2550.34,C,Okay .,IN1008.
+2550.74,2555.23,D,"so uh you can get pitch , rate of speech . That's quite",IN1008.
+2555.06,2555.46,C,Pitch,IN1008.
+2555.23,2555.66,D,easy,IN1008.
+2555.46,2555.46,C,.,IN1008.
+2555.66,2557.64,D,. Pitch um,IN1008.
+2557.33,2557.67,C,It is,IN1008.
+2557.64,2559.07,D,the,IN1008.
+2557.67,2557.83,C,pitch .,IN1008.
+2558.09,2559.51,B,I'll show you this afterwards,IN1008.
+2559.07,2559.58,D,uh,IN1008.
+2559.51,2559.51,B,.,IN1008.
+2559.58,2561.83,D,uh timbre en Francais,IN1008.
+2560.78,2561.41,C,Li okay .,IN1008.
+2561.83,2576.81,D,". Um so uh for different person this might be quite different . At least for male females . And uh rate of speech . Like if somebody is talking very uh in a very energetic manner , it might be quite fast",IN1008.
+2575.96,2576.21,A,Mm-hmm .,IN1008.
+2576.81,2580.86,D,. Uh or just energy also,IN1008.
+2580.81,2580.95,A,And,IN1008.
+2580.86,2581.11,D,. One,IN1008.
+2580.95,2589.97,A,you can you can um this way you can filter uh perhaps some range that are uh just very low frequencies for uh perhaps uh a noise or,IN1008.
+2590.02,2597.33,D,"Yeah , also . Um that might be an issue with people are bringing laptops . Um",IN1008.
+2598.83,2600.51,A,"The yes , the fan .",IN1008.
+2600.66,2613.35,D,They will b yeah . They might be detected as another another source . Uh so you would have to uh classify the sources as human or machine,IN1008.
+2612.41,2612.77,A,Okay .,IN1008.
+2613.35,2618.23,D,". But again , yeah , I think once you see the spectrum , if it's just pure and stable",IN1008.
+2619.17,2619.94,B,Now,IN1008.
+2619.76,2620.21,D,uh,IN1008.
+2619.94,2625.07,B,"if you don't really detect the pitch , ch can say that uh",IN1008.
+2623.83,2625.1,D,"Also yeah , if",IN1008.
+2625.07,2625.24,B,no,IN1008.
+2625.1,2625.38,D,if there's,IN1008.
+2625.24,2627.19,B,persons,IN1008.
+2625.38,2625.95,D,no pitch .,IN1008.
+2627.19,2627.19,B,. .,IN1008.
+2627.32,2627.89,D,So,IN1008.
+2627.54,2627.97,A,"Yes , but",IN1008.
+2627.89,2627.95,D,uh,IN1008.
+2627.97,2630.47,A,but then this this is very interesting because,IN1008.
+2630.14,2630.47,D,Yeah .,IN1008.
+2630.47,2642.12,A,"uh this way you can detect uh if someone is talking , if someone uh has an uh some noise with uh perhaps putting his uh his cap on the on the table",IN1008.
+2641.81,2642.03,D,Yeah .,IN1008.
+2642.12,2645.55,A,. Perhaps if there is a laptop and uh in one position,IN1008.
+2645.74,2647.84,D,So all will go and be detected there .,IN1008.
+2648.88,2650.95,A,And you can classif uh classify . And this is,IN1008.
+2651.84,2653.42,D,Yeah,IN1008.
+2652.66,2653.49,A,Yes,IN1008.
+2653.42,2654.33,D,. So,IN1008.
+2653.49,2654.25,A,. She' very good .,IN1008.
+2654.33,2662.1,D,w what you're mentioning is a pain for us . But for you it might be 'cause we're only interesting in getting the speech . But for you it,IN1008.
+2662.0,2662.2,A,Okay,IN1008.
+2662.1,2662.27,D,might,IN1008.
+2662.2,2662.2,A,.,IN1008.
+2662.27,2663.87,D,be quite uh,IN1008.
+2663.83,2664.11,A,Yes,IN1008.
+2663.87,2664.29,D,quite good,IN1008.
+2664.11,2664.11,A,.,IN1008.
+2664.29,2676.77,D,", yeah . So I've to avoid uh filtering and smoothing . 'Cause as soon as you do that um you exclude some of the information",IN1008.
+2676.27,2676.62,A,Yes .,IN1008.
+2676.77,2697.15,D,. So it's better to keep it for the latest stage . So um um on top of this there's another part uh which is more linked to the tracking . All this was for one time frame . So um,IN1008.
+2698.68,2705.94,A,And the the length of the time frame has um an inference of uh on uh which parameters,IN1008.
+2706.66,2725.41,D,"Yeah , you can play with it . Um in speech it's uh stationary over ten , twenty millisecond . And we make a stationary assumption , a local stationary T_ assumption um which allows you to use F_F_T_ and blah , blah , blah",IN1008.
+2724.46,2724.77,A,Okay .,IN1008.
+2725.41,2732.37,D,". Uh now in spite of that I know some people use much longer windows , which is not a problem . But",IN1008.
+2732.48,2736.52,A,Th there i uh let's say if you use a one second window .,IN1008.
+2736.93,2738.35,D,Uh it's a bit too much I think .,IN1008.
+2738.76,2745.21,A,Uh the in fact the the frame lengths will be uh very uh very,IN1008.
+2744.95,2745.38,B,It's not,IN1008.
+2745.21,2745.73,A,uh,IN1008.
+2745.38,2746.83,B,really meaningful,IN1008.
+2745.73,2746.35,A,i,IN1008.
+2746.83,2747.82,B,. Well if you do this .,IN1008.
+2748.44,2748.8,A,Yes .,IN1008.
+2749.23,2749.81,D,Uh,IN1008.
+2749.44,2749.79,B,Somehow .,IN1008.
+2749.81,2755.83,D,"like some very small words , like yes , they might be two hundred millisecond",IN1008.
+2756.94,2757.27,A,Okay .,IN1008.
+2757.33,2761.34,D,or three hundred millisecond . Um,IN1008.
+2762.52,2765.22,A,They they won't be visible on the,IN1008.
+2764.75,2765.82,D,Yeah,IN1008.
+2765.22,2766.36,A,on the wavefo okay,IN1008.
+2765.82,2766.7,D,", they might be blurred",IN1008.
+2766.36,2766.36,A,.,IN1008.
+2766.7,2768.29,D,with uh silence .,IN1008.
+2770.19,2770.49,A,Yes .,IN1008.
+2771.15,2778.39,D,"So yes . You you might have to play with it just to save processing time , like use slightly longer frames .",IN1008.
+2779.14,2785.05,A,But the the the the long uh the longest frame you would use would be one hundred .,IN1008.
+2785.54,2787.12,D,"Yeah , at m at most , yeah .",IN1008.
+2787.38,2788.3,A,"At most , okay .",IN1008.
+2788.9,2798.4,D,Um Simply because I've used one hundred as a minimum length of a speech word,IN1008.
+2797.39,2798.09,A,Okay,IN1008.
+2797.81,2798.25,B,Mm-hmm,IN1008.
+2798.09,2798.43,A,", yes",IN1008.
+2798.25,2798.25,B,.,IN1008.
+2798.4,2798.77,D,. Yeah,IN1008.
+2798.43,2798.43,A,.,IN1008.
+2798.77,2819.41,D,", so . Um now assuming you have done this for each time , i if this is your detail or I should use a different Um if this is your asymmet at each time you get a direction",IN1008.
+2818.1,2819.26,C,What is a ? Excuse me ?,IN1008.
+2819.41,2822.54,D,. So asymmet is your direction in horizontal plane,IN1008.
+2822.49,2823.63,C,Uh-huh,IN1008.
+2822.54,2823.97,D,. It's an angle,IN1008.
+2823.63,2823.89,C,. Okay .,IN1008.
+2823.97,2827.04,D,". Like north , south , east , west",IN1008.
+2825.64,2827.16,C,Okay . So,IN1008.
+2827.04,2827.28,D,. And,IN1008.
+2827.16,2830.13,C,where are you represent the phase,IN1008.
+2829.12,2831.9,D,"Yeah . No no , of",IN1008.
+2830.13,2830.13,C,? .,IN1008.
+2831.9,2833.24,D,this is uh,IN1008.
+2832.9,2833.22,C,Okay .,IN1008.
+2833.24,2834.62,D,really different,IN1008.
+2834.43,2834.43,A,.,IN1008.
+2834.49,2834.67,B,Mm,IN1008.
+2834.62,2834.76,D,. I'm,IN1008.
+2834.67,2835.35,B,thanks,IN1008.
+2834.76,2835.67,D,just saying that,IN1008.
+2835.35,2835.35,B,.,IN1008.
+2835.67,2837.36,D,uh once you have done this,IN1008.
+2837.32,2838.67,C,Uh-huh,IN1008.
+2837.36,2839.45,D,for a given time frame,IN1008.
+2838.67,2839.11,C,. Uh-huh .,IN1008.
+2839.45,2842.57,D,you can have a direction of the person,IN1008.
+2841.52,2841.87,C,Okay .,IN1008.
+2842.57,2844.95,D,", at least in terms of sector",IN1008.
+2844.53,2844.89,C,Mm-hmm .,IN1008.
+2844.95,2855.4,D,. And it's also possible to give a more precise direction quite quickly . So uh this was kind of the lowest layer .,IN1008.
+2855.87,2856.23,C,Mm-hmm .,IN1008.
+2856.89,2871.88,D,Now this is a layer just above it which might interest you . Um if you repeat that over time you will see patterns um for example uh at two different locations .,IN1008.
+2876.34,2877.56,A,"'Kay , so you can",IN1008.
+2877.43,2877.95,D,Two different,IN1008.
+2877.56,2877.72,A,yeah .,IN1008.
+2877.95,2879.99,D,person will speak,IN1008.
+2879.5,2879.77,A,Okay .,IN1008.
+2879.99,2881.46,D,. So you can cluster those .,IN1008.
+2882.12,2883.46,A,Enter uh when user is,IN1008.
+2883.72,2893.79,D,And you will see that uh if it's long enough it's some significant event . Um,IN1008.
+2891.62,2892.24,C,Mm mm mm .,IN1008.
+2893.79,2895.91,D,"this can be done quite cheaply , yeah .",IN1008.
+2896.98,2900.58,A,Uh yes . And before I forg forget it,IN1008.
+2900.23,2900.4,D,Yeah .,IN1008.
+2900.58,2907.5,A,uh I have one question . Uh you say you do the processing after uh afterwards,IN1008.
+2906.86,2907.23,D,Yeah .,IN1008.
+2907.5,2911.19,A,. And uh what is the,IN1008.
+2910.39,2910.84,D,A cost .,IN1008.
+2911.19,2913.66,A,"the cost , yes , the the length",IN1008.
+2912.98,2913.78,D,Yeah,IN1008.
+2913.66,2913.88,A,? One,IN1008.
+2913.78,2913.81,D,", th",IN1008.
+2913.88,2915.83,A,one or uh,IN1008.
+2915.46,2916.64,D,Um,IN1008.
+2915.83,2916.42,A,bit longer ?,IN1008.
+2916.64,2918.36,D,well I use Matlab . So it's,IN1008.
+2918.25,2918.56,A,Okay,IN1008.
+2918.36,2918.57,D,not,IN1008.
+2918.56,2918.56,A,.,IN1008.
+2918.57,2920.27,D,perfect . It's like three,IN1008.
+2920.19,2920.33,A,Yes,IN1008.
+2920.27,2920.53,D,", four",IN1008.
+2920.33,2924.38,A,", but Matlab is very uh very effective for uh matrices and uh",IN1008.
+2924.87,2930.26,D,Yeah . But not everything is uh um simple linear,IN1008.
+2929.29,2929.66,A,Okay .,IN1008.
+2930.26,2938.38,D,". Especially this part . It's definitely not linear because you're looking at a maximum energy in a frequency , kind of",IN1008.
+2938.2,2938.52,A,Yes,IN1008.
+2938.38,2938.38,D,.,IN1008.
+2938.52,2938.52,A,.,IN1008.
+2940.51,2945.8,D,"The most expensive part is here . With Matlab I have three , four times real time .",IN1008.
+2946.52,2946.88,A,Okay .,IN1008.
+2947.31,2961.93,D,"Um you can do sub-optimal processing and uh for example here I'm considering all possible pairs of microphones , uh which is twenty eight",IN1008.
+2961.92,2962.42,A,Yes,IN1008.
+2961.93,2962.49,D,", and the",IN1008.
+2962.42,2962.42,A,.,IN1008.
+2962.49,2965.88,D,processing is directly um,IN1008.
+2964.98,2966.2,A,Relative,IN1008.
+2965.88,2966.73,D,r proportional,IN1008.
+2966.2,2966.96,A,", yes",IN1008.
+2966.73,2968.21,D,to that,IN1008.
+2966.96,2967.13,A,. Mm .,IN1008.
+2968.21,2978.16,D,. So um you can save on that . But then you lose a little bit on precision . Also,IN1008.
+2978.0,2978.81,A,Yes,IN1008.
+2978.16,2978.89,D,I I'm using,IN1008.
+2978.81,2978.81,A,.,IN1008.
+2978.89,2984.7,D,all the small frames with fifty percent overlap . I don't think you really need absolutely to do that .,IN1008.
+2984.92,2989.21,A,And even if you use uh four microphones to get uh,IN1008.
+2988.17,2989.23,D,It's not that good in,IN1008.
+2989.21,2989.37,A,not,IN1008.
+2989.23,2989.55,D,terms,IN1008.
+2989.37,2989.59,A,good,IN1008.
+2989.55,2989.78,D,of,IN1008.
+2989.59,2989.59,A,.,IN1008.
+2989.78,2990.69,D,uh direction .,IN1008.
+2991.12,2991.38,A,Okay .,IN1008.
+2992.39,2997.18,D,"Um Yeah , I would be careful with that",IN1008.
+2996.64,2996.98,A,Okay .,IN1008.
+2997.18,3002.67,D,". Like five , six is uh decent . Uh six I would say , yeah .",IN1008.
+3004.02,3005.45,A,And eight is uh is good .,IN1008.
+3006.21,3016.0,D,"Eight , yeah , uh I get down now to one , two degrees uh root mean square error . Uh so",IN1008.
+3014.91,3016.23,A,There i yes . But,IN1008.
+3016.0,3016.34,D,you might,IN1008.
+3016.23,3016.58,A,uh,IN1008.
+3016.34,3018.48,D,not need that . That's what I mean . Might,IN1008.
+3018.45,3018.68,A,Yeah,IN1008.
+3018.48,3018.82,D,not,IN1008.
+3018.68,3018.68,A,.,IN1008.
+3018.82,3019.4,D,be,IN1008.
+3020.18,3023.86,A,"Yes , one , two degree is very very small for uh for our",IN1008.
+3023.48,3024.06,D,Um,IN1008.
+3023.86,3027.83,A,application . Because we want we really want to detect uh if,IN1008.
+3027.82,3027.99,D,Yeah,IN1008.
+3027.83,3028.12,A,th,IN1008.
+3027.99,3027.99,D,.,IN1008.
+3028.12,3030.83,A,this is the same person that is speaking or not,IN1008.
+3030.78,3031.03,D,Yeah,IN1008.
+3030.83,3031.04,A,. If,IN1008.
+3031.03,3031.03,D,.,IN1008.
+3031.04,3036.28,A,"there is uh an error of uh let's say uh ten , fifteen degrees and",IN1008.
+3036.19,3036.39,D,Yeah,IN1008.
+3036.28,3036.48,A,but,IN1008.
+3036.39,3036.39,D,.,IN1008.
+3036.48,3042.28,A,uh it is um capable of uh seeing it as two different person . There is not,IN1008.
+3042.13,3043.2,D,Yeah,IN1008.
+3042.28,3043.02,A,problems with the,IN1008.
+3043.2,3051.87,D,". Yeah . So it could be sufficient to uh , yeah , define enough sectors and",IN1008.
+3052.52,3056.85,A,"Okay , and the number of sectors is uh is not dependent of uh",IN1008.
+3056.75,3057.75,D,No,IN1008.
+3056.85,3058.0,A,the number of microphones,IN1008.
+3057.75,3059.06,D,. No,IN1008.
+3058.0,3058.0,A,?,IN1008.
+3059.06,3063.66,D,. So it's arbitrary . I use twenty degree sectors . Uh,IN1008.
+3063.12,3063.51,A,Okay .,IN1008.
+3063.66,3069.21,D,'cause I had to choose a value . But it's up to you . Um,IN1008.
+3070.63,3078.6,B,"Well , otherwise it could also just rely on the frequency band separation and detect that way the different persons and",IN1008.
+3078.58,3079.39,D,Yeah,IN1008.
+3078.6,3079.42,B,th,IN1008.
+3079.39,3079.66,D,. Yeah,IN1008.
+3079.42,3079.77,B,then you,IN1008.
+3079.66,3079.66,D,.,IN1008.
+3079.77,3082.45,B,don't really know where around the table these . But uh,IN1008.
+3083.49,3083.66,A,If,IN1008.
+3083.57,3084.28,D,Um,IN1008.
+3083.66,3086.26,A,"there is uh two two person the same sector , I see .",IN1008.
+3088.02,3094.02,B,Well d depends with how you do it . But if if you place the the microphones uh,IN1008.
+3093.64,3094.3,D,So that's another,IN1008.
+3094.02,3094.87,B,n,IN1008.
+3094.3,3095.37,D,"way , yeah",IN1008.
+3094.87,3095.44,B,yeah,IN1008.
+3095.37,3095.87,D,. It,IN1008.
+3095.44,3095.48,B,. Uh,IN1008.
+3095.87,3099.68,D,"it's almost like having a lapel , yeah . Um",IN1008.
+3099.65,3103.02,B,That way you can separate where where is the,IN1008.
+3102.99,3103.22,D,Yeah,IN1008.
+3103.02,3103.29,B,the,IN1008.
+3103.22,3103.22,D,.,IN1008.
+3103.29,3105.31,B,voice loud with uh or,IN1008.
+3105.11,3105.45,D,I think,IN1008.
+3105.31,3106.09,B,the loudest,IN1008.
+3105.45,3106.49,D,it's not necessarily,IN1008.
+3106.09,3106.09,B,.,IN1008.
+3106.49,3108.73,D,"a bad idea , actually . Um",IN1008.
+3108.7,3112.63,B,Well it's quite different thing and uh you don't really get uh a name for it . But uh,IN1008.
+3113.83,3125.71,D,Well uh If you are able to calibrate your microphones um the ones who are closer to the person will get more energy .,IN1008.
+3126.88,3127.17,A,Mm-hmm .,IN1008.
+3127.49,3132.71,D,Um so you can compare that . It's possible,IN1008.
+3132.54,3132.77,B,At the,IN1008.
+3132.71,3133.31,D,. So,IN1008.
+3132.77,3135.67,B,end it it depends a bit what you want . If you are,IN1008.
+3136.41,3147.61,D,Yeah . Um I have experience with that . Um on the side I've done some single channel work which,IN1008.
+3147.17,3147.37,A,Mm-hmm .,IN1008.
+3147.61,3156.52,D,"can maybe help . Um 'cause uh it seems to me that you are not definite on the geometry , right",IN1008.
+3156.33,3157.76,A,No,IN1008.
+3156.52,3156.52,D,?,IN1008.
+3157.76,3161.02,A,. Geometry is not . We have not uh thought,IN1008.
+3160.49,3160.75,D,Yeah .,IN1008.
+3161.02,3161.69,A,a lot about it .,IN1008.
+3162.44,3172.87,D,"Um m this part is quite specific to a microphone array where like they are concentrated in uh some place , like in the middle of the table .",IN1008.
+3173.33,3173.73,A,Yes .,IN1008.
+3174.16,3177.6,C,Because if we are distributing the microphone all around the table,IN1008.
+3177.47,3177.82,D,Yeah,IN1008.
+3177.6,3177.87,C,", then we",IN1008.
+3177.82,3177.82,D,.,IN1008.
+3177.87,3180.27,C,come back to the energy solution,IN1008.
+3180.24,3180.88,D,Yeah,IN1008.
+3180.27,3181.12,C,? Is it what you say,IN1008.
+3180.88,3181.46,D,. Yeah,IN1008.
+3181.12,3181.12,C,?,IN1008.
+3181.46,3186.23,D,. But you can kind of come back to that also . Um,IN1008.
+3186.41,3189.01,C,With the energy dissolution or with uh F_F_T_ too ?,IN1008.
+3189.65,3190.19,D,Uh,IN1008.
+3189.9,3190.35,A,F_F_T_,IN1008.
+3190.19,3190.62,D,F_F_T_,IN1008.
+3190.35,3190.35,A,.,IN1008.
+3190.62,3190.95,D,also,IN1008.
+3190.81,3191.13,C,Okay,IN1008.
+3190.95,3191.21,D,. Yeah,IN1008.
+3191.13,3191.13,C,.,IN1008.
+3191.21,3191.48,D,", yeah .",IN1008.
+3193.7,3200.08,A,But th uh uh I think what is very important here is the synchronization of the microphones,IN1008.
+3199.21,3200.15,D,R right . Yeah,IN1008.
+3200.08,3200.27,A,. Right,IN1008.
+3200.15,3200.61,D,", yeah",IN1008.
+3200.27,3200.27,A,.,IN1008.
+3200.61,3202.42,D,. It has to be,IN1008.
+3201.94,3202.48,A,Okay,IN1008.
+3202.42,3202.56,D,as,IN1008.
+3202.48,3203.8,A,", um",IN1008.
+3202.56,3203.47,D,good as possible .,IN1008.
+3203.8,3216.08,A,"uh I'm speaking about it because uh we wanted uh to do this table in uh a mid-tech way , let's say a cheap way",IN1008.
+3215.46,3215.86,D,Yeah .,IN1008.
+3216.08,3228.84,A,. To have not uh very expensive tables . So I don't know if um uh what I've seen w on our website was uh that the this installation was uh a bit expensive,IN1008.
+3227.68,3229.36,D,Yeah,IN1008.
+3228.84,3229.59,A,. Uh,IN1008.
+3229.36,3230.58,D,. True,IN1008.
+3229.59,3230.84,A,but I'm trying,IN1008.
+3230.58,3230.58,D,.,IN1008.
+3230.84,3231.31,A,to,IN1008.
+3231.08,3231.36,C,But there are,IN1008.
+3231.31,3232.89,A,uh,IN1008.
+3231.36,3232.39,C,many many things .,IN1008.
+3232.89,3233.14,A,to,IN1008.
+3232.92,3233.19,D,Yeah,IN1008.
+3233.14,3234.05,A,to,IN1008.
+3233.19,3233.19,D,.,IN1008.
+3234.05,3237.55,A,to see what is very important and uh what is not uh,IN1008.
+3237.52,3237.59,D,We,IN1008.
+3237.55,3238.0,A,for,IN1008.
+3237.59,3241.44,D,can also consider directional microphones,IN1008.
+3240.93,3241.29,A,Yes .,IN1008.
+3241.44,3244.84,D,. You know no . Um so,IN1008.
+3244.78,3244.86,C,The,IN1008.
+3244.84,3244.98,D,you,IN1008.
+3244.86,3245.27,C,difference,IN1008.
+3244.98,3246.46,D,can,IN1008.
+3245.27,3245.91,C,between the,IN1008.
+3246.46,3255.63,D,uh their pattern is uh not uh the same uh depending on the direction where the person is . So,IN1008.
+3255.57,3256.2,C,Mm-hmm,IN1008.
+3255.63,3256.68,D,for example if,IN1008.
+3256.2,3256.2,C,.,IN1008.
+3256.68,3264.04,D,there was a directional microphone pointing there you would get most of my energy but less from you,IN1008.
+3263.0,3263.35,A,Sure .,IN1008.
+3263.7,3264.12,C,Mm,IN1008.
+3264.04,3265.23,D,", et cetera",IN1008.
+3264.12,3264.94,C,mm yeah .,IN1008.
+3265.23,3269.96,D,. You can also do microphone arrays with directional microphones,IN1008.
+3268.88,3270.03,A,"Yes , sh I think you",IN1008.
+3269.96,3271.66,D,. Uh,IN1008.
+3270.03,3271.34,A,have to uh to uh,IN1008.
+3271.66,3275.89,D,um might not be relevant . But um,IN1008.
+3275.99,3283.07,C,What would be the difference ? You will not compare each mic with uh all the other one . But just,IN1008.
+3282.96,3283.86,D,Uh,IN1008.
+3283.07,3284.84,C,comparing this one with the,IN1008.
+3288.24,3290.67,D,More or less . It's it depends on what,IN1008.
+3290.51,3290.77,C,Mm,IN1008.
+3290.67,3290.83,D,you,IN1008.
+3290.77,3291.83,C,okay,IN1008.
+3290.83,3292.97,D,want . I mean uh,IN1008.
+3291.83,3292.61,C,. Okay,IN1008.
+3292.34,3292.54,A,It,IN1008.
+3292.49,3292.68,B,I,IN1008.
+3292.54,3292.69,A,sh,IN1008.
+3292.61,3292.88,C,. But,IN1008.
+3292.68,3292.89,B,guess,IN1008.
+3292.88,3293.23,C,what,IN1008.
+3292.89,3293.03,B,it's,IN1008.
+3292.97,3293.06,D,I,IN1008.
+3293.03,3293.62,B,completely,IN1008.
+3293.06,3294.78,D,don't know,IN1008.
+3293.23,3294.74,C,are,IN1008.
+3293.62,3295.09,B,other approach . So uh,IN1008.
+3294.74,3295.35,C,uh-uh,IN1008.
+3294.78,3295.16,D,. Yeah .,IN1008.
+3295.35,3298.34,C,". So what are this mic for instance , the electret",IN1008.
+3298.01,3298.35,D,They're,IN1008.
+3298.34,3299.11,C,mic,IN1008.
+3298.35,3299.24,D,o,IN1008.
+3299.11,3300.89,C,. Omni-directional,IN1008.
+3299.24,3300.86,D,"yeah , omni-directional , yeah .",IN1008.
+3300.89,3301.39,C,? Electret ?,IN1008.
+3302.37,3304.34,D,M,IN1008.
+3303.93,3304.21,C,Okay .,IN1008.
+3304.34,3305.22,D,uh I guess,IN1008.
+3305.13,3305.68,A,These,IN1008.
+3305.22,3305.52,D,so .,IN1008.
+3305.68,3309.76,A,are these are um some kinds of uh,IN1008.
+3309.42,3309.93,D,It's the same,IN1008.
+3309.76,3310.04,A,and this,IN1008.
+3309.93,3310.25,D,", yeah",IN1008.
+3310.04,3310.25,A,one,IN1008.
+3310.25,3310.62,D,. Exactly,IN1008.
+3310.25,3310.69,A,. Yes,IN1008.
+3310.62,3310.72,D,the,IN1008.
+3310.69,3311.0,A,. Okay,IN1008.
+3310.72,3311.45,D,"same , yeah",IN1008.
+3311.0,3311.0,A,.,IN1008.
+3311.31,3312.08,B,Expensive,IN1008.
+3311.45,3312.63,D,. Yeah,IN1008.
+3312.08,3312.08,B,?,IN1008.
+3312.63,3314.49,D,". Yeah , yeah",IN1008.
+3313.86,3314.81,A,Expensive,IN1008.
+3314.49,3315.21,D,. Quite expensive,IN1008.
+3314.71,3315.13,B,Ca,IN1008.
+3314.81,3315.4,A,. Because,IN1008.
+3315.13,3315.32,B,can,IN1008.
+3315.21,3315.21,D,.,IN1008.
+3315.32,3315.61,B,you,IN1008.
+3315.4,3315.72,A,because,IN1008.
+3315.61,3316.08,B,uh say,IN1008.
+3315.72,3316.11,A,uh of,IN1008.
+3316.08,3316.16,B,a,IN1008.
+3316.11,3316.22,A,the,IN1008.
+3316.16,3316.6,B,number,IN1008.
+3316.22,3316.75,A,quality,IN1008.
+3316.6,3316.6,B,?,IN1008.
+3316.75,3318.39,A,of the,IN1008.
+3318.32,3318.83,D,Yeah,IN1008.
+3318.39,3318.88,A,the,IN1008.
+3318.83,3321.41,D,", they are um high quality mics .",IN1008.
+3321.81,3324.9,A,And they are plug in the on the X_L_R_ ? Or uh,IN1008.
+3325.67,3330.31,D,Uh I think we can leave this question for Olivier,IN1008.
+3328.42,3329.76,C,Yes,IN1008.
+3328.73,3329.78,B,Okay,IN1008.
+3328.89,3329.86,A,Yes,IN1008.
+3329.76,3329.76,C,.,IN1008.
+3329.78,3329.78,B,.,IN1008.
+3329.86,3329.86,A,", .",IN1008.
+3330.31,3330.31,D,.,IN1008.
+3331.16,3333.23,A,"Okay , for the our we'll we",IN1008.
+3332.95,3333.5,C,And when,IN1008.
+3333.23,3333.74,A,we'll,IN1008.
+3333.5,3333.77,C,you were,IN1008.
+3333.74,3333.79,A,uh,IN1008.
+3333.77,3334.06,C,talking,IN1008.
+3333.79,3333.79,A,.,IN1008.
+3334.06,3339.18,C,about comparing energy in the case where a microphone would be distributed all around the table,IN1008.
+3338.88,3339.1,D,Yeah .,IN1008.
+3339.18,3342.56,C,", uh you're comparing energy and the time delay ?",IN1008.
+3343.17,3346.92,D,"No , no . Y you would uh assume",IN1008.
+3346.34,3351.06,C,Because time delay is is too short to be compared or can be neglected ?,IN1008.
+3352.04,3361.92,D,Uh you would neglect it . The time delay is is very small . It it's only used for uh getting the a direction when you have a microphone array,IN1008.
+3361.16,3361.51,C,Okay .,IN1008.
+3361.92,3371.28,D,". But in that case it's not relevant . Um you would assume that they are roughly synchronised , not necessarily very precisely",IN1008.
+3370.32,3370.56,A,Mm-hmm .,IN1008.
+3371.28,3377.07,D,", and um compare the energy levels . But I have no experience with that .",IN1008.
+3377.14,3378.14,C,"Okay , okay . Yeah .",IN1008.
+3378.94,3384.86,D,"Um Now I don't know , you don't want to use ah , it's almost okay .",IN1008.
+3385.02,3385.77,A,Let's have a break .,IN1008.
+3386.31,3386.48,D,Yes,IN1008.
+3386.33,3386.53,C,It's,IN1008.
+3386.48,3386.48,D,.,IN1008.
+3386.53,3387.93,C,time,IN1008.
+3387.615,3387.615,B,.,IN1008.
+3387.93,3388.12,C,. Cool .,IN1008.

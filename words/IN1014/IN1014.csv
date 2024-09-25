@@ -1,0 +1,2330 @@
+Start,End,Speaker,Speech,meeting
+26.39,27.18,C,With the lapel .,IN1014.
+32.383,32.383,A,.,IN1014.
+49.77,55.18,C,So we I think we organise uh just to to discuss,IN1014.
+54.64,56.75,B,Sorry,IN1014.
+55.18,55.68,C,uh,IN1014.
+56.75,59.99,B,. I don't have my presentation .,IN1014.
+62.43,63.93,C,To discuss uh,IN1014.
+63.2,63.39,B,Um,IN1014.
+63.93,85.04,C,", yeah , the project Alexandre and uh Jean-Marc uh proposed a about uh capturing uh audio , video and slide uh in a synchronized way . And so we will start with uh an introduction . Uh I think Olivier prepared some slides about uh",IN1014.
+84.96,85.23,B,Yeah,IN1014.
+85.04,85.66,C,reviewing,IN1014.
+85.23,85.23,B,.,IN1014.
+85.66,107.24,C,"uh current systems . And um And then , even if we don't have many things to to talk about , just to to start discussing about clearly the project and also um dealing with our kind of timing constraints",IN1014.
+106.2,106.52,D,Mm-hmm .,IN1014.
+107.24,107.62,C,. And,IN1014.
+107.43,108.48,B,So,IN1014.
+107.62,108.29,C,uh,IN1014.
+108.48,110.75,B,they're on my they're on a .,IN1014.
+114.22,118.72,C,The U_ U_S_ U_ uh U_S_B_ cord doesn't work ? And you didn't put on the,IN1014.
+118.45,119.33,B,No no . They are .,IN1014.
+120.44,126.11,C,Maybe you can access through the network . If it's on your H_ .,IN1014.
+127.76,128.58,B,Yeah,IN1014.
+127.77,128.71,C,Or it's on,IN1014.
+128.58,130.16,B,". No , no",IN1014.
+128.71,129.8,C,uh your D_ machine .,IN1014.
+130.16,130.94,B,. My D_ machine .,IN1014.
+132.84,134.37,C,So maybe,IN1014.
+134.09,134.42,B,Yeah,IN1014.
+134.37,134.75,C,we,IN1014.
+134.42,134.42,B,.,IN1014.
+134.75,135.89,C,wi we will be able to .,IN1014.
+136.83,137.08,B,Okay .,IN1014.
+139.08,139.29,C,Should,IN1014.
+139.09,139.31,B,Just,IN1014.
+139.29,140.75,C,work,IN1014.
+139.31,139.66,B,going,IN1014.
+140.75,140.98,C,. What ?,IN1014.
+142.74,143.35,D,Keep going .,IN1014.
+146.35,147.13,C,So,IN1014.
+146.87,147.18,A,The show,IN1014.
+147.13,151.45,C,um,IN1014.
+147.18,148.49,A,must go on .,IN1014.
+151.45,156.83,C,"w yeah , we had like five slides y uh presenting different systems . And",IN1014.
+156.65,157.12,B,Mm-hmm,IN1014.
+156.83,157.29,C,mayb,IN1014.
+157.12,157.12,B,.,IN1014.
+157.29,164.31,C,maybe you we can do that at the white-board . I it's a bit stupid . But uh y you know . I think you remember well the different,IN1014.
+163.8,164.26,B,Okay .,IN1014.
+164.31,166.9,C,uh parts . And uh I'm sure uh,IN1014.
+166.45,166.96,B,Okay,IN1014.
+166.9,166.99,C,we,IN1014.
+166.96,167.3,B,. So,IN1014.
+166.99,167.33,C,can do,IN1014.
+167.3,167.55,B,uh,IN1014.
+167.33,167.68,C,that at,IN1014.
+167.55,167.74,B,uh,IN1014.
+167.68,167.8,C,the,IN1014.
+167.74,168.41,B,yeah,IN1014.
+167.8,169.65,C,white-board,IN1014.
+168.41,169.53,B,. I will do something like that .,IN1014.
+169.65,171.68,C,". Yeah , it would be great to use the white-board .",IN1014.
+172.57,196.6,B,"Okay . So uh I would like just to review at the different project regarding acquisition system . So basically there are five systems . The first one is called SMAC , which is developed by Fribourg and CERN . The second one i is your system . Uh I would to say the cheap meeting room system . The third one yeah , maybe I can share that with",IN1014.
+196.35,196.98,C,So the,IN1014.
+196.6,196.88,B,you .,IN1014.
+196.98,199.03,C,the the first one is uh SMAC . Okay .,IN1014.
+199.46,201.57,B,"The SMAC , yeah . Should I write ?",IN1014.
+201.88,202.55,C,"Yeah , maybe yeah .",IN1014.
+205.98,206.37,B,Okay .,IN1014.
+207.79,210.11,C,Just a review of current systems,IN1014.
+209.22,210.14,D,"Yeah , yeah . Sure , that's",IN1014.
+210.11,210.54,C,uh,IN1014.
+210.14,210.63,D,interest,IN1014.
+210.54,210.63,C,to,IN1014.
+210.63,211.0,D,us,IN1014.
+210.63,211.33,C,introduce,IN1014.
+210.83,211.0,B,The,IN1014.
+211.0,211.0,D,.,IN1014.
+211.0,211.6,B,first one,IN1014.
+211.33,211.33,C,.,IN1014.
+211.6,213.86,B,"is yeah , I will call that A_ .",IN1014.
+218.92,231.93,B,"SMAC , which is develop by Fribourg and CERN . The second one , B_ , which is uh I would like to che say uh cheap uh meeting room or I don't know .",IN1014.
+232.08,233.32,D,It's okay . It should,IN1014.
+232.92,233.47,C,"Well , cheap",IN1014.
+233.32,233.32,D,.,IN1014.
+233.47,236.52,C,"meeting room is the , you know , mm",IN1014.
+236.05,236.18,D,But,IN1014.
+236.07,239.21,B,Okay,IN1014.
+236.18,236.98,D,for the moment,IN1014.
+236.52,237.06,C,it's,IN1014.
+236.88,237.0,A,You,IN1014.
+236.98,237.24,D,just,IN1014.
+237.0,237.18,A,can,IN1014.
+237.06,237.42,C,a,IN1014.
+237.18,238.57,A,say,IN1014.
+237.24,237.61,D,for the,IN1014.
+237.42,238.11,C,conference,IN1014.
+237.61,238.68,D,purpose,IN1014.
+238.11,238.55,C,room ? Or,IN1014.
+238.57,238.74,A,then,IN1014.
+238.68,238.8,D,well,IN1014.
+238.74,239.09,A,you,IN1014.
+238.8,239.29,D,", f for",IN1014.
+239.21,239.21,B,.,IN1014.
+239.29,242.21,D,the moment it's just to understand each other so we know,IN1014.
+241.94,242.28,A,It I,IN1014.
+242.21,242.5,D,we know,IN1014.
+242.28,242.51,A,th I,IN1014.
+242.5,242.72,D,that,IN1014.
+242.51,242.76,A,thought,IN1014.
+242.72,242.96,D,the,IN1014.
+242.76,243.05,A,it was,IN1014.
+242.96,243.28,D,uh,IN1014.
+243.05,244.37,A,"called PAS , so",IN1014.
+244.02,245.53,C,Yeah,IN1014.
+244.37,245.31,A,I think just,IN1014.
+245.04,245.56,D,Yeah,IN1014.
+245.31,245.59,A,use,IN1014.
+245.53,246.48,C,. PAS,IN1014.
+245.56,245.74,D,for,IN1014.
+245.59,245.92,A,this,IN1014.
+245.74,246.03,D,with,IN1014.
+245.92,245.92,A,.,IN1014.
+246.03,246.68,D,PAS . It's,IN1014.
+246.48,246.99,C,. Alexandre,IN1014.
+246.68,247.31,D,okay,IN1014.
+246.79,247.98,B,P_A_S_,IN1014.
+246.99,248.42,C,. PAS,IN1014.
+247.31,248.5,D,". Yeah , good idea",IN1014.
+247.85,248.11,A,PAS,IN1014.
+247.98,247.98,B,.,IN1014.
+248.11,248.49,A,". Yeah , yeah",IN1014.
+248.42,248.69,C,. Yeah,IN1014.
+248.49,248.49,A,.,IN1014.
+248.5,248.5,D,.,IN1014.
+248.69,248.69,C,.,IN1014.
+249.32,251.84,B,"Okay , P_A_S_ . The third one",IN1014.
+251.75,252.02,D,Uh this,IN1014.
+251.84,252.2,B,is,IN1014.
+252.02,252.3,D,sounds,IN1014.
+252.2,252.36,B,um,IN1014.
+252.3,254.42,D,like Alexandre pas . Yeah,IN1014.
+254.2,258.1,C,P,IN1014.
+254.42,257.6,D,that's not that,IN1014.
+257.4,258.34,B,Okay,IN1014.
+258.1,259.19,C,PAS project,IN1014.
+258.34,259.24,B,. The third one is,IN1014.
+259.19,259.19,C,.,IN1014.
+259.24,267.43,B,called uh the s um this is uh the smart meeting room develop at Fribourg which is called,IN1014.
+267.37,267.69,C,Smart,IN1014.
+267.43,268.01,B,the smart,IN1014.
+267.69,268.67,C,mediat uh Smart,IN1014.
+268.61,269.85,D,It's,IN1014.
+268.67,269.93,C,"Minutes , but uh",IN1014.
+269.85,270.47,D,Diva,IN1014.
+269.93,271.29,C,I thi,IN1014.
+270.47,271.52,D,. N'est-ce pas ? Something,IN1014.
+271.29,272.61,C,Diva,IN1014.
+271.52,272.52,D,like this . Yeah .,IN1014.
+272.61,272.88,C,. Because,IN1014.
+272.65,272.94,B,It's,IN1014.
+272.88,272.99,C,a,IN1014.
+272.94,273.36,B,DIVA,IN1014.
+272.99,273.44,C,Sma,IN1014.
+273.36,273.36,B,.,IN1014.
+273.44,276.44,C,"yeah , Smart Minute is all the process of capturing",IN1014.
+276.29,276.73,B,Okay,IN1014.
+276.44,276.91,C,the minutes,IN1014.
+276.73,276.73,B,.,IN1014.
+276.91,279.12,C,automatically . But it's Diva,IN1014.
+278.27,279.59,B,The p DIVA,IN1014.
+279.12,279.62,C,we,IN1014.
+279.59,279.59,B,.,IN1014.
+279.62,280.02,C,can say .,IN1014.
+281.85,287.55,B,"D_I_V_A_ , something like that",IN1014.
+286.98,287.26,D,Mm-hmm .,IN1014.
+287.55,305.65,B,". The third one is call uh the third one is uh the project that I have to improve the current smart meeting room at IDIAP . Uh for that we will use um uh Yeah , a tape three uh okay , let's call that .",IN1014.
+308.87,310.39,C,Free .,IN1014.
+317.68,328.21,B,And the last one I would like just mention just to for the meeting and this is uh the fire-wire . Um I don't know if you saw my presentation during my turn,IN1014.
+328.07,328.26,D,Mm-hmm,IN1014.
+328.21,328.58,B,. You,IN1014.
+328.26,328.26,D,.,IN1014.
+328.58,329.95,B,did you,IN1014.
+329.58,329.68,D,Yeah .,IN1014.
+329.95,334.03,B,"? Uh okay . E_ , which is firewire .",IN1014.
+341.33,384.77,B,"Okay . So I will start just with the SMAC . So maybe I draw line here . So the SMAC The SMAC project the SMAC project is a project which aims to do the acquisition of audio , video and slide uh for presentation . Yeah , this project is done with Fribourg and CERN . But I'm just going to make a very short um graphic . In fact , they use um a card , a video card which is call um I_V_C_ mm",IN1014.
+384.33,384.77,C,Mm . Doesn't,IN1014.
+384.77,386.4,B,yeah,IN1014.
+384.77,385.81,C,matter . Yeah .,IN1014.
+386.4,432.28,B,". I just write I_V_C_ . In fact , this is a video card with four um inputs . On these four inputs you can have only video . But uh they want to make also the slide acquisition . So on one input they put um a conversion box , a converter , which converts from slide to video . So that mean that we decrease uh the the quality . We have a high quality in slide and we go to low quality to lower quality with uh video . Um so this one is just for the SMAC . Now I will just move",IN1014.
+431.97,432.41,C,And this,IN1014.
+432.28,432.49,B,. D,IN1014.
+432.41,434.33,C,the three of those are the v the the,IN1014.
+434.12,434.53,B,Yeah,IN1014.
+434.33,435.19,C,video,IN1014.
+434.53,446.8,B,. These one are just for video and audio . You can use uh them . And this board does uh the DivX compression on the fly . This is uh the box that we have on the table,IN1014.
+446.27,446.64,D,Mm-hmm .,IN1014.
+446.8,448.63,B,. The the card that we have on the table .,IN1014.
+448.9,503.8,C,"And uh I'd like to add that this c I think it's quite ambitious project because it's with uh the CERN . And they w they uh already worked on uh a European project called InDiCo , where they they have uh release , deliver , a full um kind of conference uh uh software . And uh to to manage uh all the the conference aspects uh uh we have in a conference automatically . And uh I know that at Fribourg they installed uh already in in a in a big uh amphitheatre for students . And I guess it's currently working . Ah no . Either just to uh in parentheses uh we didn't choose that um that solution because they had no um the the slides were not captured very uh in a very uh precise way . That's",IN1014.
+503.65,504.44,A,Mm-hmm,IN1014.
+503.8,505.65,C,the point,IN1014.
+504.44,504.63,A,. Mm,IN1014.
+504.5,504.91,D,Mm-hmm,IN1014.
+504.63,504.63,A,.,IN1014.
+504.91,504.91,D,.,IN1014.
+505.65,514.89,C,. Okay . Otherwise they uh it's fully automatic ? Or have have you discussed with them ? Did you discuss that ? Is it fully automatic ? You don't know ?,IN1014.
+515.49,515.86,D,I don't know .,IN1014.
+517.26,517.58,C,Okay .,IN1014.
+518.65,520.58,A,Well I suppose uh I suppose they,IN1014.
+520.56,520.73,B,Uh,IN1014.
+520.58,520.82,A,can,IN1014.
+520.73,520.87,B,I,IN1014.
+520.82,521.22,A,capture,IN1014.
+520.87,521.1,B,think,IN1014.
+521.22,523.08,A,"things , right . I mean",IN1014.
+523.03,523.15,C,But,IN1014.
+523.08,523.28,A,don't,IN1014.
+523.15,523.65,C,the p,IN1014.
+523.28,523.79,A,s I don't,IN1014.
+523.65,523.82,C,i,IN1014.
+523.79,527.46,A,see why you could not capture the videos I mean with a card like this .,IN1014.
+528.6,533.92,C,But i i it all synchronize and i is it doing all what we want but without the,IN1014.
+533.84,534.13,D,Mm-hmm,IN1014.
+533.92,534.61,C,slide,IN1014.
+534.13,534.13,D,.,IN1014.
+534.61,536.04,C,uh precision ?,IN1014.
+538.9,539.83,A,I don't know . I mean,IN1014.
+539.8,539.95,D,But,IN1014.
+539.83,540.04,A,I don't,IN1014.
+539.95,540.49,D,l,IN1014.
+540.04,540.22,A,know .,IN1014.
+540.49,540.69,D,let,IN1014.
+540.5,540.94,C,Okay,IN1014.
+540.69,541.11,D,be careful,IN1014.
+540.94,541.14,C,", yeah",IN1014.
+541.11,541.32,D,. There's,IN1014.
+541.14,541.14,C,.,IN1014.
+541.32,561.39,D,one important point . The technical aspects of the way you acquire things should be driven by the kind of processing you want to have . So in our case we need to have a good processing of slides that in our case it means to transcribe with an O_C_R_ and then make indexing . We need to have high resolution image . I guess that's what you mean by precision,IN1014.
+560.81,561.13,C,Yeah .,IN1014.
+561.39,576.52,D,", right ? So in a sense that's the point . For us we need to have uh this sufficient resolution images of slides to do what we want to do . So that's why I guess we don't follow",IN1014.
+576.27,576.74,C,And uh,IN1014.
+576.52,577.15,D,that solution,IN1014.
+576.74,577.19,C,okay,IN1014.
+577.15,577.47,D,. Because,IN1014.
+577.19,577.86,C,. And we are,IN1014.
+577.47,578.27,D,apparently,IN1014.
+577.86,578.33,C,su and,IN1014.
+578.27,578.56,D,yeah,IN1014.
+578.33,578.57,C,we are,IN1014.
+578.56,578.56,D,.,IN1014.
+578.57,586.3,C,sure that in that uh context of SMAC project with uh um Fribourg working on document analysis,IN1014.
+586.3,586.59,D,Mm-hmm,IN1014.
+586.3,586.66,C,uh,IN1014.
+586.59,586.59,D,.,IN1014.
+586.66,589.96,C,there were not enough precision un enough resolution in the slides ?,IN1014.
+590.08,599.59,D,"As far as I know so far uh they did similar works on meetings , document centred meetings . They always worked on manual transcriptions of documents",IN1014.
+599.15,599.46,C,Mm yeah .,IN1014.
+599.59,605.62,D,. So they never really took into account a possibility of actually performing processing on,IN1014.
+605.51,605.79,C,Okay,IN1014.
+605.62,606.23,D,the document,IN1014.
+605.79,605.79,C,.,IN1014.
+606.23,611.31,D,they talk about during the meeting during in this case the uh,IN1014.
+611.1,611.54,C,Talk,IN1014.
+611.31,611.94,D,the,IN1014.
+611.54,612.81,C,conference,IN1014.
+611.94,613.07,D,"talk , the conference",IN1014.
+612.81,612.81,C,. .,IN1014.
+613.07,638.68,D,", the the th the presentation . As far as I know . As far as they published I kn I know the results they published uh so far . So essentially they n never took into account I mean the work at the high level , which means basically we have the information coming from here and there . And we n created techniques that allow to starts from the text there and the things that are said and w if we find context , I mean they make some kind of processing",IN1014.
+638.6,638.93,C,Mm-hmm,IN1014.
+638.68,639.02,D,. But as,IN1014.
+638.93,638.93,C,.,IN1014.
+639.02,652.74,D,"they don't work on the low level so low level it means basically okay , take the speech and extract the transcription . I take the image uh of the document and I take the transcription . They basically don't really care of this aspect",IN1014.
+652.68,652.98,C,Okay,IN1014.
+652.74,653.14,D,", as far",IN1014.
+652.98,652.98,C,.,IN1014.
+653.14,655.4,D,"as I understand , mm",IN1014.
+654.42,655.4,A,Well as far,IN1014.
+655.4,655.54,D,. As,IN1014.
+655.4,655.54,A,as,IN1014.
+655.54,655.68,D,far,IN1014.
+655.54,656.24,A,I,IN1014.
+655.68,656.27,D,as I know,IN1014.
+656.24,656.4,A,as,IN1014.
+656.27,656.27,D,.,IN1014.
+656.4,662.03,A,"far as I know , I mean they do of course they can do of course slide detection . Change slide change detections",IN1014.
+661.38,661.72,D,Mm-hmm .,IN1014.
+662.03,662.24,A,which,IN1014.
+662.07,662.39,C,Mm-hmm,IN1014.
+662.24,662.55,A,uh,IN1014.
+662.39,662.39,C,.,IN1014.
+662.55,668.46,A,of course what I understood is also they try to recover the layout somehow . I mean,IN1014.
+667.98,668.17,D,Yeah .,IN1014.
+668.46,669.7,A,given the slides but,IN1014.
+669.473,669.473,C,.,IN1014.
+669.7,682.74,A,"they are in no case they are extracting the text from the slides . So with in uh in uh all the cases what I've seen , in all the cases I've seen I mean they s assume that at least you have like a P_D_F_ version of the document or what",IN1014.
+681.91,682.6,D,Exactly .,IN1014.
+682.74,688.58,A,. And basically they try to match what is displayed to the document . So first,IN1014.
+688.5,688.87,C,Okay,IN1014.
+688.58,688.88,A,they need,IN1014.
+688.87,688.87,C,.,IN1014.
+688.88,689.26,A,to extract,IN1014.
+689.17,689.79,D,Exactly,IN1014.
+689.26,689.8,A,the information,IN1014.
+689.79,689.79,D,.,IN1014.
+689.8,699.86,A,"from the document , which is not does not seem to be so trivial , at least for uh because they're also working with uh maybe more complex documents with images and text",IN1014.
+699.72,700.0,D,Yeah,IN1014.
+699.86,700.12,A,and so,IN1014.
+700.0,700.0,D,.,IN1014.
+700.12,706.57,A,on . Maybe with slides it's ea it's easier to extract uh the information . I assume it's ea it's easier indeed . But they uh,IN1014.
+706.49,706.69,D,Yeah,IN1014.
+706.57,707.0,A,assume,IN1014.
+706.69,706.69,D,.,IN1014.
+707.0,714.63,A,"basically uh that they have this document , which is something somehow we would like to relax uh because uh people uh like",IN1014.
+714.52,714.98,B,Mm,IN1014.
+714.63,715.04,A,in it's,IN1014.
+714.98,714.98,B,.,IN1014.
+715.04,725.87,A,"you may not want each time to ask the person . Maybe the person has a point point , not the not a P_D_F_ version . Or maybe he's using Excel to do a demonstration or something",IN1014.
+725.67,726.02,C,Mm-hmm,IN1014.
+725.87,726.17,A,like this,IN1014.
+726.02,726.02,C,.,IN1014.
+726.17,727.67,A,and we'll want,IN1014.
+727.27,727.76,D,Let's say that it,IN1014.
+727.67,727.78,A,to,IN1014.
+727.76,728.68,D,makes,IN1014.
+727.78,728.16,A,avoid,IN1014.
+728.02,728.51,C,To c,IN1014.
+728.16,728.52,A,this,IN1014.
+728.51,728.65,C,to,IN1014.
+728.52,728.52,A,.,IN1014.
+728.65,729.21,C,capture,IN1014.
+728.68,731.3,D,uh less automatic in the sense that at point you need,IN1014.
+731.26,731.54,A,Mm,IN1014.
+731.3,731.76,D,someone,IN1014.
+731.54,731.54,A,.,IN1014.
+731.76,737.84,D,"giving the file and putting the file upload in somewhere , et cetera . And it is a different kind of processing",IN1014.
+737.77,738.26,C,Mm-hmm,IN1014.
+737.84,738.51,D,. Some way is always,IN1014.
+738.26,738.7,C,. Yeah,IN1014.
+738.51,738.85,D,driven,IN1014.
+738.7,738.93,C,", yeah",IN1014.
+738.85,739.08,D,by,IN1014.
+738.93,738.93,C,.,IN1014.
+739.08,746.69,D,"w what you're able to do . They work a lot on layout analysis . I know they match uh uh the layout in two X_M_L_ files , et cetera",IN1014.
+746.48,746.65,A,Mm .,IN1014.
+746.69,748.22,D,. So it's a different way of approaching,IN1014.
+747.864,747.864,C,.,IN1014.
+748.22,755.36,D,"the problem , which means a different way of capturing different exigencies in in capturing the",IN1014.
+755.04,756.31,C,"Yeah , different",IN1014.
+755.36,756.28,D,"the documents , yeah .",IN1014.
+756.31,757.32,C,requirements,IN1014.
+756.51,757.36,A,But but most,IN1014.
+757.32,757.32,C,.,IN1014.
+757.36,762.81,A,you would say most most of the points for us I mean would be valid . I mean slide transition,IN1014.
+762.18,762.36,D,Yep .,IN1014.
+762.81,763.59,A,we would use,IN1014.
+763.29,764.05,D,Yeah,IN1014.
+763.59,764.15,A,slide uh,IN1014.
+764.05,764.28,D,. Yep,IN1014.
+764.15,764.41,A,need,IN1014.
+764.28,764.28,D,.,IN1014.
+764.41,769.27,A,to do it slide transition . To some extent we would like to extract some elements of the layout to,IN1014.
+769.12,769.36,D,Yeah,IN1014.
+769.27,769.85,A,disting,IN1014.
+769.36,769.36,D,.,IN1014.
+769.85,770.95,A,to have a more high,IN1014.
+770.93,771.35,C,Mm-hmm,IN1014.
+770.95,772.21,A,analysis,IN1014.
+771.35,771.35,C,.,IN1014.
+772.21,790.92,A,". But we would like to do this more automatically and in particular for the text recognition to do to be able to do retrieval uh of slides or points . I mean of parts of presentation . We would like not to have to rely , yeah , to a first P_D_F_ version or any version of the document . So",IN1014.
+790.42,792.38,B,Okay . So,IN1014.
+790.92,791.12,A,yeah .,IN1014.
+792.38,811.63,B,"the solution to that low quality is uh solved b by you project , the PAS project . Uh uh I make a tick here and I clean up this is just to to solve that pro that problem regarding the slide and the slide resolution . So we remove uh that part .",IN1014.
+817.28,854.95,B,And we call that the PAS . And in that case we use um a frame grabber here . And we go with the slide here . And um of course these two cards will be on the same machine . And uh we have to develop a solution here . The main critical point is here . The synchronisation between these two uh these two cards . And with that this is the card that we use in the smart meeting room and this is uh the card the um,IN1014.
+855.24,855.55,A,So the,IN1014.
+855.47,855.47,B,.,IN1014.
+855.55,857.83,A,"c you have bought this card , right ? I mean you say",IN1014.
+857.48,857.98,B,"Yeah , these",IN1014.
+857.83,858.1,A,this,IN1014.
+857.98,858.26,B,one,IN1014.
+858.1,858.32,A,is,IN1014.
+858.26,858.41,B,no,IN1014.
+858.32,858.45,A,a,IN1014.
+858.41,858.71,B,no,IN1014.
+858.45,858.92,A,card,IN1014.
+858.71,858.97,B,. Th,IN1014.
+858.92,859.06,A,. No,IN1014.
+858.97,859.24,B,uh,IN1014.
+859.06,859.3,A,no,IN1014.
+859.24,859.48,B,this,IN1014.
+859.3,859.3,A,.,IN1014.
+859.48,865.41,B,"one is and this one the video card . And this one , this is uh the card that we have already",IN1014.
+865.27,865.58,D,Mm-hmm,IN1014.
+865.41,865.6,B,at,IN1014.
+865.58,865.58,D,.,IN1014.
+865.6,866.71,B,IDIAP for the,IN1014.
+866.3,866.92,A,Yeah . But,IN1014.
+866.71,866.96,B,sli,IN1014.
+866.92,867.24,A,I mean,IN1014.
+867.14,867.2,C,Hmm .,IN1014.
+867.24,869.22,A,this one is the I_V_C_,IN1014.
+868.13,869.01,D,I it's the same,IN1014.
+868.68,869.08,B,Yeah,IN1014.
+869.01,869.72,D,as,IN1014.
+869.08,869.26,B,", yeah",IN1014.
+869.22,869.67,A,. Okay,IN1014.
+869.26,869.26,B,.,IN1014.
+869.67,871.14,A,. So,IN1014.
+869.72,870.83,D,as you have in the picture,IN1014.
+870.59,870.85,B,Yep,IN1014.
+870.83,870.97,D,", yeah",IN1014.
+870.85,870.85,B,.,IN1014.
+870.97,870.97,D,.,IN1014.
+871.14,875.08,A,"what I want to say is on this card there are four inputs , right",IN1014.
+874.02,874.25,B,Yeah .,IN1014.
+875.08,875.85,A,? Okay,IN1014.
+875.67,875.92,B,Yeah,IN1014.
+875.85,875.96,A,. Not,IN1014.
+875.92,876.23,B,. So,IN1014.
+875.96,888.65,A,"n so enough uh well , yeah , yeah . I was thinking to some extent nothing would would prevent us uh from also acquiring the slide , but really the slide stream from from this card indeed . Right ? Or",IN1014.
+889.24,895.62,B,"Okay . Yeah , yeah . Yeah . So we can have both . We can have the slide from the slide capture",IN1014.
+895.39,895.67,A,Yeah,IN1014.
+895.62,895.9,B,and,IN1014.
+895.67,895.67,A,.,IN1014.
+895.9,900.97,B,we can just use uh a video signal to,IN1014.
+899.57,901.85,A,Okay . To capture the slide,IN1014.
+900.97,903.03,B,to capture that also,IN1014.
+901.85,902.98,A,. Yeah . Okay .,IN1014.
+903.03,908.06,B,. To have two t uh mm you wants to ha do you have two quality h high quality and,IN1014.
+908.01,920.63,A,"Well , I mean just because we cannot rec uh we can w something we cannot do with uh it seems for with the high q quality uh capture uh device is to have a stream . I mean the stream . Right , the full stream .",IN1014.
+921.24,922.65,B,"Yeah , we can just take some",IN1014.
+922.64,923.17,A,So,IN1014.
+922.65,923.96,B,snapshots,IN1014.
+923.17,924.74,A,we can tape snapshots,IN1014.
+923.96,924.13,B,. Yeah .,IN1014.
+924.74,935.02,A,". So basically it might be interesting to have still um uh the s uh the slide stream so that for instance if we detect there is a new video that is displayed also on , to some extent",IN1014.
+934.93,935.14,D,Yeah,IN1014.
+935.02,935.14,A,we,IN1014.
+935.14,935.14,D,.,IN1014.
+935.14,937.46,A,could just cut this videos,IN1014.
+937.33,937.51,B,Yeah,IN1014.
+937.46,937.56,A,to,IN1014.
+937.51,937.51,B,.,IN1014.
+937.56,940.5,A,keep it and to be able to replay it uh later,IN1014.
+940.27,941.28,B,Yeah,IN1014.
+940.5,941.69,A,on and so on,IN1014.
+941.28,941.56,B,. Yeah .,IN1014.
+941.69,949.8,A,. And maybe indeed if for instance the slide stream on the on the right is automatically synchronized with the other parts of the video,IN1014.
+949.79,950.0,B,Yeah,IN1014.
+949.8,950.13,A,", it may",IN1014.
+950.0,950.0,B,.,IN1014.
+950.13,958.13,A,"be easier to s to uh synchronize directly by some some matching process . The slides , the high quality",IN1014.
+958.01,958.92,B,Yeah,IN1014.
+958.13,959.08,A,measures we have here,IN1014.
+958.92,959.21,B,. With,IN1014.
+959.08,959.59,A,", we've",IN1014.
+959.21,960.39,B,um this one,IN1014.
+959.59,960.62,A,directly yeah,IN1014.
+960.39,960.85,B,. So yeah,IN1014.
+960.62,961.71,A,", yeah",IN1014.
+960.85,961.48,B,you won't yeah .,IN1014.
+961.71,962.05,A,. Yeah,IN1014.
+961.74,962.06,C,So you,IN1014.
+962.05,962.05,A,.,IN1014.
+962.06,963.22,C,you would,IN1014.
+963.06,963.64,B,Yeah,IN1014.
+963.22,963.66,C,you c you,IN1014.
+963.64,963.83,B,. Yeah,IN1014.
+963.66,963.96,C,can,IN1014.
+963.83,964.28,B,. Something,IN1014.
+963.96,965.0,C,uh,IN1014.
+964.28,965.57,B,like,IN1014.
+965.0,966.32,C,link,IN1014.
+965.57,966.42,B,like,IN1014.
+966.32,966.47,C,like,IN1014.
+966.42,966.59,B,say,IN1014.
+966.47,967.71,C,this,IN1014.
+966.59,967.5,B,something like that,IN1014.
+967.3,967.56,A,Yeah,IN1014.
+967.5,967.5,B,.,IN1014.
+967.56,968.25,A,", exactly",IN1014.
+967.71,968.21,C,? Mm-hmm,IN1014.
+967.98,969.09,D,Yeah,IN1014.
+968.21,968.62,C,", mm-hmm",IN1014.
+968.25,968.43,A,. Yeah .,IN1014.
+968.62,968.62,C,.,IN1014.
+969.09,969.28,D,. Yep .,IN1014.
+970.11,982.82,A,"So at least uh this is not at the electronic level . But you would say as a contents from the content level , doing an alignment from the slide stream and from the snap-shots we would have on the other side w is something that might be possible",IN1014.
+982.79,983.05,B,Yeah,IN1014.
+982.82,983.28,A,. Of course,IN1014.
+983.05,983.05,B,.,IN1014.
+983.28,995.65,A,"if we have some , you know , some constraints given by the electronic , I mean it's that's better . Uh because of course first the process is going to be easier and it may be just a few signals that we have to align",IN1014.
+995.63,995.83,B,Yep,IN1014.
+995.65,995.86,A,on,IN1014.
+995.83,995.83,B,.,IN1014.
+995.86,1003.01,A,the other parts . But I think I could see I could imagine that this could be a reasonable process to do . And,IN1014.
+1002.85,1003.06,B,Yeah,IN1014.
+1003.01,1003.1,A,it,IN1014.
+1003.06,1003.25,B,", yeah",IN1014.
+1003.1,1003.77,A,especially,IN1014.
+1003.25,1003.76,B,. Ch yeah .,IN1014.
+1003.77,1006.88,A,because this would solve some of the issues regarding I mean like,IN1014.
+1006.81,1007.16,B,Video,IN1014.
+1006.88,1007.75,A,the possibility,IN1014.
+1007.16,1007.16,B,.,IN1014.
+1007.75,1009.8,A,of d of displaying videos after,IN1014.
+1009.76,1010.4,D,Yeah,IN1014.
+1009.78,1009.95,B,Yeah,IN1014.
+1009.8,1010.18,A,from,IN1014.
+1009.95,1009.95,B,.,IN1014.
+1010.18,1010.4,A,from,IN1014.
+1010.4,1011.62,D,. Yep,IN1014.
+1010.4,1012.49,A,what we record,IN1014.
+1011.12,1011.55,C,Mm-hmm .,IN1014.
+1011.62,1012.1,D,. Definitely .,IN1014.
+1012.49,1013.11,A,. So yeah .,IN1014.
+1013.49,1037.23,B,Okay . So uh I was just talking about the PAS project . Maybe I would like just now to talk about the DIVA project . So I clean up . Yeah . I . There . Um did you read something regarding the DIVA project ?,IN1014.
+1038.88,1041.69,A,"Well , this is more or less what we just discussed , right",IN1014.
+1041.55,1041.72,B,In,IN1014.
+1041.69,1041.79,A,", if",IN1014.
+1041.72,1042.3,B,fa,IN1014.
+1041.79,1042.63,A,I understand,IN1014.
+1042.3,1046.97,B,"yeah , uh we just remember that here we we still have only one machine",IN1014.
+1046.82,1047.29,D,Mm-hmm,IN1014.
+1046.97,1047.43,B,to do uh the,IN1014.
+1047.29,1047.29,D,.,IN1014.
+1047.43,1063.32,B,"slide , video and audio acquisition . And the DIVA it was uh something different . Fact we have a master machine that's um We have a master machine here . And we have some slaves machine here .",IN1014.
+1075.15,1129.3,B,"We have some connection and here we have some input . We have audio . Usually we have audio . And And the same for this one . And um basically on the slave machine we have two cards , one for audio and one for video . So they develop something to synchronize these two cards together and th uh this is something which is it's more , w which is call uh direct show , uh which allows you to to synchronize uh these two cards together . And but of course you want these two streams to be synchronize . But you want also these two streams to be synchronized . So they have a synchronization between two slaves which is done by the master . Here we just use uh the et ethernet network",IN1014.
+1129.13,1129.45,D,Mm-hmm,IN1014.
+1129.3,1129.45,B,to,IN1014.
+1129.45,1129.45,D,.,IN1014.
+1129.45,1151.94,B,"synchronize uh these two um these two device . Um I just write . Internet , something like that . And uh they do only audio and video . Uh they don't do any slide . Um Slide",IN1014.
+1151.65,1152.43,D,Acquisition,IN1014.
+1151.94,1152.49,B,acquisition,IN1014.
+1152.43,1152.66,D,. Mm-hmm,IN1014.
+1152.49,1153.01,B,", yeah",IN1014.
+1152.66,1152.66,D,.,IN1014.
+1153.01,1164.92,B,. Okay ? So Yves asked for the DIVA . I would like just to talk now regarding uh the the fire-free smart meeting room at IDIAP . Do you have any question,IN1014.
+1164.66,1165.18,C,Tape free,IN1014.
+1164.92,1165.75,B,? Or,IN1014.
+1165.18,1165.18,C,.,IN1014.
+1165.34,1165.97,D,Tape free,IN1014.
+1165.75,1167.01,B,uh,IN1014.
+1165.97,1165.97,D,.,IN1014.
+1167.01,1167.91,B,. What yeah,IN1014.
+1167.34,1168.22,C,Tape free,IN1014.
+1167.91,1168.31,B,", tape free",IN1014.
+1168.22,1168.63,C,. D_V_,IN1014.
+1168.31,1169.75,B,", sorry",IN1014.
+1168.63,1169.22,C,tape free .,IN1014.
+1169.75,1173.78,B,. Tape free smart meeting room . So for that I,IN1014.
+1177.23,1180.21,A,"So like the Diva project is a tape free , already",IN1014.
+1180.02,1180.56,C,Yes,IN1014.
+1180.21,1180.61,A,smart,IN1014.
+1180.56,1180.56,C,.,IN1014.
+1180.59,1180.96,B,Yeah,IN1014.
+1180.61,1181.08,A,meeting room,IN1014.
+1180.96,1181.29,B,. It's,IN1014.
+1181.08,1181.4,A,", huh",IN1014.
+1181.29,1181.59,B,yeah,IN1014.
+1181.4,1181.4,A,?,IN1014.
+1181.59,1192.5,B,. It's a tape free but also video . Uh and the acquisition is done in raw video . So the file is huge and they really need uh um,IN1014.
+1191.43,1191.88,C,Mm-hmm .,IN1014.
+1192.5,1198.67,B,they have a long post-processing to convert raw file to uh DivX or to our own files .,IN1014.
+1199.7,1202.48,A,"Okay . But this can be done automatically , right ? I mean",IN1014.
+1202.28,1202.49,B,Yeah,IN1014.
+1202.48,1202.67,A,is,IN1014.
+1202.49,1202.72,B,", but",IN1014.
+1202.67,1204.04,A,the,IN1014.
+1202.72,1205.34,B,it takes time . It it's just,IN1014.
+1204.04,1204.36,A,okay .,IN1014.
+1205.34,1210.95,B,just to mention that . Uh so I will write .,IN1014.
+1217.35,1225.37,C,And that's what you they use more or less in T_N_O_ also . They didn't have uh tapes . But with different cards .,IN1014.
+1225.56,1226.18,B,Yeah,IN1014.
+1226.11,1226.22,A,So,IN1014.
+1226.18,1226.4,B,. Yeah,IN1014.
+1226.22,1226.65,A,at T_N_O_,IN1014.
+1226.4,1226.6,B,", yeah .",IN1014.
+1226.65,1227.33,A,they have something ?,IN1014.
+1228.19,1229.14,C,They had something,IN1014.
+1228.92,1230.93,A,"Ah , okay",IN1014.
+1229.14,1229.14,C,.,IN1014.
+1230.92,1231.62,B,Okay,IN1014.
+1230.93,1232.85,A,. Okay,IN1014.
+1231.35,1231.67,C,For the,IN1014.
+1231.62,1232.56,B,. So,IN1014.
+1231.67,1232.25,C,AMI project .,IN1014.
+1232.56,1233.19,B,maybe first,IN1014.
+1232.85,1234.18,A,". Yeah , okay",IN1014.
+1233.19,1234.23,B,I will just describe the,IN1014.
+1234.18,1234.26,A,. No,IN1014.
+1234.23,1234.58,B,ma,IN1014.
+1234.26,1234.62,A,". No , that's",IN1014.
+1234.58,1234.85,B,the,IN1014.
+1234.62,1235.09,A,what I was,IN1014.
+1234.85,1235.13,B,smart,IN1014.
+1235.09,1235.45,A,thinking,IN1014.
+1235.13,1235.63,B,meeting,IN1014.
+1235.45,1235.45,A,.,IN1014.
+1235.63,1237.3,B,room that we have at IDIAP . In,IN1014.
+1237.19,1237.41,C,Hmm,IN1014.
+1237.3,1237.67,B,fact,IN1014.
+1237.41,1237.41,C,.,IN1014.
+1237.67,1274.6,B,"we have uh also a master slave architecture . Um I clean a little bit . We have the master P_C_ , which take ks uh which takes care about the audio . I clean that . And we have the slave P_C_ which take cares about the white board and the slides . Now if we look at the video",IN1014.
+1279.66,1291.82,B,"If we look at the video in fact um yeah , maybe first I should mention that . Between the master and the slave we have um the mm a synchronization",IN1014.
+1291.51,1291.68,C,Yeah .,IN1014.
+1291.82,1325.67,B,"signal which is call time MIDI time code . I just write MIDI . And for the video , we have the video input here . We re-use the um MIDI signal uh with um to insert the time code on each frame . And we save that to D_V_ recorder . Uh I I have video . Okay",IN1014.
+1325.56,1325.66,C,Mm-hmm .,IN1014.
+1325.67,1350.06,B,". Uh we know the problem of that that uh this is that after each meeting somebody has to take care about the D_V_ tapes and to t convert them into DivX . So my idea is to d do something like that , is to develop a s um um uh a video slave machine . May I say something like that , yeah , a video slave",IN1014.
+1350.05,1350.44,D,Mm-hmm,IN1014.
+1350.06,1351.14,B,machine,IN1014.
+1350.44,1350.44,D,.,IN1014.
+1351.14,1384.07,B,"uh which use the MIDI um which use also the MIDI time code . No , sorry . Sorry , I'm doing something wrong . We have the video here . We just have the time code inserter . So we take that signal here and we move to this uh machine here , which is in fact just uh the I_V_C_ video card . This just",IN1014.
+1384.0,1384.16,D,Mm-hmm,IN1014.
+1384.07,1384.16,B,an,IN1014.
+1384.16,1384.16,D,.,IN1014.
+1384.16,1422.91,B,acquisition card . And we com and we s and we convert file directly to DivX . And um so we will have here video . And also because we want to control that machine we use also the MIDI time code the MIDI time code to start and to stop the machine . This is just something uh that uh this just to remove the D_V_ recordings . But um yeah . Just uh this just an improvement of the smart meeting room . Okay . Uh do you have any question uh regarding uh that ?,IN1014.
+1424.8,1436.95,A,"Yeah , so currently because there is a time code , uh video time code , you don't care about the frame dropping I mean because anyway , in each in the video signal , it is encoded the time , right ?",IN1014.
+1437.07,1444.18,B,Yeah . We don't have to care about the synchronization in that case because the time code is ins serted here . And we,IN1014.
+1444.16,1444.44,A,Yeah,IN1014.
+1444.18,1444.55,B,take,IN1014.
+1444.44,1444.44,A,.,IN1014.
+1444.55,1447.24,B,after the time code insertion we take,IN1014.
+1446.95,1447.4,A,Yeah,IN1014.
+1447.24,1447.61,B,the video,IN1014.
+1447.4,1448.12,A,. Yeah,IN1014.
+1447.61,1448.39,B,signal,IN1014.
+1448.12,1448.75,A,", yeah",IN1014.
+1448.39,1449.06,B,and we pass,IN1014.
+1448.75,1449.1,A,. Yeah,IN1014.
+1449.06,1449.33,B,through,IN1014.
+1449.1,1449.32,A,. Mm .,IN1014.
+1449.33,1457.08,B,"the machine . So uh this is uh a simple solution , but um where we don't have to care about the synchronization .",IN1014.
+1457.53,1457.81,A,Okay .,IN1014.
+1459.13,1463.02,C,Because the synchronization problem comes from the the grabbing,IN1014.
+1462.63,1464.33,B,Co,IN1014.
+1463.02,1465.37,C,from the D_V_ tape,IN1014.
+1464.33,1465.4,B,yeah . The,IN1014.
+1465.37,1465.69,C,in,IN1014.
+1465.4,1466.08,B,synchronization,IN1014.
+1465.69,1466.33,C,in d,IN1014.
+1466.08,1467.28,B,is,IN1014.
+1466.33,1467.46,C,in D_ Vix . So it's,IN1014.
+1467.28,1467.48,B,yeah,IN1014.
+1467.46,1468.11,C,afterwards,IN1014.
+1467.48,1467.48,B,.,IN1014.
+1468.11,1468.11,C,.,IN1014.
+1469.55,1477.23,A,"Well , but you don't I mean at this point you don't really care because I mean in the signal you can extract the time . I mean the time",IN1014.
+1477.18,1477.68,C,Mm,IN1014.
+1477.23,1477.69,A,stamp is,IN1014.
+1477.68,1477.68,C,.,IN1014.
+1477.69,1483.94,A,"i in the signal . So if you drop some frame , which happens sometimes when you do compression or acquisition",IN1014.
+1483.56,1483.85,B,Yeah .,IN1014.
+1483.94,1494.18,A,"uh you you uh ev you will automatically find this in uh the signal , right ? I mean it's encoded in the in the image . So you can you can do it",IN1014.
+1493.67,1494.0,B,Yeah .,IN1014.
+1494.18,1501.58,A,". Otherwise uh if there is some frame dropping , you have to rely on the number of frames you are counting more",IN1014.
+1501.52,1501.75,B,Yeah,IN1014.
+1501.58,1501.86,A,or less,IN1014.
+1501.75,1501.75,B,.,IN1014.
+1501.86,1503.53,A,I suppose to to assess,IN1014.
+1503.13,1504.0,C,"Oh no , it's impossible",IN1014.
+1503.53,1504.64,A,it . Uh,IN1014.
+1504.0,1504.91,C,", yeah",IN1014.
+1504.64,1505.01,A,so,IN1014.
+1504.91,1504.91,C,.,IN1014.
+1505.01,1507.83,A,"you have you have some problems then , yeah . Okay .",IN1014.
+1508.0,1515.29,B,Okay . So the f last one is uh the fire-wire acquisition . Uh I just,IN1014.
+1516.4,1520.77,A,Which i which was more or less T_N_O_ S problem,IN1014.
+1521.11,1521.51,B,Okay .,IN1014.
+1522.97,1525.2,A,"with respect to frame dropping , right ?",IN1014.
+1525.32,1543.2,C,"Mm they didn't have too much fun grabbing . The problem is was that it was not synchronized . So the time code was wrong for for the different videos . They had the uh uh at the beginning of the video , you if you saw the time code , it was six hours ni uh fifty minutes . And",IN1014.
+1543.16,1543.32,A,Yeah,IN1014.
+1543.2,1543.58,C,h there,IN1014.
+1543.32,1543.32,A,.,IN1014.
+1543.58,1548.0,C,four hours thirty two minutes . So it's it was a problem with the time code,IN1014.
+1547.66,1548.14,A,Well I think,IN1014.
+1548.0,1548.0,C,.,IN1014.
+1548.14,1554.22,A,"if it was not a problem of frame dropping , the alignment would have been quite easy to to do",IN1014.
+1553.81,1554.35,C,"Well , that's",IN1014.
+1554.22,1554.65,A,. And,IN1014.
+1554.35,1554.8,C,what they,IN1014.
+1554.65,1554.81,A,the,IN1014.
+1554.8,1560.02,C,did uh manually after the afterwards . But they didn't have too much frame drops in fact . No,IN1014.
+1560.01,1561.66,A,Really,IN1014.
+1560.02,1561.75,C,", they d yeah , yeah , yeah , I'm sure",IN1014.
+1561.66,1561.87,A,? Well,IN1014.
+1561.75,1562.07,C,. Because,IN1014.
+1561.87,1564.05,A,", so it was not such a difficult process then .",IN1014.
+1565.23,1568.3,C,"Well , it's manual to to synchronize it , the",IN1014.
+1568.09,1568.3,A,Yeah,IN1014.
+1568.3,1568.8,C,frame,IN1014.
+1568.3,1568.8,A,", but if it's",IN1014.
+1568.8,1568.8,C,.,IN1014.
+1568.8,1571.77,A,"only to find uh one of set , you have",IN1014.
+1571.6,1571.81,C,Yeah,IN1014.
+1571.77,1571.87,A,to,IN1014.
+1571.81,1572.09,C,", that's",IN1014.
+1571.87,1572.25,A,find,IN1014.
+1572.09,1572.3,C,what,IN1014.
+1572.25,1572.6,A,some,IN1014.
+1572.3,1572.81,C,they did,IN1014.
+1572.6,1573.25,A,exa,IN1014.
+1572.81,1572.81,C,.,IN1014.
+1573.25,1579.52,A,some examples . But I I had the feeling that they had also some frame dropping that was uh,IN1014.
+1578.86,1579.84,C,"No no , because uh",IN1014.
+1579.52,1579.74,A,no ?,IN1014.
+1579.84,1582.44,C,we did the software here and it they didn't,IN1014.
+1581.86,1583.23,A,Okay,IN1014.
+1582.44,1583.25,C,choo no our,IN1014.
+1583.23,1583.98,A,. Okay,IN1014.
+1583.25,1584.12,C,uh,IN1014.
+1583.98,1584.16,A,. Then,IN1014.
+1584.12,1584.49,C,software,IN1014.
+1584.16,1584.62,A,that's fine,IN1014.
+1584.49,1584.49,C,.,IN1014.
+1584.62,1584.62,A,.,IN1014.
+1592.56,1646.47,B,"Okay . Um in fact the the major problem regarding acquisition system is always the synchronization . And for that fire-wire is good . I mean fire-wire was a project . Now the project is uh stand-by . Uh we don't move to that project . I am but I am just going to talk about this one . Um so with acquisition with acquisition systems uh the major problem the major problem is uh the synchronization . And fire-wire gives you some um some way to be synchronize in fact . Uh this is uh I just want to to describe here the bus . This uh yeah , this is of the bus where you can send you can send some package . And any device we which wants to send a package",IN1014.
+1645.63,1646.14,C,Packet .,IN1014.
+1646.47,1688.5,B,"a p a packet , sorry , should ask um there is a manager of that bus . This just of the bus . Any device which wants to send a packet has to r to r uh require some uh band-width on the bus on the bus . And so after that he will have that band-width . And he will always have that band-width . So um yeah , he will always have that band-width . And so we are sure that we will have a synchronize acquisition with fire-wire . And so so that mean that um",IN1014.
+1692.65,1693.26,C,And,IN1014.
+1693.16,1693.91,B,Yeah,IN1014.
+1693.26,1694.96,C,this is,IN1014.
+1693.91,1695.88,B,". Yeah . Sorry , sorry . Uh",IN1014.
+1694.96,1696.05,C,no no no . . And,IN1014.
+1695.88,1696.14,B,yeah,IN1014.
+1696.05,1696.24,C,this,IN1014.
+1696.14,1696.14,B,.,IN1014.
+1696.24,1698.32,C,is done at the um you,IN1014.
+1698.04,1698.74,B,Hardware,IN1014.
+1698.32,1699.15,C,have libraries,IN1014.
+1698.74,1698.74,B,.,IN1014.
+1699.15,1708.18,C,", et et cetera to to choo well uh a all you you are saying about uh asking about band-width , et cetera . It th",IN1014.
+1707.87,1708.31,B,It's,IN1014.
+1708.18,1708.35,C,when,IN1014.
+1708.31,1708.62,B,i,IN1014.
+1708.35,1708.72,C,y uh,IN1014.
+1708.62,1708.92,B,it's,IN1014.
+1708.72,1708.93,C,you,IN1014.
+1708.92,1709.17,B,done,IN1014.
+1708.93,1709.26,C,use,IN1014.
+1709.17,1710.42,B,by,IN1014.
+1709.26,1711.17,C,a system um,IN1014.
+1710.42,1711.23,B,it's done by,IN1014.
+1711.17,1712.01,C,hardware,IN1014.
+1711.23,1712.71,B,hardware,IN1014.
+1712.01,1713.58,C,". Yeah , yeah",IN1014.
+1712.71,1715.09,B,. It's done by hardware,IN1014.
+1713.58,1715.36,C,. So we don't have to code all,IN1014.
+1715.09,1715.37,B,. No no,IN1014.
+1715.36,1716.08,C,the,IN1014.
+1715.37,1716.7,B,no no no,IN1014.
+1716.08,1716.73,C,communication,IN1014.
+1716.7,1716.9,B,. And,IN1014.
+1716.73,1717.15,C,process,IN1014.
+1716.9,1717.02,B,in,IN1014.
+1716.98,1717.55,D,Hmm,IN1014.
+1717.02,1717.29,B,fact,IN1014.
+1717.15,1717.64,C,", et cetera",IN1014.
+1717.29,1717.9,B,yeah,IN1014.
+1717.55,1717.55,D,.,IN1014.
+1717.64,1718.83,C,. So,IN1014.
+1717.9,1719.16,B,. I I as I mentioned,IN1014.
+1718.83,1719.49,C,just for,IN1014.
+1719.16,1720.01,B,before,IN1014.
+1719.49,1720.42,C,explanation,IN1014.
+1720.01,1720.72,B,", we have a bus",IN1014.
+1720.42,1720.42,C,.,IN1014.
+1720.72,1817.34,B,"manager and the bus manager send just a flag to say now it's time to give me you data , and all devices which have uh required some band-width will send the data . So I'm just drawing something like that . This is this kind of signal that the th bus manager is sending . And just after that bus just after that uh signal all device will send uh the data . So we will have the data from A_ , from B_ and from C_ and so on . And after the next one we will have again the um the data from A_ , B_ and C_ and so on and so on . And so with fire-wire we are sure to have a um an acquisition system . Now the major problem with fire-wire is that that fire-wire is just an kind of intelligent , uh a smart pipe . A synchronized pipe . We can put what we want inside . So we can put raw data , or we can send a DivX data , or we can send also uh what I uh was presenting in my term presentation was a H_ two six four . But in that case we need something uh hardware here to uncode raw data to a given format . Of course uh the idea is to reduce um the band-width on the bus also . And all data are sent through the master . Do you have any quest",IN1014.
+1819.17,1829.36,D,Mm yeah . Now basically we have all this kind of general view about all the systems maybe we can take this opportunity to come back to our system . Because you know we had,IN1014.
+1828.53,1828.82,B,Yeah .,IN1014.
+1829.36,1832.35,D,there are mm we had the long discussion and finally we decided,IN1014.
+1832.13,1832.55,C,Mm-hmm,IN1014.
+1832.35,1832.71,D,for,IN1014.
+1832.55,1832.55,C,.,IN1014.
+1832.71,1849.99,D,for one approach . And maybe take the opportunity to look just a moment uh at what point we are and w when we plan basically to get something uh done and working . I can add to that list of project is something that Jean-Marc and me we have found in the literature . There is F_X_,IN1014.
+1849.96,1850.4,C,Yes,IN1014.
+1849.99,1850.5,D,that is doing,IN1014.
+1850.4,1850.4,C,.,IN1014.
+1850.5,1880.59,D,something very similar to to what we do here basically . A capture through the projector signal of the slides and they for the moment they just plan to use the slides as a as a way to index the presentations . But but uh roughly is is an idea that is very similar to to our idea . So well essentially now we have the material as far I'm as I'm understood . Uh and it's up to you to tell us roughly when do you think,IN1014.
+1880.35,1881.28,C,Okay,IN1014.
+1880.59,1881.95,D,uh we're gonna have something,IN1014.
+1881.28,1882.8,C,. Yeah,IN1014.
+1881.95,1882.53,D,working .,IN1014.
+1882.8,1895.38,C,". So we need uh well , this is will be done together t like in to to try to divide the time uh what do we do . Um we we don't want today to to put deadlines , you know",IN1014.
+1894.8,1895.11,B,Mm-hmm .,IN1014.
+1895.38,1928.6,C,". But um what we have , what we can do and how we will be able to do , I was thinking uh for instance uh in th in what we have um uh because I don't know a lot about um using uh like uh D_L_L_ , M_F_C_ , uh uh Microsoft software . But I'm very happy to to go with that . And uh so what we have until now is the software that Darren did",IN1014.
+1928.57,1929.05,B,Mm-hmm,IN1014.
+1928.6,1929.27,C,for the,IN1014.
+1929.05,1929.05,B,.,IN1014.
+1929.27,1938.73,C,frame grabbing . And and actually I c um I can start playing and uh looking at the this uh in detail .,IN1014.
+1939.14,1939.48,D,Mm-hmm .,IN1014.
+1940.62,1956.67,C,"So Darren software About um frame grabbing . Sup I suppose M_F_C_C_ no uh , not M_F_C_C_ but M_ e M_F_C_",IN1014.
+1956.67,1957.03,B,Mm-hmm,IN1014.
+1956.67,1958.05,C,. You heard of that,IN1014.
+1957.03,1957.03,B,.,IN1014.
+1958.05,1963.93,C,". And uh D_L_L_ , et cetera . The all the Windows uh uh pro",IN1014.
+1963.73,1964.25,D,Issues,IN1014.
+1963.93,1965.62,C,programming,IN1014.
+1964.25,1964.42,D,", yeah .",IN1014.
+1965.62,1975.69,C,. Um so this is one uh step . Then um the audio video card um so,IN1014.
+1975.278,1975.278,B,.,IN1014.
+1975.69,1982.89,C,"so uh first uh we need to look at this , to look at the demos that are uh",IN1014.
+1982.68,1982.94,B,Yeah,IN1014.
+1982.89,1983.27,C,i,IN1014.
+1982.94,1982.94,B,.,IN1014.
+1983.27,1996.17,C,"with the what they call the S_D_K_ uh software development kit . Uh demos , test . Um testing the card with uh only one audio for instance and then only one video .",IN1014.
+1996.22,1996.52,B,Mm-hmm .,IN1014.
+2001.62,2009.09,C,"And e even uh testing with only the slides uh to capture all the uh like what you were saying , the the s uh the video s",IN1014.
+2008.87,2009.16,B,Yeah,IN1014.
+2009.09,2009.27,C,uh,IN1014.
+2009.16,2009.16,B,.,IN1014.
+2009.27,2012.0,C,"stream . Well , slide stream .",IN1014.
+2012.95,2018.41,B,Uh in fact the um slide card l sorry . The slide card,IN1014.
+2018.2,2018.84,C,The frame,IN1014.
+2018.41,2022.74,B,and the video card are both S_D_K_ . So,IN1014.
+2022.54,2022.84,C,You mean,IN1014.
+2022.74,2022.85,B,what,IN1014.
+2022.84,2025.56,C,the frame grabbing card,IN1014.
+2024.82,2026.05,B,Yeah,IN1014.
+2025.56,2025.95,C,? Yeah .,IN1014.
+2026.05,2027.77,B,. Both are S_D_K_,IN1014.
+2027.76,2027.89,C,They,IN1014.
+2027.77,2027.77,B,.,IN1014.
+2027.89,2030.95,C,have S_D_K_ uh software development kit,IN1014.
+2030.16,2030.41,B,Yeah .,IN1014.
+2030.95,2033.74,C,that is based on uh M_F_C_ libraries,IN1014.
+2033.73,2034.09,B,Yeah,IN1014.
+2033.74,2035.54,C,and,IN1014.
+2034.09,2034.65,B,", y yeah .",IN1014.
+2035.54,2036.89,C,C_ plus plus libraries,IN1014.
+2036.56,2037.03,B,Yeah,IN1014.
+2036.89,2036.89,C,.,IN1014.
+2037.03,2039.23,B,", this for that you uh I",IN1014.
+2039.17,2041.19,C,Okay,IN1014.
+2039.23,2041.43,B,don't remember by how . No,IN1014.
+2041.19,2042.42,C,. Okay,IN1014.
+2041.43,2041.8,B,. But,IN1014.
+2042.42,2051.18,C,". So once you we've tested the individually the card , we can test to synchronize the audio and the video together ? Or",IN1014.
+2051.09,2051.82,B,Usually,IN1014.
+2051.18,2051.83,C,"is it no , it's",IN1014.
+2051.82,2052.19,B,audio,IN1014.
+2051.83,2052.37,C,synchronized,IN1014.
+2052.19,2052.52,B,audio,IN1014.
+2052.37,2053.85,C,? Or,IN1014.
+2052.52,2055.19,B,and video should be synchronized,IN1014.
+2053.85,2054.24,C,okay .,IN1014.
+2055.19,2058.65,B,. Because uh this just an on an audio video channel,IN1014.
+2058.18,2058.55,C,Okay .,IN1014.
+2058.65,2068.2,B,. So uh they are synchronize . Um so we can play with the video . We can play with the slide . Uh and after that and the major point is to m combine both .,IN1014.
+2068.37,2080.74,C,"Okay . And the i th now we are , as you said uh what not now but uh the next point would be to use that card with the other card and to merge",IN1014.
+2080.16,2080.38,B,Yep .,IN1014.
+2080.74,2094.27,C,"the slide signal with the , well , um the s uh yeah , the synchronization signal coming from the frame grabbing card . It's uh it's it's not a synchronization signal , it's a slide with a t",IN1014.
+2095.81,2097.67,B,We we don't have synchronization .,IN1014.
+2098.3,2099.59,C,"Oui oui . Yeah , we will .",IN1014.
+2099.85,2110.07,B,"We have to find a solution , and for that might be we can use uh direct show , which is a syn which is a technique to synchronize different device .",IN1014.
+2110.18,2113.25,C,And is is it external to this card ? It's external,IN1014.
+2113.19,2113.29,B,No,IN1014.
+2113.25,2113.39,C,? Or,IN1014.
+2113.29,2113.5,B,no,IN1014.
+2113.39,2113.6,C,it's,IN1014.
+2113.5,2113.75,B,. This,IN1014.
+2113.6,2113.66,C,i,IN1014.
+2113.75,2116.07,B,is just uh an application,IN1014.
+2115.87,2116.16,C,So it's,IN1014.
+2116.07,2116.24,B,", which",IN1014.
+2116.16,2117.11,C,external,IN1014.
+2116.24,2116.38,B,i,IN1014.
+2117.11,2119.29,C,. It's not in this uh,IN1014.
+2118.33,2119.31,B,"No , no , no , no , no",IN1014.
+2119.29,2119.6,C,card,IN1014.
+2119.31,2120.44,B,. No,IN1014.
+2119.6,2119.6,C,.,IN1014.
+2120.44,2125.54,B,. This not on the card . This just an application that runs on the machine,IN1014.
+2125.52,2125.68,C,And,IN1014.
+2125.54,2125.54,B,.,IN1014.
+2125.68,2127.46,C,we don't have to buy that ? Or well,IN1014.
+2127.29,2127.88,B,Um,IN1014.
+2127.46,2128.15,C,uh to,IN1014.
+2127.88,2129.67,B,f,IN1014.
+2128.15,2129.96,C,to uh at least the,IN1014.
+2129.67,2130.05,B,I think,IN1014.
+2129.96,2130.56,C,basic,IN1014.
+2130.05,2130.7,B,direct show you,IN1014.
+2130.56,2130.56,C,.,IN1014.
+2130.7,2137.77,B,can download for free . I'm I'm not sure . M I should check,IN1014.
+2136.5,2137.98,C,Okay . And,IN1014.
+2137.77,2138.19,B,. Or,IN1014.
+2137.98,2144.77,C,that will will uh will be will help us to synchronize the this,IN1014.
+2144.77,2145.18,B,Yeah,IN1014.
+2144.77,2145.37,C,frame grabbing,IN1014.
+2145.18,2146.02,B,", it",IN1014.
+2145.37,2146.22,C,card and this video,IN1014.
+2146.02,2146.43,B,m,IN1014.
+2146.22,2146.55,C,card,IN1014.
+2146.43,2146.72,B,yeah,IN1014.
+2146.55,2146.55,C,.,IN1014.
+2146.72,2146.72,B,.,IN1014.
+2148.74,2166.19,C,"So uh t yeah , we need to do some tests . Reading and yeah . Okay . And then when we have okay . Where do we do that ? He we don't know yet with Frank if we install this card maybe here",IN1014.
+2166.02,2166.34,B,I think,IN1014.
+2166.19,2166.19,C,.,IN1014.
+2166.34,2174.71,B,the best thing to do is to have a machine just which is only dedicated to to that . Because uh,IN1014.
+2174.2,2174.81,C,"Okay , and at",IN1014.
+2174.71,2174.96,B,if,IN1014.
+2174.81,2175.05,C,IDIAP,IN1014.
+2174.96,2175.06,B,you,IN1014.
+2175.05,2175.19,C,it's,IN1014.
+2175.06,2175.22,B,if,IN1014.
+2175.19,2175.56,C,possible,IN1014.
+2175.22,2175.7,B,you if,IN1014.
+2175.56,2175.66,C,there .,IN1014.
+2175.7,2182.28,B,you if you use a machine which has been already used for something else sometimes you have plenty of libraries . And so you you,IN1014.
+2182.16,2182.59,C,Okay,IN1014.
+2182.28,2182.69,B,don't know,IN1014.
+2182.59,2182.59,C,.,IN1014.
+2182.69,2187.26,B,exactly . Maybe it would be better to have just a dedicated machine just for,IN1014.
+2187.21,2187.63,D,Mm,IN1014.
+2187.26,2187.56,B,that .,IN1014.
+2187.63,2193.53,D,"careful because the uh I listened to Frank , and apparently don't want to buy a new machine",IN1014.
+2193.03,2193.36,C,Mm-hmm .,IN1014.
+2193.53,2194.23,D,before,IN1014.
+2193.55,2194.07,B,Just for,IN1014.
+2194.23,2197.41,D,we show that this works,IN1014.
+2196.83,2197.2,B,Okay .,IN1014.
+2197.41,2200.52,D,. So we have to use material that is already available .,IN1014.
+2200.77,2201.08,B,Okay,IN1014.
+2201.03,2201.23,A,Yeah,IN1014.
+2201.08,2201.08,B,.,IN1014.
+2201.23,2203.74,A,", but maybe there are already some machines , you know",IN1014.
+2203.7,2203.98,D,Maybe,IN1014.
+2203.74,2205.31,A,", uh",IN1014.
+2203.98,2204.97,D,there is some free ma,IN1014.
+2204.91,2205.17,C,Well,IN1014.
+2204.97,2205.38,D,machine,IN1014.
+2205.17,2205.32,C,on,IN1014.
+2205.31,2205.56,A,uh,IN1014.
+2205.32,2205.49,C,my,IN1014.
+2205.38,2205.6,D,that,IN1014.
+2205.49,2206.0,C,machine,IN1014.
+2205.56,2205.56,A,.,IN1014.
+2205.6,2206.09,D,is not,IN1014.
+2206.0,2207.82,C,", his machine or this machine",IN1014.
+2207.49,2207.74,A,Uh,IN1014.
+2207.65,2208.03,D,Okay,IN1014.
+2207.82,2208.26,C,maybe,IN1014.
+2207.96,2208.08,B,Mm,IN1014.
+2208.03,2208.33,D,", s",IN1014.
+2208.08,2208.08,B,.,IN1014.
+2208.26,2208.26,C,.,IN1014.
+2208.33,2210.05,D,so it is possible to use other machines,IN1014.
+2209.88,2210.16,A,Yeah,IN1014.
+2210.05,2210.37,D,actually,IN1014.
+2210.16,2210.42,A,", I mean",IN1014.
+2210.37,2210.92,D,", yeah",IN1014.
+2210.42,2211.27,A,just that,IN1014.
+2210.92,2210.92,D,.,IN1014.
+2211.27,2218.04,A,", you know , if of course you don't want to have a c other libraries that may , you know , conflict with the one you are trying to use",IN1014.
+2217.24,2217.55,D,Mm-hmm .,IN1014.
+2218.04,2223.53,A,". At the same time , yo see , if you crash a machine I mean because you are doing some test , you may not want",IN1014.
+2223.52,2223.83,C,Yeah,IN1014.
+2223.53,2223.9,A,to have,IN1014.
+2223.83,2223.83,C,.,IN1014.
+2223.9,2226.49,A,what's on your machine I mean,IN1014.
+2225.87,2226.25,C,Yeah,IN1014.
+2225.89,2226.16,B,Yeah .,IN1014.
+2226.25,2226.25,C,.,IN1014.
+2226.49,2229.92,A,to uh to be to be uh de,IN1014.
+2229.74,2230.13,C,Okay,IN1014.
+2229.92,2230.47,A,erased,IN1014.
+2230.13,2230.13,C,.,IN1014.
+2230.47,2232.83,A,or whats whatever . So I think it's,IN1014.
+2232.11,2232.47,C,issue .,IN1014.
+2232.83,2234.66,A,so maybe there is a machine I don't know,IN1014.
+2234.66,2234.96,D,Mm,IN1014.
+2234.66,2235.13,A,whether for,IN1014.
+2234.96,2234.96,D,.,IN1014.
+2235.13,2241.9,A,"this you need , you know , a very powerful machine and so on . But maybe there is a possibility to use a current machine",IN1014.
+2241.34,2242.2,B,"Yeah , yeah",IN1014.
+2241.9,2242.11,A,which,IN1014.
+2241.91,2242.2,D,Some,IN1014.
+2242.11,2242.22,A,is,IN1014.
+2242.2,2242.47,D,of,IN1014.
+2242.2,2242.48,B,. I,IN1014.
+2242.22,2243.87,A,only u,IN1014.
+2242.47,2242.88,D,uh,IN1014.
+2242.48,2244.02,B,I,IN1014.
+2242.88,2244.13,D,"some other machine , yeah",IN1014.
+2243.87,2244.29,A,yeah,IN1014.
+2244.02,2244.63,B,Oui,IN1014.
+2244.13,2244.13,D,.,IN1014.
+2244.29,2245.03,A,", that's",IN1014.
+2244.63,2245.08,B,. Because,IN1014.
+2245.03,2247.47,A,is withdrawn from the network or yeah .,IN1014.
+2247.79,2254.28,B,Because I think um the video is done the video compression is done on the,IN1014.
+2254.22,2254.44,A,The,IN1014.
+2254.28,2254.45,B,on,IN1014.
+2254.44,2254.79,A,card,IN1014.
+2254.45,2255.64,B,that card,IN1014.
+2254.79,2254.79,A,.,IN1014.
+2255.35,2255.74,D,Mm-hmm,IN1014.
+2255.64,2256.17,B,and,IN1014.
+2255.74,2255.74,D,.,IN1014.
+2256.17,2269.81,B,"uh I'm not hundred percent sure , but I think the J_ PEG the J_ PEG conversion for the slide capture is done also on the card . So we don't need",IN1014.
+2270.83,2278.98,A,"Yeah . But still , I mean even if it's done on the card , you need to basic thing you need to check is um is a bus , right ? I mean the bus writing",IN1014.
+2278.65,2279.8,B,Ah yeah,IN1014.
+2278.98,2280.13,A,", I mean the speed of",IN1014.
+2279.8,2280.99,B,. Yeah,IN1014.
+2280.13,2281.1,A,uh the,IN1014.
+2280.99,2281.31,B,. But,IN1014.
+2281.1,2281.23,A,bus .,IN1014.
+2281.31,2287.64,B,I mean yeah . I was just thinking about the the speed of the computer could be lower .,IN1014.
+2288.24,2294.56,A,"Yeah , yeah . Yeah , yeah , yeah . So C_P_U_ itself may not be so . The access , yeah .",IN1014.
+2294.97,2296.18,D,So mm,IN1014.
+2295.79,2296.31,C,So yeah,IN1014.
+2296.18,2296.45,D,in,IN1014.
+2296.31,2296.99,C,. Uh,IN1014.
+2296.45,2297.79,D,terms of time,IN1014.
+2296.99,2298.38,C,uh mm,IN1014.
+2297.79,2299.5,D,what we can,IN1014.
+2298.38,2298.38,C,.,IN1014.
+2299.5,2303.2,D,think ? When we can expect to see,IN1014.
+2303.47,2307.23,A,So can we expect a Christmas uh gift ? Uh,IN1014.
+2306.07,2310.24,D,Christmas gift or early,IN1014.
+2309.56,2310.61,C,"Yeah , Christmas two",IN1014.
+2310.24,2310.95,D,New Year,IN1014.
+2310.61,2311.1,C,seven,IN1014.
+2310.95,2311.32,D,gift,IN1014.
+2311.1,2312.06,C,. No no,IN1014.
+2311.32,2311.64,D,. Uh,IN1014.
+2312.06,2314.71,C,". Um yeah , that's good question .",IN1014.
+2315.14,2329.2,B,Maybe a first so solution will be just to start w with . Because we need to start with something . We have the slide capture from Darren . We have um I will work on the video acquisition for the inpu the,IN1014.
+2329.19,2329.43,A,Mm,IN1014.
+2329.2,2329.48,B,tape,IN1014.
+2329.43,2329.43,A,.,IN1014.
+2329.48,2339.74,B,"free smart meeting room . So I will start with that to develop some knowledge regarding that board , uh that video board , and after that we can combine both .",IN1014.
+2339.93,2343.85,D,But the way of course I'm I I don't know exactly what uh,IN1014.
+2343.46,2344.27,C,"Yeah , Alexandre",IN1014.
+2343.85,2344.69,D,the work involves,IN1014.
+2344.27,2344.9,C,did not care,IN1014.
+2344.69,2345.15,D,. So is,IN1014.
+2344.9,2345.23,C,too much,IN1014.
+2345.15,2345.47,D,this,IN1014.
+2345.23,2345.48,C,about,IN1014.
+2345.47,2346.79,D,uh,IN1014.
+2345.48,2347.71,C,the way uh you i,IN1014.
+2346.79,2347.82,D,no that's not that I don't care,IN1014.
+2347.71,2347.92,C,no,IN1014.
+2347.82,2348.12,D,. But,IN1014.
+2347.92,2348.16,C,no,IN1014.
+2348.12,2348.3,D,uh,IN1014.
+2348.16,2348.31,C,no,IN1014.
+2348.3,2348.39,D,I,IN1014.
+2348.31,2348.58,C,", but",IN1014.
+2348.39,2348.62,D,d,IN1014.
+2348.58,2349.46,C,uh,IN1014.
+2348.62,2349.63,D,I don't understand,IN1014.
+2349.46,2349.66,C,you,IN1014.
+2349.63,2349.84,D,some,IN1014.
+2349.66,2349.84,C,are,IN1014.
+2349.84,2350.08,D,way,IN1014.
+2349.84,2350.13,C,more,IN1014.
+2350.08,2350.59,D,exactly,IN1014.
+2350.13,2351.0,C,in research,IN1014.
+2350.59,2351.17,D,. I think the,IN1014.
+2351.0,2351.0,C,.,IN1014.
+2351.17,2353.1,D,the the real point is when .,IN1014.
+2353.56,2358.89,C,"Mm-hmm . Okay , I said at the beginning of the meeting that mm uh well we're not",IN1014.
+2358.85,2359.3,D,roughly,IN1014.
+2358.89,2359.79,C,d doing,IN1014.
+2359.3,2360.0,D,. I mean I I don't,IN1014.
+2359.79,2360.62,C,deadlines,IN1014.
+2360.0,2360.8,D,say well,IN1014.
+2360.62,2360.86,C,. But,IN1014.
+2360.8,2360.91,D,no,IN1014.
+2360.86,2361.07,C,uh,IN1014.
+2360.91,2361.18,D,", no , no",IN1014.
+2361.07,2361.5,C,yeah,IN1014.
+2361.18,2361.62,D,. I don't wanna,IN1014.
+2361.5,2362.6,C,. Mm yeah,IN1014.
+2361.62,2362.63,D,put a deadline . Uh,IN1014.
+2362.6,2362.69,C,. No,IN1014.
+2362.63,2362.98,D,but,IN1014.
+2362.69,2363.2,C,", no . Yeah",IN1014.
+2362.98,2363.52,D,uh,IN1014.
+2363.2,2363.8,C,", yeah",IN1014.
+2363.52,2364.19,D,given,IN1014.
+2363.8,2364.42,C,", yeah",IN1014.
+2364.19,2364.92,D,the current,IN1014.
+2364.42,2364.42,C,.,IN1014.
+2364.92,2367.6,D,uh material we have um,IN1014.
+2367.53,2367.98,C,Mm-hmm,IN1014.
+2367.6,2368.06,D,mm,IN1014.
+2367.98,2367.98,C,.,IN1014.
+2368.06,2369.75,D,given your activities because I know that,IN1014.
+2369.61,2370.99,C,Mm-hmm,IN1014.
+2369.75,2371.0,D,you both are involve in many,IN1014.
+2370.99,2371.37,C,. Mm-hmm,IN1014.
+2371.0,2372.18,D,other things,IN1014.
+2371.37,2371.37,C,.,IN1014.
+2372.18,2389.64,D,". So it's something that you yeah , as Jean-Marc said , is Christmas and uh so we're happy with the Christmas gift . Or is something that you say is Christmas two thousand six . So I I I definitely just want to know something very rough on when you expect to finish this .",IN1014.
+2392.03,2396.93,A,For instance I mean the test of looking at their entry goes point by point,IN1014.
+2396.16,2396.66,C,Yeah .,IN1014.
+2396.93,2403.91,A,". So looking at their code I mean uh so you said you would look at this , right ? Or",IN1014.
+2403.3,2403.96,C,Ye well,IN1014.
+2403.91,2404.88,A,is,IN1014.
+2403.96,2404.89,C,", we would look both",IN1014.
+2404.88,2405.15,A,it,IN1014.
+2404.89,2405.66,C,at . Because,IN1014.
+2405.15,2405.69,A,okay,IN1014.
+2405.66,2405.92,C,we,IN1014.
+2405.69,2405.69,A,.,IN1014.
+2405.92,2412.96,C,are also both uh quite busy with other projects of course . Uh e H_F_E_S_,IN1014.
+2412.52,2413.08,D,That's problem,IN1014.
+2412.96,2413.86,C,database,IN1014.
+2413.08,2413.9,D,. Uh,IN1014.
+2413.86,2414.1,C,uh,IN1014.
+2413.9,2414.24,D,that's,IN1014.
+2414.1,2415.47,C,with,IN1014.
+2414.24,2415.88,D,that's a problem . I mean,IN1014.
+2415.47,2416.06,C,J_ Ferret,IN1014.
+2415.88,2416.13,D,do you,IN1014.
+2416.06,2416.47,C,uh,IN1014.
+2416.13,2423.01,D,think it's something for the very next months ? Do you think it's something for the end of next year ? Do you think sp,IN1014.
+2421.24,2421.6,C,Okay,IN1014.
+2421.56,2421.92,B,No,IN1014.
+2421.6,2421.98,C,", this is",IN1014.
+2421.92,2422.02,B,. For,IN1014.
+2421.98,2422.37,C,between,IN1014.
+2422.02,2423.01,B,not for,IN1014.
+2422.37,2422.72,C,both .,IN1014.
+2423.01,2426.69,B,no no . This not for end of next year . It's too long,IN1014.
+2426.01,2426.24,C,Yeah,IN1014.
+2426.1,2427.2,D,Mm,IN1014.
+2426.24,2426.82,C,", of course , yeah",IN1014.
+2426.69,2426.91,B,. And,IN1014.
+2426.82,2426.82,C,.,IN1014.
+2426.91,2427.4,B,it it's,IN1014.
+2427.2,2427.45,D,. So,IN1014.
+2427.4,2427.59,B,uh,IN1014.
+2427.45,2427.69,D,is,IN1014.
+2427.59,2427.92,B,it's,IN1014.
+2427.69,2429.09,D,for,IN1014.
+2427.92,2429.55,B,"too long , it's too long",IN1014.
+2429.09,2429.83,D,so half,IN1014.
+2429.55,2429.55,B,.,IN1014.
+2429.83,2433.99,D,next year . So June,IN1014.
+2433.35,2434.14,B,For myself,IN1014.
+2433.99,2435.66,D,June,IN1014.
+2434.14,2436.21,B,I would like to say uh,IN1014.
+2435.66,2436.47,D,June two thousand,IN1014.
+2436.21,2436.66,B,April,IN1014.
+2436.47,2437.0,D,six,IN1014.
+2436.66,2437.37,B,", May",IN1014.
+2437.0,2437.0,D,.,IN1014.
+2437.37,2438.89,B,". April , May we should have results .",IN1014.
+2439.67,2443.08,D,"Re results , what does it mean ? The end of this ? So it works",IN1014.
+2442.94,2443.1,B,Uh,IN1014.
+2443.08,2443.18,D,", it",IN1014.
+2443.1,2443.23,B,no,IN1014.
+2443.18,2443.44,D,doesn't,IN1014.
+2443.23,2443.72,B,no no,IN1014.
+2443.44,2443.74,D,work,IN1014.
+2443.72,2444.02,B,. Uh,IN1014.
+2443.74,2443.74,D,.,IN1014.
+2444.02,2448.32,B,I mean the um Uh,IN1014.
+2448.03,2448.37,C,Ready,IN1014.
+2448.32,2448.81,B,not,IN1014.
+2448.37,2449.08,C,to be used,IN1014.
+2448.81,2449.7,B,al almost,IN1014.
+2449.08,2449.08,C,.,IN1014.
+2449.7,2454.61,B,uh the uh the the uh the complete application . Maybe some minor will,IN1014.
+2454.31,2454.87,D,"You know , for",IN1014.
+2454.61,2455.21,B,appears,IN1014.
+2454.87,2455.22,D,for me,IN1014.
+2455.21,2455.21,B,.,IN1014.
+2455.22,2457.66,D,what is important is when it is ready to be use,IN1014.
+2457.4,2458.26,C,Yeah,IN1014.
+2457.66,2458.27,D,. So when I can,IN1014.
+2458.26,2458.51,C,. So,IN1014.
+2458.27,2458.62,D,say,IN1014.
+2458.51,2458.54,C,uh,IN1014.
+2458.62,2460.37,D,start collecting,IN1014.
+2459.96,2460.32,C,Data .,IN1014.
+2460.37,2481.32,D,"data , uh I start using . I start playing with this . Basically the process is ready and we can start having our demo . And also because there is a risk that uh we submitted a project , maybe it will be rejected we don't know , but potentially we are going to have a student supposed to work in this . It will be no not before April two thousand six",IN1014.
+2480.54,2480.99,C,Mm-hmm .,IN1014.
+2481.32,2485.46,D,anyway . But uh you know,IN1014.
+2485.03,2485.74,C,"Yeah , we",IN1014.
+2485.46,2485.83,D,", mm",IN1014.
+2485.74,2486.09,C,yeah,IN1014.
+2485.83,2486.53,D,some way,IN1014.
+2486.09,2486.09,C,.,IN1014.
+2486.53,2489.22,D,we we we we cannot have a students and make him wait,IN1014.
+2489.08,2489.71,C,Yeah,IN1014.
+2489.22,2490.48,D,one year,IN1014.
+2489.71,2489.71,C,.,IN1014.
+2490.34,2490.52,B,Yeah,IN1014.
+2490.48,2490.85,D,before,IN1014.
+2490.52,2490.52,B,.,IN1014.
+2490.85,2493.78,D,he has uh the material to work,IN1014.
+2492.91,2493.28,C,Mm-hmm .,IN1014.
+2493.53,2493.69,B,Yeah .,IN1014.
+2493.78,2494.4,D,. So my point,IN1014.
+2494.18,2494.51,A,'Kay,IN1014.
+2494.4,2494.66,D,is,IN1014.
+2494.51,2494.51,A,.,IN1014.
+2494.66,2499.01,D,"when . Reasonably . Uh roughly , I don't",IN1014.
+2498.87,2499.24,C,Mm-hmm,IN1014.
+2499.01,2499.52,D,don't don't,IN1014.
+2499.24,2499.24,C,.,IN1014.
+2499.43,2499.66,A,Well,IN1014.
+2499.52,2499.69,D,wanna,IN1014.
+2499.66,2500.66,A,uh,IN1014.
+2499.69,2503.15,D,"have and it's not a deadlines , oui . But when do you expect",IN1014.
+2503.08,2503.6,C,Mm-hmm,IN1014.
+2503.15,2504.29,D,to have the system,IN1014.
+2503.6,2503.6,C,.,IN1014.
+2504.29,2506.24,D,ready to work uh working,IN1014.
+2506.14,2506.4,A,Because,IN1014.
+2506.24,2506.37,D,. Yep .,IN1014.
+2506.4,2514.95,A,"I mean I mean the I_V_C_ system , I mean it's uh i so my feeling is that I mean people have expertise in this , like in Fribourg also",IN1014.
+2514.72,2515.11,B,"Yeah , yeah",IN1014.
+2514.95,2515.23,A,. So,IN1014.
+2515.11,2515.25,B,. Uh,IN1014.
+2515.23,2515.27,A,I,IN1014.
+2515.25,2515.39,B,they,IN1014.
+2515.27,2515.51,A,mean,IN1014.
+2515.39,2515.64,B,have,IN1014.
+2515.51,2515.8,A,I don't,IN1014.
+2515.64,2515.64,B,.,IN1014.
+2515.8,2522.76,A,"think it should take a lot of time I mean just to look at this , right . I mean at least one month seems to be uh",IN1014.
+2522.46,2523.29,B,"Yeah , th",IN1014.
+2522.76,2523.36,A,quite enough,IN1014.
+2523.29,2523.54,B,it's,IN1014.
+2523.36,2523.61,A,for,IN1014.
+2523.54,2523.77,B,a,IN1014.
+2523.61,2523.84,A,this,IN1014.
+2523.77,2524.07,B,yeah,IN1014.
+2523.84,2524.09,A,", right",IN1014.
+2524.07,2524.26,B,. But,IN1014.
+2524.09,2524.09,A,.,IN1014.
+2524.26,2529.28,B,we start with the I_V_C_ . We start with the data path . Uh the the slide,IN1014.
+2529.14,2530.42,A,Yeah,IN1014.
+2529.28,2530.51,B,frame grabber,IN1014.
+2530.42,2530.57,A,? Yeah,IN1014.
+2530.51,2530.7,B,. And,IN1014.
+2530.57,2530.57,A,.,IN1014.
+2530.7,2535.3,B,after that is and the question is how to synchroni to to,IN1014.
+2534.8,2535.27,D,Mm-hmm .,IN1014.
+2535.3,2538.03,B,to make both card working together,IN1014.
+2537.9,2538.6,D,Together,IN1014.
+2538.03,2538.03,B,.,IN1014.
+2538.6,2538.74,D,. So,IN1014.
+2538.6,2538.83,A,Yeah,IN1014.
+2538.74,2538.93,D,this,IN1014.
+2538.83,2538.83,A,.,IN1014.
+2538.93,2540.58,D,seems to be the main problem as far,IN1014.
+2540.36,2540.64,B,Yeah,IN1014.
+2540.58,2540.99,D,as,IN1014.
+2540.64,2540.64,B,.,IN1014.
+2540.99,2541.87,D,as I understand,IN1014.
+2541.38,2542.03,C,So,IN1014.
+2541.87,2541.87,D,.,IN1014.
+2542.03,2554.2,C,"yeah . Let's see . From fro for checking Darren's code , et cetera we can expect until uh And yeah , for o one months or so , then",IN1014.
+2554.03,2554.21,A,Yeah,IN1014.
+2554.2,2554.57,C,uh,IN1014.
+2554.21,2554.21,A,.,IN1014.
+2554.57,2558.05,C,the uh the i uh I_V_C_ uh w with the,IN1014.
+2557.79,2558.17,B,Uh,IN1014.
+2558.05,2558.38,C,people,IN1014.
+2558.17,2560.03,B,I_V_C_,IN1014.
+2558.38,2560.16,C,at Fribourg have,IN1014.
+2560.03,2560.52,B,I_V_C_,IN1014.
+2560.16,2561.31,C,uh,IN1014.
+2560.52,2561.41,B,should go faster,IN1014.
+2561.31,2561.73,C,yeah,IN1014.
+2561.41,2561.41,B,.,IN1014.
+2561.73,2562.11,C,", okay",IN1014.
+2561.87,2563.52,A,Yeah,IN1014.
+2562.11,2564.03,C,", so uh",IN1014.
+2563.52,2564.13,A,. Because anyway,IN1014.
+2564.03,2564.74,C,at Fribourg,IN1014.
+2564.13,2564.77,A,", this is what you are",IN1014.
+2564.74,2565.74,C,we,IN1014.
+2564.77,2566.01,A,"working on , right",IN1014.
+2565.74,2566.23,C,we have,IN1014.
+2566.01,2571.61,A,"? Is the I_V_C_ , but using the signals that are coming I mean so basically it's using",IN1014.
+2571.19,2571.7,B,Yeah . I,IN1014.
+2571.61,2571.72,A,the,IN1014.
+2571.7,2572.04,B,will,IN1014.
+2571.72,2573.57,A,I_V_C_,IN1014.
+2572.04,2573.59,B,uh I'm not currently working on it,IN1014.
+2573.57,2573.97,A,okay,IN1014.
+2573.59,2574.12,B,. I will start,IN1014.
+2573.97,2573.97,A,.,IN1014.
+2574.12,2574.82,B,to work on,IN1014.
+2574.81,2575.04,C,Mm-hmm,IN1014.
+2574.82,2576.44,B,January,IN1014.
+2575.04,2575.04,C,.,IN1014.
+2576.44,2578.12,B,on that point . So,IN1014.
+2577.42,2578.43,C,Okay . And then,IN1014.
+2578.12,2578.48,B,uh but,IN1014.
+2578.43,2578.96,C,the,IN1014.
+2578.48,2578.91,B,I think,IN1014.
+2578.96,2579.32,C,direct,IN1014.
+2578.97,2579.33,D,Mm-hmm,IN1014.
+2579.32,2580.04,C,show,IN1014.
+2579.33,2579.33,D,.,IN1014.
+2579.65,2580.33,A,"Okay , so currently",IN1014.
+2580.04,2580.57,C,. Or yeah,IN1014.
+2580.33,2580.72,A,you are not,IN1014.
+2580.57,2580.57,C,.,IN1014.
+2580.72,2581.5,A,working on this,IN1014.
+2581.41,2581.59,B,No,IN1014.
+2581.5,2581.5,A,.,IN1014.
+2581.59,2582.51,B,no . I'm not working .,IN1014.
+2583.51,2584.13,A,"Okay , then",IN1014.
+2584.07,2584.24,B,I,IN1014.
+2584.13,2584.35,A,we,IN1014.
+2584.24,2584.71,B,schedule,IN1014.
+2584.35,2584.55,A,need,IN1014.
+2584.71,2587.62,B,to to work on that from,IN1014.
+2587.37,2587.77,C,So we can,IN1014.
+2587.62,2587.85,B,m,IN1014.
+2587.77,2590.17,C,say we try to to make something for April .,IN1014.
+2590.43,2591.68,B,Yeah . But I have,IN1014.
+2591.65,2591.78,D,Uh,IN1014.
+2591.68,2591.99,B,also,IN1014.
+2591.78,2592.02,D,make,IN1014.
+2591.86,2592.11,C,But,IN1014.
+2591.99,2592.04,B,a,IN1014.
+2592.02,2592.7,D,something,IN1014.
+2592.04,2592.18,B,que,IN1014.
+2592.11,2595.03,C,uh,IN1014.
+2592.7,2595.34,D,re that you are using very vague expression . Result,IN1014.
+2595.03,2595.53,C,well I,IN1014.
+2595.34,2597.44,D,", make something",IN1014.
+2595.53,2597.47,C,I want this to to work in the,IN1014.
+2597.44,2597.85,D,. Just,IN1014.
+2597.47,2598.21,C,for the time,IN1014.
+2597.85,2598.29,D,just,IN1014.
+2598.21,2598.65,C,uh,IN1014.
+2598.29,2598.7,D,uh,IN1014.
+2598.65,2598.9,C,in,IN1014.
+2598.7,2599.06,D,just,IN1014.
+2598.9,2599.15,C,the,IN1014.
+2599.06,2599.29,D,tell,IN1014.
+2599.15,2600.24,C,mm-hmm,IN1014.
+2599.29,2600.14,D,me,IN1014.
+2599.95,2600.19,B,Mayb,IN1014.
+2600.14,2600.26,D,when,IN1014.
+2600.24,2603.47,C,. Mm,IN1014.
+2600.26,2603.64,D,it is ready . And if you think it's it's not before uh but,IN1014.
+2603.47,2603.47,C,.,IN1014.
+2603.64,2608.39,D,but must be reasonable I m I mean if you think it will be not before December,IN1014.
+2608.2,2608.3,C,Mm .,IN1014.
+2608.39,2617.28,D,"two thousand six , say December two thousand six . So don't try to tell me March or April i w if you already know that it is unrealistic",IN1014.
+2617.23,2617.5,C,Mm-hmm,IN1014.
+2617.28,2617.59,D,to say,IN1014.
+2617.5,2617.5,C,.,IN1014.
+2617.59,2623.37,D,that . Must be realistic . you say June two thousand six we know it is June two thousand six,IN1014.
+2622.91,2623.42,B,But I,IN1014.
+2623.37,2624.61,D,. Uh,IN1014.
+2623.42,2624.01,B,would like to say,IN1014.
+2623.9,2624.04,C,Uh,IN1014.
+2624.01,2624.08,B,uh,IN1014.
+2624.04,2624.5,C,i,IN1014.
+2624.08,2624.83,B,there is many,IN1014.
+2624.5,2624.79,C,mm-hmm,IN1014.
+2624.61,2626.66,D,I,IN1014.
+2624.79,2624.79,C,.,IN1014.
+2624.83,2626.79,B,unknown in that project . But,IN1014.
+2626.66,2627.03,D,know,IN1014.
+2626.79,2627.09,B,I would,IN1014.
+2627.03,2627.03,D,.,IN1014.
+2627.09,2627.39,B,like to,IN1014.
+2627.27,2627.67,C,The,IN1014.
+2627.39,2629.28,B,say we can make uh uh a schedule,IN1014.
+2628.89,2629.96,D,Sure,IN1014.
+2629.28,2630.59,B,of that project,IN1014.
+2629.96,2630.55,D,. Sure,IN1014.
+2630.45,2630.68,C,Mm-hmm,IN1014.
+2630.55,2631.06,D,. But,IN1014.
+2630.59,2630.77,B,to,IN1014.
+2630.68,2630.68,C,.,IN1014.
+2630.77,2634.31,B,just to track to just to see if we track the time table,IN1014.
+2633.69,2634.03,D,Mm-hmm .,IN1014.
+2634.31,2635.95,B,. If we don't we we asks,IN1014.
+2635.93,2636.26,C,Mm-hmm,IN1014.
+2635.95,2636.41,B,for,IN1014.
+2636.26,2636.26,C,.,IN1014.
+2636.41,2636.69,B,more,IN1014.
+2636.46,2636.77,D,Mm-hmm,IN1014.
+2636.69,2637.0,B,people,IN1014.
+2636.77,2636.77,D,.,IN1014.
+2637.0,2640.6,B,", maybe H_E_V_S_ people , to to to be slightly involved",IN1014.
+2640.37,2641.29,C,O,IN1014.
+2640.6,2641.35,B,in that project,IN1014.
+2641.29,2641.52,C,one,IN1014.
+2641.35,2641.85,B,", to be",IN1014.
+2641.52,2642.14,C,student,IN1014.
+2641.85,2642.63,B,to to respect,IN1014.
+2642.14,2642.82,C,or,IN1014.
+2642.63,2643.22,B,the date,IN1014.
+2642.82,2643.16,C,yeah,IN1014.
+2643.06,2643.7,D,Yeah,IN1014.
+2643.16,2643.16,C,.,IN1014.
+2643.22,2643.22,B,.,IN1014.
+2643.7,2646.12,D,. Well but there is no day to respect . It's just,IN1014.
+2645.96,2646.18,B,Yeah,IN1014.
+2646.12,2646.21,D,to,IN1014.
+2646.18,2646.32,B,. N,IN1014.
+2646.21,2652.31,D,know I mean and if you can have early early warnings in the sense that if you see that there is a major uh,IN1014.
+2651.99,2652.32,C,Mm-hmm,IN1014.
+2652.31,2652.68,D,problem,IN1014.
+2652.32,2652.32,C,.,IN1014.
+2652.68,2662.81,D,somewhere . But is just to know in the sense that really uh this p this mm thing has been stop now for quite a long time,IN1014.
+2662.06,2662.3,B,Yeah,IN1014.
+2662.08,2662.56,C,Mm-hmm,IN1014.
+2662.3,2662.3,B,.,IN1014.
+2662.56,2662.56,C,.,IN1014.
+2662.81,2676.85,D,". Uh uh it n it took a long time to decide what kind of material . Now we have it . It's something that uh is a pretty good idea . We see that other people are working , et cetera . We are going to lose it some way if uh",IN1014.
+2676.41,2676.84,A,"Yeah , that",IN1014.
+2676.8,2677.02,C,And,IN1014.
+2676.84,2677.25,A,that's,IN1014.
+2676.85,2677.07,D,if we,IN1014.
+2677.02,2677.11,C,we,IN1014.
+2677.07,2677.4,D,don't,IN1014.
+2677.11,2677.33,C,can,IN1014.
+2677.25,2677.49,A,that's,IN1014.
+2677.33,2677.8,C,ask,IN1014.
+2677.4,2677.57,D,put,IN1014.
+2677.49,2677.65,A,so,IN1014.
+2677.57,2679.92,D,some,IN1014.
+2677.65,2677.89,A,that's,IN1014.
+2677.8,2678.1,C,help,IN1014.
+2677.89,2678.22,A,one of,IN1014.
+2678.1,2678.48,C,uh,IN1014.
+2678.22,2680.71,A,the issue I mean that uh,IN1014.
+2679.92,2680.54,D,and very,IN1014.
+2680.48,2680.75,C,Mm-hmm,IN1014.
+2680.54,2681.49,D,honestly,IN1014.
+2680.71,2681.3,A,maybe,IN1014.
+2680.75,2680.75,C,.,IN1014.
+2681.3,2682.21,A,"uh,I",IN1014.
+2681.49,2681.76,D,yeah .,IN1014.
+2682.29,2689.87,A,"don't know w whether you realise , but of course if we have this in two years , maybe okay , it's good we have it . But of course",IN1014.
+2689.42,2690.03,B,It's too long,IN1014.
+2689.87,2690.09,A,it's,IN1014.
+2689.88,2690.24,D,I,IN1014.
+2690.03,2690.03,B,.,IN1014.
+2690.09,2690.28,A,it's,IN1014.
+2690.24,2690.6,D,i,IN1014.
+2690.28,2690.49,A,on the,IN1014.
+2690.43,2690.63,C,I,IN1014.
+2690.49,2690.68,A,it's,IN1014.
+2690.6,2691.06,D,it'll,IN1014.
+2690.63,2690.86,C,it's,IN1014.
+2690.68,2691.08,A,too long,IN1014.
+2690.86,2691.29,C,too late,IN1014.
+2691.06,2691.38,D,it'll,IN1014.
+2691.08,2691.45,A,I mean,IN1014.
+2691.29,2691.4,C,in,IN1014.
+2691.38,2691.6,D,not,IN1014.
+2691.4,2691.64,C,terms,IN1014.
+2691.45,2691.6,A,in,IN1014.
+2691.6,2692.23,D,be,IN1014.
+2691.6,2692.0,A,terms,IN1014.
+2691.64,2692.4,C,of research,IN1014.
+2692.0,2692.52,A,of in,IN1014.
+2692.4,2694.23,C,uh,IN1014.
+2692.52,2694.4,A,"term of research , in terms uh",IN1014.
+2694.23,2694.56,C,mm,IN1014.
+2694.4,2694.68,A,maybe,IN1014.
+2694.56,2694.56,C,.,IN1014.
+2694.68,2696.44,A,even in terms of innovation I mean,IN1014.
+2696.38,2696.74,C,Mm-hmm,IN1014.
+2696.44,2696.66,A,if you,IN1014.
+2696.58,2696.72,B,No,IN1014.
+2696.66,2696.88,A,think,IN1014.
+2696.72,2696.72,B,.,IN1014.
+2696.74,2696.74,C,.,IN1014.
+2696.88,2700.68,A,"about this , which is , you know , what uh they said . I mean",IN1014.
+2700.61,2701.13,C,Mm-hmm,IN1014.
+2700.68,2701.23,A,he was speaking,IN1014.
+2701.13,2701.13,C,.,IN1014.
+2701.23,2703.0,A,about innovation . This is probably,IN1014.
+2702.5,2703.54,D,This is innovation,IN1014.
+2703.0,2704.39,A,"one , an innovation",IN1014.
+2703.54,2703.82,D,", yeah .",IN1014.
+2704.34,2704.56,B,Yeah,IN1014.
+2704.39,2704.39,A,.,IN1014.
+2704.56,2704.56,B,.,IN1014.
+2704.66,2706.26,A,And the the I know I'm,IN1014.
+2705.93,2706.39,C,Mm,IN1014.
+2706.26,2706.53,A,we,IN1014.
+2706.39,2706.39,C,.,IN1014.
+2706.53,2721.93,A,"we see quite well why is working on this , right . But in two years , you know , if we want to do if we want to build a C_T_I_ or transfer technology and something like this , you know , maybe you c of course , okay , people will say yeah , but there is already something that people",IN1014.
+2721.8,2722.0,B,Yeah,IN1014.
+2721.93,2722.14,A,have,IN1014.
+2722.0,2722.19,B,", yeah",IN1014.
+2722.14,2722.47,A,started,IN1014.
+2722.19,2722.19,B,.,IN1014.
+2722.47,2723.67,A,to put on the market and,IN1014.
+2723.59,2723.77,B,Yeah,IN1014.
+2723.67,2723.83,A,so,IN1014.
+2723.77,2723.77,B,.,IN1014.
+2723.83,2737.71,A,"on . So it maybe not the it's it's too late uh to to do it . So I think this is really so this is one of the points , respect to research of course , it's I think it's going to appear more more",IN1014.
+2737.56,2737.73,D,Uh you,IN1014.
+2737.71,2737.84,A,and,IN1014.
+2737.73,2738.33,D,know,IN1014.
+2737.84,2738.75,A,"more , and",IN1014.
+2738.33,2738.91,D,in a sense,IN1014.
+2738.75,2739.13,A,uh,IN1014.
+2738.91,2743.7,D,I never tried for example eventually to ask for one person dedicated to this because,IN1014.
+2743.52,2743.71,C,Hmm,IN1014.
+2743.7,2743.77,D,I,IN1014.
+2743.71,2743.71,C,.,IN1014.
+2743.77,2751.49,D,"always had the feeling that you are very interested , you wanted to do it , it's something you some way you uh I mean it seems to be something that is",IN1014.
+2751.45,2751.86,C,Mm-hmm,IN1014.
+2751.49,2752.3,D,interesting,IN1014.
+2751.86,2751.86,C,.,IN1014.
+2752.3,2753.65,D,to you,IN1014.
+2752.9,2753.21,B,Mm-hmm .,IN1014.
+2753.65,2758.27,D,. But uh if you have not the time and the possibility to do it because you,IN1014.
+2758.23,2758.65,C,Mm-hmm,IN1014.
+2758.27,2758.7,D,you both,IN1014.
+2758.65,2758.65,C,.,IN1014.
+2758.7,2763.86,D,"are involved in many other things , we can eventually try to ask to have one person , to involve one",IN1014.
+2763.79,2763.96,C,Hmm,IN1014.
+2763.86,2764.23,D,person,IN1014.
+2763.96,2763.96,C,.,IN1014.
+2764.23,2767.77,D,that will be dedicated strictly to this . We can try . I mean we can ask,IN1014.
+2767.46,2767.67,A,Yeah .,IN1014.
+2767.77,2771.7,D,uh uh in the sense that if it is a priority for IDIAP so far we would,IN1014.
+2771.69,2771.98,C,Mm-hmm,IN1014.
+2771.7,2772.13,D,get very,IN1014.
+2771.98,2771.98,C,.,IN1014.
+2772.13,2779.95,D,"good signals from that point of view , I I don't know . But uh please , if you think you don't have the time or the energy",IN1014.
+2779.9,2780.22,C,Mm-hmm,IN1014.
+2779.95,2780.26,D,to do,IN1014.
+2780.22,2780.22,C,.,IN1014.
+2780.26,2791.04,D,"it , uh or it involves too many things that you cannot keep under control given the other things you have to do , uh don't think that okay , something nice we we can wait or",IN1014.
+2790.94,2791.08,C,No,IN1014.
+2791.04,2791.44,D,sooner,IN1014.
+2791.08,2791.73,C,no no no,IN1014.
+2791.44,2791.9,D,or later,IN1014.
+2791.73,2792.28,C,. We understand,IN1014.
+2791.9,2794.19,D,it will happen,IN1014.
+2792.28,2794.43,C,that you we cannot wait uh we were here,IN1014.
+2794.19,2795.37,D,. Uh,IN1014.
+2794.43,2795.51,C,one year ago,IN1014.
+2795.37,2796.79,D,yeah,IN1014.
+2795.51,2796.92,C,"uh , I don't know , and also when it's",IN1014.
+2796.79,2797.9,D,. Exactly,IN1014.
+2796.92,2798.73,C,was uh,IN1014.
+2797.9,2798.91,D,. So I think,IN1014.
+2798.73,2799.01,C,going uh,IN1014.
+2798.91,2799.06,D,it's,IN1014.
+2799.01,2799.29,C,the,IN1014.
+2799.06,2800.49,D,the moment,IN1014.
+2799.29,2800.92,C,idea was appearing and,IN1014.
+2800.49,2802.93,D,uh for you to really realise try to,IN1014.
+2802.61,2803.16,C,Mm-hmm,IN1014.
+2802.93,2803.22,D,to have,IN1014.
+2803.16,2803.16,C,.,IN1014.
+2803.22,2811.59,D,"a realistic uh date . And if you think there are too many things that you risk to lose control , uh tell it now . And we can",IN1014.
+2811.49,2811.72,C,Mm-hmm,IN1014.
+2811.59,2811.77,D,try,IN1014.
+2811.72,2811.72,C,.,IN1014.
+2811.77,2814.45,D,"to say well we want to do it , but",IN1014.
+2813.75,2814.09,C,Mm-hmm .,IN1014.
+2814.45,2815.7,D,uh basically,IN1014.
+2815.36,2815.79,B,Mm-hmm,IN1014.
+2815.7,2816.13,D,Mael,IN1014.
+2815.79,2815.79,B,.,IN1014.
+2816.13,2816.27,D,and,IN1014.
+2816.13,2816.57,A,Mm,IN1014.
+2816.27,2817.15,D,Olivier,IN1014.
+2816.57,2816.57,A,.,IN1014.
+2816.9,2817.33,C,Okay,IN1014.
+2817.15,2817.49,D,were the,IN1014.
+2817.33,2817.82,C,. Personally,IN1014.
+2817.49,2819.47,D,person,IN1014.
+2817.82,2819.84,C,I want to be involve in that project,IN1014.
+2819.47,2819.95,D,mm-hmm,IN1014.
+2819.84,2820.13,C,. A,IN1014.
+2819.95,2820.33,D,". No , no . But",IN1014.
+2820.13,2820.8,C,acquisi,IN1014.
+2820.33,2820.84,D,but you can,IN1014.
+2820.8,2820.87,C,uh,IN1014.
+2820.84,2820.93,D,be,IN1014.
+2820.87,2822.29,C,some,IN1014.
+2820.93,2822.76,D,involve in a different way . I mean you can,IN1014.
+2822.29,2822.87,C,mm,IN1014.
+2822.76,2823.2,D,eventually,IN1014.
+2822.87,2822.87,C,.,IN1014.
+2823.2,2825.3,D,have uh a supervision role in,IN1014.
+2825.26,2825.8,C,Mm,IN1014.
+2825.3,2825.98,D,the sense that you think,IN1014.
+2825.8,2825.8,C,.,IN1014.
+2825.98,2829.94,D,"that I I know how to do it , I like to do it , but I have no time",IN1014.
+2829.36,2829.76,C,Mm-hmm .,IN1014.
+2829.94,2832.24,D,. Because at a certain point it's a matter of time,IN1014.
+2832.11,2832.48,C,Mm-hmm,IN1014.
+2832.18,2832.49,B,Mm-hmm,IN1014.
+2832.24,2832.5,D,. We can,IN1014.
+2832.48,2832.48,C,.,IN1014.
+2832.49,2832.49,B,.,IN1014.
+2832.5,2838.48,D,"try to to ask . Uh but uh please just don't keep this as a kind of thing , yeah , I like",IN1014.
+2838.43,2839.66,B,Yeah,IN1014.
+2838.48,2839.86,D,"to do it , I like it",IN1014.
+2839.66,2840.13,B,", yeah",IN1014.
+2839.86,2840.45,D,", it's nice",IN1014.
+2840.13,2840.36,B,. Yeah,IN1014.
+2840.18,2840.84,A,Yeah,IN1014.
+2840.36,2840.36,B,.,IN1014.
+2840.45,2841.03,D,", et cetera",IN1014.
+2840.84,2841.17,A,. Because,IN1014.
+2841.03,2841.03,D,.,IN1014.
+2841.17,2847.94,A,"when when you say here now no , I'm not going to start to working on this before January , for me this surprises me to some extent , you know",IN1014.
+2847.87,2848.11,D,Yeah,IN1014.
+2847.94,2848.17,A,", I'm",IN1014.
+2848.11,2848.11,D,.,IN1014.
+2848.17,2852.15,A,uh I thought I mean you would you would be working on this . So if you say,IN1014.
+2852.15,2852.32,B,Yeah,IN1014.
+2852.15,2852.42,A,okay,IN1014.
+2852.32,2852.59,B,. But,IN1014.
+2852.42,2852.62,A,", now",IN1014.
+2852.59,2853.24,B,uh,IN1014.
+2852.62,2854.36,A,it's uh,IN1014.
+2853.24,2854.6,B,at the same time I have some,IN1014.
+2854.36,2854.55,A,yeah .,IN1014.
+2854.6,2857.34,B,other project I I want to finish uh those project,IN1014.
+2856.99,2857.83,D,"Yeah , bu",IN1014.
+2857.34,2857.81,B,first .,IN1014.
+2857.83,2860.58,D,but but here you have to take a responsibility . You can't,IN1014.
+2860.52,2860.63,A,No,IN1014.
+2860.58,2860.83,D,say,IN1014.
+2860.63,2861.06,A,", uh",IN1014.
+2860.83,2861.13,D,I like,IN1014.
+2861.06,2861.33,A,oui,IN1014.
+2861.13,2861.43,D,to do,IN1014.
+2861.33,2861.33,A,.,IN1014.
+2861.43,2863.48,D,it and but then ah but I will do it,IN1014.
+2863.34,2863.6,A,No,IN1014.
+2863.48,2863.64,D,when,IN1014.
+2863.6,2863.65,A,", I",IN1014.
+2863.64,2863.73,D,I,IN1014.
+2863.65,2863.92,A,mean,IN1014.
+2863.73,2864.14,D,can,IN1014.
+2863.92,2864.38,A,the point,IN1014.
+2864.14,2864.14,D,.,IN1014.
+2864.38,2865.47,A,is that Olivier will,IN1014.
+2865.27,2865.33,C,Mm .,IN1014.
+2865.47,2873.96,A,r you have I mean s since one year uh you have always been saying that you want to be involved in this and so on . So it seems that it has never been a priority . So that that's,IN1014.
+2873.68,2874.2,D,Exactly,IN1014.
+2873.96,2874.32,A,uh that's,IN1014.
+2874.2,2874.2,D,.,IN1014.
+2874.32,2885.16,A,"the point . So if you have no time to put priority at some points and this seems to have been the case during one year on this project , I mean you need to say it now . I mean",IN1014.
+2883.98,2884.3,B,But,IN1014.
+2884.13,2884.39,C,Mm,IN1014.
+2884.3,2884.49,B,for,IN1014.
+2884.39,2884.39,C,.,IN1014.
+2884.49,2885.45,B,"example , I have",IN1014.
+2885.16,2885.47,A,that's the,IN1014.
+2885.45,2885.76,B,uh,IN1014.
+2885.47,2885.79,A,point,IN1014.
+2885.76,2885.95,B,I,IN1014.
+2885.79,2886.01,A,now,IN1014.
+2885.95,2886.34,B,receive,IN1014.
+2886.01,2886.01,A,.,IN1014.
+2886.34,2890.8,B,some new project . I said that I have no time yet . I say I have,IN1014.
+2890.73,2891.09,D,Mm-hmm,IN1014.
+2890.8,2891.72,B,no time,IN1014.
+2891.09,2891.77,D,. Uh,IN1014.
+2891.72,2892.2,B,gi,IN1014.
+2891.77,2892.27,D,yeah,IN1014.
+2892.2,2892.74,B,now,IN1014.
+2892.27,2892.97,D,yeah yeah.,IN1014.
+2892.66,2893.03,C,Mm-hmm,IN1014.
+2892.74,2893.15,B,currently,IN1014.
+2892.97,2892.97,D,.,IN1014.
+2893.03,2893.03,C,.,IN1014.
+2893.15,2894.87,B,I um,IN1014.
+2894.3,2894.96,D,"Okay , this",IN1014.
+2894.87,2895.04,B,I,IN1014.
+2894.96,2895.64,D,is,IN1014.
+2895.04,2895.98,B,say some,IN1014.
+2895.64,2896.02,D,yeah,IN1014.
+2895.98,2896.17,B,for,IN1014.
+2896.02,2896.02,D,.,IN1014.
+2896.17,2901.02,B,some project you say that you don't have time . But people will stay will continue to say,IN1014.
+2900.93,2901.05,D,No,IN1014.
+2901.02,2901.19,B,no,IN1014.
+2901.05,2901.25,D,", no",IN1014.
+2901.19,2901.41,B,no,IN1014.
+2901.25,2901.25,D,.,IN1014.
+2901.41,2905.01,B,", you will find time just to do that project",IN1014.
+2903.74,2904.17,D,Okay so,IN1014.
+2904.12,2904.53,C,Mm-hmm,IN1014.
+2904.17,2904.66,D,now is,IN1014.
+2904.53,2904.53,C,.,IN1014.
+2904.66,2905.44,D,your responsibility,IN1014.
+2905.01,2905.25,B,. The,IN1014.
+2905.26,2905.7,A,So,IN1014.
+2905.44,2906.06,D,to say,IN1014.
+2905.7,2906.14,A,this is,IN1014.
+2906.06,2906.33,D,I,IN1014.
+2906.14,2906.46,A,Franck,IN1014.
+2906.33,2911.53,D,"cannot find time . If you can't find time , you have to say it now . And this is",IN1014.
+2911.22,2911.58,A,At least,IN1014.
+2911.53,2911.76,D,also,IN1014.
+2911.58,2911.73,A,uh,IN1014.
+2911.72,2912.38,C,Hmm,IN1014.
+2911.73,2912.06,A,say,IN1014.
+2911.76,2912.55,D,for you,IN1014.
+2912.06,2912.44,A,this to,IN1014.
+2912.38,2912.38,C,.,IN1014.
+2912.44,2912.74,A,us,IN1014.
+2912.55,2913.25,D,. I mean,IN1014.
+2912.74,2913.61,A,and we'll see,IN1014.
+2913.25,2913.75,D,i it's not,IN1014.
+2913.61,2914.14,A,uh,IN1014.
+2913.75,2914.36,D,an accusation,IN1014.
+2914.14,2914.77,A,with,IN1014.
+2914.36,2914.86,D,. We we are,IN1014.
+2914.77,2915.03,A,Franck,IN1014.
+2914.86,2915.04,D,all in,IN1014.
+2915.03,2915.12,A,. And,IN1014.
+2915.04,2915.38,D,the same,IN1014.
+2915.12,2915.54,A,again,IN1014.
+2915.38,2916.11,D,condition,IN1014.
+2915.54,2916.16,A,", I mean this is",IN1014.
+2916.11,2916.11,D,.,IN1014.
+2916.16,2925.08,A,"a question . So now you are saying you have no time . So now you say to us . So now we understand and we are maybe after , when we if we discuss with Franck uh",IN1014.
+2924.99,2925.32,D,Mm-hmm,IN1014.
+2925.08,2925.35,A,Franck,IN1014.
+2925.32,2925.32,D,.,IN1014.
+2925.35,2940.27,A,"Crittin or uh uh Frank uh Formaz and we'll see okay and go and try to see . Okay apparently uh he has no time to to work on this . So we think it's important and we'd like to to do something . So what kind of solution , as Alexandre mentions",IN1014.
+2939.52,2940.12,D,Exactly .,IN1014.
+2940.27,2942.7,A,", i do we need to take somebody , do we want",IN1014.
+2942.37,2942.79,C,Mm-hmm,IN1014.
+2942.7,2943.02,A,to,IN1014.
+2942.79,2942.79,C,.,IN1014.
+2943.02,2949.78,A,"do we need to take some intern to work on this , uh and so on and so on . Do we take to have uh somebody uh for contract",IN1014.
+2949.48,2949.76,D,Mm-hmm,IN1014.
+2949.68,2950.12,C,Mm-hmm,IN1014.
+2949.76,2949.76,D,.,IN1014.
+2949.78,2950.22,A,", even if",IN1014.
+2950.12,2950.12,C,.,IN1014.
+2950.22,2961.66,A,it's not an intern but take somebody for six months to work on this . I mean but so this a point . I mean uh y I don't know about the other projects you have to do . I don't know with who,IN1014.
+2961.57,2961.88,C,Mm-hmm,IN1014.
+2961.66,2962.32,A,you are,IN1014.
+2961.88,2961.88,C,.,IN1014.
+2962.32,2967.14,A,discussing about the time you are you can s uh s spend on each of the project,IN1014.
+2966.68,2967.14,C,Mm-hmm .,IN1014.
+2967.14,2972.72,A,". But if y because now you are just telling us you have no time indeed to work on this , right",IN1014.
+2971.76,2972.02,B,Yeah .,IN1014.
+2972.72,2973.16,A,? Okay,IN1014.
+2972.76,2973.02,C,Mm-hmm .,IN1014.
+2973.13,2973.21,D,S,IN1014.
+2973.16,2973.65,A,", so",IN1014.
+2973.21,2973.67,D,s,IN1014.
+2973.65,2974.32,A,so,IN1014.
+2974.3,2974.79,B,Currently,IN1014.
+2974.32,2975.79,A,okay,IN1014.
+2974.79,2976.18,B,but,IN1014.
+2975.79,2976.23,A,". Yeah , but",IN1014.
+2976.18,2976.38,B,uh,IN1014.
+2976.23,2976.53,A,I mean,IN1014.
+2976.38,2976.7,B,up to,IN1014.
+2976.53,2977.9,A,c it's,IN1014.
+2976.7,2978.17,B,December I don't have time,IN1014.
+2977.9,2978.17,A,yeah,IN1014.
+2978.17,2978.3,B,to,IN1014.
+2978.17,2978.53,A,", but",IN1014.
+2978.3,2982.58,B,work on it . But I plan already . I I um,IN1014.
+2981.92,2982.75,C,With I_M_ two,IN1014.
+2982.58,2983.04,B,with,IN1014.
+2982.75,2983.08,C,", I_P_",IN1014.
+2983.04,2983.36,B,I_M_,IN1014.
+2983.08,2983.81,C,one,IN1014.
+2983.36,2983.84,B,two I,IN1014.
+2983.81,2983.96,C,. Mm-hmm,IN1014.
+2983.84,2984.21,B,I,IN1014.
+2983.96,2983.96,C,.,IN1014.
+2984.21,2991.1,B,I did uh I mention that I will have from January two thousand six I will have time for that . Uh I,IN1014.
+2991.06,2991.33,C,Fifty,IN1014.
+2991.1,2991.57,B,have a,IN1014.
+2991.33,2993.97,C,"percent on on I_M_ two , that's it .",IN1014.
+2994.26,2999.89,B,"No , I will work fully on that on this point . From January two thousand six",IN1014.
+2999.85,3000.21,C,It's,IN1014.
+2999.89,3000.24,B,I wi,IN1014.
+3000.21,3004.68,C,"fifty percent , no ? On I_M_ two I_P_ one ? Okay , maybe in fifty percent uh on that .",IN1014.
+3005.66,3010.78,D,So let me pose the question very broadly . Do you think that we have a person,IN1014.
+3008.91,3009.15,C,Mm-hmm .,IN1014.
+3010.78,3022.13,D,"that has this will help you ? We can ask , we can try to ask maybe if some person for six months so that your role is simply to help and advise .",IN1014.
+3022.25,3022.68,C,Mm-hmm .,IN1014.
+3024.97,3025.04,D,We,IN1014.
+3024.99,3025.15,C,Why,IN1014.
+3025.04,3025.2,D,can,IN1014.
+3025.15,3025.39,C,this,IN1014.
+3025.2,3025.51,D,try,IN1014.
+3025.39,3025.6,C,was,IN1014.
+3025.51,3025.63,D,to,IN1014.
+3025.6,3026.02,C,", yeah",IN1014.
+3025.63,3025.95,D,ask .,IN1014.
+3026.02,3044.29,C,", mo yeah w I don't want to talk too much maybe . Uh but uh with Sebastien , sorry this was maybe uh his concern . And yeah , Bastien is busy with uh annotations plus all kind of things . Uh maybe we can",IN1014.
+3043.98,3044.29,D,I mean,IN1014.
+3044.29,3050.82,C,in the process we can ask for someone more .,IN1014.
+3052.54,3053.29,B,Maybe,IN1014.
+3052.9,3053.38,C,To work,IN1014.
+3053.29,3053.59,B,a good,IN1014.
+3053.38,3053.68,C,on that,IN1014.
+3053.59,3054.0,B,thing,IN1014.
+3053.68,3053.68,C,.,IN1014.
+3054.0,3057.05,B,will be to make a plan to to we say,IN1014.
+3056.38,3057.27,C,Well uh uh that's what,IN1014.
+3057.05,3057.35,B,we,IN1014.
+3057.108,3057.108,D,.,IN1014.
+3057.27,3057.5,C,I,IN1014.
+3057.35,3057.53,B,we,IN1014.
+3057.5,3057.61,C,I,IN1014.
+3057.53,3057.81,B,won't,IN1014.
+3057.61,3058.16,C,was,IN1014.
+3057.81,3058.72,B,set the deadline,IN1014.
+3058.29,3060.07,D,S,IN1014.
+3058.72,3060.93,B,here . We are here . We split,IN1014.
+3060.6,3060.77,C,Y,IN1014.
+3060.93,3063.54,B,that part in different segments,IN1014.
+3063.23,3063.55,C,That's what,IN1014.
+3063.54,3064.02,B,. Uh,IN1014.
+3063.55,3064.21,C,I was trying,IN1014.
+3064.02,3064.33,B,y,IN1014.
+3064.21,3069.25,C,to do and I before coming here I just tried to to make uh,IN1014.
+3069.04,3069.35,D,I'm sorry,IN1014.
+3069.25,3069.59,C,uh,IN1014.
+3069.35,3069.6,D,", but",IN1014.
+3069.59,3070.54,C,a,IN1014.
+3069.6,3070.78,D,you still don't answer,IN1014.
+3070.54,3071.2,C,plan,IN1014.
+3070.78,3071.24,D,to my,IN1014.
+3071.2,3071.58,C,. But,IN1014.
+3071.24,3072.79,D,my question,IN1014.
+3071.58,3073.14,C,"I don't answer , yeah",IN1014.
+3072.79,3073.21,D,. You are not,IN1014.
+3073.14,3073.89,C,. W,IN1014.
+3073.21,3075.41,D,answering my question,IN1014.
+3073.89,3074.62,C,well the let's,IN1014.
+3074.44,3074.69,B,Yeah,IN1014.
+3074.62,3075.19,C,say,IN1014.
+3074.69,3074.69,B,.,IN1014.
+3075.19,3076.48,C,uh April,IN1014.
+3075.41,3075.58,D,. Yeah .,IN1014.
+3076.48,3087.04,C,O_ six and uh we do uh our best with uh trying to keep you inform with the advancements . And if we see early that clearly uh there,IN1014.
+3086.98,3087.14,D,Let,IN1014.
+3087.04,3087.86,C,i,IN1014.
+3087.14,3094.72,D,"me pose again the question very clearly . If I go to Herve , I can try and say we are in this situation apparently",IN1014.
+3093.92,3094.36,C,Mm-hmm .,IN1014.
+3094.72,3103.39,D,". Why don't we take one person three months , six months , four months that directly advised by Olivier and uh",IN1014.
+3102.58,3103.77,C,And it should be someone,IN1014.
+3103.39,3103.84,D,and we can,IN1014.
+3103.77,3104.01,C,with,IN1014.
+3103.84,3104.19,D,speed,IN1014.
+3104.01,3105.02,C,experience,IN1014.
+3104.19,3104.42,D,up .,IN1014.
+3105.02,3108.61,C,in C_ plus plus M_F_C_ . Uh,IN1014.
+3108.29,3112.56,D,Consider that it can be difficult of course to find them et cetera and,IN1014.
+3112.01,3112.86,C,Yeah,IN1014.
+3112.1,3112.65,A,Well I mean,IN1014.
+3112.56,3112.77,D,so,IN1014.
+3112.65,3113.78,A,uh,IN1014.
+3112.77,3113.1,D,on,IN1014.
+3112.86,3113.15,C,. Or a,IN1014.
+3113.1,3113.2,D,. Do,IN1014.
+3113.15,3113.81,C,student,IN1014.
+3113.2,3113.92,D,you think it's an,IN1014.
+3113.78,3113.88,A,I,IN1014.
+3113.81,3113.81,C,.,IN1014.
+3113.88,3114.06,A,mean,IN1014.
+3113.92,3114.6,D,option,IN1014.
+3114.06,3114.85,A,you have people,IN1014.
+3114.6,3114.6,D,?,IN1014.
+3114.85,3117.13,A,that are aware of uh,IN1014.
+3116.47,3116.8,D,Mm-hmm .,IN1014.
+3117.13,3118.1,A,"M_F_C_ , I mean",IN1014.
+3117.92,3118.28,C,Mm-hmm,IN1014.
+3118.1,3118.49,A,I mean,IN1014.
+3118.28,3118.28,C,.,IN1014.
+3118.49,3120.51,A,people uh I suppose at H_U_V_ there,IN1014.
+3120.41,3120.7,D,At,IN1014.
+3120.51,3120.75,A,are some,IN1014.
+3120.7,3120.95,D,each,IN1014.
+3120.75,3121.2,A,people,IN1014.
+3120.95,3121.23,D,. Yeah,IN1014.
+3121.13,3121.58,B,Yeah,IN1014.
+3121.2,3121.78,A,uh,IN1014.
+3121.23,3121.64,D,", I think there",IN1014.
+3121.58,3122.17,B,", the",IN1014.
+3121.64,3123.53,D,are people,IN1014.
+3121.78,3122.25,A,where I was,IN1014.
+3122.17,3122.4,B,yeah,IN1014.
+3122.25,3122.53,A,in Le,IN1014.
+3122.4,3122.4,B,.,IN1014.
+3122.53,3123.53,A,Mans in the U_ B_,IN1014.
+3123.53,3124.05,D,yeah,IN1014.
+3123.53,3124.23,A,uh,IN1014.
+3123.79,3124.26,C,Mm-hmm,IN1014.
+3124.05,3124.05,D,.,IN1014.
+3124.23,3124.33,A,I,IN1014.
+3124.26,3124.26,C,.,IN1014.
+3124.33,3131.43,A,mean there uh would be obviously some some students uh that would be aware of and that could be able to handle this . I mean,IN1014.
+3131.29,3131.61,C,Mm-hmm,IN1014.
+3131.43,3131.65,A,they are,IN1014.
+3131.61,3131.61,C,.,IN1014.
+3131.65,3135.51,A,working with software and hard both our software and hardware,IN1014.
+3134.77,3135.14,C,Mm-hmm .,IN1014.
+3135.48,3135.64,D,Do,IN1014.
+3135.51,3135.78,A,. Uh,IN1014.
+3135.64,3136.02,D,you think,IN1014.
+3135.78,3136.1,A,I'm I'm,IN1014.
+3136.02,3136.15,D,it's,IN1014.
+3136.1,3136.41,A,sure,IN1014.
+3136.15,3136.88,D,a reasonable,IN1014.
+3136.41,3137.27,A,the s,IN1014.
+3136.88,3137.41,D,option,IN1014.
+3137.27,3137.62,A,se,IN1014.
+3137.41,3152.41,D,? Do you think it's something that uh can help you ? Because that's just a matter of responsibility for you guys to but there is nothing bad if you say you have other things to do . Because we are all uh full of work . This is something that is added on the top,IN1014.
+3151.88,3152.25,C,Mm-hmm .,IN1014.
+3152.41,3176.59,D,". Uh if you don't have time you don't have time , guys . I mean this is uh but please just tell me . We will find the time however . So April O_ six you will have your system . Or no we are not sure . We don't really know . Uh it can happen that we don't . We don't know what you are going to find on the way . Maybe we think it takes one week and then it takes one month . Uh w we don't know",IN1014.
+3175.69,3176.05,B,Mm-hmm .,IN1014.
+3176.59,3183.31,D,". Uh maybe we will s we wi will not able to be continuous . Because one of the wrongest thing is to work one week , then one month , no , et cetera",IN1014.
+3182.93,3183.35,B,Mm-hmm,IN1014.
+3182.93,3183.36,C,Mm-hmm,IN1014.
+3183.31,3183.55,D,. That's,IN1014.
+3183.35,3183.35,B,.,IN1014.
+3183.36,3183.36,C,.,IN1014.
+3183.55,3190.86,D,"it's something that breaks . I mean difficult , huh ? Mm so that's the point . So that which doesn't mean you are excluded f from the thing",IN1014.
+3190.52,3190.91,C,"No , no",IN1014.
+3190.86,3190.93,D,in,IN1014.
+3190.91,3191.02,C,", no",IN1014.
+3190.93,3191.21,D,the sense,IN1014.
+3191.02,3191.02,C,.,IN1014.
+3191.21,3193.08,D,that in any case someone will ask,IN1014.
+3192.96,3193.15,C,Mm-hmm,IN1014.
+3193.08,3193.17,D,will,IN1014.
+3193.15,3193.15,C,.,IN1014.
+3193.17,3213.44,D,"have to advise the person eventually . And it can't be him , it can't be me . It can be you that basically follow , advise , helps . But at least the mass of the work will be done by someone else that can spend a hundred percent of time on that . Now it's not even guaranteed in the sense that I can ask this",IN1014.
+3213.09,3213.47,C,Mm-hmm,IN1014.
+3213.44,3213.63,D,. I,IN1014.
+3213.47,3213.47,C,.,IN1014.
+3213.63,3214.29,D,can,IN1014.
+3214.24,3214.34,C,Hmm,IN1014.
+3214.29,3214.67,D,say,IN1014.
+3214.34,3214.34,C,.,IN1014.
+3214.67,3234.46,D,"that well this is the situation and uh you are . Or eventually yeah , someone can say okay now this become your priority . Forget about everything else and go with that . I don't know . Or will tell you okay , uh January two thousand six , but from January two thousand six you do nothing else than this . You know , w",IN1014.
+3234.32,3234.43,B,No .,IN1014.
+3234.46,3251.98,D,"we can find the time , whether it is your time , whether it is the time of someone else . But uh I really would like to stop with this because this has been for several months that you say we like , we want . And I'm sure , I believe you . But then it is always something that must be done outside uh the",IN1014.
+3251.82,3252.01,B,No,IN1014.
+3251.98,3253.26,D,uh,IN1014.
+3252.01,3253.44,B,", no , no . Yeah",IN1014.
+3253.26,3253.68,D,normal,IN1014.
+3253.44,3254.51,B,. Yeah,IN1014.
+3253.68,3255.95,D,activity,IN1014.
+3254.212,3254.212,C,.,IN1014.
+3254.51,3255.97,B,. Which is really bad . Yeah . I,IN1014.
+3255.95,3256.1,D,. Um,IN1014.
+3255.97,3256.43,B,I understand,IN1014.
+3256.1,3256.53,D,I'm uh I'm,IN1014.
+3256.43,3256.87,B,exactly,IN1014.
+3256.53,3256.91,D,sorry,IN1014.
+3256.87,3257.06,B,. Yeah,IN1014.
+3256.91,3257.45,D,. Yeah,IN1014.
+3257.06,3257.49,B,", yeah , yeah",IN1014.
+3257.45,3257.67,D,. But,IN1014.
+3257.49,3257.71,B,. No,IN1014.
+3257.67,3258.05,D,but,IN1014.
+3257.71,3259.52,B,", I understand",IN1014.
+3258.05,3258.95,D,uh otherwise,IN1014.
+3258.88,3259.13,C,Mm-hmm,IN1014.
+3258.95,3260.38,D,I mean,IN1014.
+3259.13,3259.13,C,.,IN1014.
+3259.52,3259.71,B,. Yeah .,IN1014.
+3260.38,3262.6,D,", as you say , to do it in two years p",IN1014.
+3263.56,3264.08,B,"Yeah , yeah .",IN1014.
+3265.87,3266.38,D,So what do you,IN1014.
+3266.37,3266.69,B,What,IN1014.
+3266.38,3274.47,D,think ? You like that I try to to to solve this problem and try to say that there is a time problem and you don't have the time to do it ?,IN1014.
+3275.56,3284.08,A,"Because uh so so Olivier says it's not before January on his side . So I'm not sure about uh on your side , whe what's your",IN1014.
+3282.27,3284.23,C,Well I would like to to to work,IN1014.
+3284.08,3284.22,A,yeah .,IN1014.
+3284.23,3286.95,C,on p kind of part time uh,IN1014.
+3286.9,3287.13,A,Like,IN1014.
+3286.95,3287.41,C,uh,IN1014.
+3287.13,3287.48,A,what,IN1014.
+3287.41,3287.55,C,w,IN1014.
+3287.48,3287.83,A,? One,IN1014.
+3287.55,3288.42,C,o,IN1014.
+3287.83,3288.78,A,day a week,IN1014.
+3288.42,3289.54,C,yeah,IN1014.
+3288.78,3289.63,A,", uh something like this",IN1014.
+3289.54,3289.88,C,. Yeah,IN1014.
+3289.63,3289.63,A,?,IN1014.
+3289.88,3329.85,C,". And one full day a week . And I would okay , maybe you won't like my answer but I would say that um we ch we we start but we h we really have to start on working wi uh reading all the code from Darren . Then this um card with the code , I_V_C_ card , and to to try this . Then we try a little bit direct show to see um uh to to have an idea of how how long uh that could be . And then at the moment we can say okay we need someone to help us .",IN1014.
+3329.98,3331.59,D,Okay . But that,IN1014.
+3331.42,3331.97,B,Yeah,IN1014.
+3331.59,3333.43,D,can be,IN1014.
+3331.97,3332.38,B,. But I,IN1014.
+3332.26,3332.57,A,But,IN1014.
+3332.38,3333.59,B,"think yeah , that will be good",IN1014.
+3333.43,3333.71,D,. But,IN1014.
+3333.59,3333.86,B,", just",IN1014.
+3333.71,3334.5,D,uh,IN1014.
+3333.86,3337.38,B,to have a plan and to have some deadline in that plan . And,IN1014.
+3337.03,3337.42,C,"Well , w",IN1014.
+3337.38,3337.56,B,as,IN1014.
+3337.42,3337.72,C,uh,IN1014.
+3337.56,3337.78,B,soon,IN1014.
+3337.72,3337.98,C,let's,IN1014.
+3337.78,3338.25,B,as we,IN1014.
+3337.98,3338.38,C,do that,IN1014.
+3338.25,3338.6,B,we,IN1014.
+3338.38,3338.72,C,. Let's do,IN1014.
+3338.6,3339.62,B,we,IN1014.
+3338.72,3339.84,C,that . Okay,IN1014.
+3339.62,3340.0,B,as soon,IN1014.
+3339.84,3340.23,C,. Fo,IN1014.
+3340.0,3341.99,B,as we we we are not in,IN1014.
+3341.97,3342.32,A,Because,IN1014.
+3341.99,3342.67,B,time,IN1014.
+3342.32,3342.81,A,uh because,IN1014.
+3342.67,3343.07,B,", we",IN1014.
+3342.81,3343.22,A,there are,IN1014.
+3343.07,3343.39,B,we,IN1014.
+3343.22,3343.42,A,there are,IN1014.
+3343.39,3343.46,B,we,IN1014.
+3343.42,3343.83,A,several,IN1014.
+3343.46,3343.66,B,con,IN1014.
+3343.83,3377.02,A,"issues I would say . Like if there would be a machine like this , with the two cards separated as I mention . I mean if we record le the flow of the video for instance and the snap-shots from the slides to some extent there is some possibility of doing some automatic alignment without having a special , you know , synchron so this means that to some extent we could have a device which would not yet be fully synchronized and , I don't know , we've uh you know very well done uh code in terms of sending signals and so on . But that might be sufficient , because I mean it synchronize up to",IN1014.
+3377.0,3377.75,D,Yeah,IN1014.
+3377.02,3377.9,A,", don't know , five",IN1014.
+3377.75,3378.67,D,. Yeah,IN1014.
+3377.9,3378.79,A,seconds,IN1014.
+3378.67,3378.82,D,. Yeah,IN1014.
+3378.79,3378.94,A,. And,IN1014.
+3378.82,3378.82,D,.,IN1014.
+3378.94,3384.49,A,you would say five seconds may seem a lot for audio and video . But maybe f respect to slides and,IN1014.
+3384.49,3384.67,D,It,IN1014.
+3384.49,3385.17,A,the rest,IN1014.
+3384.67,3385.53,D,can be tolerable,IN1014.
+3385.17,3385.98,A,is not,IN1014.
+3385.53,3386.36,D,", yeah",IN1014.
+3385.98,3386.62,A,is something,IN1014.
+3386.36,3386.64,D,. Yeah,IN1014.
+3386.62,3386.82,A,that,IN1014.
+3386.64,3386.64,D,.,IN1014.
+3386.82,3390.7,A,may be tolerable . So still we would be able to start doing some recordings,IN1014.
+3390.34,3391.23,D,Exactly,IN1014.
+3390.7,3391.87,A,and maybe,IN1014.
+3391.23,3391.23,D,.,IN1014.
+3391.87,3403.98,A,"uh doing even the automatic alignment , or at least we would have an idea about , you know , what are the problems in terms of alignments . Uh do do because it's not like with microphone arrays where you would need micro-second alignments",IN1014.
+3403.62,3403.85,B,Yeah .,IN1014.
+3403.98,3412.84,A,", of course . Uh or even maybe with we want video where it may be one or two frames , I don't know . So this is really some somehow I mean the",IN1014.
+3412.16,3413.08,D,It's a very good idea,IN1014.
+3412.84,3413.14,A,uh,IN1014.
+3413.08,3413.34,D,", yeah",IN1014.
+3413.14,3413.58,A,the,IN1014.
+3413.34,3413.34,D,.,IN1014.
+3413.58,3424.99,A,"the issue , I mean I'm sure that there are plenty of possibilities to do things . And the goal would be that indeed we could start uh rec doing some of the recordings of the time so that",IN1014.
+3424.94,3425.22,B,Yeah,IN1014.
+3424.99,3425.35,A,indeed,IN1014.
+3425.22,3425.47,B,", and",IN1014.
+3425.35,3425.49,A,we,IN1014.
+3425.47,3425.61,B,to,IN1014.
+3425.49,3425.72,A,would,IN1014.
+3425.61,3426.1,B,improve,IN1014.
+3425.72,3426.85,A,already,IN1014.
+3426.1,3426.91,B,the system like,IN1014.
+3426.85,3427.23,A,we,IN1014.
+3426.88,3427.18,D,Mm-hmm .,IN1014.
+3427.23,3429.76,A,uh we would have uh something where,IN1014.
+3429.75,3430.11,B,Mm-hmm,IN1014.
+3429.76,3430.45,A,uh we could,IN1014.
+3430.11,3430.11,B,.,IN1014.
+3430.45,3437.66,A,"uh start getting the data . Because after , I mean even if it there , we cannot put all the times in one week , right . I mean so",IN1014.
+3437.0,3437.27,B,Yeah .,IN1014.
+3437.66,3438.35,A,and,IN1014.
+3438.26,3438.54,D,Mm-hmm,IN1014.
+3438.35,3438.82,A,uh,IN1014.
+3438.54,3438.54,D,.,IN1014.
+3438.82,3447.05,A,"so I mean this is uh this is one of the issue as well , which is to have it so that we can play and we can make a nice demo and so on",IN1014.
+3446.59,3446.75,C,Mm-hmm .,IN1014.
+3447.05,3456.45,A,with the full uh thing and something . So f the other part is to have a system which from which we can already record data and with some approximation .,IN1014.
+3456.79,3457.01,B,Yeah,IN1014.
+3456.79,3457.05,A,And,IN1014.
+3457.01,3457.01,B,.,IN1014.
+3457.05,3475.68,A,"I have the feeling , given the descriptions that you made , that to have such a system wouldn't require a six months of work because basically their own code is there to some extent and uh the I_V_C_ is something quite standard from which we could ask I mean even we could even pay maybe pro some people from Fribourg , I don't know , I mean",IN1014.
+3475.47,3475.7,B,Yeah,IN1014.
+3475.68,3475.82,A,to,IN1014.
+3475.7,3475.7,B,.,IN1014.
+3475.82,3478.84,A,come here and to and to help us with the installation,IN1014.
+3478.14,3479.72,C,Mm-hmm,IN1014.
+3478.84,3480.74,A,on a computer and uh,IN1014.
+3479.72,3480.43,C,". Mm-hmm , yeah .",IN1014.
+3480.74,3481.23,A,and,IN1014.
+3480.95,3481.14,C,To,IN1014.
+3481.23,3492.16,A,"uh to to to get the so I have more the feeling that this is something that could be done almost in one month . Again , I'm not speaking about the synchronization I mean as",IN1014.
+3491.76,3492.37,C,So without,IN1014.
+3492.0,3492.24,D,Yep .,IN1014.
+3492.37,3494.25,C,direct show you mean the frame grabbing,IN1014.
+3493.94,3494.33,A,"Yeah , I",IN1014.
+3494.25,3494.72,C,signal,IN1014.
+3494.33,3494.76,A,mean the,IN1014.
+3494.72,3495.04,C,and,IN1014.
+3494.76,3496.11,A,two,IN1014.
+3495.04,3497.0,C,time alignment,IN1014.
+3496.11,3497.04,A,"yeah , yeah",IN1014.
+3497.0,3497.43,C,? Uh,IN1014.
+3497.04,3497.04,A,.,IN1014.
+3497.22,3497.51,B,Yeah,IN1014.
+3497.43,3497.91,C,wi,IN1014.
+3497.51,3498.3,B,. And we,IN1014.
+3497.91,3504.59,C,that would be done uh in like in common software that we have uh,IN1014.
+3503.48,3505.0,A,"Yeah , the for instance",IN1014.
+3504.59,3505.29,C,afterwards,IN1014.
+3505.0,3505.48,A,a simple,IN1014.
+3505.29,3505.29,C,?,IN1014.
+3505.48,3515.94,A,question maybe you can are we sure that it can work on a single computer ? I don't know . I don't know . I mean is there,IN1014.
+3515.79,3516.25,C,Okay,IN1014.
+3515.94,3516.54,A,any,IN1014.
+3516.25,3517.47,C,th and,IN1014.
+3516.54,3517.5,A,uh issues with respect,IN1014.
+3517.47,3517.64,C,this,IN1014.
+3517.5,3518.41,A,to this,IN1014.
+3517.62,3517.69,D,Uh,IN1014.
+3517.64,3517.86,C,point,IN1014.
+3517.69,3519.48,D,i,IN1014.
+3517.86,3518.9,C,is about testing,IN1014.
+3518.41,3519.21,A,? So,IN1014.
+3518.9,3519.37,C,and,IN1014.
+3519.21,3519.47,A,this,IN1014.
+3519.37,3520.37,C,uh yeah,IN1014.
+3519.47,3519.67,A,is,IN1014.
+3519.48,3520.7,D,no,IN1014.
+3519.67,3520.73,A,yeah,IN1014.
+3520.37,3520.73,C,. Okay,IN1014.
+3520.7,3521.12,D,. Let,IN1014.
+3520.73,3520.73,C,.,IN1014.
+3520.73,3521.22,A,. So it,IN1014.
+3521.12,3521.39,D,me,IN1014.
+3521.22,3538.0,A,"doesn't require it it's more testing it does not require so for this we I mean if you put the two cards on the computer , you put the two then you you basically you say play on the both sides and you look whether at the end you have uh a recorded signals which is is is uh the time that it should uh be and uh",IN1014.
+3537.54,3537.76,B,Yeah .,IN1014.
+3538.0,3546.04,A,or whether I mean the fact that whenever I mean the slides is doing some uh processing uh it there is some and there is some frame drops or,IN1014.
+3546.0,3546.18,B,Yeah,IN1014.
+3546.04,3546.32,A,things,IN1014.
+3546.17,3546.78,C,So,IN1014.
+3546.18,3546.18,B,.,IN1014.
+3546.32,3546.78,A,like this,IN1014.
+3546.78,3547.07,C,you,IN1014.
+3546.78,3546.78,A,.,IN1014.
+3547.07,3550.18,C,"could say okay , let's for Christmas let's try this",IN1014.
+3549.8,3550.2,A,So this,IN1014.
+3550.18,3550.93,C,without,IN1014.
+3550.2,3550.47,A,is uh,IN1014.
+3550.93,3556.05,C,"the all the synchronization . Uh with direct show issue . Okay oh yeah , you",IN1014.
+3555.97,3556.2,B,Yeah,IN1014.
+3556.05,3556.33,C,are you,IN1014.
+3556.2,3556.2,B,.,IN1014.
+3556.33,3564.62,C,"cannot or o l uh by doing one one day a week , mm you know just I think the cards .",IN1014.
+3565.19,3567.45,D,That seems to me clear . Until January,IN1014.
+3567.33,3567.81,B,Yeah,IN1014.
+3567.45,3568.04,D,is uh,IN1014.
+3567.81,3568.38,B,. Uh if,IN1014.
+3568.04,3568.72,D,is busy,IN1014.
+3568.38,3568.75,B,I if,IN1014.
+3568.72,3569.89,D,. So,IN1014.
+3568.75,3577.36,B,I say until January this is just to finish . Uh I want to have the deadline at end of December to finish all my project . I want to finish,IN1014.
+3576.91,3577.29,C,Okay .,IN1014.
+3577.36,3577.89,B,all these,IN1014.
+3577.69,3577.72,A,Ah .,IN1014.
+3577.89,3579.21,B,project when everything,IN1014.
+3578.97,3579.43,D,So,IN1014.
+3579.21,3580.02,B,is finished,IN1014.
+3579.43,3580.07,D,yeah . Just to,IN1014.
+3580.02,3580.36,B,. After,IN1014.
+3580.07,3580.39,D,go to a,IN1014.
+3580.36,3580.58,B,that,IN1014.
+3580.39,3581.03,D,conclusion,IN1014.
+3580.58,3581.12,B,I can move,IN1014.
+3581.03,3581.36,D,", because",IN1014.
+3581.12,3581.54,B,to another,IN1014.
+3581.36,3582.1,D,apparently,IN1014.
+3581.54,3582.37,B,one,IN1014.
+3582.1,3583.89,D,yeah,IN1014.
+3582.29,3582.55,A,Mm-hmm,IN1014.
+3582.37,3582.57,B,. But,IN1014.
+3582.55,3582.55,A,.,IN1014.
+3582.57,3583.46,B,I don't want to,IN1014.
+3583.89,3584.47,D,. So it,IN1014.
+3584.3,3584.76,C,Anyway,IN1014.
+3584.47,3584.77,D,can't,IN1014.
+3584.76,3584.95,C,", the",IN1014.
+3584.77,3585.27,D,work,IN1014.
+3584.95,3585.43,C,recording,IN1014.
+3585.27,3585.92,D,uh,IN1014.
+3585.43,3585.96,C,is finished,IN1014.
+3585.92,3586.03,D,yeah,IN1014.
+3585.96,3586.08,C,", I",IN1014.
+3586.03,3586.47,D,", exactly",IN1014.
+3586.08,3586.22,C,think,IN1014.
+3586.09,3586.35,B,Yeah,IN1014.
+3586.22,3586.22,C,.,IN1014.
+3586.35,3586.35,B,.,IN1014.
+3586.47,3586.78,D,. Can't,IN1014.
+3586.59,3586.76,C,Yeah .,IN1014.
+3586.78,3589.45,D,work uh until January,IN1014.
+3588.5,3589.06,B,No . No,IN1014.
+3589.04,3589.33,C,So,IN1014.
+3589.06,3589.06,B,.,IN1014.
+3589.33,3589.78,C,I try,IN1014.
+3589.45,3589.81,D,. So it's up,IN1014.
+3589.78,3589.97,C,my,IN1014.
+3589.81,3590.5,D,to you,IN1014.
+3589.97,3591.2,C,best,IN1014.
+3590.5,3591.97,D,. It's up to you,IN1014.
+3591.2,3593.27,C,until January,IN1014.
+3591.97,3592.95,D,"to evaluate , yeah .",IN1014.
+3593.27,3599.4,C,. And um and I try to do what Jean-Marc uh described,IN1014.
+3598.63,3598.98,D,Mm-hmm .,IN1014.
+3599.4,3608.8,C,to give you a first feedback on the different cards . Uh and uh and from there it would m yeah .,IN1014.
+3611.24,3612.85,D,And then we d make a decision in,IN1014.
+3612.75,3613.03,C,Yeah,IN1014.
+3612.85,3613.26,D,the sense,IN1014.
+3613.03,3613.03,C,.,IN1014.
+3613.26,3615.28,D,whether you continue working or we,IN1014.
+3615.11,3615.4,C,Yeah,IN1014.
+3615.28,3615.49,D,try,IN1014.
+3615.4,3615.4,C,.,IN1014.
+3615.49,3620.75,D,to find the time in a different way or we try to eliminate your other priorities you're,IN1014.
+3620.72,3621.04,C,Mm-hmm,IN1014.
+3620.75,3621.3,D,under,IN1014.
+3621.04,3621.04,C,.,IN1014.
+3621.3,3621.54,D,. Hmm ?,IN1014.
+3621.73,3625.12,A,I'm I'm wondering whether still we could ask for to get an intern for this .,IN1014.
+3625.15,3625.36,D,Yep .,IN1014.
+3626.63,3626.86,A,I,IN1014.
+3626.71,3626.94,B,Uh I,IN1014.
+3626.86,3628.22,A,mean,IN1014.
+3626.94,3629.6,B,I don't know regarding H_E_V_S_,IN1014.
+3628.22,3628.54,A,uh,IN1014.
+3629.6,3638.38,B,". I don't know if this is uh still in time . But you can have you can ask for a student , a d a diploma work .",IN1014.
+3639.47,3644.69,A,"Yeah , this is uh still uh even even the non-diploma work . I mean the things we could",IN1014.
+3644.69,3644.77,D,I,IN1014.
+3644.69,3645.09,A,ask,IN1014.
+3644.77,3645.7,D,think,IN1014.
+3645.09,3645.85,A,uh,IN1014.
+3645.7,3646.23,D,that's,IN1014.
+3645.85,3646.85,A,but I would,IN1014.
+3646.23,3646.94,D,that's a different problem,IN1014.
+3646.85,3647.46,A,yeah,IN1014.
+3646.94,3647.51,D,. The problem is really,IN1014.
+3647.46,3648.94,A,. Yeah,IN1014.
+3647.51,3650.41,D,"up to you guys , whether",IN1014.
+3648.94,3648.94,A,.,IN1014.
+3650.41,3656.43,D,you think it's good to have one person . Try to have that because uh I cannot,IN1014.
+3656.36,3656.46,C,I,IN1014.
+3656.43,3656.59,D,say,IN1014.
+3656.46,3656.66,C,would,IN1014.
+3656.59,3656.82,D,we,IN1014.
+3656.66,3657.03,C,say,IN1014.
+3656.82,3657.31,D,have,IN1014.
+3656.82,3657.1,A,Yeah,IN1014.
+3657.03,3657.29,C,uh,IN1014.
+3657.1,3657.1,A,.,IN1014.
+3657.29,3657.64,C,let's,IN1014.
+3657.31,3657.76,D,tried to,IN1014.
+3657.64,3658.1,C,let's,IN1014.
+3657.76,3658.01,D,have,IN1014.
+3658.1,3662.65,C,"yeah , let's try to have one uh students uh to help us on that . I don't",IN1014.
+3662.51,3662.67,A,Mm,IN1014.
+3662.65,3664.01,C,know,IN1014.
+3662.67,3662.67,A,.,IN1014.
+3664.01,3665.08,C,. That is very well,IN1014.
+3665.02,3665.17,A,Well,IN1014.
+3665.08,3665.33,C,", we have",IN1014.
+3665.17,3665.5,A,you,IN1014.
+3665.33,3666.91,C,to choose whether the students it's,IN1014.
+3666.9,3668.36,D,W,IN1014.
+3666.91,3667.2,C,too,IN1014.
+3667.19,3667.53,A,Yeah,IN1014.
+3667.2,3667.55,C,it'd be,IN1014.
+3667.53,3667.8,A,", that's",IN1014.
+3667.55,3667.96,C,stupid,IN1014.
+3667.8,3668.0,A,that's,IN1014.
+3667.96,3668.15,C,. But,IN1014.
+3668.0,3668.38,A,the issue,IN1014.
+3668.15,3668.91,C,uh,IN1014.
+3668.36,3669.07,D,exactly,IN1014.
+3668.38,3669.28,A,. Yeah,IN1014.
+3668.91,3669.2,C,uh the,IN1014.
+3669.07,3670.02,D,", it",IN1014.
+3669.2,3669.46,C,the,IN1014.
+3669.28,3669.5,A,. Well,IN1014.
+3669.46,3669.95,C,student,IN1014.
+3669.5,3670.03,A,", but yeah",IN1014.
+3669.95,3670.12,C,should,IN1014.
+3670.02,3670.17,D,wi,IN1014.
+3670.03,3670.03,A,.,IN1014.
+3670.12,3670.34,C,have,IN1014.
+3670.17,3671.37,D,but,IN1014.
+3670.34,3671.69,C,knowledge about M_F_C_,IN1014.
+3671.37,3671.88,D,better,IN1014.
+3671.69,3672.17,C,with,IN1014.
+3671.88,3672.68,D,no person,IN1014.
+3672.17,3673.06,C,oh okay,IN1014.
+3672.68,3673.22,D,than a bad,IN1014.
+3673.06,3674.34,C,. Yeah,IN1014.
+3673.22,3676.38,D,person anyway . Yeah,IN1014.
+3674.31,3674.69,A,Yeah,IN1014.
+3674.34,3674.75,C,. Mm-hmm,IN1014.
+3674.69,3674.69,A,.,IN1014.
+3674.75,3674.75,C,.,IN1014.
+3676.38,3677.08,D,. Okay,IN1014.
+3676.61,3677.13,A,Okay,IN1014.
+3677.08,3677.08,D,.,IN1014.
+3677.13,3677.13,A,.,IN1014.
+3678.5,3678.97,C,Doesn't,IN1014.
+3678.54,3679.03,A,I think,IN1014.
+3678.97,3679.15,C,mean,IN1014.
+3679.03,3679.37,A,it's,IN1014.
+3679.15,3683.27,C,that we d we have to to stop talking yet . But uh the recording has finished .,IN1014.
+3686.15,3686.44,A,Uh,IN1014.

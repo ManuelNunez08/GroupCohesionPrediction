@@ -1,0 +1,1921 @@
+Start,End,Speaker,Speech,meeting
+36.42,39.91,D,A lapel is also there,IN1002.
+38.72,38.91,A,No .,IN1002.
+39.91,39.91,D,.,IN1002.
+41.97,42.44,B,Okay .,IN1002.
+42.57,43.08,D,Okay .,IN1002.
+45.95,48.08,B,"Okay , so should I start ?",IN1002.
+49.07,49.44,A,Yep,IN1002.
+49.23,49.53,C,Yeah,IN1002.
+49.44,49.44,A,.,IN1002.
+49.53,49.53,C,.,IN1002.
+49.61,49.88,D,Yeah .,IN1002.
+49.9,74.25,B,"Okay . So I think it's better to first have a presentation of my work and then we can discuss uh with this crash in temp in temp uh what we can do uh for my future to to continue my research , because apparently I I will have serious problems , okay . So I will start with the presentation of my work .",IN1002.
+74.91,76.96,A,Uh you can be sitting here itself and,IN1002.
+76.61,77.2,B,Mm,IN1002.
+76.82,77.03,D,Yeah,IN1002.
+76.96,77.1,A,do,IN1002.
+77.03,77.03,D,.,IN1002.
+77.1,77.21,A,the,IN1002.
+77.2,77.2,B,.,IN1002.
+77.21,77.82,A,presentation .,IN1002.
+78.52,79.92,B,Okay . I start,IN1002.
+79.69,80.17,D,"Yeah , that's",IN1002.
+79.92,80.18,B,like,IN1002.
+80.17,80.71,D,better,IN1002.
+80.18,82.12,B,this then,IN1002.
+80.71,80.71,D,.,IN1002.
+82.12,486.06,B,". Okay , so it's uh my g work is generally about uh using posteriors in uh speech recognition systems and uh somehow enhancing the estimation of posteriors , getting new posteriors which are havi which are more informative by somehow integrating some extra knowledge like uh prior knowledge and contextual information related to the problem and then use this posterior estimation uh uh method uh for designing hierarchical uh speech recognition system . So in this hierarchical arg architecture I will be able to uh integrate the extra knowledge at the proper level of hierarchy , and I will be al also uh able to uh combine different kind of uh knowledge or sources uh sources of knowledge I have . Uh well as you know uh generally posteriors are estimated using uh neural networks and more specifically M_L_P_s in a speech recognition system , so uh time limited window of a speech signal is uh represented by some cepstral features , which are then processed by an M_L_P_ and it gives us some evidence as in the form of pos phone posteriors . Then we use these phone posteriors as features or as scores for for either just decoding or d uh uh n d training and inference training and then decoding . Uh but we know that uh in this uh in this case we are not able to integrate contextual information uh uh line contextual information , and we are not able to integrate the prior knowledge we can have about phone use or about uh words in the posterior estimation , so the main motivation is to see if we can integrate this kind of extra knowledge in the posterior estimation . So what is proposed to solve this problem is to use a uh what we formally use in H_M_M_ formalism , which is called gamma uh state posterior . Uh i uh as a posterior for uh training uh or decoding , so it's uh well as you know it's a state posterior probablility in a H_M_M_ , which is defined as the probability of being in a specific H_M_M_ state at a specific time , having the whole observation sequence and the model . So whole observation sequence means having complete contextual information and the mod uh and the model can encode some kind of prior knowledge for us by means of uh topological constraints . Uh well you know it's uh this gam uh gamma posterior is written in terms of forward and backward H_M_M_ recursions , and actually one way to use this uh gamma posteriors is uh using these posteriors as some kind of newer scores for decoding . So in this case it will be uh similar to hybrid method . Um the the difference is that we do one more step , uh maybe I can explain it better there . So we do one more step here , and we uh here by means of another H_M_M_ we introduce some kind of uh prior knowledge and contextual information , we get better evidences than what i we initially had here , and then we do the uh decoding and the and s more informative posteriors uh uh instead of this one . So we are expecting to uh the system to perform better and more robust to noisy cases . Here you see uh some results uh and how uh how what is the effect of introducing uh reasonable prior knowledge , so different uh rows in this table are showing different level of noise and also clean speech , and different columns are showing different kind of posteriors or gamma posteriors . So uh the the first column is showing the uh our baseline system , which is getting estimate of posteriors out of M_L_P_ uh and then d using these posteriors for decoding . And the other columns are showing the performance of uh different kind of gamma , so uh gamma which is estimated using uh information about minimum duration of phonemes , about possible transition between phonemes and some kind some uh more prior knowledge like uh which wo like uh which word is composed of which phonemes and uh g uh gram grammatical knowledge ab uh about transition between words and things like this . So as you see , introducing more reasonable prior knowledge um will h help to have better performance in almo in almost all the cases . And here I compare the performance of the gamma base system with the standard H_M_M_ G_M_M_ system , which is based on uh doing decoding uh using uh likelihood as the scores , and the difference is that our system use uh is using posteriors for decoding , so as you see s uh it's working uh better than the standard H_M_M_ G_M_M_ system . And finally the conclusion is uh he here we saw how we can get uh some more informative posteriors by introducing extra knowledge like prior and contextual information , and then using this uh uh p posterior estimation method to design hierarchical uh speech recognition system which we're which which the goal is to have a better , more efficient and more robust system . So if you want now we can discuss about um uh the crash and the loss of data , so uh well I lost all the posteriors I was I uh I used as input uh for my system , so the gamma are somehow estimated or computed on top of posteriors . And now I don't have any posterior and uh probably the scripts generating that posterior , so what I can do okay .",IN1002.
+486.73,490.24,D,"Uh you go to the table , you have there like the big table",IN1002.
+490.11,490.45,B,Okay,IN1002.
+490.24,490.65,D,", you told",IN1002.
+490.45,490.45,B,.,IN1002.
+490.65,492.06,D,and then we can discuss .,IN1002.
+494.24,494.43,B,Okay .,IN1002.
+494.48,499.16,D,"So which I think I have all the gammas , no ? Especially gamma full models I have .",IN1002.
+500.66,505.05,B,"Gamma full model , but uh what about other ones and what about the f posterior",IN1002.
+504.96,505.08,D,Yeah,IN1002.
+505.05,505.91,B,", because",IN1002.
+505.08,505.96,D,", posteriors",IN1002.
+505.91,515.68,B,"because I I uh you know , I cannot uh stop my resea I I may do something else , you know , in future with this uh and well I need posteriors to",IN1002.
+515.37,519.63,A,Now you need the different method from how from gammas you can generate the,IN1002.
+519.59,519.88,D,And,IN1002.
+519.63,521.1,A,posteriors,IN1002.
+519.88,521.78,D,posteriors,IN1002.
+521.1,521.1,A,.,IN1002.
+521.78,521.96,D,. Even,IN1002.
+521.87,522.71,B,Yeah,IN1002.
+521.96,522.92,D,you have those three,IN1002.
+522.71,522.71,B,.,IN1002.
+522.92,525.21,D,"state perform gammas also , you have all these",IN1002.
+525.61,529.64,B,"Uh no no , I don't have them there were all under temp . You",IN1002.
+529.62,529.92,D,Huh,IN1002.
+529.64,530.04,B,you,IN1002.
+529.92,529.92,D,.,IN1002.
+530.04,532.39,B,we have that because you uh stored them,IN1002.
+532.06,532.47,D,Ah,IN1002.
+532.39,532.39,B,.,IN1002.
+532.47,532.69,D,okay .,IN1002.
+532.71,533.18,A,Okay,IN1002.
+532.95,533.23,B,So,IN1002.
+533.18,533.18,A,.,IN1002.
+533.23,533.23,B,.,IN1002.
+533.85,535.05,D,"So now yeah , now you can",IN1002.
+535.04,535.35,C,Yeah,IN1002.
+535.05,535.64,D,write another,IN1002.
+535.35,535.67,C,", you can",IN1002.
+535.64,536.04,D,paper,IN1002.
+535.67,536.06,C,go back,IN1002.
+536.04,536.16,D,if,IN1002.
+536.06,536.24,C,up,IN1002.
+536.16,536.35,D,you,IN1002.
+536.24,536.46,C,to the,IN1002.
+536.35,536.58,D,can,IN1002.
+536.46,539.22,C,"feature , you know",IN1002.
+537.39,539.78,B,Yeah . Yeah . Maybe,IN1002.
+539.22,539.82,C,. Up to,IN1002.
+539.78,542.89,B,maybe some other m uh P_H_D_ student should be,IN1002.
+542.85,543.13,C,Mm,IN1002.
+542.89,543.38,B,hired,IN1002.
+543.13,543.13,C,.,IN1002.
+543.38,544.7,B,to work on,IN1002.
+544.65,545.02,D,Gammas,IN1002.
+544.7,545.26,B,", you know",IN1002.
+545.02,545.38,D,to,IN1002.
+545.26,545.86,B,", the",IN1002.
+545.38,547.12,D,posterior,IN1002.
+545.86,548.47,B,generating,IN1002.
+547.12,547.12,D,.,IN1002.
+548.35,548.6,A,Uh I,IN1002.
+548.47,549.14,B,gamma,IN1002.
+548.6,549.59,A,was just um,IN1002.
+549.14,549.14,B,.,IN1002.
+549.59,553.94,A,"let's talk about little about this presentation itself , the slide number six .",IN1002.
+558.64,559.17,B,"Six , okay",IN1002.
+559.11,559.79,A,Okay,IN1002.
+559.17,559.17,B,.,IN1002.
+559.79,568.3,A,", how you feel it is important that you're taking the context of the whole utterance ? How important it could be ? Is it not a possibility that you're having less context ?",IN1002.
+569.77,571.14,B,"Less context , what",IN1002.
+571.13,571.62,A,instead,IN1002.
+571.14,571.58,B,you mean ?,IN1002.
+571.62,575.78,A,"of having context from one to capital D_ , which is for the whole utterance",IN1002.
+574.98,575.66,B,Uh,IN1002.
+575.78,577.91,A,", which doesn't make much sense",IN1002.
+577.58,579.3,B,Yes,IN1002.
+577.91,579.49,A,in general . So what,IN1002.
+579.3,579.57,B,. Yeah,IN1002.
+579.49,579.59,A,is,IN1002.
+579.57,579.57,B,.,IN1002.
+579.59,584.06,A,a possibility that you can cut the context instead of having the context from,IN1002.
+584.02,585.62,B,You mean a smaller context,IN1002.
+585.53,585.78,A,That's,IN1002.
+585.62,585.97,B,instead,IN1002.
+585.78,586.07,A,right,IN1002.
+585.97,586.16,B,of,IN1002.
+586.07,586.07,A,.,IN1002.
+586.16,586.49,B,this .,IN1002.
+587.38,594.72,A,"Might be left or right , everything there , but not the whole context . Because it's it's a fact that when you are having one utterance",IN1002.
+594.25,594.59,B,Mm-hmm .,IN1002.
+594.72,597.69,A,", so it one utterances link up full sentence or something",IN1002.
+597.42,597.62,B,Mm .,IN1002.
+597.69,599.9,A,", and there might not be much breaks in it",IN1002.
+599.35,599.92,B,Yeah,IN1002.
+599.9,600.02,A,. So,IN1002.
+599.92,600.41,B,. Yes,IN1002.
+600.02,600.6,A,in that sense,IN1002.
+600.41,600.41,B,.,IN1002.
+600.6,603.64,A,it doesn't make sense that you are going too much in the past and then you are trying to,IN1002.
+603.63,604.08,B,Yeah,IN1002.
+603.64,604.2,A,compute,IN1002.
+604.08,604.08,B,.,IN1002.
+604.2,605.88,A,something which is not related .,IN1002.
+606.1,621.75,B,"Yeah , b well , even they can have some information which are not so meaningful or uh which are not related . Yeah well , but then I will have the problem to find the optimum amount of context",IN1002.
+620.9,621.22,A,Mm-hmm .,IN1002.
+621.75,623.78,B,. How much context should I take ?,IN1002.
+624.12,624.42,A,Kind,IN1002.
+624.16,624.88,D,I,IN1002.
+624.42,624.92,A,of,IN1002.
+624.88,625.03,D,two,IN1002.
+624.92,625.12,A,let's,IN1002.
+625.03,625.37,D,hundred,IN1002.
+625.12,625.63,A,say,IN1002.
+625.37,625.37,D,.,IN1002.
+625.63,627.68,A,idea is usually hundred milliseconds,IN1002.
+627.59,627.7,D,Two,IN1002.
+627.68,628.37,A,or,IN1002.
+627.7,628.48,D,hundred millisecond,IN1002.
+628.37,628.64,A,one,IN1002.
+628.48,628.48,D,.,IN1002.
+628.64,629.09,A,second .,IN1002.
+629.24,629.67,B,Mm-hmm .,IN1002.
+630.49,634.26,D,"So but for numbers I think it may be okay , numbers hardly",IN1002.
+633.67,634.5,A,"Yeah , numbers",IN1002.
+634.26,635.69,D,yeah,IN1002.
+634.5,635.93,A,"it might be okay , because most",IN1002.
+635.69,636.01,D,. one,IN1002.
+635.93,636.01,A,of,IN1002.
+636.01,636.33,D,two,IN1002.
+636.01,636.65,A,the sentences,IN1002.
+636.33,636.33,D,.,IN1002.
+636.65,638.0,A,might be three seconds or something,IN1002.
+637.81,638.25,D,Even less,IN1002.
+638.0,638.0,A,.,IN1002.
+638.25,638.68,D,than that,IN1002.
+638.64,638.82,B,Mm,IN1002.
+638.68,639.06,D,", yeah",IN1002.
+638.82,638.82,B,.,IN1002.
+639.06,641.11,D,". Just few words , like",IN1002.
+640.06,640.21,A,Yeah .,IN1002.
+641.11,641.27,D,so,IN1002.
+641.15,641.48,B,Okay,IN1002.
+641.27,641.53,D,but,IN1002.
+641.48,641.48,B,.,IN1002.
+641.53,648.1,D,"if for or something , like if it's really long sentence of ten seconds or something , you may not really need so much",IN1002.
+647.86,648.1,A,That,IN1002.
+648.1,648.39,D,con,IN1002.
+648.1,651.17,A,m that match of context to computer commas,IN1002.
+651.16,651.27,D,I,IN1002.
+651.17,651.17,A,.,IN1002.
+651.27,654.14,D,"know , it's really computationally very intensive also , like if you",IN1002.
+653.93,654.27,A,Mm-hmm,IN1002.
+654.14,654.58,D,use,IN1002.
+654.27,654.27,A,.,IN1002.
+655.02,657.94,B,"Okay . Yeah , that's a good idea . That's reasonable .",IN1002.
+660.14,661.85,A,"Okay , so",IN1002.
+660.49,660.75,B,Mm .,IN1002.
+661.85,669.32,A,"when we are talking about them , then my story they are the worst I think",IN1002.
+666.58,669.63,D,So pretty much all the posteriors are from you only,IN1002.
+669.32,670.23,A,. Yeah,IN1002.
+669.63,669.63,D,.,IN1002.
+669.98,670.21,B,Yeah .,IN1002.
+670.23,673.1,A,. I cannot generate posteriors,IN1002.
+672.37,673.92,B,Yeah . And,IN1002.
+673.1,673.79,A,. So there is,IN1002.
+673.92,675.72,B,and you don't have uh scripts for,IN1002.
+676.13,676.29,A,I,IN1002.
+676.21,676.59,D,Sk,IN1002.
+676.29,678.11,A,don't have the C_ files also presently,IN1002.
+677.87,678.12,B,Ah,IN1002.
+678.11,678.26,A,with,IN1002.
+678.12,678.44,B,", okay",IN1002.
+678.26,678.53,A,me,IN1002.
+678.44,678.89,B,", you",IN1002.
+678.53,678.53,A,.,IN1002.
+678.63,679.08,C,Mm-hmm,IN1002.
+678.89,679.09,B,do,IN1002.
+679.08,679.08,C,.,IN1002.
+679.09,680.92,B,you have just your,IN1002.
+680.9,683.02,A,Yeah,IN1002.
+680.92,686.66,B,", no",IN1002.
+683.02,686.46,A,". No , . My said that enough is enough .",IN1002.
+686.66,696.94,B,? And what could happen if you don't even have your,IN1002.
+690.1,697.25,A,"Yeah , and then I then I would have taken two years extension",IN1002.
+693.73,694.03,C,Mm-hmm .,IN1002.
+694.29,695.43,D,"Oh , you know .",IN1002.
+696.94,696.94,B,?,IN1002.
+697.25,701.04,A,". Yeah , it was it was pretty scary , but",IN1002.
+700.09,700.42,B,Mm .,IN1002.
+701.04,702.55,A,let's see what happens .,IN1002.
+703.69,710.36,D,"But al for your case you don't need really complicated posterior , you just need some P_L_P_s and then",IN1002.
+710.26,710.59,B,Yes,IN1002.
+710.32,710.6,C,Yeah,IN1002.
+710.36,710.36,D,.,IN1002.
+710.59,710.59,B,.,IN1002.
+710.6,719.07,C,", you can then you know , because if most did it on , what , numbers and one of couple of C_T_F_ experiments , right ?",IN1002.
+719.32,725.97,B,"N yeah , I uh for C_T_S_ Petr uh still I think have he didn't uh lose anything , so",IN1002.
+725.63,726.21,D,"No , but but",IN1002.
+725.97,725.97,B,.,IN1002.
+726.21,729.19,D,"ma he's he may be linking to Matthew I guess , because Matthew",IN1002.
+728.99,729.25,C,No no,IN1002.
+729.19,729.48,D,got,IN1002.
+729.25,729.53,C,no,IN1002.
+729.48,729.91,D,the,IN1002.
+729.53,730.04,C,", no no , I",IN1002.
+729.91,730.14,D,wav,IN1002.
+730.04,730.5,C,uh probably,IN1002.
+730.14,730.33,D,files .,IN1002.
+730.5,730.76,C,might,IN1002.
+732.36,733.73,D,But you got the all the wav files,IN1002.
+733.48,734.04,C,Uh,IN1002.
+733.73,734.1,D,", so",IN1002.
+734.04,734.34,C,. Yeah,IN1002.
+734.1,734.1,D,.,IN1002.
+734.34,737.32,C,", but the wave file is th that's in the temp only , right ? So",IN1002.
+737.12,737.33,D,Yeah,IN1002.
+737.32,737.5,C,so,IN1002.
+737.33,737.5,D,", so",IN1002.
+737.5,737.71,C,the,IN1002.
+737.5,737.74,D,that's,IN1002.
+737.71,738.14,C,only,IN1002.
+737.74,738.27,D,what I'm saying,IN1002.
+738.14,738.3,C,thing,IN1002.
+738.27,738.57,D,", like",IN1002.
+738.3,741.5,C,is that I can recover it back from,IN1002.
+741.22,742.5,D,Uh yeah,IN1002.
+741.45,742.39,A,ICSI,IN1002.
+741.5,742.07,C,Berkeley,IN1002.
+742.39,742.76,A,", mm-hmm",IN1002.
+742.5,742.84,D,". Yeah , yeah",IN1002.
+742.76,742.76,A,.,IN1002.
+742.84,747.47,D,". So if he got features then it's okay , otherwise if he has to generate again , he can't",IN1002.
+747.42,747.75,A,Because,IN1002.
+747.47,747.91,D,generate,IN1002.
+747.75,748.07,A,even,IN1002.
+747.91,747.91,D,.,IN1002.
+748.07,750.95,A,um Petr has lost a lot,IN1002.
+750.58,750.84,D,Yeah .,IN1002.
+750.95,753.21,A,. He's having only the results with him,IN1002.
+752.8,753.19,D,So,IN1002.
+753.21,753.66,A,. He doesn't,IN1002.
+753.51,753.84,B,Ah,IN1002.
+753.66,753.86,A,have,IN1002.
+753.84,753.84,B,.,IN1002.
+753.86,755.81,A,"the files , the",IN1002.
+755.67,756.27,D,Because,IN1002.
+755.81,756.72,A,real the real,IN1002.
+756.64,756.8,C,No,IN1002.
+756.72,757.17,A,s,IN1002.
+756.8,757.39,C,", everything",IN1002.
+757.17,757.46,A,ones,IN1002.
+757.39,757.57,C,we,IN1002.
+757.46,757.46,A,.,IN1002.
+757.57,766.3,C,"w if th if they say that we cannot recover it , then I can quickly get it back from ICSI in a couple of days . I can put all the system back here",IN1002.
+765.03,765.37,D,Yeah .,IN1002.
+765.47,765.89,B,Okay,IN1002.
+765.48,765.78,A,Mm-hmm .,IN1002.
+765.89,765.89,B,.,IN1002.
+766.3,766.86,C,. But uh,IN1002.
+767.09,770.84,D,"But the p everybody has features in temp , only most of the time all the",IN1002.
+770.48,770.72,A,Yeah .,IN1002.
+770.84,773.65,D,"C_T_S_ features or C_T_S_ wav files , so",IN1002.
+772.87,773.18,C,Mm yeah .,IN1002.
+773.65,776.26,D,". So forget about C_T_S_ , at least now I think because",IN1002.
+776.08,776.34,A,Yeah,IN1002.
+776.26,776.5,D,it's,IN1002.
+776.28,776.53,B,Mm,IN1002.
+776.34,776.64,A,", because",IN1002.
+776.5,776.94,D,again,IN1002.
+776.53,776.53,B,.,IN1002.
+776.64,778.23,A,even to download that much of data,IN1002.
+778.41,778.77,D,It takes,IN1002.
+778.56,779.45,C,"Yeah , a",IN1002.
+778.77,779.49,D,at least one or two,IN1002.
+779.45,779.73,C,lot,IN1002.
+779.49,780.01,D,weeks,IN1002.
+779.73,780.38,C,of time,IN1002.
+780.01,780.01,D,.,IN1002.
+780.38,783.09,C,"no , it I can dow obviously downloading is another thing . The only",IN1002.
+782.97,784.43,D,But,IN1002.
+783.09,784.56,C,thing is that I have to do,IN1002.
+784.43,785.13,D,segmentation,IN1002.
+784.56,785.17,C,is that they,IN1002.
+785.13,785.13,D,.,IN1002.
+785.17,788.47,C,have uh data in uh one particular structure,IN1002.
+788.24,788.59,A,Mm-hmm,IN1002.
+788.47,788.69,C,", so",IN1002.
+788.59,788.59,A,.,IN1002.
+788.69,792.24,C,"I have to first of all , you know , organise create tar files , and then",IN1002.
+792.02,792.29,A,Mm-hmm,IN1002.
+792.24,792.32,C,I,IN1002.
+792.29,792.29,A,.,IN1002.
+792.32,793.69,C,can get it back here,IN1002.
+793.41,793.9,A,Mm-hmm,IN1002.
+793.69,793.69,C,.,IN1002.
+793.9,794.23,A,", mm-hmm",IN1002.
+794.06,794.31,D,But you,IN1002.
+794.23,794.23,A,.,IN1002.
+794.31,797.14,D,"say do you need to do some segmentation also , on top of that , so .",IN1002.
+797.47,800.0,A,And then you have to get the L_P_ P_L_P_ features and,IN1002.
+800.21,801.97,C,"Yeah , that I can get all those things",IN1002.
+801.5,802.21,A,Okay . Because,IN1002.
+801.97,802.22,C,. All,IN1002.
+802.21,802.44,A,tho,IN1002.
+802.22,802.5,C,th all,IN1002.
+802.44,802.64,A,those,IN1002.
+802.5,803.89,C,those,IN1002.
+802.64,803.9,A,"files are also very big , they are",IN1002.
+803.89,804.14,C,m,IN1002.
+803.9,804.4,A,not single,IN1002.
+804.14,804.9,C,yeah,IN1002.
+804.4,805.44,A,files,IN1002.
+804.9,805.42,C,". Yeah , but",IN1002.
+805.33,805.91,D,They're,IN1002.
+805.42,805.62,C,the,IN1002.
+805.44,805.74,A,. So there,IN1002.
+805.62,805.83,C,those,IN1002.
+805.74,805.89,A,should,IN1002.
+805.83,806.12,C,files,IN1002.
+805.89,806.15,A,not be,IN1002.
+806.12,806.34,C,can,IN1002.
+806.15,806.36,A,any,IN1002.
+806.34,806.42,C,be,IN1002.
+806.36,806.85,A,break,IN1002.
+806.42,806.86,C,recovered,IN1002.
+806.85,806.85,A,.,IN1002.
+806.86,811.93,C,"easily , only thing is that uh now if they had to say that we cannot recover it .",IN1002.
+812.25,813.77,D,"Yeah , the we can wait at least one",IN1002.
+813.74,814.15,C,Uh,IN1002.
+813.77,814.22,D,or two weeks,IN1002.
+814.15,814.52,C,uh,IN1002.
+814.22,814.65,D,for this,IN1002.
+814.52,814.73,C,one,IN1002.
+814.65,814.92,D,", because",IN1002.
+814.73,815.1,C,uh one,IN1002.
+814.92,815.28,D,it's,IN1002.
+815.1,815.2,C,uh,IN1002.
+815.11,815.35,A,Mm-hmm,IN1002.
+815.2,815.52,C,day,IN1002.
+815.35,815.35,A,.,IN1002.
+815.52,824.47,C,"one o one , two days , like this week I can wait and see . If they cannot recover it , then I can just get all the data from ICSI and put back the C_T_S_ system",IN1002.
+823.94,824.65,D,"But still , I think",IN1002.
+824.47,824.47,C,.,IN1002.
+824.65,827.9,D,we can't really do these things before ICAS,IN1002.
+827.37,828.1,C,"No , we cannot",IN1002.
+827.9,828.16,D,because,IN1002.
+828.1,828.26,C,do,IN1002.
+828.16,828.42,D,yeah,IN1002.
+828.26,828.26,C,.,IN1002.
+828.42,833.74,D,. So maybe we can concentrate work especially on numbers now and then,IN1002.
+832.95,833.28,A,Mm-hmm .,IN1002.
+833.74,835.69,D,we can go to C_T_S_,IN1002.
+835.05,835.37,A,Mm-hmm,IN1002.
+835.08,835.46,C,Yeah,IN1002.
+835.37,835.37,A,.,IN1002.
+835.46,835.46,C,.,IN1002.
+835.69,837.86,D,". So in numbers case , what do you really need like ?",IN1002.
+838.58,845.07,B,Mm just uh po uh pi uh posterior estimated using P_L_P_ features for,IN1002.
+845.05,845.51,A,Mm-hmm,IN1002.
+845.07,846.23,B,number,IN1002.
+845.51,846.34,A,", mm-hmm , mm-hmm",IN1002.
+846.09,846.33,D,Yeah,IN1002.
+846.23,846.44,B,", which",IN1002.
+846.33,847.58,D,", basically",IN1002.
+846.34,846.34,A,.,IN1002.
+846.44,847.74,B,I think we can we,IN1002.
+847.58,847.85,D,yeah,IN1002.
+847.74,847.88,B,can,IN1002.
+847.85,848.85,D,", w",IN1002.
+847.88,848.34,B,rate it .,IN1002.
+848.56,848.97,A,Mm-hmm,IN1002.
+848.85,849.1,D,we need,IN1002.
+848.97,848.97,A,.,IN1002.
+849.1,850.83,D,"to generate again P_L_P_s , but wave",IN1002.
+850.57,850.86,A,Mm-hmm,IN1002.
+850.83,851.13,D,files,IN1002.
+850.86,850.86,A,.,IN1002.
+851.13,851.72,D,are there .,IN1002.
+851.77,854.87,A,"Yeah , P_L_P_ numbers ninety five database is",IN1002.
+854.81,855.36,B,Uh,IN1002.
+854.87,855.37,A,there,IN1002.
+855.36,855.88,B,P_L_P_,IN1002.
+855.37,855.68,A,", fine .",IN1002.
+855.88,857.34,B,", they're also last",IN1002.
+856.96,857.74,D,"Yeah , P_L_P_s",IN1002.
+857.25,857.63,A,Yeah,IN1002.
+857.34,857.7,B,. Okay,IN1002.
+857.63,857.63,A,.,IN1002.
+857.7,857.7,B,.,IN1002.
+857.99,860.6,C,Everything,IN1002.
+859.25,860.88,A,Everything is lost,IN1002.
+860.6,860.82,C,that .,IN1002.
+860.88,865.76,A,. And uh if if you really ask me even the structure which was there,IN1002.
+865.25,865.62,B,Mm-hmm .,IN1002.
+865.76,871.23,A,"real every point by point how P_L_P_ is well generated , that information is also not there .",IN1002.
+871.53,874.83,D,But you're generating P_L_P_s from,IN1002.
+873.78,874.85,A,"Yeah , but",IN1002.
+874.83,875.11,D,? Um,IN1002.
+874.85,876.31,A,the parameters which are exact,IN1002.
+876.68,878.09,D,Mm,IN1002.
+877.26,877.74,B,Mm-hmm .,IN1002.
+878.09,878.35,D,. But at,IN1002.
+878.3,878.86,A,Hopefully,IN1002.
+878.35,878.74,D,least you f,IN1002.
+878.86,880.97,A,"ninety five percent , I know , but",IN1002.
+880.57,880.86,D,Yeah .,IN1002.
+880.97,881.9,A,that five percent,IN1002.
+882.32,883.45,D,"Yeah , that you can del",IN1002.
+883.36,887.31,A,And then we we need to train the new rates,IN1002.
+886.8,887.47,B,Mm-hmm,IN1002.
+887.31,887.83,A,because,IN1002.
+887.47,887.47,B,.,IN1002.
+887.83,890.75,A,"M_L_P_ training needs to be done , and then only the next step will happen .",IN1002.
+891.48,891.89,B,Okay .,IN1002.
+892.21,903.26,A,"So it's it's pretty pretty hol holding is stupid . Whether we can replicate the results , whatever results you are showing , whether we can replicate them or not . Presently it's it's not known .",IN1002.
+903.93,904.25,D,But at,IN1002.
+904.24,904.47,B,Yes,IN1002.
+904.25,904.58,D,"least , yeah",IN1002.
+904.47,904.47,B,.,IN1002.
+904.58,907.69,D,", you have something to verify their",IN1002.
+907.08,908.48,A,Yeah,IN1002.
+907.69,908.72,D,wa . So,IN1002.
+908.48,908.68,A,. You,IN1002.
+908.72,913.66,D,"so P_L_P_s or these are all thirteen just only P_L_P_s , not deltas and del",IN1002.
+913.66,928.57,B,"Uh nowadays not that one . There is another problem for uh verifying these results , because well for these results , you know , the the configuration should not well I also saved the configuration somewhere in the temp",IN1002.
+928.53,928.94,A,Mm-hmm,IN1002.
+928.57,929.21,B,", so",IN1002.
+928.94,928.94,A,.,IN1002.
+929.21,932.86,B,exactly how many stays for decoding and which kind of,IN1002.
+932.56,933.93,A,Mm-hmm,IN1002.
+932.86,934.58,B,language model and,IN1002.
+933.93,934.6,A,". Mm-hmm , mm-hmm",IN1002.
+934.58,934.99,B,things,IN1002.
+934.6,934.6,A,.,IN1002.
+934.99,938.29,B,"like this . I I think I can remember almost all of them , but",IN1002.
+938.11,938.36,A,Mm-hmm,IN1002.
+938.29,938.6,B,f,IN1002.
+938.36,938.36,A,.,IN1002.
+938.6,939.74,B,it's,IN1002.
+939.7,940.18,D,Yeah,IN1002.
+939.74,940.25,B,it's a bit,IN1002.
+940.18,940.18,D,.,IN1002.
+940.25,942.35,B,uh uh stressful,IN1002.
+941.68,942.38,D,But if you got,IN1002.
+942.35,942.35,B,.,IN1002.
+942.38,944.78,D,something from Hemant or Matthew,IN1002.
+944.68,944.79,B,Yeah,IN1002.
+944.78,944.96,D,then,IN1002.
+944.79,945.11,B,", but",IN1002.
+944.96,945.33,D,I have,IN1002.
+945.11,945.41,B,h he,IN1002.
+945.33,945.56,D,those,IN1002.
+945.41,946.53,B,doesn't,IN1002.
+945.56,947.06,D,"number of stage , like",IN1002.
+946.53,946.53,B,.,IN1002.
+947.06,954.29,D,"we have then you know like it's only for only close uh D_C_L_ , K_C_L_ they have",IN1002.
+952.93,953.62,C,One one,IN1002.
+953.34,953.69,A,No no,IN1002.
+953.62,953.62,C,.,IN1002.
+953.69,954.59,A,"no no , he is using",IN1002.
+954.29,954.29,D,.,IN1002.
+954.59,956.24,A,different setup I think,IN1002.
+955.93,956.41,D,"No , he",IN1002.
+956.24,956.67,A,. He doesn't,IN1002.
+956.41,956.75,D,he got,IN1002.
+956.67,956.99,A,use,IN1002.
+956.75,957.09,D,from you,IN1002.
+956.99,957.18,A,our,IN1002.
+957.09,957.49,D,only,IN1002.
+957.18,958.04,A,setup,IN1002.
+957.49,957.49,D,.,IN1002.
+958.04,960.8,A,. Do you use our setup for the number of states,IN1002.
+960.26,961.34,B,Uh,IN1002.
+960.8,961.05,A,? For the,IN1002.
+961.04,962.3,D,Ah,IN1002.
+961.05,962.63,A,gamma estimation,IN1002.
+961.34,962.37,B,y m yes,IN1002.
+962.3,962.49,D,. I,IN1002.
+962.37,962.37,B,.,IN1002.
+962.49,962.8,D,think,IN1002.
+962.63,963.42,A,? Okay,IN1002.
+962.8,963.54,D,"so , yeah , so",IN1002.
+963.42,964.84,A,", mm-hmm",IN1002.
+963.54,965.06,D,then I have those number,IN1002.
+964.84,965.37,A,. Mm-hmm,IN1002.
+965.06,966.86,D,of stages,IN1002.
+965.37,966.9,A,". No no , those things I'm also having",IN1002.
+966.86,967.1,D,. Yeah,IN1002.
+966.9,967.27,A,", because",IN1002.
+967.1,967.1,D,.,IN1002.
+967.27,968.41,A,they were done two years back .,IN1002.
+968.49,969.86,D,"Ah , okay",IN1002.
+969.74,970.16,A,Anything,IN1002.
+969.86,970.48,D,. So,IN1002.
+970.16,972.65,A,which is done in the last two years is the one which is,IN1002.
+973.56,974.74,D,Ah,IN1002.
+973.57,974.04,B,Lost .,IN1002.
+974.74,978.91,D,". So you didn't have any P_ for these P_L_P_s , no P_L_P_s or P_ files from P_L_P_",IN1002.
+978.73,979.05,A,Nothing,IN1002.
+978.91,978.91,D,.,IN1002.
+979.05,979.05,A,.,IN1002.
+981.21,986.8,D,"So bu what about this noise levels , like we have noise wav files in",IN1002.
+986.55,987.07,A,The there's,IN1002.
+986.8,987.1,D,da,IN1002.
+987.07,987.4,A,also,IN1002.
+987.1,987.66,D,da COM,IN1002.
+987.4,987.73,A,in,IN1002.
+987.66,989.48,D,databases,IN1002.
+987.73,989.15,A,"com , com database , yeah .",IN1002.
+989.45,989.67,B,Mm-hmm,IN1002.
+989.48,989.74,D,. So we,IN1002.
+989.67,989.67,B,.,IN1002.
+989.74,994.05,D,have directly f wave files with uh particular noise,IN1002.
+993.18,993.91,A,"Yeah , that's right .",IN1002.
+994.05,995.06,D,. Ah ok,IN1002.
+995.0,995.29,A,No,IN1002.
+995.02,995.17,C,No,IN1002.
+995.06,995.33,D,see,IN1002.
+995.17,995.4,C,", no",IN1002.
+995.29,995.44,A,", th",IN1002.
+995.4,995.61,C,", but",IN1002.
+995.44,995.69,A,those,IN1002.
+995.61,995.85,C,they're,IN1002.
+995.69,995.88,A,things,IN1002.
+995.85,996.61,C,they're,IN1002.
+995.88,996.63,A,are not disturbed,IN1002.
+996.61,996.99,C,they're,IN1002.
+996.63,996.63,A,.,IN1002.
+996.99,999.55,C,down in the database section,IN1002.
+999.34,999.9,A,Nothing,IN1002.
+999.55,999.55,C,.,IN1002.
+999.9,1001.68,A,related to the database has been disturbed .,IN1002.
+1002.26,1003.35,D,"No , but but I think",IN1002.
+1003.29,1003.61,A,Except,IN1002.
+1003.35,1004.12,D,uh de,IN1002.
+1003.61,1004.15,A,the switchboard .,IN1002.
+1005.08,1007.0,C,"Yeah , except switchboard but the switchboard",IN1002.
+1006.72,1007.18,D,But,IN1002.
+1007.0,1010.2,C,"also we have it , but only thing is that we don't have all the data we need , yeah .",IN1002.
+1010.54,1015.69,D,"Hmm . But the problem is like all this I think it may not be there in database , I guess",IN1002.
+1015.62,1015.73,C,No,IN1002.
+1015.69,1015.69,D,.,IN1002.
+1015.73,1016.03,C,"no , it",IN1002.
+1015.95,1016.12,A,No,IN1002.
+1016.03,1016.13,C,is,IN1002.
+1016.12,1016.31,A,", they're",IN1002.
+1016.13,1017.05,C,dead,IN1002.
+1016.31,1016.53,A,there .,IN1002.
+1016.93,1017.51,D,Oh,IN1002.
+1017.05,1017.53,C,. Because it,IN1002.
+1017.51,1018.57,D,", okay",IN1002.
+1017.53,1018.02,C,was that now,IN1002.
+1018.57,1019.8,D,. You called the noise,IN1002.
+1019.77,1019.94,A,No,IN1002.
+1019.8,1019.98,D,X_,IN1002.
+1019.94,1020.07,A,no,IN1002.
+1019.98,1020.78,D,database,IN1002.
+1020.02,1020.12,C,No,IN1002.
+1020.07,1020.19,A,", it",IN1002.
+1020.12,1020.54,C,no,IN1002.
+1020.19,1020.66,A,was it,IN1002.
+1020.54,1021.17,C,", it w o",IN1002.
+1020.66,1021.18,A,was,IN1002.
+1020.78,1020.78,D,.,IN1002.
+1021.17,1022.38,C,ori,IN1002.
+1021.18,1022.6,A,pre-written there,IN1002.
+1022.37,1022.5,D,Ah,IN1002.
+1022.38,1022.97,C,originally,IN1002.
+1022.5,1022.9,D,", okay",IN1002.
+1022.6,1023.01,A,. It's in the,IN1002.
+1022.9,1022.9,D,.,IN1002.
+1022.97,1023.29,C,done,IN1002.
+1023.01,1023.44,A,database,IN1002.
+1023.29,1023.29,C,.,IN1002.
+1023.44,1023.79,A,itself .,IN1002.
+1023.89,1025.7,D,Even with uh S_ and R_s,IN1002.
+1025.2,1025.98,A,That's right,IN1002.
+1025.64,1025.82,C,No,IN1002.
+1025.7,1025.82,D,. Ah,IN1002.
+1025.82,1025.9,C,no,IN1002.
+1025.82,1026.05,D,", okay",IN1002.
+1025.9,1026.07,C,", it",IN1002.
+1025.98,1026.1,A,", yeah",IN1002.
+1026.05,1026.27,D,", then",IN1002.
+1026.07,1026.17,C,is,IN1002.
+1026.1,1026.1,A,.,IN1002.
+1026.17,1026.38,C,even,IN1002.
+1026.27,1026.51,D,it's,IN1002.
+1026.38,1026.89,C,in D_V_D_,IN1002.
+1026.51,1028.01,D,okay,IN1002.
+1026.89,1028.45,C,form we have it,IN1002.
+1028.01,1028.37,D,. Ah,IN1002.
+1028.09,1028.47,A,Yeah,IN1002.
+1028.37,1028.37,D,.,IN1002.
+1028.45,1028.83,C,", that",IN1002.
+1028.47,1028.96,A,", so it",IN1002.
+1028.83,1029.28,C,the,IN1002.
+1028.96,1029.8,A,that is not a problem .,IN1002.
+1029.91,1033.3,D,So y you it's not that you all the no,IN1002.
+1032.11,1034.59,A,"No , I didn't do it myself",IN1002.
+1033.3,1034.61,D,. Yeah with S_ and R_,IN1002.
+1034.59,1034.82,A,. No,IN1002.
+1034.61,1034.94,D,", different",IN1002.
+1034.82,1035.11,A,", no",IN1002.
+1034.94,1035.22,D,S_ and,IN1002.
+1035.11,1036.41,A,", no",IN1002.
+1035.22,1035.42,D,R_s .,IN1002.
+1036.41,1039.56,A,". Means at l yeah , that part is less uh scary",IN1002.
+1039.19,1039.63,D,"Yeah , so",IN1002.
+1039.56,1039.56,A,.,IN1002.
+1039.63,1043.23,D,"at least we have wave files , so now we can generate anything",IN1002.
+1042.67,1043.0,A,Yeah .,IN1002.
+1043.23,1045.35,D,in the P_L_P_s or so at least,IN1002.
+1045.69,1049.98,A,"So the things which are related to your P_L_P_ can be done I think , it's",IN1002.
+1049.66,1049.96,D,Yeah,IN1002.
+1049.81,1050.22,B,Okay,IN1002.
+1049.96,1049.96,D,.,IN1002.
+1049.98,1050.37,A,it's not,IN1002.
+1050.22,1050.22,B,.,IN1002.
+1050.37,1051.19,A,such a major problem .,IN1002.
+1051.53,1057.11,B,"Yeah , so so as the conclusion there is no major problem except",IN1002.
+1056.28,1057.36,C,"No , except uh except",IN1002.
+1057.11,1057.86,B,regenera,IN1002.
+1057.36,1059.93,C,time,IN1002.
+1057.86,1059.53,B,"yeah , which",IN1002.
+1059.39,1059.61,A,So,IN1002.
+1059.53,1059.97,B,time,IN1002.
+1059.61,1060.57,A,you,IN1002.
+1059.65,1060.43,D,Those,IN1002.
+1059.93,1060.14,C,. How,IN1002.
+1059.97,1060.17,B,for,IN1002.
+1060.14,1060.36,C,much,IN1002.
+1060.17,1061.64,B,", I guess",IN1002.
+1060.36,1060.64,C,time we,IN1002.
+1060.57,1061.6,A,tha,IN1002.
+1060.64,1061.65,C,want to spend again,IN1002.
+1061.6,1062.03,A,M_L_P_,IN1002.
+1061.64,1061.75,B,. Mm,IN1002.
+1061.65,1061.77,C,to,IN1002.
+1061.75,1061.75,B,.,IN1002.
+1061.77,1062.07,C,get,IN1002.
+1062.03,1063.74,A,needs to be trained and uh,IN1002.
+1063.47,1063.78,B,Mm,IN1002.
+1063.74,1064.09,A,P_L_P_,IN1002.
+1063.78,1063.78,B,.,IN1002.
+1064.09,1067.59,A,"features , so it's kind of one and a half days work",IN1002.
+1067.45,1067.81,B,Mm,IN1002.
+1067.59,1067.83,A,", kind",IN1002.
+1067.81,1067.81,B,.,IN1002.
+1067.83,1069.79,A,"of , to generate the new files .",IN1002.
+1069.93,1070.21,D,But,IN1002.
+1070.18,1070.25,B,Mm,IN1002.
+1070.21,1070.43,D,for,IN1002.
+1070.25,1070.25,B,.,IN1002.
+1070.43,1072.5,D,"all these S_ and R_s , so that's also again",IN1002.
+1072.33,1072.52,B,Yeah,IN1002.
+1072.43,1072.67,A,Yeah,IN1002.
+1072.52,1072.77,B,", yeah",IN1002.
+1072.67,1072.91,A,", that",IN1002.
+1072.77,1072.77,B,.,IN1002.
+1072.91,1075.36,A,"will aga means it'll light up , that's it",IN1002.
+1074.6,1074.92,D,Hmm .,IN1002.
+1075.11,1075.34,B,Yeah .,IN1002.
+1075.36,1078.56,A,". But all all of it is doable in three , four days time .",IN1002.
+1078.65,1087.12,B,"Mm . Well , I also had the of generated posteriors or gammas or things like this",IN1002.
+1086.74,1087.0,A,Mm-hmm .,IN1002.
+1087.12,1091.02,B,", which I should regenerate , I have the uh scripts but uh",IN1002.
+1090.37,1090.67,A,Mm-hmm .,IN1002.
+1091.02,1092.56,B,"well it takes time , it's",IN1002.
+1092.34,1092.61,A,Mm-hmm,IN1002.
+1092.56,1093.09,B,C_P_U_,IN1002.
+1092.61,1092.61,A,.,IN1002.
+1093.09,1103.09,B,"and regenerating all these things , but okay , it's okay . So there is no major problem except time . Deadline of two weeks for ICAS . Okay .",IN1002.
+1103.4,1105.77,A,"Mm-hmm , mm-hmm . And if",IN1002.
+1105.42,1105.86,C,Yeah,IN1002.
+1105.77,1105.88,A,I,IN1002.
+1105.86,1106.12,C,", it's",IN1002.
+1105.88,1118.87,A,"don't have to generate any new results , I'm also on the other side then . But if I need to generate new results , then and anyway , there is emotional loss , so scripts and code",IN1002.
+1118.83,1118.99,D,No,IN1002.
+1118.87,1119.4,A,everything,IN1002.
+1118.99,1119.56,D,", the thing is like",IN1002.
+1119.4,1119.58,A,written,IN1002.
+1119.56,1119.68,D,you,IN1002.
+1119.58,1119.74,A,that,IN1002.
+1119.68,1119.92,D,can't,IN1002.
+1119.74,1119.96,A,is,IN1002.
+1119.92,1121.79,D,really write this k I suppose,IN1002.
+1121.53,1121.84,A,No,IN1002.
+1121.79,1121.95,D,uh the,IN1002.
+1121.84,1121.84,A,.,IN1002.
+1121.95,1123.27,D,"code is the real problem , scripts",IN1002.
+1123.26,1124.03,A,Yeah,IN1002.
+1123.27,1124.55,D,is okay like,IN1002.
+1124.03,1125.5,A,", yeah",IN1002.
+1124.55,1125.69,D,", yeah . Even",IN1002.
+1125.5,1125.87,A,. Because,IN1002.
+1125.69,1126.02,D,scripts,IN1002.
+1125.87,1126.22,A,it's,IN1002.
+1126.02,1128.33,D,also the configurations or you do if you,IN1002.
+1128.24,1129.35,A,Yeah,IN1002.
+1128.33,1130.09,D,forget something,IN1002.
+1129.35,1129.55,A,. Yeah .,IN1002.
+1130.09,1132.3,D,", some factor or something",IN1002.
+1132.29,1133.31,A,Yeah,IN1002.
+1132.3,1133.23,D,", it's really",IN1002.
+1133.31,1137.84,A,. Means losses are emotional as well as whatever it is there . and,IN1002.
+1137.28,1137.44,B,Hmm .,IN1002.
+1137.84,1146.31,A,"bla bla , but it's tragedy . So . So RAID five you have",IN1002.
+1146.27,1147.34,C,Mm,IN1002.
+1146.31,1146.84,A,told to the,IN1002.
+1147.34,1154.53,C,". Mm-hmm . They are they're it's it's it looks like if you get three disk gone , then it's very difficult to get it",IN1002.
+1153.48,1153.81,A,Mm-hmm,IN1002.
+1153.59,1154.05,D,Which disk,IN1002.
+1153.81,1153.81,A,.,IN1002.
+1154.05,1154.05,D,?,IN1002.
+1154.53,1157.76,C,well like fine if it's one disk it's fine,IN1002.
+1157.28,1157.78,D,Uh three,IN1002.
+1157.76,1158.01,C,because,IN1002.
+1157.78,1158.02,D,disk,IN1002.
+1158.01,1158.22,C,at,IN1002.
+1158.02,1158.02,D,.,IN1002.
+1158.22,1159.96,C,least one is having the,IN1002.
+1159.74,1160.16,A,"No , one",IN1002.
+1159.96,1161.23,C,uh,IN1002.
+1160.16,1161.14,A,disk there is no problem .,IN1002.
+1161.23,1166.93,C,"mirror mirror , so it will recache on the mirror . Um but uh if the three disk are gone it's very difficult .",IN1002.
+1167.51,1167.85,D,Mm-hmm .,IN1002.
+1168.53,1178.47,C,"So I don't know how it went , like usually while as soon as one disk fails , it should be replaced actually and uh",IN1002.
+1178.38,1178.5,D,So,IN1002.
+1178.47,1178.57,C,I,IN1002.
+1178.5,1178.59,D,it,IN1002.
+1178.57,1179.92,C,dunno,IN1002.
+1178.59,1179.88,D,should be replaced by,IN1002.
+1179.92,1184.8,C,". Mayb yeah , otherwise it uh it'll go on destroying other disks",IN1002.
+1183.82,1184.48,D,"Ah , ok",IN1002.
+1184.8,1196.91,C,". So i so the one so they I don't know how it happen , you know , such a thing like usually as soon as one fails , it actually notifies the , you know , the system administrator or",IN1002.
+1196.58,1196.96,D,Mm-hmm,IN1002.
+1196.91,1197.22,C,makes,IN1002.
+1196.96,1196.96,D,.,IN1002.
+1197.22,1198.89,C,certain kind of um noise .,IN1002.
+1199.5,1201.3,D,Yeah,IN1002.
+1200.27,1201.31,C,"Uh yeah , to to",IN1002.
+1201.3,1201.3,D,",",IN1002.
+1201.31,1208.54,C,"make sure that , you know , it has to be replaced . So w uh if it the disk is not replaced , then",IN1002.
+1208.31,1208.73,D,Hmm,IN1002.
+1208.54,1208.78,C,it w,IN1002.
+1208.73,1208.73,D,.,IN1002.
+1208.78,1210.42,C,it'll fail,IN1002.
+1210.4,1210.5,D,It,IN1002.
+1210.42,1210.51,C,. It,IN1002.
+1210.5,1211.17,D,will,IN1002.
+1210.51,1211.27,C,uh then then it uh,IN1002.
+1211.17,1211.32,D,ri,IN1002.
+1211.27,1216.33,C,there's a internal recovery if it just r replace the disk there,IN1002.
+1215.71,1217.25,A,"Mm-hmm , okay",IN1002.
+1216.33,1217.65,C,. It's it it can internally,IN1002.
+1217.25,1217.73,A,. Mm-hmm,IN1002.
+1217.65,1217.78,C,it,IN1002.
+1217.73,1217.73,A,.,IN1002.
+1217.78,1219.25,C,can quickly recover everything,IN1002.
+1219.18,1219.57,A,Mm-hmm,IN1002.
+1219.25,1219.76,C,into that,IN1002.
+1219.57,1220.18,A,", mm-hmm",IN1002.
+1219.76,1220.49,C,disk,IN1002.
+1220.18,1220.49,A,", mm-hmm",IN1002.
+1220.49,1220.58,C,. Uh,IN1002.
+1220.49,1220.49,A,.,IN1002.
+1220.58,1249.17,C,"so so it's like , you know , if you have a mm mm uh um if you have It's kind of like essentially if it is like hundred twenty , hundred hundred G_B_ data space , then it essentially will have a hun two hundred G_B_ only stu visible data f to you . But then it can we as soon as they replace one of those hard disk i it can it can from the other one it can recover everything on that",IN1002.
+1248.37,1249.62,D,Uh it will have measures,IN1002.
+1249.17,1249.67,C,. Inter,IN1002.
+1249.62,1249.73,D,like,IN1002.
+1249.67,1251.95,C,"internally it can do that kind of thing , but if",IN1002.
+1251.83,1252.21,A,Mm,IN1002.
+1251.95,1252.25,C,the th if,IN1002.
+1252.21,1252.21,A,.,IN1002.
+1252.25,1254.81,C,"the three disks fail , then it's",IN1002.
+1254.73,1255.03,D,Uh,IN1002.
+1254.81,1255.24,C,it's it's,IN1002.
+1255.03,1255.03,D,.,IN1002.
+1255.24,1270.98,C,"yeah , a really difficult job , I don't know how it can be recovered . Probably the mm one way that they extend the har the hard disk to the people who are experts , and they do like sector by sector , block by block they try to recover",IN1002.
+1270.57,1270.86,A,Mm-hmm .,IN1002.
+1270.98,1273.66,C,. But that's it's very expensive,IN1002.
+1273.41,1273.76,D,Hmm,IN1002.
+1273.66,1273.93,C,. Uh,IN1002.
+1273.76,1274.17,D,", but",IN1002.
+1273.93,1274.2,C,th,IN1002.
+1274.17,1274.48,D,like,IN1002.
+1274.2,1274.8,C,simple,IN1002.
+1274.48,1275.0,D,this,IN1002.
+1274.8,1275.05,C,", yes",IN1002.
+1275.0,1275.0,D,.,IN1002.
+1275.05,1280.45,C,", the simple thing might cost you minimum ten thousand Euros , fifteen , something like that .",IN1002.
+1280.84,1283.69,D,But even this maybe really huge data also,IN1002.
+1283.05,1283.91,A,Was it insured,IN1002.
+1283.69,1283.69,D,.,IN1002.
+1283.91,1284.42,A,", any idea ?",IN1002.
+1284.82,1290.98,C,I don't know whether it was insured . I don't think insurance company will give,IN1002.
+1290.6,1292.8,A,"No no , insurance can take care",IN1002.
+1292.68,1294.04,C,Mm-hmm,IN1002.
+1292.8,1294.16,A,of uh means,IN1002.
+1294.04,1294.04,C,.,IN1002.
+1294.16,1296.55,A,anything can be insured in this world nowadays .,IN1002.
+1297.22,1305.42,D,I think maybe some companies definitely do insure you can't really have so many backups,IN1002.
+1303.29,1312.07,A,Mm-hmm . But it still means one thing which is a mystery to me whe why temp one and temp two were residing on the same hard disk physical,IN1002.
+1311.23,1312.42,C,"No , it does , because",IN1002.
+1312.07,1312.07,A,.,IN1002.
+1312.42,1321.88,C,"it was not temp one temp two , but they have the same mm it has three G_B_ three disks , hard disk",IN1002.
+1321.82,1322.57,A,Mm-hmm,IN1002.
+1321.88,1323.21,C,category,IN1002.
+1322.57,1322.82,A,. Mm-hmm .,IN1002.
+1323.21,1325.68,C,. And so you can go up to fourteen or something like,IN1002.
+1325.59,1326.09,A,Mm-hmm,IN1002.
+1325.68,1326.36,C,that,IN1002.
+1326.09,1326.34,A,", mm-hmm .",IN1002.
+1326.36,1328.44,C,", but it can be on the same",IN1002.
+1328.34,1328.54,A,Yeah,IN1002.
+1328.44,1328.62,C,yeah,IN1002.
+1328.54,1328.71,A,", so",IN1002.
+1328.62,1328.62,C,.,IN1002.
+1328.71,1329.14,A,it means,IN1002.
+1329.56,1331.0,D,Which just partition these,IN1002.
+1330.75,1331.32,C,But,IN1002.
+1330.88,1331.08,A,So,IN1002.
+1331.0,1331.46,D,uh,IN1002.
+1331.08,1331.44,A,that,IN1002.
+1331.32,1331.49,C,so,IN1002.
+1331.46,1331.46,D,.,IN1002.
+1331.49,1342.08,C,it tries to put if you it tries to uh quickly put things uh if this way that so that and but only thing that only one has the mm um backup,IN1002.
+1341.74,1342.01,D,Hmm .,IN1002.
+1342.08,1344.85,C,", keep taking up the backup there",IN1002.
+1343.36,1343.64,A,Mm-hmm .,IN1002.
+1344.85,1352.27,C,". So it puts everything mm quickly , it can decide wherever it wants to put , so it's faster to do that",IN1002.
+1351.76,1352.44,A,"No no no , what",IN1002.
+1352.27,1352.47,C,way,IN1002.
+1352.44,1352.61,A,I'm,IN1002.
+1352.47,1352.69,C,. Mm,IN1002.
+1352.61,1352.88,A,saying,IN1002.
+1352.69,1352.69,C,.,IN1002.
+1352.88,1356.91,A,means temp one and temp two could have been different systems altogether,IN1002.
+1356.55,1357.1,C,"No , I think",IN1002.
+1356.91,1356.91,A,.,IN1002.
+1357.1,1359.36,C,that uh soft name they were given the,IN1002.
+1359.78,1361.9,A,I'm saying they could have kept differently .,IN1002.
+1361.96,1363.47,C,Yeah . But then,IN1002.
+1363.39,1363.7,D,But,IN1002.
+1363.47,1364.62,C,what are the use of raid then ?,IN1002.
+1365.24,1365.63,A,No,IN1002.
+1365.59,1366.12,D,Yeah,IN1002.
+1365.63,1366.26,A,RAID on both,IN1002.
+1366.12,1366.12,D,.,IN1002.
+1366.26,1367.4,A,they systems was the problem .,IN1002.
+1367.91,1373.28,C,"No , but that is what the raid can allow you to have keep up to fourteen hard disk . It can",IN1002.
+1373.18,1373.44,A,Hard,IN1002.
+1373.28,1373.87,C,allow,IN1002.
+1373.44,1373.96,A,"disk , there there",IN1002.
+1373.87,1373.87,C,.,IN1002.
+1373.96,1375.27,A,"were already five hard disks , right ?",IN1002.
+1375.41,1377.79,C,"Yeah , so it they have five",IN1002.
+1377.12,1377.38,A,Mm-hmm .,IN1002.
+1377.79,1381.3,C,", and you can go up to fourteen if you want to keep there",IN1002.
+1380.81,1381.1,A,Mm-hmm .,IN1002.
+1381.3,1389.46,C,". And it can still work , and it takes the and the way it look like it it's still tolerant , you know . The way it it",IN1002.
+1388.79,1389.76,D,But uh we we,IN1002.
+1389.46,1402.8,C,"usually it does it if you one this crashes before uh i uh um if it uh replace quickly , then no problems . Otherwise unsaved data will start the first thing is to get lo lost .",IN1002.
+1404.52,1404.92,D,Hmm,IN1002.
+1404.71,1404.97,C,Mm,IN1002.
+1404.92,1404.92,D,.,IN1002.
+1404.97,1405.46,C,that's the thing .,IN1002.
+1408.65,1411.09,A,"Yeah , not everybody is going to be scared of temps .",IN1002.
+1412.86,1413.23,C,I um,IN1002.
+1413.18,1414.09,D,"Yeah , no temp .",IN1002.
+1414.37,1414.64,B,Hmm .,IN1002.
+1415.74,1419.33,C,"Temp is no well , it's a I think they",IN1002.
+1419.28,1419.51,D,Uh so,IN1002.
+1419.33,1419.55,C,can,IN1002.
+1419.51,1419.78,D,then,IN1002.
+1419.55,1419.9,C,they can,IN1002.
+1419.78,1420.13,D,then,IN1002.
+1419.9,1426.39,C,"they can do , because th th some some of these people that expert there are couple of experts , so they learned itself",IN1002.
+1425.8,1426.09,A,Mm-hmm .,IN1002.
+1426.39,1426.89,C,. So .,IN1002.
+1427.93,1428.19,D,Hmm .,IN1002.
+1428.27,1430.93,C,"If they can easily recover it , well",IN1002.
+1432.4,1432.76,A,Mm-hmm,IN1002.
+1432.41,1432.77,C,To do,IN1002.
+1432.76,1432.76,A,.,IN1002.
+1432.77,1435.24,C,"this kind of thing , you",IN1002.
+1435.23,1435.59,D,But,IN1002.
+1435.24,1435.49,C,know .,IN1002.
+1435.59,1437.54,D,"is it really costly , the system is",IN1002.
+1437.62,1460.77,C,"Yeah , it depends on the job . You know , sometimes the small hardware thing , they might do it to then , you know , five thousand Euros and all . But if it's very much detailed work , they will just i it the system the the whole thing starts like this that you have to give your credit card number and sign a form and then only they will start touching your hard disk",IN1002.
+1459.93,1460.26,A,No no,IN1002.
+1460.11,1460.29,D,Hmm,IN1002.
+1460.26,1460.39,A,no,IN1002.
+1460.29,1460.29,D,.,IN1002.
+1460.39,1460.92,A,no no,IN1002.
+1460.77,1460.77,C,.,IN1002.
+1460.92,1465.91,A,". No no no . I checked over the net , it's not the way . You d you send the things to them",IN1002.
+1465.47,1465.76,C,Yeah .,IN1002.
+1465.91,1469.73,A,", they will see if they can recover . Then only they'll ask you that this",IN1002.
+1469.63,1469.77,C,No,IN1002.
+1469.73,1469.85,A,is,IN1002.
+1469.77,1470.0,C,no,IN1002.
+1469.85,1471.0,A,the quotation,IN1002.
+1470.0,1471.17,C,", bu no , th they",IN1002.
+1471.0,1471.23,A,. But,IN1002.
+1471.17,1471.38,C,will,IN1002.
+1471.23,1474.53,A,if there is no no if they cannot recover they they will send it back,IN1002.
+1474.48,1474.85,C,No,IN1002.
+1474.53,1474.53,A,.,IN1002.
+1474.85,1478.29,C,"no , that's what they say , like you do it , then send it the hard disk",IN1002.
+1478.08,1478.32,A,Mm-hmm,IN1002.
+1478.29,1478.48,C,", then",IN1002.
+1478.32,1478.32,A,.,IN1002.
+1478.48,1481.68,C,"they will say okay , we can do it , and then if you do it with",IN1002.
+1481.62,1481.75,A,No,IN1002.
+1481.68,1482.04,C,only,IN1002.
+1481.75,1482.26,A,"no no , first",IN1002.
+1482.04,1482.32,C,with,IN1002.
+1482.26,1482.46,A,they'll,IN1002.
+1482.32,1483.7,C,only,IN1002.
+1482.46,1483.8,A,give you a quotation . The,IN1002.
+1483.7,1485.68,C,yeah,IN1002.
+1483.8,1485.92,A,they won't go we ho without that,IN1002.
+1485.68,1486.14,C,. Mm-hmm,IN1002.
+1485.92,1486.63,A,. It's not,IN1002.
+1486.14,1486.14,C,.,IN1002.
+1486.63,1488.05,A,means it's a wrong information .,IN1002.
+1488.16,1488.38,C,Yeah,IN1002.
+1488.23,1488.42,D,Maybe,IN1002.
+1488.38,1488.38,C,.,IN1002.
+1488.42,1490.29,D,"at least they will give some number others , like",IN1002.
+1490.23,1490.49,A,Yeah,IN1002.
+1490.29,1490.71,D,they can,IN1002.
+1490.49,1490.74,A,yeah,IN1002.
+1490.71,1490.71,D,.,IN1002.
+1490.74,1491.21,A,", because",IN1002.
+1490.84,1491.06,C,Yeah .,IN1002.
+1491.21,1494.23,A,in the beginning what they say that send us the thing,IN1002.
+1493.86,1494.1,C,Yeah .,IN1002.
+1494.23,1497.39,A,", we'll look at the things . If it is recoverable , we",IN1002.
+1497.37,1497.76,C,Then,IN1002.
+1497.39,1497.77,A,will tell you,IN1002.
+1497.76,1498.49,C,what,IN1002.
+1497.77,1499.72,A,what is the quotation,IN1002.
+1498.49,1499.51,C,did they estimate of that ?,IN1002.
+1499.72,1501.96,A,", and if it is not recoverable , we will send it back to you .",IN1002.
+1502.93,1503.32,D,Hmm .,IN1002.
+1503.42,1510.58,A,"But means f and uh i if they they cannot recover it , then then what they will they won't charge anything from you",IN1002.
+1510.49,1510.67,C,Yeah,IN1002.
+1510.58,1510.84,A,for,IN1002.
+1510.67,1510.67,C,.,IN1002.
+1510.84,1511.5,A,the inspection .,IN1002.
+1513.06,1513.44,C,I think,IN1002.
+1513.35,1513.64,D,Yeah,IN1002.
+1513.44,1513.93,C,that is,IN1002.
+1513.64,1513.64,D,.,IN1002.
+1513.93,1514.18,C,yeah .,IN1002.
+1515.59,1515.74,D,Yeah,IN1002.
+1515.69,1515.85,A,But,IN1002.
+1515.74,1518.53,D,", at least they they will know m beforehand",IN1002.
+1517.63,1518.04,A,That's right .,IN1002.
+1518.53,1519.88,D,I think uh,IN1002.
+1519.71,1520.83,A,Yeah,IN1002.
+1519.88,1519.88,D,.,IN1002.
+1520.02,1520.94,C,"No , it it is up",IN1002.
+1520.83,1521.08,A,. Means,IN1002.
+1520.94,1521.19,C,"to , you",IN1002.
+1521.08,1521.43,A,looking,IN1002.
+1521.19,1521.61,C,know,IN1002.
+1521.43,1524.21,A,at uh how much failure has happened,IN1002.
+1524.06,1524.61,D,"Yeah , yeah",IN1002.
+1524.21,1524.7,A,. Accordingly,IN1002.
+1524.61,1524.61,D,.,IN1002.
+1524.7,1526.67,A,they will tell you whether they can recover or not .,IN1002.
+1527.55,1537.15,C,"And in fact if they they can go a lot , but you know , they can go block by block and look into it and try to recover , but um that Matthew will want to go or not is the question .",IN1002.
+1537.29,1540.04,D,Mm but even like how much important data l,IN1002.
+1539.68,1539.91,A,Yeah,IN1002.
+1539.86,1540.13,C,Yeah,IN1002.
+1539.91,1539.91,A,.,IN1002.
+1540.04,1540.5,D,sometimes,IN1002.
+1540.13,1540.13,C,.,IN1002.
+1540.5,1542.15,D,"it's just M_P_ threes or something , so",IN1002.
+1542.01,1543.18,A,Yeah,IN1002.
+1542.15,1543.47,D,you don't really,IN1002.
+1543.18,1543.4,A,. Yeah .,IN1002.
+1543.47,1543.85,D,need to,IN1002.
+1544.58,1547.25,C,And it's like forty tera,IN1002.
+1546.35,1547.21,D,"Fo four tera , no ?",IN1002.
+1547.25,1550.62,C,. Four tera that's forty tera,IN1002.
+1548.34,1549.38,D,"Four tera , it's like",IN1002.
+1550.62,1550.62,C,.,IN1002.
+1551.26,1551.62,D,Mm-hmm .,IN1002.
+1551.76,1554.44,A,"So how much is four tera , four thousand gigabytes ?",IN1002.
+1554.5,1554.96,D,"Yeah , four",IN1002.
+1554.89,1555.13,C,Yeah,IN1002.
+1554.96,1555.19,D,thousand,IN1002.
+1555.13,1555.13,C,.,IN1002.
+1555.19,1555.57,D,gigabytes .,IN1002.
+1555.65,1556.01,A,Okay .,IN1002.
+1556.73,1557.95,C,Four thousand G_B_s,IN1002.
+1557.56,1558.28,A,Not much,IN1002.
+1557.95,1557.95,C,.,IN1002.
+1558.28,1558.28,A,.,IN1002.
+1559.79,1560.08,D,Yeah,IN1002.
+1559.8,1560.29,C,"Yeah , that's",IN1002.
+1560.08,1560.16,D,", it",IN1002.
+1560.29,1561.34,C,a that's a big,IN1002.
+1563.44,1565.58,D,but now we got something like,IN1002.
+1565.54,1565.72,A,Is,IN1002.
+1565.58,1565.97,D,uh more,IN1002.
+1565.72,1566.14,A,it raid,IN1002.
+1565.97,1566.38,D,than fift,IN1002.
+1566.14,1568.45,A,one has more compared to RAID five ?,IN1002.
+1568.8,1570.43,C,Mm,IN1002.
+1569.3,1570.67,D,"No , RAID five is better , I think",IN1002.
+1570.43,1571.02,C,um,IN1002.
+1570.67,1571.02,D,. It l it,IN1002.
+1571.01,1571.18,A,No,IN1002.
+1571.02,1571.52,D,levels,IN1002.
+1571.18,1571.63,A,", RAID one",IN1002.
+1571.52,1571.52,D,.,IN1002.
+1571.63,1575.99,A,is having exactly f fifty percent capacity is utilised . It's,IN1002.
+1575.69,1577.27,D,Uh,IN1002.
+1575.99,1576.35,A,copy .,IN1002.
+1577.27,1577.74,D,"ah , okay .",IN1002.
+1578.08,1581.79,A,Two copies of the same thing will be existing,IN1002.
+1581.21,1581.59,D,Mm-hmm .,IN1002.
+1581.79,1582.47,A,. That is a RAID one .,IN1002.
+1582.9,1585.65,D,But RAID five is then then twenty percent copy,IN1002.
+1584.95,1585.63,A,That's right,IN1002.
+1585.48,1585.66,C,Yeah,IN1002.
+1585.63,1585.84,A,. RAID,IN1002.
+1585.65,1586.07,D,only,IN1002.
+1585.66,1585.69,C,uh .,IN1002.
+1585.84,1586.16,A,five is,IN1002.
+1586.07,1587.05,D,. Ah,IN1002.
+1586.16,1586.83,A,twenty percent .,IN1002.
+1587.05,1588.26,D,", . It's not the other",IN1002.
+1588.13,1589.46,A,No,IN1002.
+1588.26,1589.55,D,way . Hmm,IN1002.
+1589.46,1589.59,A,. So,IN1002.
+1589.55,1589.55,D,.,IN1002.
+1589.59,1594.91,A,"RAID one is exactly it's means that's lot of wastage of resources , but it's more tolerant",IN1002.
+1594.07,1594.58,D,Mm-hmm .,IN1002.
+1594.91,1598.56,A,". And there is no kind of or anything , nothing exists there",IN1002.
+1598.09,1598.87,C,"Mm yeah , it's",IN1002.
+1598.56,1599.09,A,. So the disk,IN1002.
+1598.87,1599.19,C,a,IN1002.
+1599.09,1599.24,A,which,IN1002.
+1599.19,1599.19,C,.,IN1002.
+1599.24,1607.24,A,"has crashed , that cannot be recovered . That uh disk which has not crashed , it can be recovered completely . Means if both the disk have crashed , for",IN1002.
+1607.19,1607.71,D,Hmm,IN1002.
+1607.24,1608.01,A,the same data,IN1002.
+1607.71,1608.4,D,". Yeah , yeah",IN1002.
+1608.01,1608.62,A,", you cannot",IN1002.
+1608.4,1609.45,D,. Yeah,IN1002.
+1608.62,1610.11,A,recover anything,IN1002.
+1609.45,1609.82,D,", yeah .",IN1002.
+1610.11,1613.77,A,". If one disk has crashed crashed , then you can recover everything",IN1002.
+1612.57,1614.06,D,"Yeah , it will be then the other disk",IN1002.
+1613.77,1614.09,A,. Yeah,IN1002.
+1614.06,1614.06,D,.,IN1002.
+1614.09,1616.95,A,", it'll be in the other disk . So that is RAID one .",IN1002.
+1617.89,1620.24,C,And Hemant how uh how do you want to go about it ?,IN1002.
+1621.27,1621.81,B,T,IN1002.
+1621.32,1625.37,A,"If you are given a choice , you want to take RAID one or RAID five or",IN1002.
+1624.83,1626.02,C,Mm,IN1002.
+1625.37,1627.26,A,a simple laptop,IN1002.
+1626.02,1627.35,C,". No , I will say",IN1002.
+1627.26,1627.26,A,.,IN1002.
+1627.35,1630.02,C,how do you like to go about with ICAS ?,IN1002.
+1630.4,1641.39,B,"Ah . Well I I think w after this meeting we can t we can try together to regenerate this . Well uh P_L_P_s I think th they should be first regenerated , then",IN1002.
+1640.91,1641.22,A,Mm-hmm .,IN1002.
+1641.39,1644.29,B,"posteriors , and if by the end of week we",IN1002.
+1644.25,1644.45,D,Yeah,IN1002.
+1644.29,1644.46,B,could,IN1002.
+1644.45,1644.45,D,.,IN1002.
+1644.46,1646.33,B,"have posteriors , then it's not",IN1002.
+1646.16,1646.29,D,Yeah .,IN1002.
+1646.33,1652.1,B,"that difficult , I can easily regenerate the gammas and do all the experiments again",IN1002.
+1651.93,1652.25,A,To what,IN1002.
+1652.1,1652.37,B,. Maybe,IN1002.
+1652.25,1652.41,A,are the,IN1002.
+1652.37,1652.51,B,it's,IN1002.
+1652.41,1652.9,A,experiments,IN1002.
+1652.51,1652.6,B,a,IN1002.
+1652.9,1654.19,A,you need to do ? What,IN1002.
+1654.08,1654.39,D,Again,IN1002.
+1654.19,1654.54,A,are the new,IN1002.
+1654.39,1654.39,D,.,IN1002.
+1654.54,1656.62,A,experiments you are having in your mind ?,IN1002.
+1657.32,1669.03,B,Uh mainly th there would be some experiment to check how the system is robust against these uh tuning factors like uh language mod uh language modelling,IN1002.
+1668.86,1670.27,D,scaling,IN1002.
+1669.03,1670.51,B,", scaling factor language",IN1002.
+1670.27,1670.27,D,.,IN1002.
+1670.43,1670.84,A,Mm-hmm,IN1002.
+1670.51,1670.89,B,scaling,IN1002.
+1670.84,1671.19,A,", mm-hmm",IN1002.
+1670.89,1671.39,B,factor,IN1002.
+1671.19,1671.19,A,.,IN1002.
+1671.39,1673.85,B,and inversion penalty,IN1002.
+1673.05,1673.33,A,Mm-hmm .,IN1002.
+1673.85,1676.39,B,. This will be the main new issue,IN1002.
+1675.94,1676.21,A,Mm-hmm .,IN1002.
+1676.39,1678.05,B,", and uh well",IN1002.
+1677.64,1679.82,A,But do you feel that is paper material ?,IN1002.
+1679.94,1683.54,B,"Yeah , the new thing in the paper , and well , some",IN1002.
+1683.06,1685.73,D,And also maybe like this noise is,IN1002.
+1684.93,1685.8,B,No in these cases,IN1002.
+1685.73,1685.84,D,he,IN1002.
+1685.8,1686.13,B,", but",IN1002.
+1685.84,1686.27,D,was,IN1002.
+1686.71,1690.42,A,But the one which you have reported means you want to report something more than that ?,IN1002.
+1691.35,1691.66,B,Well,IN1002.
+1691.48,1691.68,D,Mm,IN1002.
+1691.66,1692.92,B,actually,IN1002.
+1691.68,1692.97,D,", this is not in the paper",IN1002.
+1692.92,1693.44,B,actually,IN1002.
+1692.97,1693.25,D,actually d,IN1002.
+1693.44,1698.25,B,"this w this was not in the paper . I put it in the presentation , but it's not in the paper",IN1002.
+1698.2,1698.28,A,Ah,IN1002.
+1698.25,1698.25,B,.,IN1002.
+1698.28,1699.71,A,", okay",IN1002.
+1699.26,1699.99,D,This is,IN1002.
+1699.61,1699.81,B,Uh,IN1002.
+1699.71,1700.09,A,. Mm-hmm,IN1002.
+1699.81,1700.39,B,the paper,IN1002.
+1700.09,1700.09,A,.,IN1002.
+1700.39,1703.0,B,was just for clean speech,IN1002.
+1702.45,1702.78,A,Okay .,IN1002.
+1703.0,1705.41,B,", but since I had the results before and I cannot",IN1002.
+1705.03,1705.38,A,Mm-hmm .,IN1002.
+1705.41,1719.05,B,"copy these things , because I t uh I talked with Herve and he said okay , actually the numbers are not uh very reasonable because they are just thirteen P_L_P_ features and",IN1002.
+1718.14,1718.44,A,Mm-hmm .,IN1002.
+1719.05,1726.44,B,"uh we have to have at least something which is known for people . I mean they are expecting something around ninety , eighty seven or",IN1002.
+1726.39,1727.27,A,Mm-hmm,IN1002.
+1726.44,1727.95,B,uh something like this,IN1002.
+1727.27,1727.53,A,. Mm-hmm .,IN1002.
+1727.95,1731.88,B,". Uh so I anyway , I had to re to redo",IN1002.
+1731.56,1731.91,D,Hmm,IN1002.
+1731.88,1732.13,B,all,IN1002.
+1731.91,1731.91,D,.,IN1002.
+1732.13,1732.97,B,the experiments,IN1002.
+1732.89,1733.18,A,Mm-hmm,IN1002.
+1732.97,1733.57,B,", but",IN1002.
+1733.18,1733.18,A,.,IN1002.
+1733.57,1738.44,B,"now it's a little bit more difficult , because before I had posteriors and now we have",IN1002.
+1738.27,1738.68,D,Yeah,IN1002.
+1738.44,1738.85,B,two more,IN1002.
+1738.68,1738.68,D,.,IN1002.
+1738.85,1741.42,B,"steps , P_L_P_s and and and posteriors , so",IN1002.
+1741.21,1741.57,A,Okay,IN1002.
+1741.42,1741.42,B,.,IN1002.
+1741.57,1741.57,A,.,IN1002.
+1741.84,1744.6,D,At least now he can know a full system setup from,IN1002.
+1744.37,1747.86,A,So might be what I can do I can give you the setup,IN1002.
+1747.51,1748.13,B,"Yes , thank",IN1002.
+1747.86,1748.18,A,and you,IN1002.
+1748.13,1748.25,B,you,IN1002.
+1748.18,1748.52,A,can,IN1002.
+1748.25,1749.65,B,very much,IN1002.
+1748.52,1751.06,A,you can generate from bottom,IN1002.
+1749.65,1749.65,B,.,IN1002.
+1750.72,1751.07,D,Yeah,IN1002.
+1751.06,1751.38,A,", train",IN1002.
+1751.07,1751.07,D,.,IN1002.
+1751.38,1752.99,A,"M_L_P_ , test M_L_P_ .",IN1002.
+1753.73,1755.8,B,Thank you very much uh .,IN1002.
+1755.98,1760.89,D,"So now mainly like uh thirty nine P_L_P_ . You were always thirty nine , no",IN1002.
+1760.28,1761.29,C,Mm,IN1002.
+1760.36,1760.93,A,Mm,IN1002.
+1760.89,1761.07,D,? Not,IN1002.
+1760.93,1761.23,A,", I was",IN1002.
+1761.07,1762.06,D,sure,IN1002.
+1761.23,1761.56,A,using,IN1002.
+1761.29,1761.29,C,.,IN1002.
+1761.56,1762.3,A,"thirty nine , yes",IN1002.
+1762.06,1762.41,D,But then,IN1002.
+1762.3,1762.3,A,.,IN1002.
+1762.41,1766.63,D,why did this features you gave me like they're thirteen,IN1002.
+1766.06,1767.24,B,Oh m,IN1002.
+1766.63,1767.63,D,? You truncated,IN1002.
+1767.24,1767.97,B,I wanted,IN1002.
+1767.63,1768.18,D,them to,IN1002.
+1767.97,1776.25,B,"I wanted to extend this uh well actually , the paper we wanted to write was uh for ICAS was something related to multi-stream gamma",IN1002.
+1776.14,1776.35,D,No,IN1002.
+1776.25,1777.02,B,. But,IN1002.
+1776.35,1777.11,D,"no no no , these",IN1002.
+1777.02,1777.39,B,okay,IN1002.
+1777.11,1777.71,D,these,IN1002.
+1777.39,1777.9,B,", okay",IN1002.
+1777.71,1777.97,D,these,IN1002.
+1777.9,1778.1,B,. Uh,IN1002.
+1777.97,1778.22,D,ones,IN1002.
+1778.1,1778.32,B,will,IN1002.
+1778.22,1778.43,D,like,IN1002.
+1778.32,1778.71,B,I,IN1002.
+1778.43,1778.51,D,the,IN1002.
+1778.71,1785.08,B,"I will explain . So tha my plan was to have two streams , and I I I well . Yeah . I",IN1002.
+1784.56,1784.78,D,Ah,IN1002.
+1784.62,1784.79,C,You,IN1002.
+1784.78,1786.12,D,", okay",IN1002.
+1784.79,1785.13,C,did it,IN1002.
+1785.08,1786.09,B,so,IN1002.
+1785.13,1786.72,C,on only one,IN1002.
+1786.09,1786.42,B,I,IN1002.
+1786.12,1786.44,D,. Hmm,IN1002.
+1786.42,1786.46,B,I,IN1002.
+1786.44,1786.44,D,.,IN1002.
+1786.46,1787.32,B,thought,IN1002.
+1786.72,1786.72,C,.,IN1002.
+1787.32,1790.99,B,that okay I one stream will be P_L_P_ and the other,IN1002.
+1790.8,1792.2,D,Ah,IN1002.
+1790.99,1792.65,B,will be delta P_L_P_s,IN1002.
+1792.2,1793.21,D,". Ah , okay",IN1002.
+1792.65,1793.4,B,. So this was,IN1002.
+1793.21,1793.21,D,.,IN1002.
+1793.4,1799.43,B,"one part of experiment , so single stream , and then I wanted to combine deltas",IN1002.
+1798.7,1799.6,D,deltas . Ah,IN1002.
+1799.43,1799.65,B,with,IN1002.
+1799.6,1800.18,D,", okay",IN1002.
+1799.65,1800.62,B,this and have,IN1002.
+1800.18,1800.79,D,. Ah,IN1002.
+1800.62,1801.09,B,another,IN1002.
+1800.79,1801.33,D,", ok",IN1002.
+1801.09,1826.35,B,"table , so that was why . But actually because , you know , the numbers and the study is not sh i it's not showing uh strong results . Anyway , results are not very important , but they should be within a range of uh acceptable numbers . So then uh for now I think it's better to instead of doing P_L_P_ and delta P_L_P_ , I can uh have single stream of thirty nine",IN1002.
+1826.26,1826.58,D,Hmm,IN1002.
+1826.35,1826.88,B,P_L_P_s,IN1002.
+1826.58,1826.58,D,.,IN1002.
+1826.88,1829.34,B,", and then combine them with traps",IN1002.
+1828.94,1829.67,D,"Yeah , those",IN1002.
+1829.34,1829.81,B,", just to",IN1002.
+1829.67,1830.0,D,results,IN1002.
+1829.81,1830.25,B,have,IN1002.
+1830.0,1834.75,D,"only you reported in Interspeech , no , like uh thirty nine P_L_P_ results",IN1002.
+1834.1,1834.58,B,"Yeah , thirty",IN1002.
+1834.56,1834.7,C,And,IN1002.
+1834.58,1834.83,B,nine,IN1002.
+1834.7,1834.78,C,they,IN1002.
+1834.75,1835.54,D,. Uh,IN1002.
+1834.78,1834.97,C,were,IN1002.
+1834.83,1834.83,B,.,IN1002.
+1834.97,1835.21,C,then .,IN1002.
+1835.54,1837.83,D,". Uh they were , but they were less than ten percent",IN1002.
+1837.71,1837.9,B,Yeah,IN1002.
+1837.77,1838.11,C,Yeah,IN1002.
+1837.81,1838.27,A,Mm-hmm,IN1002.
+1837.83,1838.34,D,or,IN1002.
+1837.9,1838.16,B,yeah,IN1002.
+1838.11,1838.11,C,.,IN1002.
+1838.16,1838.34,B,", yeah",IN1002.
+1838.27,1838.6,A,", mm-hmm",IN1002.
+1838.34,1838.56,B,yeah,IN1002.
+1838.34,1838.95,D,so,IN1002.
+1838.56,1838.56,B,.,IN1002.
+1838.6,1838.6,A,.,IN1002.
+1838.95,1840.99,D,". Now , even the clean speech you are getting",IN1002.
+1840.42,1845.45,A,So what is this result ? This is related to your um M_L_M_I_ ?,IN1002.
+1845.87,1849.52,B,"No no , it's Interspeech . The",IN1002.
+1848.37,1849.72,D,"No no , this is just",IN1002.
+1849.52,1853.45,B,okay . These numbers are full P_L_P_ thirty nine,IN1002.
+1853.24,1853.51,A,Ah,IN1002.
+1853.45,1854.18,B,", okay",IN1002.
+1853.51,1854.32,A,", okay , mm-hmm",IN1002.
+1854.18,1854.55,B,? But,IN1002.
+1854.32,1854.32,A,.,IN1002.
+1854.55,1857.42,B,"just to make things clear in the presentation , to",IN1002.
+1857.41,1857.63,A,Mm-hmm,IN1002.
+1857.42,1858.21,B,show,IN1002.
+1857.63,1857.63,A,.,IN1002.
+1858.21,1859.41,B,more steps,IN1002.
+1859.25,1860.66,A,What is a triphone gammas ?,IN1002.
+1861.59,1861.83,C,He,IN1002.
+1861.72,1862.2,B,Try,IN1002.
+1861.83,1862.55,C,use the triphone,IN1002.
+1862.2,1863.3,B,yeah,IN1002.
+1862.55,1863.48,C,M_L_P_ and,IN1002.
+1863.3,1863.3,B,.,IN1002.
+1863.48,1863.83,C,get uh,IN1002.
+1864.07,1865.64,A,"Ah , okay . Your your M_L_P_",IN1002.
+1865.62,1865.96,B,Yeah,IN1002.
+1865.64,1865.64,A,.,IN1002.
+1865.77,1866.79,C,No,IN1002.
+1865.96,1866.24,B,", yeah",IN1002.
+1866.15,1866.32,D,Uh,IN1002.
+1866.24,1866.24,B,.,IN1002.
+1866.32,1867.0,D,n no,IN1002.
+1866.79,1867.24,C,", . No",IN1002.
+1867.0,1867.22,D,he,IN1002.
+1867.07,1868.16,B,Even,IN1002.
+1867.22,1867.54,D,gave,IN1002.
+1867.24,1868.21,C,", I",IN1002.
+1867.54,1868.33,D,scale,IN1002.
+1868.21,1868.5,C,I,IN1002.
+1868.33,1868.59,D,to,IN1002.
+1868.5,1869.47,C,gave,IN1002.
+1868.59,1869.66,D,"me , then I generated",IN1002.
+1869.47,1869.87,C,yeah,IN1002.
+1869.66,1870.74,D,gammas,IN1002.
+1869.87,1869.87,C,.,IN1002.
+1870.29,1871.62,A,Okay,IN1002.
+1870.74,1871.81,D,. Even uh,IN1002.
+1871.49,1871.94,B,Even,IN1002.
+1871.62,1872.01,A,. But those,IN1002.
+1871.94,1872.42,B,if,IN1002.
+1872.01,1872.42,A,gammas will,IN1002.
+1872.42,1872.54,B,you,IN1002.
+1872.42,1874.1,A,be same as uh s,IN1002.
+1873.86,1875.43,C,"Yeah , it",IN1002.
+1874.1,1875.49,A,normalised scale likelihoods,IN1002.
+1875.43,1876.14,C,yeah,IN1002.
+1875.49,1876.4,A,", right",IN1002.
+1875.63,1876.26,D,No no,IN1002.
+1876.14,1876.37,C,. No no,IN1002.
+1876.26,1876.4,D,no,IN1002.
+1876.37,1876.37,C,.,IN1002.
+1876.4,1876.54,D,no,IN1002.
+1876.4,1876.77,A,? Then,IN1002.
+1876.54,1876.77,D,. The,IN1002.
+1876.58,1877.04,B,No,IN1002.
+1876.77,1877.02,D,they're,IN1002.
+1876.77,1877.02,A,the,IN1002.
+1877.02,1878.52,D,differently,IN1002.
+1877.02,1878.8,A,they're through that data uh from,IN1002.
+1878.52,1879.16,D,. Yeah,IN1002.
+1878.8,1879.48,A,through,IN1002.
+1879.16,1879.59,D,". Yeah , because",IN1002.
+1879.48,1879.48,A,.,IN1002.
+1879.59,1882.53,D,I have triphone G_M_ G_M_M_s and H_M_M_s,IN1002.
+1881.96,1882.26,A,Okay .,IN1002.
+1882.34,1882.48,B,Th,IN1002.
+1882.53,1884.74,D,. So he gave me scale likelihoods of triphones .,IN1002.
+1884.74,1886.07,A,Uh not uh scale likelihoods .,IN1002.
+1886.45,1887.41,C,"Uh yeah , scale",IN1002.
+1887.13,1887.47,D,Scale,IN1002.
+1887.4,1888.04,A,Posteriors,IN1002.
+1887.41,1888.68,C,like,IN1002.
+1887.47,1888.49,D,likelihood,IN1002.
+1888.04,1888.04,A,.,IN1002.
+1888.49,1888.8,D,. Scale,IN1002.
+1888.68,1888.97,C,uh,IN1002.
+1888.8,1890.45,D,likelihoods,IN1002.
+1888.97,1890.48,C,scale likelihoo,IN1002.
+1889.46,1889.87,A,From ?,IN1002.
+1890.45,1890.7,D,. From,IN1002.
+1890.48,1890.88,C,from,IN1002.
+1890.7,1891.17,D,triphone,IN1002.
+1890.88,1891.19,C,uh t uh,IN1002.
+1891.17,1891.73,D,memory,IN1002.
+1891.19,1891.98,C,M_L_P_,IN1002.
+1891.73,1891.73,D,.,IN1002.
+1891.88,1894.01,A,"G_M_M_ oh , M_L_P_ scale likelihoods",IN1002.
+1893.97,1894.6,C,Yeah,IN1002.
+1894.01,1894.75,A,? You're,IN1002.
+1894.6,1896.19,C,", well",IN1002.
+1894.75,1896.14,A,"you are having posteriors there , right ?",IN1002.
+1896.19,1898.23,C,"yeah , so I j I d do",IN1002.
+1898.1,1898.26,A,You,IN1002.
+1898.23,1898.34,C,I,IN1002.
+1898.26,1898.93,A,divided,IN1002.
+1898.34,1899.14,C,did,IN1002.
+1898.93,1899.69,A,by the,IN1002.
+1899.14,1899.81,C,try it yeah,IN1002.
+1899.69,1900.72,A,. Okay,IN1002.
+1899.72,1900.97,D,Hmm,IN1002.
+1899.81,1901.04,C,", th that's how you do",IN1002.
+1900.72,1901.01,A,. Okay,IN1002.
+1900.97,1901.19,D,. So,IN1002.
+1901.01,1901.12,A,", so",IN1002.
+1901.04,1901.28,C,that,IN1002.
+1901.12,1901.23,A,it's,IN1002.
+1901.19,1901.53,D,then,IN1002.
+1901.23,1901.48,A,scale,IN1002.
+1901.28,1901.28,C,.,IN1002.
+1901.48,1902.07,A,likelihoods,IN1002.
+1901.53,1904.11,D,again I will pass through full network . Then,IN1002.
+1904.03,1904.28,A,Okay,IN1002.
+1904.11,1904.38,D,I can,IN1002.
+1904.28,1904.28,A,.,IN1002.
+1904.38,1905.71,D,generate triphone gammas .,IN1002.
+1906.18,1908.33,A,"And full network , what was the r ch",IN1002.
+1908.09,1909.44,D,It's like,IN1002.
+1908.33,1908.98,A,architecture ?,IN1002.
+1909.44,1912.63,D,". It's no no , it's uh it's just G_M_M_ word models",IN1002.
+1912.4,1912.91,A,Ah,IN1002.
+1912.63,1913.08,D,. You have all,IN1002.
+1912.91,1914.11,A,okay,IN1002.
+1913.08,1914.13,D,the connections to,IN1002.
+1914.11,1915.12,A,. Mm-hmm,IN1002.
+1914.13,1916.19,D,"between all the words , like",IN1002.
+1915.12,1915.36,A,. Mm-hmm .,IN1002.
+1916.19,1916.45,D,hmm .,IN1002.
+1920.55,1923.93,A,So what are the other things we need to discuss ?,IN1002.
+1924.96,1932.54,D,"So then first thing is like we need to generate P_L_P_s , and then all these S_ and R_s P_L_P_s .",IN1002.
+1933.02,1937.44,B,Yeah . It's amazing that everything was under,IN1002.
+1936.39,1936.7,D,Hmm .,IN1002.
+1937.41,1937.55,C,No,IN1002.
+1937.44,1937.7,B,temp,IN1002.
+1937.55,1937.72,C,", but",IN1002.
+1937.7,1937.7,B,.,IN1002.
+1937.72,1949.35,C,I think what I think there is still some data which is recoverable . At least they could give us time to I think that uh the most of those things should be there . I can hope it already if they could,IN1002.
+1949.89,1952.44,D,"No , it was there on uh like uh yesterday",IN1002.
+1952.22,1952.45,A,One,IN1002.
+1952.44,1952.87,D,morning,IN1002.
+1952.45,1952.91,A,day after the,IN1002.
+1952.87,1953.1,D,also,IN1002.
+1952.91,1953.8,A,crash,IN1002.
+1953.1,1954.17,D,like even,IN1002.
+1953.8,1954.04,A,. Yeah .,IN1002.
+1954.17,1954.53,D,. So,IN1002.
+1954.37,1954.77,B,Yeah,IN1002.
+1954.53,1954.85,D,I was,IN1002.
+1954.77,1954.77,B,.,IN1002.
+1954.85,1959.08,D,"running some experiments and then it was okay , but it's readable only , so I can't write anything , so .",IN1002.
+1959.23,1959.52,A,Mm-hmm .,IN1002.
+1959.54,1961.23,C,"No , you don't have to write , but you could read",IN1002.
+1961.14,1961.44,D,Yeah,IN1002.
+1961.23,1961.62,C,", no",IN1002.
+1961.44,1961.8,D,", so but",IN1002.
+1961.62,1961.62,C,.,IN1002.
+1961.8,1970.06,D,"we don't know , like we thought like I thought it's recovering , so maybe by tomorrow I'll get everything , so . Uh so if you want a copy again , you'll have",IN1002.
+1970.27,1974.54,A,That's all be because of you . You came on wrong day from Iran,IN1002.
+1974.27,1975.04,B,Yeah,IN1002.
+1974.54,1975.05,A,. You should had,IN1002.
+1975.04,1975.04,B,.,IN1002.
+1975.05,1978.23,A,"come on , it would have been okay .",IN1002.
+1978.95,1979.2,C,Yeah .,IN1002.
+1980.23,1980.65,A,Anyway .,IN1002.
+1981.0,1983.94,D,"But yeah , still some people are in vacation , so they will really",IN1002.
+1983.94,1985.83,A,Uh they'll get a shock of their life,IN1002.
+1985.8,1986.21,B,Yeah,IN1002.
+1985.83,1985.83,A,.,IN1002.
+1986.21,1988.33,B,", Sileye will be back and",IN1002.
+1988.16,1989.81,D,Pedro,IN1002.
+1988.33,1989.82,B,"he's not in vacation , but he's in",IN1002.
+1989.81,1990.2,D,Pedro,IN1002.
+1989.82,1993.73,B,Italy,IN1002.
+1990.11,1990.33,A,Might,IN1002.
+1990.2,1990.47,D,also,IN1002.
+1990.33,1993.15,A,be the one kind of like if they have read their mails .,IN1002.
+1993.73,1997.27,B,. He flies to Senegal directly,IN1002.
+1996.85,1997.22,A,Yeah,IN1002.
+1996.87,1997.59,C,So,IN1002.
+1997.22,1997.22,A,.,IN1002.
+1997.27,1997.27,B,.,IN1002.
+1997.59,1998.88,C,Daniel is well in Italy ?,IN1002.
+1999.04,1999.55,A,Yeah,IN1002.
+1999.25,2000.52,D,Hmm,IN1002.
+1999.55,1999.55,A,.,IN1002.
+2000.52,2003.83,D,". But even all over the recent iteration , iterate training set",IN1002.
+2003.41,2004.1,A,"Yeah , everything",IN1002.
+2003.83,2004.64,D,in temp,IN1002.
+2004.1,2004.95,A,"is lost , yeah",IN1002.
+2004.64,2005.65,D,. Because like,IN1002.
+2004.95,2004.95,A,.,IN1002.
+2005.65,2010.55,D,"we we s how much we can copy , because it's really so many iterations and",IN1002.
+2010.42,2010.62,C,Yeah,IN1002.
+2010.55,2010.78,D,even,IN1002.
+2010.62,2010.62,C,.,IN1002.
+2010.78,2015.89,D,we thought of really completing minimal experiment also,IN1002.
+2014.89,2015.1,A,Yeah .,IN1002.
+2015.89,2016.18,D,mm .,IN1002.
+2016.96,2019.06,A,"Yeah , but it's a major loss , no doubt .",IN1002.
+2019.75,2026.65,D,"But at least , yeah , a script are there every scripts , like at least scripts are there but so if",IN1002.
+2026.51,2026.71,A,The,IN1002.
+2026.65,2026.86,D,if,IN1002.
+2026.71,2026.96,A,data,IN1002.
+2026.86,2027.01,D,they,IN1002.
+2026.96,2027.12,A,on,IN1002.
+2027.01,2027.82,D,can decode,IN1002.
+2027.12,2029.41,A,which we want to run the scripts is not there .,IN1002.
+2029.72,2033.64,D,"Yeah , if they can decode at least Hemant's P_ files then Hemant",IN1002.
+2033.34,2034.48,A,If they can,IN1002.
+2033.64,2034.29,D,can,IN1002.
+2034.24,2034.5,B,Mm,IN1002.
+2034.48,2034.75,A,yeah,IN1002.
+2034.5,2034.5,B,.,IN1002.
+2034.75,2038.3,A,", if they can give me my C_ files , then also it's okay",IN1002.
+2037.37,2038.21,D,Yeah,IN1002.
+2037.74,2037.96,B,Mm .,IN1002.
+2038.21,2038.35,D,. But,IN1002.
+2038.3,2038.3,A,.,IN1002.
+2038.35,2045.52,D,"C_ files yeah . Even if they give you P_ files , it's really better , even you don't really need to ru run all the",IN1002.
+2045.49,2053.7,A,"Yeah , because I don't need to generate features also , yeah . Yeah , it's amazing . I n I don't need all my P_ files , just three of them .",IN1002.
+2054.37,2056.82,D,"Yeah yeah , you j just only like recent P_ files",IN1002.
+2056.77,2057.4,A,Yeah,IN1002.
+2056.82,2057.27,D,at least .,IN1002.
+2057.4,2057.4,A,.,IN1002.
+2058.66,2063.38,B,"And what if we have some day a fire in IDIAP , we will lose all the data",IN1002.
+2063.33,2063.47,C,Oh,IN1002.
+2063.38,2063.38,B,.,IN1002.
+2063.47,2065.73,C,", that is fire will lose",IN1002.
+2065.63,2066.27,B,Mm,IN1002.
+2065.73,2066.29,C,all the data,IN1002.
+2066.27,2066.38,B,I,IN1002.
+2066.29,2066.64,C,", you",IN1002.
+2066.38,2066.72,B,mean,IN1002.
+2066.64,2066.77,C,know,IN1002.
+2066.72,2067.38,B,", but",IN1002.
+2066.77,2066.77,C,.,IN1002.
+2067.38,2069.34,B,they have well I I think w,IN1002.
+2069.29,2069.73,A,Nowadays,IN1002.
+2069.34,2071.15,B,they can,IN1002.
+2069.73,2070.94,A,it's not the case,IN1002.
+2070.63,2071.01,D,No no no,IN1002.
+2070.94,2071.11,A,. They,IN1002.
+2071.01,2071.01,D,.,IN1002.
+2071.11,2071.61,A,physically,IN1002.
+2071.15,2072.25,B,and,IN1002.
+2071.61,2071.88,A,also,IN1002.
+2071.86,2072.53,C,Physically,IN1002.
+2071.88,2072.28,A,separate,IN1002.
+2072.25,2072.94,B,yeah,IN1002.
+2072.28,2072.97,A,the things,IN1002.
+2072.53,2072.98,C,", uh yeah",IN1002.
+2072.94,2073.08,B,", they",IN1002.
+2072.97,2072.97,A,.,IN1002.
+2072.98,2072.98,C,.,IN1002.
+2073.08,2074.73,B,"can d you know , store",IN1002.
+2074.72,2074.92,C,Yeah,IN1002.
+2074.73,2076.4,B,it somewhere,IN1002.
+2074.92,2076.2,C,", physically it is updated .",IN1002.
+2076.4,2082.77,B,". But you know , here we can easily have a fire , because the everything is made of wood I think and it's small and",IN1002.
+2082.79,2083.22,C,"No , I think",IN1002.
+2083.06,2083.57,D,Yeah,IN1002.
+2083.22,2083.9,C,there is sprinkler,IN1002.
+2083.57,2083.57,D,.,IN1002.
+2083.9,2086.98,C,"or something around here , I hope so",IN1002.
+2085.77,2087.05,D,But still I think I it,IN1002.
+2086.95,2087.18,A,Or,IN1002.
+2086.98,2086.98,C,.,IN1002.
+2087.05,2087.36,D,depends,IN1002.
+2087.18,2088.43,A,it's sprinklers,IN1002.
+2087.36,2087.36,D,.,IN1002.
+2088.43,2088.43,A,.,IN1002.
+2088.92,2091.57,D,Uh in Edinburgh they had that big fire and then,IN1002.
+2091.81,2093.86,A,Then what if their sprinklers don't work,IN1002.
+2093.81,2094.11,D,Even,IN1002.
+2093.86,2093.86,A,?,IN1002.
+2094.11,2101.85,D,"even sa several uh da buildings and all the computers in that building they all burned , but they have like three backups",IN1002.
+2101.8,2102.94,A,Ah,IN1002.
+2101.85,2103.44,D,"in the university , so all",IN1002.
+2102.94,2103.25,A,. Uh-huh .,IN1002.
+2103.44,2108.75,D,"these people , they didn't really affect much . No , it's the university is maybe it's really big",IN1002.
+2108.3,2108.57,A,Yeah .,IN1002.
+2108.75,2109.1,D,", so",IN1002.
+2108.85,2109.14,C,"Yeah , in",IN1002.
+2109.1,2109.3,D,they,IN1002.
+2109.14,2109.35,C,fact,IN1002.
+2109.3,2109.52,D,can,IN1002.
+2109.35,2109.65,C,they,IN1002.
+2109.52,2109.94,D,afford,IN1002.
+2109.65,2110.31,C,distributed,IN1002.
+2109.94,2110.33,D,for,IN1002.
+2110.31,2112.28,C,the whole thing around,IN1002.
+2111.85,2113.42,D,"Yeah , they",IN1002.
+2112.28,2112.41,C,. They,IN1002.
+2112.39,2112.49,A,They,IN1002.
+2112.41,2112.55,C,may,IN1002.
+2112.49,2112.74,A,won't,IN1002.
+2112.55,2112.78,C,not,IN1002.
+2112.74,2112.93,A,keep,IN1002.
+2112.78,2112.98,C,have,IN1002.
+2112.93,2113.04,A,it,IN1002.
+2112.98,2113.32,C,it in,IN1002.
+2113.04,2113.34,A,at one,IN1002.
+2113.32,2113.64,C,one,IN1002.
+2113.34,2113.67,A,place,IN1002.
+2113.42,2113.74,D,yeah yeah,IN1002.
+2113.64,2113.89,C,place,IN1002.
+2113.67,2113.87,A,", yeah",IN1002.
+2113.74,2114.08,D,", they want",IN1002.
+2113.87,2113.87,A,.,IN1002.
+2113.89,2113.89,C,.,IN1002.
+2114.08,2117.0,D,th they'll have backup in different,IN1002.
+2115.84,2116.41,A,Physically,IN1002.
+2116.4,2116.7,C,Hmm,IN1002.
+2116.41,2116.83,A,at different,IN1002.
+2116.7,2116.7,C,.,IN1002.
+2116.83,2117.24,A,places,IN1002.
+2117.0,2117.4,D,and also,IN1002.
+2117.24,2117.33,A,", yeah .",IN1002.
+2117.4,2120.57,D,"in in some in underground , so that like",IN1002.
+2119.3,2119.63,A,Mm-hmm,IN1002.
+2119.57,2119.87,C,Yeah,IN1002.
+2119.63,2119.63,A,.,IN1002.
+2119.87,2119.87,C,.,IN1002.
+2120.57,2121.94,D,file proof or something,IN1002.
+2121.85,2122.28,A,Mm-hmm,IN1002.
+2121.94,2122.32,D,", yeah",IN1002.
+2122.28,2122.28,A,.,IN1002.
+2122.32,2126.45,D,". Yeah , maybe .",IN1002.
+2127.92,2128.29,A,Yeah .,IN1002.
+2128.45,2138.55,B,"Anyway , the good the conclusion is to have a back-up and uh and C_D_ at home",IN1002.
+2134.54,2135.46,D,"No , C_D_s are",IN1002.
+2135.35,2135.54,C,Yeah,IN1002.
+2135.46,2135.7,D,not,IN1002.
+2135.54,2136.02,C,", something",IN1002.
+2135.7,2136.31,D,enough like,IN1002.
+2136.02,2136.21,C,like,IN1002.
+2136.15,2136.64,A,C_D_s,IN1002.
+2136.21,2136.36,C,that,IN1002.
+2136.31,2137.42,D,", no",IN1002.
+2136.36,2136.65,C,I can,IN1002.
+2136.64,2136.76,A,are,IN1002.
+2136.65,2137.09,C,recover,IN1002.
+2136.76,2137.28,A,not enough,IN1002.
+2137.09,2137.09,C,.,IN1002.
+2137.28,2137.52,A,", that's",IN1002.
+2137.42,2137.57,D,. Yeah,IN1002.
+2137.52,2137.61,A,the,IN1002.
+2137.57,2137.75,D,", how",IN1002.
+2137.61,2138.74,A,problem,IN1002.
+2137.75,2138.51,D,much uh,IN1002.
+2138.55,2138.83,B,. Mm,IN1002.
+2138.74,2138.92,C,No,IN1002.
+2138.74,2139.11,A,. Because,IN1002.
+2138.83,2138.83,B,.,IN1002.
+2138.92,2139.37,C,", but",IN1002.
+2139.11,2141.86,A,one C_D_ is how much ? It's not even one G_B_,IN1002.
+2141.25,2141.65,B,Yeah .,IN1002.
+2141.75,2141.98,C,For,IN1002.
+2141.86,2142.04,A,. So,IN1002.
+2141.98,2142.35,C,example,IN1002.
+2142.04,2142.6,A,then C_D_s,IN1002.
+2142.35,2143.05,C,f,IN1002.
+2142.6,2143.43,A,are not enough,IN1002.
+2143.05,2143.6,C,phonebook,IN1002.
+2143.43,2143.43,A,.,IN1002.
+2143.6,2145.44,C,I can recover everything,IN1002.
+2144.87,2145.21,B,Hmm .,IN1002.
+2145.44,2148.18,C,"on phonebook , because I have it on the C_D_",IN1002.
+2147.55,2147.85,A,Mm-hmm .,IN1002.
+2148.18,2157.58,C,". I wrote it once time to copy it to my home , and so I have all the data of my C_D_ . But I don't know if I had I copied all the numbers that are on that",IN1002.
+2157.3,2157.75,A,Hmm,IN1002.
+2157.32,2157.58,D,Hmm,IN1002.
+2157.58,2158.95,C,", so",IN1002.
+2157.58,2157.58,D,.,IN1002.
+2157.75,2159.08,A,. You're talking about datas or,IN1002.
+2158.95,2158.95,C,.,IN1002.
+2159.08,2159.25,A,you're,IN1002.
+2159.24,2159.49,C,Data,IN1002.
+2159.25,2159.53,A,talking,IN1002.
+2159.49,2160.1,C,itself,IN1002.
+2159.53,2159.9,A,about,IN1002.
+2160.1,2160.98,C,. The whole feature,IN1002.
+2160.7,2161.26,A,Okay,IN1002.
+2160.98,2161.28,C,to,IN1002.
+2161.26,2161.66,A,", mm-hmm",IN1002.
+2161.28,2162.29,C,everything,IN1002.
+2161.66,2161.66,A,.,IN1002.
+2162.24,2162.59,D,Hmm,IN1002.
+2162.29,2162.97,C,. Features,IN1002.
+2162.59,2162.59,D,.,IN1002.
+2162.97,2168.89,C,", segmentation , every label file , everything is there . I could recover it back from there actually , but",IN1002.
+2168.89,2171.8,D,But what about home directories or,IN1002.
+2171.72,2173.38,A,I don't,IN1002.
+2171.8,2173.34,D,he also kept everything in uh,IN1002.
+2173.32,2173.64,C,temp,IN1002.
+2173.34,2173.79,D,temp,IN1002.
+2173.38,2173.73,A,know . No no,IN1002.
+2173.64,2173.64,C,.,IN1002.
+2173.73,2174.01,A,", he",IN1002.
+2173.79,2173.79,D,.,IN1002.
+2174.01,2177.07,A,wa he was having locked many things in the proper places,IN1002.
+2176.67,2176.92,D,Yeah .,IN1002.
+2177.07,2181.47,A,". But in temp he wasn't having lot of important things , yeah . All the experiments which he was running .",IN1002.
+2181.79,2183.88,D,"But he he did mostly on numbers , no ? So at",IN1002.
+2183.84,2184.28,C,No,IN1002.
+2183.88,2184.38,D,least if we,IN1002.
+2184.28,2184.28,C,.,IN1002.
+2184.38,2187.97,D,can recover we we can read some of his stuff or something,IN1002.
+2187.03,2187.35,A,Mm-hmm .,IN1002.
+2187.97,2192.2,D,. Did you locate it ? It is home or home speech or something .,IN1002.
+2193.09,2193.91,A,Uh look what ?,IN1002.
+2194.24,2196.52,D,Look for any features or anything are there,IN1002.
+2196.48,2196.76,C,No,IN1002.
+2196.5,2196.74,A,But,IN1002.
+2196.52,2196.52,D,.,IN1002.
+2196.74,2196.94,A,what,IN1002.
+2196.76,2196.95,C,", i",IN1002.
+2196.94,2197.1,A,we'll,IN1002.
+2196.95,2197.32,C,uh,IN1002.
+2197.1,2198.02,A,do with the switches ?,IN1002.
+2198.74,2203.8,D,"No no , he he maybe he might be using same P_L_P_ features or something , it",IN1002.
+2203.04,2203.85,A,No no no no no,IN1002.
+2203.8,2203.91,D,they,IN1002.
+2203.85,2204.15,A,. Okay,IN1002.
+2203.91,2204.43,D,are different,IN1002.
+2204.15,2204.49,A,", that way",IN1002.
+2204.43,2204.43,D,.,IN1002.
+2204.49,2206.8,A,"it might be , but the situation is that",IN1002.
+2206.73,2206.85,D,We,IN1002.
+2206.8,2207.04,A,uh,IN1002.
+2206.85,2207.07,D,don't,IN1002.
+2207.04,2207.44,A,he,IN1002.
+2207.07,2207.41,D,know it .,IN1002.
+2207.44,2210.58,A,he was generating his own P_L_P_ features from his own scripts,IN1002.
+2210.25,2210.73,D,Uh his,IN1002.
+2210.58,2210.77,A,. He,IN1002.
+2210.73,2211.03,D,own,IN1002.
+2210.77,2212.42,A,was not using using doctor speech .,IN1002.
+2212.55,2214.9,D,"Ah okay , is here , he got uh his own",IN1002.
+2215.01,2220.96,A,Yeah . So he was like uh he was so I'd borrowed few of the things from him,IN1002.
+2220.39,2220.76,D,Yeah .,IN1002.
+2220.96,2244.3,A,". The F_F_T_ routine and uh reading the signal wave form . These things I borrowed from him and I changed , and then I put it in my all programmes , so . I I kept the backups , but those backups are the them's also on temp . I didn't I didn't know that this this way it can crash , because I thought",IN1002.
+2244.3,2244.69,B,Mm,IN1002.
+2244.3,2244.71,A,maybe,IN1002.
+2244.69,2244.69,B,.,IN1002.
+2244.71,2252.07,A,"I can do a mistake and wipe out the things . And then there is no backup . So I cannot blame anybody , but I didn't know that",IN1002.
+2251.82,2252.0,B,Hmm .,IN1002.
+2252.07,2254.37,A,the whole backup can itself crash .,IN1002.
+2255.55,2256.11,B,Yeah .,IN1002.
+2257.25,2264.21,A,Yeah . So now in in my life I will never believe anything which is temp,IN1002.
+2264.12,2264.61,C,Not,IN1002.
+2264.21,2266.93,A,. Whether it is temperature or whether it is temporary .,IN1002.
+2267.35,2270.21,D,Uh Hey .,IN1002.
+2270.82,2277.63,A,"Because just few few days back I took a backup of my laptop , fearing the same thing",IN1002.
+2277.22,2277.61,B,Mm-hmm .,IN1002.
+2277.63,2280.32,A,. But then I didn't realise that I should take a backup of,IN1002.
+2280.07,2280.79,C,Only good thing,IN1002.
+2280.76,2281.58,B,Yeah,IN1002.
+2280.79,2281.66,C,is that the numbers,IN1002.
+2281.58,2282.2,B,. Reverse,IN1002.
+2281.66,2282.44,C,I think I pretty,IN1002.
+2282.2,2282.2,B,.,IN1002.
+2282.44,2287.39,C,much can recover all the even the f triphone experiments,IN1002.
+2286.94,2287.34,D,Hmm .,IN1002.
+2287.39,2293.95,C,". Because I think I have kept those labels , all those things in the speech directory . A P_ file of it",IN1002.
+2293.32,2294.01,D,Oh then it's good,IN1002.
+2293.95,2294.11,C,. So,IN1002.
+2294.01,2294.17,D,", you know",IN1002.
+2294.11,2294.36,C,it's,IN1002.
+2294.17,2294.48,D,like we,IN1002.
+2294.36,2294.71,C,easier,IN1002.
+2294.48,2294.93,D,don't really,IN1002.
+2294.71,2295.25,C,to,IN1002.
+2294.93,2295.08,D,nee,IN1002.
+2295.25,2297.94,C,"it all back , all those labels and everything , yeah .",IN1002.
+2298.32,2300.17,D,So but your P_L_P_ is also like,IN1002.
+2300.49,2301.81,C,P_L_P_ should be there,IN1002.
+2301.58,2302.03,D,Mm-hmm,IN1002.
+2301.81,2302.17,C,. I re,IN1002.
+2302.03,2302.03,D,.,IN1002.
+2302.17,2304.34,C,should have kept the P_L_P_ also somewhere tha,IN1002.
+2304.83,2310.7,D,"Then we just need to run your neural net only yeah , but P_ P_ P_L_P_s are like hardly few minutes li",IN1002.
+2310.85,2311.98,A,P_L_P_ is hardly anything,IN1002.
+2311.91,2312.22,D,Mm,IN1002.
+2311.98,2312.25,A,", yeah",IN1002.
+2312.22,2312.22,D,.,IN1002.
+2312.25,2312.25,A,.,IN1002.
+2314.19,2325.0,C,"N mm , the the extra work on is like , you know , converting the segmentations from monophone to triphone , this kind of thing . Then the all the scripts are there in the temp file , that kind of thing .",IN1002.
+2326.01,2326.47,A,Ah .,IN1002.
+2326.49,2326.66,C,I,IN1002.
+2326.51,2326.72,D,Which,IN1002.
+2326.66,2327.51,C,uh,IN1002.
+2326.72,2327.34,D,which scripts ?,IN1002.
+2327.51,2329.38,C,like,IN1002.
+2328.33,2329.85,A,From posteriors to,IN1002.
+2329.38,2329.88,C,no no no,IN1002.
+2329.85,2329.88,A,s,IN1002.
+2329.88,2330.16,C,no,IN1002.
+2329.88,2330.73,A,forced alignment,IN1002.
+2330.16,2331.58,C,", no",IN1002.
+2330.73,2330.73,A,.,IN1002.
+2331.58,2336.66,C,". No , what you do is like you have the segmentation to train that for monophones , right",IN1002.
+2336.19,2336.46,A,Yeah .,IN1002.
+2336.66,2340.58,C,"? You can uh you can convert the same thing into triphone segmentation , because there is monophone",IN1002.
+2340.56,2340.97,A,Yeah,IN1002.
+2340.58,2341.02,C,and triphone,IN1002.
+2340.97,2342.31,A,", yeah",IN1002.
+2341.02,2342.4,C,", they are not different , except",IN1002.
+2342.31,2342.82,A,. Mm-hmm,IN1002.
+2342.4,2343.11,C,that,IN1002.
+2342.82,2343.15,A,", mm-hmm",IN1002.
+2343.11,2343.25,C,you're,IN1002.
+2343.15,2343.15,A,.,IN1002.
+2343.25,2345.11,C,just going to give a different label to them,IN1002.
+2345.02,2345.42,A,Mm-hmm,IN1002.
+2345.11,2345.63,C,p,IN1002.
+2345.42,2346.75,A,", mm-hmm",IN1002.
+2345.63,2347.06,C,depending on the context,IN1002.
+2346.75,2347.0,A,. Mm-hmm .,IN1002.
+2347.06,2350.49,C,. So it's easier to convert that segmentation directly here,IN1002.
+2350.14,2350.4,A,Mm-hmm .,IN1002.
+2350.49,2364.07,C,"rather than now ugh you know , you say the point that if you lose one uh so uh so the thing is that I have to recover means I have to recover through the pho no monophone segment segmentation",IN1002.
+2363.65,2364.1,D,And then,IN1002.
+2364.07,2365.77,C,"to triphone segmentation , the whole thing .",IN1002.
+2366.36,2369.03,D,But but you still need to run all the nets no l ?,IN1002.
+2369.9,2371.78,C,"Yeah , it's okay . Th that",IN1002.
+2371.53,2371.81,D,It's,IN1002.
+2371.78,2373.54,C,"uh numbers it's very fast , so it's no",IN1002.
+2373.39,2373.6,D,No,IN1002.
+2373.54,2373.88,C,problem,IN1002.
+2373.6,2374.0,D,", but it's",IN1002.
+2373.88,2373.88,C,.,IN1002.
+2374.0,2377.71,D,it's not I think at least it takes two hours or,IN1002.
+2376.7,2377.68,C,"Yeah , so it's",IN1002.
+2377.15,2377.78,A,Three years,IN1002.
+2377.68,2379.36,C,yeah,IN1002.
+2377.71,2377.93,D,three,IN1002.
+2377.78,2378.13,A,", two",IN1002.
+2377.93,2378.14,D,hours,IN1002.
+2378.13,2378.28,A,to,IN1002.
+2378.14,2378.51,D,I think,IN1002.
+2378.28,2378.8,A,three years,IN1002.
+2378.51,2379.9,D,. you,IN1002.
+2378.8,2378.97,A,", yeah .",IN1002.
+2379.36,2380.07,C,". Yeah , but right",IN1002.
+2379.9,2380.16,D,can't,IN1002.
+2380.07,2380.42,C,now,IN1002.
+2380.16,2380.65,D,parallel,IN1002.
+2380.42,2381.56,C,you the,IN1002.
+2380.65,2381.61,D,"also , that's the problem",IN1002.
+2381.56,2381.77,C,thing,IN1002.
+2381.61,2381.61,D,.,IN1002.
+2381.77,2388.7,C,is that right now you know almost what is the uh like the which will give you the best is also you can cont instead of,IN1002.
+2388.67,2388.96,A,Not,IN1002.
+2388.7,2388.99,C,running,IN1002.
+2388.96,2389.08,A,in,IN1002.
+2388.99,2390.52,C,it,IN1002.
+2389.08,2390.54,A,"all cases , that's the problem which",IN1002.
+2390.52,2390.67,C,hmm,IN1002.
+2390.54,2390.79,A,people,IN1002.
+2390.67,2390.67,C,.,IN1002.
+2390.79,2392.15,A,are facing,IN1002.
+2392.13,2392.46,C,Yeah,IN1002.
+2392.15,2393.53,A,. Because,IN1002.
+2392.46,2392.46,C,.,IN1002.
+2393.53,2398.52,A,"everything was written then and there itself . Means even if the optimisation has been done , they did the optimisation",IN1002.
+2397.87,2398.24,D,He,IN1002.
+2398.52,2403.04,A,there and they they worked on that started working on that . They didn't write it with,IN1002.
+2402.85,2403.2,D,Yeah,IN1002.
+2403.04,2403.24,A,pen,IN1002.
+2403.2,2403.2,D,.,IN1002.
+2403.24,2405.0,A,or something on a paper or,IN1002.
+2404.79,2405.13,D,Yeah,IN1002.
+2405.0,2405.33,A,saying,IN1002.
+2405.13,2405.13,D,.,IN1002.
+2405.33,2407.19,A,"that okay , this is the best optimisation",IN1002.
+2406.99,2407.95,D,Yeah,IN1002.
+2407.19,2407.19,A,.,IN1002.
+2407.95,2414.67,D,". So for example if he want repeated all these results , then he ju he need to use all ma Hemant's",IN1002.
+2414.46,2414.71,A,Yeah,IN1002.
+2414.67,2415.01,D,P_L_P_,IN1002.
+2414.71,2414.71,A,.,IN1002.
+2415.01,2416.83,D,configuration then that's,IN1002.
+2416.61,2417.2,A,Because,IN1002.
+2416.83,2417.15,D,really,IN1002.
+2417.2,2419.09,A,if I change my configuration and,IN1002.
+2419.09,2419.28,D,Yeah,IN1002.
+2419.09,2420.03,A,your,IN1002.
+2419.28,2420.09,D,", the results will be",IN1002.
+2420.03,2422.9,A,results are somewhere else .,IN1002.
+2423.58,2425.35,D,Then you don't you don't know uh uh well .,IN1002.
+2425.77,2427.74,C,Anyway mm,IN1002.
+2427.4,2427.7,A,Okay .,IN1002.
+2427.74,2431.04,C,let's recover it . Ho let's hope the best,IN1002.
+2430.7,2431.04,A,So how,IN1002.
+2431.04,2431.11,C,. I,IN1002.
+2431.04,2431.23,A,much,IN1002.
+2431.11,2432.51,C,think,IN1002.
+2431.23,2431.95,A,time we have spent ?,IN1002.
+2432.51,2434.16,C,I think we have spent,IN1002.
+2434.03,2436.73,D,"Yeah , for thirty five , forty minutes it",IN1002.
+2436.55,2436.98,A,Okay,IN1002.
+2436.58,2437.26,C,Uh,IN1002.
+2436.73,2437.6,D,is,IN1002.
+2436.98,2437.3,A,", so",IN1002.
+2437.26,2439.78,C,yeah,IN1002.
+2437.3,2437.61,A,this is,IN1002.
+2437.6,2438.33,D,. Uh,IN1002.
+2437.61,2438.5,A,good enough,IN1002.
+2438.26,2439.55,B,Okay,IN1002.
+2438.33,2438.72,D,uh,IN1002.
+2438.5,2439.12,A,. Yeah,IN1002.
+2438.72,2439.16,D,thank you,IN1002.
+2439.12,2439.75,A,. Okay,IN1002.
+2439.16,2439.16,D,.,IN1002.
+2439.55,2439.89,B,. Thank,IN1002.
+2439.75,2439.9,A,", thank",IN1002.
+2439.78,2440.71,C,. Okay,IN1002.
+2439.89,2440.19,B,you,IN1002.
+2439.9,2440.31,A,you,IN1002.
+2440.19,2440.41,B,", thank",IN1002.
+2440.31,2440.31,A,.,IN1002.
+2440.41,2440.58,B,you .,IN1002.
+2440.71,2442.65,C,". Fine . Okay , fine .",IN1002.
+2442.67,2443.33,A,Have a good day .,IN1002.
+2444.2,2444.86,B,You too .,IN1002.
+2451.91,2452.39,D,It's all ?,IN1002.
+2453.23,2454.66,C,"It's all , we have to leave fast .",IN1002.

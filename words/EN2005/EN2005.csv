@@ -1,0 +1,2613 @@
+Start,End,Speaker,Speech,meeting
+0.02,4.34,B,Five years just because of the floods,EN2005a
+3.72,4.38,A,"Alright , is it",EN2005a
+4.34,4.6,B,bringing,EN2005a
+4.38,5.92,A,it's ready,EN2005a
+4.6,5.98,B,the ceilings down,EN2005a
+5.92,6.19,A,. Okay,EN2005a
+5.98,7.74,B,. So,EN2005a
+6.19,6.55,A,", great .",EN2005a
+7.74,8.56,B,On its great joy .,EN2005a
+11.5,12.34,D,Aren't they suing him ?,EN2005a
+13.59,22.54,B,"I think they probably ought to , but uh they well , they've only just started realising that treating this as a legal issue is probably the right way to look at it",EN2005a
+21.89,22.22,D,Mm-hmm .,EN2005a
+22.54,34.19,B,". So they're not really the sort of people that are up for understanding um the intricacies of the committee , I guess . I mean i you would have thought they could , but it's r it's actually quite hard work . The",EN2005a
+34.15,34.39,D,Can't,EN2005a
+34.19,34.4,B,law,EN2005a
+34.39,35.54,D,th,EN2005a
+34.4,35.31,B,isn't very clear .,EN2005a
+35.54,36.54,D,can't they get legal aid ?,EN2005a
+38.03,52.74,B,"That's a good question . They p they uh they might be able to . It's just it's so strapped now , um you know , like the Citizens Advice Bureau is so hard to actually get access to because they've they have so many cases and so few people . So",EN2005a
+52.55,52.76,D,Hmm,EN2005a
+52.74,52.92,B,But,EN2005a
+52.76,52.76,D,.,EN2005a
+52.92,55.36,B,"yeah , that's probably the next thing they'll have to do .",EN2005a
+55.62,55.81,D,Mm-hmm .,EN2005a
+57.32,58.48,A,"Yeah , everything's okay .",EN2005a
+63.38,66.86,D,Are we supposed to count to ten or something ? We don't have to do all that ?,EN2005a
+68.43,68.96,C,"Yeah , mm-hmm",EN2005a
+68.74,69.18,D,Okay Okay,EN2005a
+68.96,68.96,C,.,EN2005a
+69.18,69.18,D,. .,EN2005a
+70.54,70.75,C,Hmm .,EN2005a
+71.94,72.14,B,M,EN2005a
+87.47,87.66,B,Mm-hmm .,EN2005a
+88.06,90.03,A,Okay . Okay,EN2005a
+89.7,94.26,B,Okay . Yeah,EN2005a
+90.03,93.01,A,", okay , yeah . Okay",EN2005a
+92.89,93.16,D,Thank,EN2005a
+93.01,93.48,A,", thanks",EN2005a
+93.16,93.62,D,you,EN2005a
+93.48,93.48,A,.,EN2005a
+93.62,93.62,D,.,EN2005a
+93.74,94.12,C,Thank you .,EN2005a
+94.26,121.87,B,". Right . Well um I thought the right thing to do was to review what Wei-Xun's been doing in the area of dialogue structure for work package one over the last period . So basically for him to talk about what he what progress he's been making and then for us to um for hi for him to describe what work he intends over the next period of the project , and for us to figure out what help he needs with that",EN2005a
+121.42,121.84,D,Mm-hmm .,EN2005a
+121.87,151.62,B,". Um m maybe give him some help figuring out what publications he's gonna um get out of this and for us to make sure that it fits into the overall project . So um this is something that you know , we're not gonna do everything today , but I wanted to make sure that we sort of all aligned on what he was doing at the moment and and then sort of figured out how to give him the best advice coming up . So",EN2005a
+151.52,151.78,D,Okay,EN2005a
+151.59,153.23,A,Okay,EN2005a
+151.62,151.85,B,that's,EN2005a
+151.78,152.09,D,", so",EN2005a
+151.85,152.86,B,that's why I called this .,EN2005a
+153.23,154.87,A,". Okay , thanks . Yeah",EN2005a
+154.75,154.9,D,You're,EN2005a
+154.87,154.87,A,.,EN2005a
+154.9,157.63,D,gonna give a presentation for us then,EN2005a
+156.61,157.72,A,"Yeah , yeah",EN2005a
+157.63,158.04,D,. Great,EN2005a
+157.72,158.42,A,a very,EN2005a
+158.04,158.04,D,.,EN2005a
+158.42,185.74,A,"or a quick uh slides . So um I've been here for fourteen month , I think . Yeah , so I've a accustomed to the environment here and enjoy staying here . So mm uh from uh last year I was uh uh s uh supervising the annotation of segmentation , summarisation uh uh with Jean uh of",EN2005a
+185.45,185.78,D,Mm-hmm,EN2005a
+185.74,186.03,A,the,EN2005a
+185.78,185.78,D,.,EN2005a
+186.03,196.64,A,I uh IC ICSI corpus and uh uh uh on the other hand uh I w n uh did s some very preliminary work on chunking the,EN2005a
+196.48,196.82,D,Mm-hmm,EN2005a
+196.64,197.02,A,switchboard,EN2005a
+196.82,196.82,D,.,EN2005a
+197.02,439.54,A,"corpus . But uh that was not uh well picked up in the AMI corpus , which is supposed to be . So uh and currently I'm more interested in see uh uh , yeah , analysing the discourse structure in multi-party meetings . This is what I'm going to present here . So uh uh in this presentation I'm going to see how we could analyse utterance to utterance relations in multi-party meetings . Um 'Cause meetings is a lit different from normal text or a n a normal dialogue or monologue . So interactivity is a concept is a concept that I'm using to distinguish the two uh uh extremes of uh of interac uh of discourse in meetings . And uh for dialogues uh and monologues I think we might have to use different uh concepts to m m uh model the discourse structure . Then uh I w I will uh give a very uh rough plan for the next uh couple of month . And finally I I will intr i introduce some related work , yeah . So the big question that I'm concern here is what's the relationship between utterances in multi-party meetings , or how do we analyse discourse structure right above utterances instead of uh those high level intentional structure of discourse ? So the concern here is about the very local low level utterance-to-utterance relations in multi-party meetings . Uh this is the local discourse structure . So the uh building block of that kind of uh structure would be the uh utterance and possibly one of its properties , the dialogue act which we're currently uh working on or uh and uh for meetings , yeah , so I've mentioned uh uh before that meetings is a bit different from uh monologue and uh dialogues . So uh in meetings I uh from my uh reading of the one of the AMI meetings I_S_ one O_ eight , uh the uh the four meetings , I noticed that uh uh the interaction , degrees of interaction in the meetings uh varies from parts to parts . So for some part uh the interaction is very strong . So it's obviously a dialogue . But uh for some part part where the interaction is very weak , uh just uh like the uh chairman or project manager is mm uh coordinating the meeting . He's uh pushing the meeting forward , then this kind of s organ organisational structure or part . Uh uh and also other pr uh parts like uh the back-channels without any uh semantic content uh from other participants . So this kind of uh interaction might be better analysed as monologue , which uh in which there is interaction , I suppose . So",EN2005a
+441.14,442.46,B,I'm a little bit confused,EN2005a
+442.28,442.64,A,Uh-huh,EN2005a
+442.46,443.36,B,. So,EN2005a
+442.64,442.64,A,.,EN2005a
+443.36,446.18,B,"um when you say interactivity , do",EN2005a
+446.15,446.44,A,Yeah,EN2005a
+446.18,447.48,B,you mean,EN2005a
+446.44,446.44,A,.,EN2005a
+447.48,460.44,B,"um well , how would you characterise a highly interactive meeting ? What are the measurements you'd apply ? So you I think what you're doing is segmenting meetings into highly interactive parts and not so interactive parts , where you think some",EN2005a
+460.24,462.1,A,Yeah,EN2005a
+460.44,462.25,B,of them are like a bit like dialogue and some,EN2005a
+462.1,462.77,A,. Yeah,EN2005a
+462.25,463.04,B,are a bit like monologue,EN2005a
+462.77,463.19,A,", yeah",EN2005a
+463.04,463.35,B,. So what,EN2005a
+463.19,463.19,A,.,EN2005a
+463.35,465.42,B,measurements would you apply to um,EN2005a
+465.33,466.83,A,So,EN2005a
+465.42,466.75,B,find out which is which ?,EN2005a
+466.83,492.37,A,"yeah , so this is going to be based on the utterance to utterance . So for this utterance , the next utterance , if it's from another pa uh speaker , then uh if it's not a back-channel or uh something similar , then it's a dialogue . So if speak changes . So yeah , speaker change",EN2005a
+491.93,492.51,B,So you mean,EN2005a
+492.37,492.77,A,is,EN2005a
+492.51,494.5,B,relatively short turns and,EN2005a
+494.32,495.56,A,Yeah,EN2005a
+494.5,495.54,B,speaker change .,EN2005a
+495.56,522.23,A,". Yeah , yeah , b but uh sh short uh turns uh like mm or something very similar might be the uh seg second type of interactivity , the weak interactivity . That might not be analysed as a uh monologue , but as a dial uh no no no , wrong , uh not as dialogue but as um a monologue . Yeah . So",EN2005a
+521.94,522.11,B,S,EN2005a
+522.23,533.9,A,"for that part uh for that kind of back-channels we can just skip that and uh uh to not treat them as interruptions or something like . Then yeah , we could just uh",EN2005a
+534.2,540.98,B,So so am I right in thinking you think that you can segment meetings maybe into two t types of areas,EN2005a
+540.59,541.06,A,Yeah,EN2005a
+540.98,541.85,B,", interactive",EN2005a
+541.06,541.06,A,.,EN2005a
+541.85,542.85,B,and non-interactive ? So,EN2005a
+542.67,543.13,A,Yeah,EN2005a
+542.85,543.14,B,what are,EN2005a
+543.13,543.13,A,.,EN2005a
+543.14,546.32,B,th what are the characteristics of the interactive areas,EN2005a
+545.98,546.43,A,Speak,EN2005a
+546.32,546.51,B,? So,EN2005a
+546.43,546.92,A,change,EN2005a
+546.51,547.61,B,w,EN2005a
+546.92,547.78,A,speak change,EN2005a
+547.61,548.58,B,so,EN2005a
+547.78,548.76,A,would be,EN2005a
+548.58,549.02,B,okay,EN2005a
+548.76,549.17,A,yeah,EN2005a
+549.02,549.22,B,", so",EN2005a
+549.17,549.17,A,.,EN2005a
+549.22,555.92,B,"but you just said , I think , that you would characterise short turns as being the non-interactive",EN2005a
+555.85,556.34,A,If,EN2005a
+555.92,556.63,B,parts,EN2005a
+556.34,556.67,A,if,EN2005a
+556.63,556.63,B,.,EN2005a
+556.67,565.09,A,it's uh just some kind of back-channel or it's just a signal signal the s the speaker is listening or is,EN2005a
+564.99,565.42,B,Oh okay,EN2005a
+565.09,565.55,A,understanding,EN2005a
+565.42,565.58,B,", well",EN2005a
+565.55,565.7,A,what's,EN2005a
+565.58,566.03,B,we,EN2005a
+565.7,566.04,A,going on,EN2005a
+566.03,566.12,B,we,EN2005a
+566.04,567.5,A,", yeah",EN2005a
+566.12,567.72,B,can discount back-channels . I mean uh,EN2005a
+567.5,567.83,A,". Yeah , yeah",EN2005a
+567.72,568.06,B,c,EN2005a
+567.83,567.83,A,.,EN2005a
+568.06,572.26,B,are you is it okay if we talk about this for a minute 'cause I'm confused . Or or do,EN2005a
+572.24,572.34,D,I,EN2005a
+572.26,572.46,B,you,EN2005a
+572.34,572.48,D,was,EN2005a
+572.46,572.61,B,get,EN2005a
+572.48,572.74,D,just,EN2005a
+572.61,572.75,B,a,EN2005a
+572.74,573.16,D,wondering,EN2005a
+572.75,572.93,B,c,EN2005a
+573.16,573.52,D,if you were,EN2005a
+573.41,573.63,A,Mm-hmm,EN2005a
+573.52,573.75,D,gonna,EN2005a
+573.63,573.63,A,.,EN2005a
+573.75,575.8,D,define this more on,EN2005a
+575.25,575.91,B,Alright,EN2005a
+575.51,575.9,A,Uh-huh,EN2005a
+575.8,575.91,D,the,EN2005a
+575.9,575.9,A,.,EN2005a
+575.91,576.09,B,. Alright,EN2005a
+575.91,576.31,D,slides,EN2005a
+576.09,576.09,B,.,EN2005a
+576.31,579.31,D,to come or if this is as much as you're gonna tell us,EN2005a
+579.04,579.88,A,Um,EN2005a
+579.31,580.69,D,. I'm just wondering if he's,EN2005a
+580.62,580.77,B,'Cause,EN2005a
+580.69,581.18,D,prepared,EN2005a
+580.77,589.69,B,"if this is all we've got , I think we should uh have interactive and non-interactive on the board and then figure out what properties going to each just so we're clear what the two mean",EN2005a
+589.38,590.9,D,Sure,EN2005a
+589.69,589.95,B,. Uh,EN2005a
+590.9,591.27,D,. So,EN2005a
+590.93,591.43,A,"Yeah , so",EN2005a
+591.27,593.16,D,so what did you have more on later,EN2005a
+593.01,593.17,A,Uh,EN2005a
+593.16,593.84,D,slides,EN2005a
+593.17,593.84,A,yeah,EN2005a
+593.84,594.29,D,about,EN2005a
+593.84,594.58,A,. Uh so,EN2005a
+594.29,594.66,D,this,EN2005a
+594.58,594.76,A,for,EN2005a
+594.66,594.66,D,?,EN2005a
+594.76,597.51,A,interactivity this is the only slide . So,EN2005a
+597.36,597.65,D,Okay,EN2005a
+597.51,597.85,A,yeah,EN2005a
+597.65,597.65,D,.,EN2005a
+597.85,604.12,A,activity is uh I'd define interactivity to be as a degrees of interaction in meetings,EN2005a
+604.06,604.38,B,Well,EN2005a
+604.12,604.53,A,. So,EN2005a
+604.38,604.55,B,uh,EN2005a
+604.53,604.82,A,which,EN2005a
+604.55,604.88,B,okay,EN2005a
+604.82,610.07,A,"might uh speak change whi uh uh would be a very good indicator , yeah",EN2005a
+610.04,610.23,B,But,EN2005a
+610.07,610.07,A,.,EN2005a
+610.23,612.27,B,are you you need to be more precise what you mean by,EN2005a
+612.18,612.39,A,Mm-hmm,EN2005a
+612.27,612.63,B,speaker,EN2005a
+612.39,612.39,A,.,EN2005a
+612.63,614.48,B,change . So y,EN2005a
+613.92,614.73,A,"Yeah , yeah",EN2005a
+614.48,614.81,B,do you,EN2005a
+614.73,614.97,A,yeah,EN2005a
+614.81,615.65,B,mean,EN2005a
+614.97,614.97,A,.,EN2005a
+615.65,618.22,B,all of the speakers are involved in it,EN2005a
+617.74,618.76,A,No,EN2005a
+618.22,618.79,B,? Is it sufficient,EN2005a
+618.76,620.25,A,", no",EN2005a
+618.79,620.58,B,for two speakers ? Right,EN2005a
+620.25,620.71,A,. Yeah,EN2005a
+620.58,620.81,B,", and",EN2005a
+620.71,620.96,A,. No,EN2005a
+620.81,621.04,B,then,EN2005a
+620.96,638.81,A,"yeah . So actually , so uh this is a very rough idea of interactivity . If we go further , we might distinguish uh the interactivity between two , f three , or all the groups . So that might be some final definition for the uh interactivity , yeah .",EN2005a
+638.96,645.0,D,"But we've also established that it's not just speaker change , it because if you have mm-hmm , okay",EN2005a
+644.52,645.05,A,"Yeah , so",EN2005a
+645.0,645.47,D,", then",EN2005a
+645.05,646.58,A,"that might be the second class , yeah",EN2005a
+646.48,646.82,B,Okay,EN2005a
+646.58,647.11,A,. Weak,EN2005a
+646.82,647.2,B,", but that's",EN2005a
+647.11,647.37,A,this,EN2005a
+647.2,647.69,B,n you,EN2005a
+647.37,647.78,A,is a kind,EN2005a
+647.69,648.94,B,can,EN2005a
+647.78,648.45,A,of weak,EN2005a
+648.45,649.09,D,Okay,EN2005a
+648.45,649.21,A,interactivity,EN2005a
+648.94,649.18,B,that's,EN2005a
+649.09,650.13,D,. Y,EN2005a
+649.18,649.78,B,definitional,EN2005a
+649.21,649.99,A,. Yeah,EN2005a
+649.78,650.06,B,", right",EN2005a
+649.99,650.43,A,. Yeah,EN2005a
+650.06,651.72,B,. So,EN2005a
+650.13,650.75,D,"yeah , yeah",EN2005a
+650.43,650.43,A,.,EN2005a
+650.75,650.75,D,.,EN2005a
+651.72,659.25,B,so I mean you wouldn't necessarily consider that to change the turns . Those are just back-channels . So one speaker will have the floor,EN2005a
+659.06,659.93,D,Right,EN2005a
+659.25,660.14,B,channel,EN2005a
+659.93,660.67,D,. Yeah,EN2005a
+660.14,661.0,B,um throughout,EN2005a
+660.67,660.96,D,. Mm-hmm .,EN2005a
+661.0,672.03,B,that and so I guess what you're saying is that the interactive sections would have shorter speaker turns when you're not considering,EN2005a
+671.66,672.1,A,"Yeah , yeah",EN2005a
+672.03,672.12,B,the,EN2005a
+672.1,672.19,A,", yeah",EN2005a
+672.12,672.66,B,back-channels,EN2005a
+672.19,672.94,A,", yeah , yeah , yeah",EN2005a
+672.66,674.51,B,as interruptions,EN2005a
+672.94,673.99,A,", yeah , definitely , yeah .",EN2005a
+674.51,676.91,B,. Um so,EN2005a
+678.52,684.24,D,Well it might be the case that to be interactive there have to be dialogue acts of some specific type,EN2005a
+683.64,684.4,A,"Yeah , yeah",EN2005a
+684.24,684.46,D,in a,EN2005a
+684.4,684.7,A,", yeah",EN2005a
+684.46,684.86,D,turn,EN2005a
+684.7,684.87,A,", that's",EN2005a
+684.86,685.24,D,rather,EN2005a
+684.87,685.36,A,also true,EN2005a
+685.24,685.7,D,than,EN2005a
+685.36,688.0,A,". Yeah . S yeah , yeah , actually 'cause uh I've looked",EN2005a
+687.74,688.1,B,Well,EN2005a
+688.0,688.3,A,uh,EN2005a
+688.1,688.38,B,do y,EN2005a
+688.52,691.1,D,"Like statement , statement , reject , accept , you know , something",EN2005a
+690.94,691.55,B,Yeah,EN2005a
+691.1,691.32,D,like,EN2005a
+691.22,691.78,A,Yeah,EN2005a
+691.32,691.62,D,that,EN2005a
+691.55,692.02,B,. Sufficient,EN2005a
+691.62,691.62,D,.,EN2005a
+691.78,691.78,A,.,EN2005a
+692.02,697.93,B,but not necessary maybe . It depend if you had so a bunch of people all just giving information and opinion around the table,EN2005a
+697.42,697.99,A,Mm-hmm,EN2005a
+697.93,698.08,B,and,EN2005a
+697.99,697.99,A,.,EN2005a
+698.08,700.49,B,they never actually ask questions of each other,EN2005a
+700.25,700.76,A,Okay,EN2005a
+700.49,701.22,B,", but the turns",EN2005a
+700.76,701.22,A,. So for,EN2005a
+701.22,701.5,B,were,EN2005a
+701.22,701.66,A,that case,EN2005a
+701.5,701.83,B,actually,EN2005a
+701.66,701.93,A,", yeah",EN2005a
+701.83,702.06,B,quite,EN2005a
+701.93,702.37,A,uh,EN2005a
+702.06,702.55,B,short,EN2005a
+702.37,702.67,A,yeah,EN2005a
+702.55,702.72,B,", which",EN2005a
+702.67,702.9,A,", so",EN2005a
+702.72,702.94,B,one,EN2005a
+702.9,703.19,A,this,EN2005a
+702.94,703.36,B,would it be,EN2005a
+703.19,703.47,A,might,EN2005a
+703.36,703.36,B,?,EN2005a
+703.47,719.66,A,"be a weak definition of interactivity . So if we could figure out uh if they are really interacti uh interacting with each other , or just uh uh incremental mm presentation of some information",EN2005a
+719.65,720.02,B,Mm-hmm,EN2005a
+719.66,720.45,A,. So that's,EN2005a
+720.02,720.02,B,.,EN2005a
+720.45,758.58,A,"d uh different . We might um yeah need a more strict or finer uh definition of interactivity . Yeah , ju uh for this use of the uh for the use of this term for the indicator of the uh degrees of interaction , uh I think for for the current uh proposal I think that it's just for distinguish between dialogues and monologues . 'Cause for these two types of discourse , uh the uh the the cons the the two that we are going to analyse the discourse structure might be d different .",EN2005a
+758.91,761.05,B,"Right , okay . I remember you saying this before",EN2005a
+760.49,761.5,A,"Yeah , yeah",EN2005a
+761.05,761.65,B,. So,EN2005a
+761.5,761.5,A,.,EN2005a
+761.65,767.96,B,basically you want to do the segmentation because you're going to apply completely different analyses to the two sections,EN2005a
+766.65,768.14,A,"Yeah , yeah",EN2005a
+767.96,768.38,B,. Um,EN2005a
+768.14,797.79,A,. And also 'cause uh I have uh read some of the M_O_T_A_ uh corpus . Uh so for some part of th that kind of meetings um uh several utterances or dialogue acts are just uh tagged as statement . So that I don't think that would be very informative for high level str analysis . So that's all what uh that's why why uh I'm distinguishing the two kinds of discourse here,EN2005a
+797.72,798.34,B,Right,EN2005a
+797.79,797.79,A,.,EN2005a
+798.34,824.71,B,". So Wei-Xun quite takes quite a strong position on um this um difference between these two um kinds of group activities because he says that they admit different kinds of analyses . Right , the with the non-interactive , more monolo mono-logic sections of the meeting um you have to uh analyse them using something akin to rhetorical structure or something . And",EN2005a
+824.31,824.54,D,Mm-hmm .,EN2005a
+824.71,852.53,B,uh with the other sections you uh um you you use some other theory to look at them . And I actually uh think that that's a slightly extreme um position um with regard to the literature that a lot of people might say it doesn't really matter who the different speakers are in an interactive section . You can still um build maybe the the same argument structure over the top of,EN2005a
+852.24,852.71,A,Mm-hmm,EN2005a
+852.53,853.18,B,the,EN2005a
+852.71,852.71,A,.,EN2005a
+853.18,874.47,B,"basic um acts and propositional content that's there . And uh what you get is a messier version of the argument structure because not everybody has the same argument in their brain , you know , for this . But um but that the same theory or the the same analysis can be applied to both parts",EN2005a
+874.01,874.35,A,Mm-hmm .,EN2005a
+874.47,890.08,B,". So I think it's important to keep um that in mind , and if you if you do need to argue that these two kinds of group activities uh can can only be analysed if you use different analytical mechanisms , then you have to explain why that is",EN2005a
+889.92,890.24,A,Okay,EN2005a
+890.08,890.28,B,. Right,EN2005a
+890.24,890.24,A,.,EN2005a
+890.28,892.79,B,", so it it puts an extra burden of proof on the work that you do .",EN2005a
+893.66,896.86,D,"Well , actually I don't quite agree . I mean",EN2005a
+896.28,896.65,A,Mm-hmm .,EN2005a
+896.82,896.99,B,Mm,EN2005a
+896.86,897.08,D,i,EN2005a
+896.99,896.99,B,.,EN2005a
+897.08,915.45,D,"for example you can't use R_S_T_ across speakers because the definitions of the relations depend on the intentions of the speaker and there's different speakers have different intentions . So you can't use the theory . It's just fundamentally wrong , it's it was meant as a theory for a one person uh right . So",EN2005a
+915.42,915.84,A,Yeah,EN2005a
+915.45,915.9,D,that doesn't,EN2005a
+915.68,915.95,B,Right,EN2005a
+915.84,916.05,A,", the",EN2005a
+915.9,916.06,D,mean,EN2005a
+915.95,915.95,B,.,EN2005a
+916.05,916.4,A,like,EN2005a
+916.06,916.5,D,there aren't,EN2005a
+916.4,916.7,A,yeah,EN2005a
+916.5,916.77,D,other,EN2005a
+916.7,916.7,A,.,EN2005a
+916.77,917.74,D,theo so,EN2005a
+917.48,917.87,B,But to the,EN2005a
+917.74,917.89,D,for,EN2005a
+917.87,931.88,B,"grou degree that a group is building an argument together , I mean it I think wh what you're doing in a group discussion isn't necessarily one coherent argument f for the person , but an argument that is the group view",EN2005a
+931.72,932.15,D,Yeah,EN2005a
+931.88,932.7,B,. And so,EN2005a
+932.15,932.15,D,.,EN2005a
+932.7,944.54,B,"it's maybe it's not R_S_T_ , um but it's um more akin to um I don't know , is it Toolman ? But , you know , not that i but you know , the kinds of things where people to try to represent",EN2005a
+944.28,944.55,D,"Right , but",EN2005a
+944.54,944.87,B,argument,EN2005a
+944.55,945.44,D,those are very,EN2005a
+944.87,945.36,B,structure .,EN2005a
+945.44,958.06,D,"those are really different um theories that are at are trying to get at different things and it and they admit of m you know , some of them admit of multiple parties and some of them assume you're in one speaker's head . Right",EN2005a
+958.05,958.21,B,Are,EN2005a
+958.06,958.45,D,", and",EN2005a
+958.21,958.73,B,are the important,EN2005a
+958.45,958.64,D,the,EN2005a
+958.73,961.61,B,aspects of it for this analysis really that substantively different though ?,EN2005a
+961.91,970.25,D,"Mm-hmm . Yeah , the entire theory is based on intention and the intention of one individual . So R_S_T_ would be a bad theory to use",EN2005a
+970.18,970.32,B,But,EN2005a
+970.25,970.35,D,. W,EN2005a
+970.32,977.97,B,"i if somebody if there's been an argument so far in a group meeting , and um somebody makes a statement , they have an intention about how to modify that group",EN2005a
+977.73,977.98,D,So,EN2005a
+977.97,978.42,B,argument,EN2005a
+977.98,979.1,D,modelling,EN2005a
+978.42,978.42,B,.,EN2005a
+979.1,988.96,D,"modelling a single contribution by a single speaker , you can within that you can use R_S_T_ if you want to , right . But across speakers you can't",EN2005a
+988.33,989.0,B,"Right , but but",EN2005a
+988.96,989.09,D,. They,EN2005a
+989.0,989.22,B,you're,EN2005a
+989.09,995.23,D,have no relations for things like reject or agree . They the theory doesn't have them .,EN2005a
+995.27,998.48,B,"Okay , so the r the relation names aren't aren't right , but",EN2005a
+998.47,998.61,D,So,EN2005a
+998.48,998.86,B,um,EN2005a
+998.61,1006.16,D,the the so it's not the right theory 'cause the theory is the relations plus the notion of nuclearity . So we need a different theory . Now I think,EN2005a
+1005.87,1006.37,B,Right,EN2005a
+1006.16,1006.81,D,Alex,EN2005a
+1006.37,1006.37,B,.,EN2005a
+1006.81,1010.1,D,um S_D_R_S_,EN2005a
+1007.56,1010.19,A,"Yesterday , yeah . Mm-hmm . Might be",EN2005a
+1010.1,1010.65,D,allows,EN2005a
+1010.19,1010.62,A,a,EN2005a
+1010.65,1017.47,D,"both kinds . So you know , within a speaker turn you can have things like explanation and cause and all that . Um",EN2005a
+1017.39,1017.77,B,Okay,EN2005a
+1017.47,1018.08,D,but then across,EN2005a
+1017.77,1017.77,B,.,EN2005a
+1018.08,1026.4,D,"speaker turns you can have things like correction or I didn't see any examples of agree or disagree in S_T_R_S_ , but",EN2005a
+1026.33,1026.88,A,Yeah,EN2005a
+1026.4,1027.79,D,I,EN2005a
+1026.46,1026.94,C,No,EN2005a
+1026.88,1026.88,A,.,EN2005a
+1026.94,1028.9,C,", I don't think so",EN2005a
+1027.79,1028.95,D,there aren't ? I,EN2005a
+1028.9,1029.02,C,. I,EN2005a
+1028.95,1029.07,D,mean,EN2005a
+1029.02,1029.08,C,d,EN2005a
+1029.07,1031.43,D,there are thirty relations . So we should look at at what,EN2005a
+1031.39,1031.85,A,Yeah,EN2005a
+1031.43,1031.87,D,they are . But,EN2005a
+1031.83,1031.94,C,Hmm,EN2005a
+1031.85,1031.85,A,.,EN2005a
+1031.87,1031.95,D,I,EN2005a
+1031.94,1031.94,C,.,EN2005a
+1031.95,1032.06,D,d,EN2005a
+1032.06,1032.19,B,Well,EN2005a
+1032.06,1032.44,D,I don't,EN2005a
+1032.19,1032.7,B,the relation,EN2005a
+1032.66,1033.23,C,Mm-hmm,EN2005a
+1032.7,1033.73,B,names are less important,EN2005a
+1033.23,1033.23,C,.,EN2005a
+1033.73,1034.58,B,. I mean people have argued,EN2005a
+1034.44,1034.84,C,Yeah,EN2005a
+1034.58,1034.98,B,for ages,EN2005a
+1034.84,1035.01,C,. Yes,EN2005a
+1034.98,1035.11,B,about,EN2005a
+1035.01,1035.01,C,.,EN2005a
+1035.11,1037.04,B,exactly what relations were in any of these theories,EN2005a
+1036.82,1037.41,D,Well her,EN2005a
+1037.04,1037.67,B,. And that's,EN2005a
+1037.41,1038.14,D,the relations,EN2005a
+1037.67,1038.55,B,that's less important,EN2005a
+1038.14,1038.52,D,have a s,EN2005a
+1038.55,1071.32,B,"than what the theory is trying to achieve . And it just seems to me that if you've gotta have two dif separate apparatuses for the um speaker internal um argument structure and the group argument structure , that that's more appara apparatus than you should actually need for um from doing this kind of analysis . 'Cause in both cases you're um building up an argument publicly in this group meeting and then , you know , adding something or changing the existing argument in some way by relating a contribution to what's um already on the table . So",EN2005a
+1071.85,1079.67,D,"D Yes , but so I mean the relation names it's not the names that are important , it's their semantics that are important , right . And they're",EN2005a
+1079.6,1079.9,B,Mm,EN2005a
+1079.67,1080.27,D,the semantics,EN2005a
+1079.9,1079.9,B,.,EN2005a
+1080.27,1086.48,D,of the relations are based on the semantics of the utterances that they're relating as Alex s explained,EN2005a
+1086.38,1086.83,A,Yeah,EN2005a
+1086.48,1087.2,D,yesterday,EN2005a
+1086.83,1087.15,A,", yeah .",EN2005a
+1087.2,1098.62,D,". Um and so um it is important that these relations have a semantics that's tied to the semantics of the utterances , right .",EN2005a
+1098.78,1112.85,B,"Yeah , c I just think well , I mean it all of these things when they encounter a new genre of um of uh actual data , then they end up modifying building new kinds of relations with new kinds of semantics and adding them",EN2005a
+1112.41,1113.94,D,Uh p,EN2005a
+1112.85,1113.99,B,. That's the entire history of,EN2005a
+1113.94,1114.54,D,poss,EN2005a
+1113.99,1114.45,B,these .,EN2005a
+1114.54,1124.03,D,"possibly , but few people have tried to , you know , do the kind of um truth conditional semantics that , you know , Asher and Lascarides have done",EN2005a
+1123.69,1124.13,A,Yeah,EN2005a
+1123.97,1124.28,B,Mm-hmm,EN2005a
+1124.03,1125.05,D,", right",EN2005a
+1124.13,1124.13,A,.,EN2005a
+1124.28,1124.28,B,.,EN2005a
+1125.05,1146.39,D,". So the theory can handle the kinds of things that happen in meetings , as she explained . The actual computational mechanisms they have currently for building up the trees can't . Now I don't remember , was which speaker you in the c in the example she showed yesterday",EN2005a
+1145.08,1145.42,A,Mm-hmm .,EN2005a
+1146.39,1156.38,D,", was it the case that the representation of the utterances and the relations included which speaker was uh",EN2005a
+1156.35,1159.66,A,"No , just a uh turn exchange , yeah .",EN2005a
+1160.37,1168.44,D,"I mean it had the at the l at the leaves they had the well , she didn't show it , but they would have the semantics of the utterances",EN2005a
+1167.38,1167.8,A,Mm-hmm .,EN2005a
+1168.44,1170.71,D,. And then she had relation names,EN2005a
+1170.23,1171.14,A,Yeah,EN2005a
+1170.71,1171.58,D,and handles,EN2005a
+1171.14,1171.7,A,. Actually sh,EN2005a
+1171.58,1171.58,D,.,EN2005a
+1171.7,1177.34,A,uh she used some a a a bunch of features to do the automatic parsing .,EN2005a
+1178.33,1182.06,D,Right . I just I just don't didn't remember seeing in the representation,EN2005a
+1181.94,1182.27,A,Mm-hmm,EN2005a
+1182.06,1182.3,D,which,EN2005a
+1182.27,1182.27,A,.,EN2005a
+1182.3,1187.98,D,speaker contributed what . 'Cause she did represent um discourse structures,EN2005a
+1187.25,1187.96,C,Hmm . Mm-hmm .,EN2005a
+1187.98,1190.47,D,'cause these were the Verbmobil scheduling dialogues,EN2005a
+1190.37,1190.8,B,Mm-hmm,EN2005a
+1190.47,1191.25,D,. So,EN2005a
+1190.8,1191.08,B,", yeah .",EN2005a
+1191.25,1194.78,D,the utterances in the in the representation,EN2005a
+1194.36,1194.7,A,Mm-hmm .,EN2005a
+1194.78,1202.82,D,"were uttered by two different parties that wasn't the you know , in the in the examples she showed us , there were",EN2005a
+1202.53,1202.79,B,Yeah .,EN2005a
+1202.82,1209.17,D,"there was some that was just , you know , one party . It was a monologue , but then there was a snippet of dialogue as well",EN2005a
+1208.96,1209.64,B,Right,EN2005a
+1209.17,1209.47,D,with,EN2005a
+1209.64,1219.38,B,. So there you've got somebody who's doing theoretical development that would claim that you don't need two separate an analytical frameworks for these two types of activities that Wei-Xun has,EN2005a
+1219.28,1219.46,D,For,EN2005a
+1219.38,1219.99,B,identified,EN2005a
+1219.46,1221.49,D,this specific,EN2005a
+1219.99,1221.82,B,. Yeah,EN2005a
+1221.49,1221.85,D,set,EN2005a
+1221.82,1221.82,B,.,EN2005a
+1221.85,1226.2,D,of relations that that they've defined . There might be some higher level structure,EN2005a
+1226.11,1226.5,B,Mm-hmm,EN2005a
+1226.2,1226.63,D,that you wanna,EN2005a
+1226.5,1226.5,B,.,EN2005a
+1226.63,1228.17,D,pull out of that . I mean I,EN2005a
+1227.83,1228.37,A,Uh yeah,EN2005a
+1228.17,1228.46,D,'cause you,EN2005a
+1228.37,1228.37,A,.,EN2005a
+1228.46,1230.34,D,were saying you're just gonna you you're you,EN2005a
+1230.22,1230.64,A,Utterance,EN2005a
+1230.34,1230.76,D,wanna look,EN2005a
+1230.64,1231.21,A,to utterance,EN2005a
+1230.76,1231.77,D,at this,EN2005a
+1231.21,1231.78,A,", yeah . Very",EN2005a
+1231.77,1231.98,D,", you",EN2005a
+1231.78,1232.27,A,low level,EN2005a
+1231.98,1232.47,D,"know , very",EN2005a
+1232.27,1232.53,A,", yeah",EN2005a
+1232.47,1232.87,D,local,EN2005a
+1232.53,1232.53,A,.,EN2005a
+1232.87,1234.65,D,stuff . But from that you c,EN2005a
+1234.61,1234.78,A,You,EN2005a
+1234.65,1234.99,D,one,EN2005a
+1234.78,1235.32,A,cou,EN2005a
+1234.99,1235.41,D,would hope,EN2005a
+1235.32,1236.77,A,yeah,EN2005a
+1235.41,1236.79,D,you would pull out something high,EN2005a
+1236.77,1237.36,A,. Yeah,EN2005a
+1236.79,1237.43,D,", you know",EN2005a
+1237.36,1243.34,A,", i to uh just we need to see uh how well we could work out of the utterance to",EN2005a
+1243.27,1243.48,D,No,EN2005a
+1243.34,1244.15,A,utterance,EN2005a
+1243.48,1244.29,D,", I think working",EN2005a
+1244.15,1244.15,A,.,EN2005a
+1244.29,1246.34,D,"from the bottom up sounds great , but",EN2005a
+1246.12,1246.56,A,Yeah,EN2005a
+1246.34,1246.6,D,I'm,EN2005a
+1246.56,1246.56,A,.,EN2005a
+1246.6,1262.53,D,"just y I mean what you can imagine someone saying well how did they decide to make it blue , and maybe there was a long blow by bl and you don't you kind of wanna abstract away from he said this , she said that , he sai you know , to",EN2005a
+1260.96,1263.2,A,Yeah . So,EN2005a
+1262.53,1263.43,D,"Anyway , I",EN2005a
+1263.2,1263.59,A,uh yeah,EN2005a
+1263.43,1263.65,D,you,EN2005a
+1263.59,1263.59,A,.,EN2005a
+1263.65,1277.48,D,"know , I mean I I don't think especially uh , you know , if you're not steeped in these theories that it makes a huge difference to you whether we use R_S_T_ or something like S_D_R_S_ . But it might make much more , you know , I mean",EN2005a
+1277.52,1287.89,B,"Yeah , I just prefer it to be one thing rather than two completely separate things and then the added explanation of why it's not possible to have the same thing applied to both halves",EN2005a
+1286.6,1287.96,D,Well I think we should ass,EN2005a
+1287.89,1287.89,B,.,EN2005a
+1287.96,1297.53,D,I think we should try to find a theory that allows multiple speakers,EN2005a
+1296.61,1297.0,A,Mm-hmm .,EN2005a
+1297.53,1303.14,D,and relations to span over more than one spea you know,EN2005a
+1303.06,1303.36,A,Yeah,EN2005a
+1303.14,1303.48,D,. Because,EN2005a
+1303.36,1303.36,A,.,EN2005a
+1303.48,1317.25,D,"it is true that I mean if you look at things like damsel and other attempts to come up with annotation schemes for for dialogue acts , there was this notion of forward looking and backward looking . Anyway , they're relational . I mean in some way",EN2005a
+1317.06,1317.44,B,Hmm,EN2005a
+1317.25,1317.47,D,", you",EN2005a
+1317.44,1317.75,B,", yeah",EN2005a
+1317.47,1317.76,D,know,EN2005a
+1317.75,1317.75,B,.,EN2005a
+1317.76,1331.18,D,", they're all relational . Um but you needed But there's a different set of tags in there from the kinds of relations you see within R_S_T_ , for example",EN2005a
+1330.42,1330.82,B,Mm-hmm .,EN2005a
+1331.18,1340.16,D,. So if you look at Amanda Stent's thesis and the analysis that she did sort of within a turn she used something like R_S_T_,EN2005a
+1340.12,1340.39,B,Mm-hmm,EN2005a
+1340.16,1340.39,D,. And then,EN2005a
+1340.39,1340.39,B,.,EN2005a
+1340.39,1344.12,D,"across turns she used damsel , right .",EN2005a
+1344.77,1389.28,B,"Yeah , which wouldn't probably wouldn't give us the kind of um information that we need about relations across turns , just because we really are critically interested in the argument um that the group is building up so that we can find the decisions that they made and um any p uh counter proposals to proposals that have been made and things . I mean it really is more in the spirit uh of the R_S_T_ ish relations than um than in the damsel kinds of relationships . What we want uh out of the c um the relationships between speakers here . They are jointly building up an argument structure , and that is the critical thing that we're missing in order to be able to um understand what's happening in these meetings . So",EN2005a
+1389.18,1389.49,D,Well,EN2005a
+1389.28,1389.68,B,we wouldn't,EN2005a
+1389.49,1389.71,D,I,EN2005a
+1389.68,1398.43,B,"we wouldn't wanna do the same thing as what um she did in this case , bec just because um damsel doesn't give you the right sort of representation between speakers .",EN2005a
+1399.59,1402.07,D,"Well , it gives you things like accept and reject and",EN2005a
+1403.06,1404.18,B,"Oh , does it ? Okay",EN2005a
+1403.87,1404.82,D,Oh yeah,EN2005a
+1404.18,1404.97,B,", um I",EN2005a
+1404.82,1404.82,D,.,EN2005a
+1404.97,1407.55,B,haven't seen it on that this kind of data . So maybe,EN2005a
+1408.16,1410.36,D,In fact R_S_T_ doesn't give you anything like that .,EN2005a
+1410.82,1411.21,A,No .,EN2005a
+1411.9,1414.19,B,"Right , okay , but are",EN2005a
+1413.03,1414.11,A,"Hmm , hmm .",EN2005a
+1414.19,1418.15,B,"what I mean is , you kno wanna make sure you get the argumentative relations , however you do it",EN2005a
+1418.05,1418.55,D,Okay,EN2005a
+1418.15,1418.92,B,. Whichever relations,EN2005a
+1418.55,1418.55,D,.,EN2005a
+1418.92,1420.12,B,you have to build,EN2005a
+1419.79,1420.68,D,Right,EN2005a
+1420.12,1420.91,B,", you know . Not",EN2005a
+1420.68,1420.93,D,. Right,EN2005a
+1420.91,1421.11,B,I'm,EN2005a
+1420.93,1420.93,D,.,EN2005a
+1421.11,1429.75,B,not saying I'm not saying that there's a particular set of tags or relations that have been defined out there that are the right ones . I'm just saying we need the correct ones for th the structure that we're trying to get out of this . 'Cause,EN2005a
+1429.71,1430.05,D,Right,EN2005a
+1429.75,1430.24,B,we need certain,EN2005a
+1430.05,1431.79,D,", okay",EN2005a
+1430.24,1432.24,B,information out of this analysis,EN2005a
+1431.79,1432.32,D,. D,EN2005a
+1432.24,1432.39,B,. That,EN2005a
+1432.32,1442.48,D,so I think it's much more impor I think it would make more sense to go about this problem figuring out what kinds of relationships we want and,EN2005a
+1442.36,1442.72,B,Yeah,EN2005a
+1442.48,1444.02,D,then finding,EN2005a
+1442.72,1442.72,B,.,EN2005a
+1444.02,1448.13,D,"and , you know , like setting down what the constraints are on",EN2005a
+1448.07,1448.2,B,Well,EN2005a
+1448.13,1448.36,D,the,EN2005a
+1448.2,1448.57,B,Wei-Xun's,EN2005a
+1448.36,1448.99,D,analysis,EN2005a
+1448.57,1449.01,B,been looking,EN2005a
+1448.99,1450.41,D,game,EN2005a
+1449.01,1450.81,B,at the data . So that's,EN2005a
+1450.41,1450.92,D,. He's been looking,EN2005a
+1450.81,1451.01,B,that's,EN2005a
+1450.92,1451.09,D,at the,EN2005a
+1451.01,1451.1,B,a,EN2005a
+1451.09,1451.42,D,data,EN2005a
+1451.1,1451.49,B,step for,EN2005a
+1451.42,1451.78,D,", okay",EN2005a
+1451.49,1451.73,B,this,EN2005a
+1451.61,1451.97,A,Mm-hmm,EN2005a
+1451.73,1451.73,B,.,EN2005a
+1451.78,1452.55,D,", s to",EN2005a
+1451.97,1451.97,A,.,EN2005a
+1452.55,1457.52,D,good . Um and then and then there are lots of different theories of argument . I mean you,EN2005a
+1457.51,1457.85,A,Yeah,EN2005a
+1457.52,1459.96,D,can also,EN2005a
+1457.85,1457.85,A,.,EN2005a
+1459.96,1463.49,D,think about the sort of joint problem solving,EN2005a
+1463.39,1463.73,A,Yeah,EN2005a
+1463.49,1464.0,D,kinds,EN2005a
+1463.73,1464.54,A,", yeah",EN2005a
+1464.0,1464.77,D,of,EN2005a
+1464.54,1464.99,A,. Yeah,EN2005a
+1464.77,1466.86,D,um,EN2005a
+1464.99,1464.99,A,.,EN2005a
+1466.86,1471.5,D,"approaches . So you know , Clark and",EN2005a
+1470.5,1470.78,A,Yeah .,EN2005a
+1471.5,1475.92,D,"Lockbaum and , you know , that that kind of thing",EN2005a
+1474.2,1474.51,A,Mm-hmm .,EN2005a
+1474.82,1475.08,B,Mm-hmm .,EN2005a
+1475.92,1479.63,D,". That were designed for dialogue , right , I mean",EN2005a
+1478.35,1478.7,B,Mm-hmm .,EN2005a
+1479.63,1484.78,D,", and can be expanded to more than two persons . Actually the Lockbaum stuff is for groups .",EN2005a
+1485.07,1485.75,B,"Mm-hmm , yeah",EN2005a
+1485.48,1485.75,A,Yeah,EN2005a
+1485.75,1485.75,B,.,EN2005a
+1485.75,1503.03,A,", yeah , yeah . So yeah , for interactivity this is a very weak definition , yeah . If we need more then we might use some more finer uh f finer uh definition for interactivity .",EN2005a
+1503.85,1506.76,B,"Well , what you'll need in the end is something operational",EN2005a
+1506.7,1507.17,A,Yeah,EN2005a
+1506.76,1507.2,B,. So it's something,EN2005a
+1507.17,1507.17,A,.,EN2005a
+1507.2,1516.69,B,"that you can use to actually segment meetings into the um the areas that you think are important for this analysis , right",EN2005a
+1515.36,1516.76,A,Yeah,EN2005a
+1516.69,1517.41,B,? So,EN2005a
+1516.76,1517.2,A,. Okay .,EN2005a
+1517.41,1568.11,B,"um it's not quite clear to me what the different kinds of things are . So it would be I think handy if you could take a meeting at some point and say , you know , this is a interactive area and this is a mono-logic area because and we could come up with what kinds of measurements you need . Um I mean we have w we haven't done past work here on segmenting meetings in that way , but we have done work on characterising different kinds of meetings um in terms of how highly interactive they are . But it's a different definition , right . It's in terms of how much all of the people involved in the meeting um take some take equal part in it as opposed to um like the highest state is people in the meeting just driving it and and uh the other people following whatever the high state is people want . So",EN2005a
+1567.58,1567.9,A,Yeah .,EN2005a
+1568.11,1579.4,B,"um but those kinds of measures um , you know , we could use to um to do this kind of segmentation if it's important to the analysis",EN2005a
+1577.8,1578.87,A,"Yeah , okay .",EN2005a
+1579.4,1588.33,B,", right . W but we need clearer definitions of what the different things are , how many different kinds of of um activities are there . You know , is it just interactive and non-interactive , or",EN2005a
+1587.61,1588.1,A,Mm-hmm .,EN2005a
+1588.33,1603.55,B,"is there are there there more grades of shading than that . And um , you know , what are the things that you expect in each . What's the back-channelling behaviour . What's the speaker turn , um you know , what kind of dialogue acts do you expect . I think that would help you pin down what the definitions are .",EN2005a
+1603.88,1720.11,A,"Yeah , okay . So mm so for dialogue , yeah , mm there would be uh some kind of uh interaction structure . So it for uh in previous discourse studies , uh especially in discourse analysis exchange uh is used to describe this kind of uh local structure . And in conversation the analysis so adjacency pairs are used to describe this kind of structure . Uh but uh in these two strands or work they uh just come up with a list , maybe not uh exhaustive . So uh I'm been think about uh if we could come up with some kind of more principal scheme uh taking some of the uh information in the uh uh uh in the uh interaction uh into account . Like uh is the small part of interaction is is exchanging some information . Uh here information is a little vague . It could be some kind of knowledge what the uh speaker knows or or some kind of thought what the speaker is thinking . So these two kind of uh inform mm two kinds of the information uh might be some kind of a difference . So this is a little bit like the Bell's mm exchange of information uh for the knowledge . If exchange of uh opinion uh uh some kind of so it's uh very related to thought , of thinking , yeah .",EN2005a
+1720.53,1725.79,B,Do you think it matters whether something is knowledge or opinion in the way it contributes to the group process ?,EN2005a
+1725.79,1753.58,A,"Uh in some case it s differs 'cause uh when we exchange knowledge , we might not challenge uh the speaker , but uh when the speaker is uh pre uh is uh talk about what he feels , what he thinks , is proposing something or s uh then other speakers might might chan challenge him or her .",EN2005a
+1754.68,1755.16,B,Yeah,EN2005a
+1755.14,1755.37,A,So,EN2005a
+1755.16,1755.63,B,. I,EN2005a
+1755.37,1755.76,A,that kind,EN2005a
+1755.63,1755.79,B,I,EN2005a
+1755.76,1755.86,A,of,EN2005a
+1755.79,1755.99,B,sort,EN2005a
+1755.86,1756.13,A,structu,EN2005a
+1755.99,1758.15,B,of have always taken the view that,EN2005a
+1757.94,1759.0,A,Yeah,EN2005a
+1758.15,1759.96,B,um that,EN2005a
+1759.0,1759.22,A,. Yeah .,EN2005a
+1759.96,1772.04,B,"well , people aren't very good at at this kind of rationality , you know . And the difference between information and opinion isn't that prominent in the way people do their reasoning . So",EN2005a
+1770.98,1772.09,A,Yeah . But,EN2005a
+1772.04,1772.37,B,um,EN2005a
+1772.09,1804.9,A,"uh that might b be some difference inter interaction par patterns . Might be . 'Cause uh for information if we uh somebody's uh seeking some information , then he uh ask some question and uh the one knows will uh gives gives the answer . But uh uh for the uh opinion or thought uh stuff , then the speaker might just uh uh present some idea and others will comment or uh challenge uh",EN2005a
+1804.57,1804.89,B,Yeah .,EN2005a
+1804.9,1806.11,A,the idea,EN2005a
+1806.11,1806.25,B,Well,EN2005a
+1806.11,1806.11,A,.,EN2005a
+1806.25,1809.84,B,you you can't define 'em that way . You can't define the difference,EN2005a
+1809.7,1810.06,A,Mm-hmm,EN2005a
+1809.84,1810.09,B,between,EN2005a
+1810.06,1810.06,A,.,EN2005a
+1810.09,1811.69,B,information and opinion that way because,EN2005a
+1811.4,1811.88,A,Okay,EN2005a
+1811.69,1812.85,B,that's,EN2005a
+1811.88,1811.88,A,.,EN2005a
+1812.85,1821.92,B,um basically defining as the what happened about it . And I think what tends to happen is that um if people challenge the the facts,EN2005a
+1821.72,1822.1,A,Mm-hmm,EN2005a
+1821.92,1822.22,B,", you",EN2005a
+1822.1,1822.1,A,.,EN2005a
+1822.22,1828.39,B,"often discover that they weren't actually solid facts anyway , you know , that",EN2005a
+1828.28,1828.98,A,Yeah,EN2005a
+1828.39,1829.1,B,they're I,EN2005a
+1828.98,1828.98,A,.,EN2005a
+1829.1,1830.45,B,think the boundary between these is,EN2005a
+1830.35,1830.53,A,Yeah,EN2005a
+1830.45,1830.63,B,kind,EN2005a
+1830.53,1830.67,A,", it's",EN2005a
+1830.63,1830.69,B,of,EN2005a
+1830.67,1830.98,A,vague,EN2005a
+1830.69,1831.67,B,fluid,EN2005a
+1830.98,1831.95,A,", yeah . Yeah , yeah , yeah",EN2005a
+1831.67,1832.02,B,. So,EN2005a
+1831.95,1831.95,A,.,EN2005a
+1832.02,1844.09,B,I guess the question is is it important to what what's it important to ? So do you need the difference between information and opinion to do this analysis ?,EN2005a
+1845.19,1858.52,A,Mm see 'cause uh so far I'm s still looking for a uh so-called principal scheme for the interaction uh for the interaction . So,EN2005a
+1859.06,1860.2,B,So what have you been looking at ?,EN2005a
+1860.37,1861.48,D,"Yeah , I was just gonna",EN2005a
+1861.45,1861.69,A,Yeah,EN2005a
+1861.48,1861.73,D,say it,EN2005a
+1861.69,1861.89,A,", so",EN2005a
+1861.73,1864.58,D,would be useful to know what m,EN2005a
+1864.94,1865.33,A,Yeah,EN2005a
+1865.04,1865.5,B,So you're,EN2005a
+1865.33,1865.33,A,.,EN2005a
+1865.5,1867.89,B,you've got books that high on your desk,EN2005a
+1867.77,1868.92,A,Yeah,EN2005a
+1867.89,1868.72,B,. Which ones are they ?,EN2005a
+1868.92,1878.07,A,". Yeah , so yeah , for uh p uh the discourse analysis they're using exchange , but uh they have no uh no classification just",EN2005a
+1878.05,1878.16,D,But,EN2005a
+1878.07,1878.24,A,to,EN2005a
+1878.16,1878.49,D,who's,EN2005a
+1878.24,1878.5,A,come,EN2005a
+1878.49,1879.03,D,they,EN2005a
+1878.5,1879.46,A,up,EN2005a
+1879.03,1879.87,D,? That's the question,EN2005a
+1879.46,1880.1,A,with okay,EN2005a
+1879.87,1879.87,D,.,EN2005a
+1880.1,1881.21,A,", so uh you mean uh",EN2005a
+1882.07,1882.75,D,Who,EN2005a
+1882.71,1882.87,A,uh,EN2005a
+1882.75,1882.75,D,?,EN2005a
+1882.87,1884.84,A,Sinclair and Coulthard . That,EN2005a
+1884.6,1885.08,D,Right,EN2005a
+1884.84,1885.36,A,is,EN2005a
+1885.08,1885.08,D,.,EN2005a
+1885.36,1901.04,A,". Also at Geneva school they I don't think they list some kind of exchange . But uh the uh exchange structure uh and uh yeah , exchange is first uh developed in uh systemic functional grammar",EN2005a
+1900.93,1901.29,B,Mm-hmm,EN2005a
+1901.04,1901.62,A,along,EN2005a
+1901.29,1901.29,B,.,EN2005a
+1901.62,1904.71,A,the uh uh Halliday and and Martin's,EN2005a
+1904.45,1904.68,B,Mm-hmm .,EN2005a
+1904.71,1916.25,A,work . Yeah . So uh actually they they have some something in in a textbook about the exchange . Uh they call it negotiation . So they,EN2005a
+1916.15,1916.27,B,Mm,EN2005a
+1916.25,1916.49,A,have,EN2005a
+1916.27,1916.27,B,.,EN2005a
+1916.49,1922.68,A,"uh some flow charts of the uh uh detailed analysis of uh uh exchange structure , yeah",EN2005a
+1922.46,1922.96,B,Okay,EN2005a
+1922.68,1922.68,A,.,EN2005a
+1922.96,1929.51,B,. So y um I'm sort of getting that you think there is a lack in the uh theory to do with exchange structure at the moment,EN2005a
+1929.44,1929.97,A,Yeah,EN2005a
+1929.51,1930.11,B,. But I'm but I'm not quite,EN2005a
+1929.97,1929.97,A,.,EN2005a
+1930.11,1933.39,B,clear yet what you think the lack is . So,EN2005a
+1933.06,1943.61,A,"So um uh I don't think there is any kind of principle classification of exchanges . This is i yeah , w",EN2005a
+1943.73,1949.3,B,Um the well are you thinking it's been a while since I've read this literature,EN2005a
+1949.21,1949.66,A,Mm-hmm,EN2005a
+1949.3,1949.69,B,. But,EN2005a
+1949.66,1949.66,A,.,EN2005a
+1949.69,1957.39,B,I mean my understanding of exchange is is that the initiating move introduces a goal to the discourse,EN2005a
+1956.98,1957.32,A,Mm-hmm .,EN2005a
+1957.39,1977.3,B,", and then the remaining moves um will uh contribute to either the um the meeting of that discourse goal or the decision not to bother with that discourse goal , right . And so um I'd be surprised if",EN2005a
+1977.2,1977.51,A,Okay,EN2005a
+1977.3,1977.82,B,there wasn't,EN2005a
+1977.51,1977.51,A,.,EN2005a
+1977.82,1979.24,B,work describing,EN2005a
+1979.67,1980.19,A,Mm,EN2005a
+1980.13,1980.39,B,things,EN2005a
+1980.19,1980.19,A,.,EN2005a
+1980.39,1983.32,B,in those terms . I mean I know Sinclair and Coulthard is is basically,EN2005a
+1983.31,1983.56,A,Yeah,EN2005a
+1983.32,1983.78,B,about,EN2005a
+1983.56,1984.42,A,", I_R_F_",EN2005a
+1983.78,1985.24,B,teaching,EN2005a
+1984.42,1985.42,A,uh kind of structure,EN2005a
+1985.24,1986.25,B,yeah,EN2005a
+1985.42,1986.12,A,". Yeah , yeah , yeah .",EN2005a
+1986.25,2003.62,B,. So you wouldn't expect that to necessarily um apply uh in in wider contacts in a way . Like you might expect to have to extend the theory to do that . But I th I think there are other other people have looked at exchange structure and described,EN2005a
+2003.49,2003.85,A,Okay,EN2005a
+2003.62,2004.06,B,it in these,EN2005a
+2003.85,2003.85,A,.,EN2005a
+2004.06,2006.55,B,terms in a way that should really suit your needs .,EN2005a
+2006.8,2014.64,A,Mm 'cause uh from my previous experience we see ananys analysis of information seeking dialogues over telephones,EN2005a
+2014.61,2014.97,B,Mm-hmm,EN2005a
+2014.64,2015.4,A,. So it's,EN2005a
+2014.97,2014.97,B,.,EN2005a
+2015.4,2019.28,A,um uh about the tourism information . So,EN2005a
+2019.22,2019.52,B,Yeah,EN2005a
+2019.28,2019.81,A,from,EN2005a
+2019.52,2019.52,B,.,EN2005a
+2019.68,2019.88,D,Mm-hmm,EN2005a
+2019.81,2020.25,A,uh,EN2005a
+2019.88,2019.88,D,.,EN2005a
+2020.25,2031.4,A,um my analysis of that kind of dialogues I could say that there's only there only four basic uh exchanges,EN2005a
+2031.16,2031.47,B,Mm-hmm,EN2005a
+2031.4,2031.72,A,depend,EN2005a
+2031.47,2031.47,B,.,EN2005a
+2031.72,2054.35,A,"on the information uh direction of the information flow , and also the speaker role . 'Cause in the information seeking dialogues the uh t roles of the two participants are different . One is mainly the uh from the uh agency , a tourism agency . That is main uh uh information provider",EN2005a
+2054.04,2054.42,B,Mm-hmm,EN2005a
+2054.35,2054.45,A,uh,EN2005a
+2054.42,2054.42,B,.,EN2005a
+2054.45,2074.15,A,"while the customer is the information seeker mainly . Yeah , that's uh so theref uh and also mm uh the direction of information flows for some kind of information , like uh the uh uh price of a specific route , uh the spots they're going to uh visit , and also on the",EN2005a
+2074.12,2074.49,B,Yeah,EN2005a
+2074.15,2074.77,A,uh kinds,EN2005a
+2074.49,2074.49,B,.,EN2005a
+2074.77,2076.49,A,of uh ve uh vehicle or,EN2005a
+2076.43,2076.57,B,So,EN2005a
+2076.49,2076.58,A,or,EN2005a
+2076.57,2076.72,B,this,EN2005a
+2076.58,2077.14,A,transportation,EN2005a
+2076.72,2077.33,B,is a l,EN2005a
+2077.14,2077.34,A,", yeah",EN2005a
+2077.33,2077.4,B,a,EN2005a
+2077.34,2077.34,A,.,EN2005a
+2077.4,2078.84,B,lot like George Horton's work on,EN2005a
+2078.77,2079.24,A,Uh-huh,EN2005a
+2078.84,2079.36,B,saying what,EN2005a
+2079.24,2079.24,A,.,EN2005a
+2079.36,2081.62,B,are the different parameters for,EN2005a
+2081.59,2081.74,A,Yeah,EN2005a
+2081.62,2082.28,B,um,EN2005a
+2081.74,2083.37,A,", yeah , yeah . Yeah",EN2005a
+2082.28,2083.56,B,these exchanges,EN2005a
+2083.37,2083.76,A,", yeah",EN2005a
+2083.56,2083.87,B,. You know,EN2005a
+2083.76,2083.99,A,", yeah",EN2005a
+2083.87,2084.0,B,", what",EN2005a
+2083.99,2084.16,A,", yeah",EN2005a
+2084.0,2084.32,B,are the things,EN2005a
+2084.16,2084.4,A,", yeah",EN2005a
+2084.32,2084.52,B,that,EN2005a
+2084.4,2084.4,A,.,EN2005a
+2084.52,2086.24,B,characterise the set of exchanges that can,EN2005a
+2086.18,2086.5,A,Yeah,EN2005a
+2086.24,2086.85,B,happen,EN2005a
+2086.5,2087.15,A,"yeah , s yeah",EN2005a
+2086.85,2087.19,B,? Mm,EN2005a
+2087.15,2087.47,A,", yeah",EN2005a
+2087.19,2087.19,B,.,EN2005a
+2087.47,2098.91,A,. So but there also some variations which I call complex exchanges . So that's uh that's uh just a list . Mm not like the uh basic exchange uh,EN2005a
+2098.9,2099.58,B,So,EN2005a
+2098.91,2099.66,A,"exchanges , yeah",EN2005a
+2099.58,2099.95,B,so,EN2005a
+2099.66,2099.66,A,.,EN2005a
+2099.95,2110.74,B,is your complaint less about um less about knowing what makes an exchange and more about knowing how you parameterise exchanges for this genre ? So,EN2005a
+2110.7,2111.05,A,Yeah,EN2005a
+2110.74,2111.08,B,what's the,EN2005a
+2111.05,2111.28,A,", yeah",EN2005a
+2111.08,2111.51,B,range,EN2005a
+2111.28,2111.28,A,.,EN2005a
+2111.51,2115.57,B,"? okay , so you're worried about what's the range of exchange types for this genre , and that's what you think",EN2005a
+2115.4,2115.69,A,Yeah,EN2005a
+2115.57,2115.81,B,hasn't,EN2005a
+2115.69,2115.93,A,yeah,EN2005a
+2115.81,2115.95,B,been,EN2005a
+2115.93,2116.46,A,", parametri",EN2005a
+2115.95,2116.78,B,done,EN2005a
+2116.46,2116.78,A,"yeah , I",EN2005a
+2116.78,2117.48,B,. Uh-huh,EN2005a
+2116.78,2117.63,A,I I'm looking for,EN2005a
+2117.48,2118.01,B,. Okay,EN2005a
+2117.63,2118.21,A,parametric,EN2005a
+2118.01,2118.65,B,. That's clearer,EN2005a
+2118.21,2118.79,A,", yeah , scheme",EN2005a
+2118.65,2118.65,B,.,EN2005a
+2118.79,2124.97,A,". Yeah yeah yeah . That's uh y yeah . A parame parameter or principle . Yeah , some something like . Yeah .",EN2005a
+2125.95,2126.34,B,Mm-hmm .,EN2005a
+2126.49,2146.32,A,Yeah . And also yeah . A and also s in 'cause in the meetings uh the speakers might might report something uh they've done in the past and uh uh uh uh talk about th what they are currently doing and also planning some future actions . So this kind,EN2005a
+2146.15,2147.43,B,Yeah,EN2005a
+2146.32,2147.74,A,of information might also be,EN2005a
+2147.43,2147.79,B,. So,EN2005a
+2147.74,2148.31,A,helpful,EN2005a
+2147.79,2148.42,B,so have,EN2005a
+2148.31,2148.31,A,.,EN2005a
+2148.42,2150.86,B,have you tried I mean,EN2005a
+2150.25,2150.59,A,Mm-hmm .,EN2005a
+2150.86,2167.25,B,"um I know of one previous attempt to establish what exchanges are needed for f um some kinds of industry meetings , and our experience in that project was that um you can't really identify exchange structures in these meetings because they they don't really follow that pattern",EN2005a
+2166.95,2167.3,A,Mm-hmm,EN2005a
+2167.25,2167.45,B,. That,EN2005a
+2167.3,2167.3,A,.,EN2005a
+2167.45,2179.48,B,"exchanges are clear in um well , i there're clearer in when you've got fewer people . So there's fewer people trying to pull the discourse goals in different directions",EN2005a
+2178.67,2179.19,A,Yeah .,EN2005a
+2179.48,2203.3,B,". Um and they're clearer when um your goals are quite limited . So when you've just got information exchange and you know , the or there's a clear task that the people are trying to do and they're focussed on that task , as is normal in dialogue elicitation like map task or like your like your informa which like your information seeking dialogues , which wasn't dialogue elicitation , but it was very constrained in genre",EN2005a
+2202.22,2203.16,A,"Yeah , yeah .",EN2005a
+2203.3,2210.13,B,. So um the the answer to the question might be nobody knows what the catalogue of exchanges is for real meetings,EN2005a
+2209.71,2210.17,A,Mm-hmm,EN2005a
+2210.13,2211.14,B,because,EN2005a
+2210.17,2210.17,A,.,EN2005a
+2211.14,2233.01,B,"um or for these decision making meetings because you can't identify exchanges , right . So have you gone through the meetings and looked for initiations and responses with without a prior catalogue , just knowing that init initiation in introduces a new discourse goal and a response um meets or negates that goal in some way",EN2005a
+2232.5,2232.93,A,Yeah .,EN2005a
+2233.01,2235.37,B,. So have you tried marking these exchanges,EN2005a
+2234.68,2235.48,A,Uh not marking,EN2005a
+2235.37,2235.37,B,?,EN2005a
+2235.48,2241.0,A,. Just uh for my uh reading of the uh I_ I_S_ one O_ eight uh four meeting,EN2005a
+2240.76,2241.12,B,Mm-hmm,EN2005a
+2241.0,2241.56,A,series,EN2005a
+2241.12,2241.12,B,.,EN2005a
+2241.56,2244.65,A,". Yeah , just to reading this part , yeah . Mm",EN2005a
+2244.54,2253.65,D,"Well I mean I think that um w it I don't know uh w it'd probably get to re hear , you know , more of your presentation because I think there are lots of different candidates",EN2005a
+2253.29,2253.71,A,Mm-hmm,EN2005a
+2253.65,2254.05,D,and,EN2005a
+2253.71,2253.71,A,.,EN2005a
+2254.05,2263.14,D,"you certainly can't go through and mark up every meeting , I mean mark up meetings with every scheme we think of . So I think we have to kind of get an overview of what the candidates",EN2005a
+2263.06,2263.67,A,Yeah,EN2005a
+2263.14,2264.81,D,are,EN2005a
+2263.67,2263.67,A,.,EN2005a
+2264.81,2269.68,D,"m if there's like two or three that we think are good contenders , then we try to see what works",EN2005a
+2269.56,2270.14,B,Yeah,EN2005a
+2269.68,2270.46,D,"better , right",EN2005a
+2270.14,2270.55,B,. But but,EN2005a
+2270.46,2270.46,D,.,EN2005a
+2270.55,2292.14,B,"a reading of this , you know , th could tell you that there is no case where you're gonna be looking for initiation and responses that's gonna work , you know . 'Cause you could go through and see that um actually the pattern of of addressing different discourse goals is too dispersed to um to be able to do that kind of mark-up . But I g yeah , I mean i obviously you wanna have",EN2005a
+2291.85,2292.32,D,There are a lot,EN2005a
+2292.14,2292.35,B,a,EN2005a
+2292.32,2292.41,D,of,EN2005a
+2292.35,2292.81,B,front-runner,EN2005a
+2292.41,2294.07,D,option,EN2005a
+2292.81,2294.12,B,scheme i in mind before,EN2005a
+2294.07,2294.23,D,there,EN2005a
+2294.12,2294.32,B,you,EN2005a
+2294.23,2297.66,D,are a lot more options . So so let's see what what else you've got .,EN2005a
+2297.98,2305.28,A,Okay . So this is for the uh dialogue part . For monologues uh this is,EN2005a
+2305.2,2305.45,B,So,EN2005a
+2305.28,2306.1,A,uh,EN2005a
+2305.45,2305.86,B,that's it .,EN2005a
+2306.02,2306.15,D,Oh,EN2005a
+2306.1,2307.8,A,yeah,EN2005a
+2306.15,2307.81,D,", so that was it on dialogue , okay",EN2005a
+2307.51,2307.84,B,Yeah,EN2005a
+2307.8,2308.06,A,. Okay,EN2005a
+2307.81,2307.81,D,.,EN2005a
+2307.84,2307.84,B,.,EN2005a
+2308.06,2310.86,A,", so no further uh information is here",EN2005a
+2310.45,2311.73,D,Okay,EN2005a
+2310.86,2311.25,A,. Uh,EN2005a
+2311.73,2322.97,D,. So uh it's very unclear to me why you think exchange of information is more principal t uh did you I mean what did you have specific schemes in mind there ? Or,EN2005a
+2322.93,2323.58,A,Uh,EN2005a
+2322.97,2330.03,D,spec mm specific people's work that you um,EN2005a
+2331.76,2355.65,A,Mm 'cause uh so for the information and action the uh the action here is not dialogue act but uh some kind of uh uh physical action uh that uh the uh participant's uh i i is going to uh or has done in the past . He's going to do the future,EN2005a
+2355.53,2355.69,B,Do you,EN2005a
+2355.65,2355.81,A,. So,EN2005a
+2355.69,2361.69,B,mean an action in terms of what the group is requiring him to do or do you mean an action in like picking something up ?,EN2005a
+2362.59,2364.21,A,Uh,EN2005a
+2364.03,2364.35,B,So,EN2005a
+2364.21,2364.78,A,not,EN2005a
+2364.35,2368.26,B,action in the technical meeting sense or just action in the physical sense,EN2005a
+2367.53,2368.65,A,"Physical sense , yeah",EN2005a
+2368.26,2368.93,B,". Right , okay",EN2005a
+2368.65,2369.15,A,. Physical sense,EN2005a
+2368.93,2368.93,B,.,EN2005a
+2369.15,2387.76,A,", yeah . Yeah , so uh this kind of might be the uh some kind of semantics of the utterance or or exchange . So uh this is just one um thing I one parameter uh for",EN2005a
+2386.23,2387.84,D,But can you give us an example of,EN2005a
+2387.76,2388.04,A,mm-hmm,EN2005a
+2387.84,2388.68,D,a scheme,EN2005a
+2388.04,2388.04,A,.,EN2005a
+2388.68,2390.73,D,that's based on exchange of information ?,EN2005a
+2392.17,2400.29,A,"Uh I mean uh here the scheme is for exchange scheme . So yeah , for uh",EN2005a
+2399.91,2400.41,D,Okay,EN2005a
+2400.29,2400.59,A,for,EN2005a
+2400.41,2400.41,D,.,EN2005a
+2400.59,2431.06,A,"for uh exchange of information . So there might be the uh s speaker , and he uh a hearer . So who speaks to whom and uh uh S so this is the uh uh so direction of the information flow and also so speaker role might be first uh parameters for the uh ex uh information exchanges",EN2005a
+2430.3,2430.99,D,Mm-hmm .,EN2005a
+2431.06,2443.02,A,". So um but for action that might be uh some kind of uh propose or accept or reject kind of uh uh exchange structure , I mean .",EN2005a
+2443.29,2449.82,B,"Oh , so that's not a physical action , right ? Uh uh if I pick this up",EN2005a
+2449.78,2450.13,A,Uh-huh,EN2005a
+2449.82,2450.44,B,", which is a physical",EN2005a
+2450.13,2450.13,A,.,EN2005a
+2450.44,2452.61,B,"action , you can't reject that",EN2005a
+2452.3,2452.99,A,Uh no,EN2005a
+2452.61,2453.31,B,. What do you mean,EN2005a
+2452.99,2453.52,A,no,EN2005a
+2453.31,2453.31,B,?,EN2005a
+2453.52,2467.04,A,. No that's uh that's the uh So we're going to do something and uh uh so could you do something or this kind of uh action related utterance I mean,EN2005a
+2466.63,2467.63,B,Right . That's,EN2005a
+2467.04,2467.34,A,. Yeah .,EN2005a
+2467.63,2470.81,B,"right , that's a action in the sort of technical sense of meetings",EN2005a
+2470.38,2470.87,A,"Okay , technical",EN2005a
+2470.81,2470.99,B,. So,EN2005a
+2470.87,2471.17,A,sense,EN2005a
+2470.99,2471.29,B,you are,EN2005a
+2471.17,2472.67,A,. Yeah,EN2005a
+2471.29,2473.08,B,actioned to do something,EN2005a
+2472.67,2473.2,A,". Yeah . Yeah , yeah , yeah",EN2005a
+2473.08,2473.23,B,", which",EN2005a
+2473.2,2473.43,A,", yeah",EN2005a
+2473.23,2473.62,B,is,EN2005a
+2473.43,2473.43,A,.,EN2005a
+2473.62,2475.39,B,part of the permanent record,EN2005a
+2475.37,2475.65,A,Okay,EN2005a
+2475.39,2476.26,B,that,EN2005a
+2475.65,2476.36,A,", yeah , yeah",EN2005a
+2476.26,2477.39,B,yeah,EN2005a
+2476.36,2477.07,A,". Okay , yeah , that's n",EN2005a
+2477.39,2477.82,B,", okay .",EN2005a
+2479.54,2479.76,A,Hmm,EN2005a
+2479.58,2479.85,D,Okay,EN2005a
+2479.76,2479.76,A,.,EN2005a
+2479.85,2486.81,D,", so I mean I think that um there are a lot of things that we have to look at before , I mean",EN2005a
+2487.35,2489.4,A,"Before come up with the scheme , you mean . Yeah",EN2005a
+2489.33,2489.92,D,Yeah,EN2005a
+2489.4,2489.4,A,.,EN2005a
+2489.92,2490.72,D,. I mean and,EN2005a
+2492.82,2498.42,B,"Well , there are very few uh schemes for marking up exchanges",EN2005a
+2497.7,2498.03,A,Exch,EN2005a
+2498.42,2520.39,B,"on actual data , right , because um people haven't considered it very important . Well I always thought they get tired after marking up the dialogue moves so they nev never bother with any higher level dialogue structure . So we did it in the map task , but I don't actually know of other cases where people bothered marking anyth anything higher level than the map than the move structure . Right",EN2005a
+2520.11,2520.48,A,So,EN2005a
+2520.18,2520.48,D,Well,EN2005a
+2520.39,2520.51,B,? You,EN2005a
+2520.48,2520.67,D,", we're",EN2005a
+2520.48,2521.11,A,yeah,EN2005a
+2520.51,2520.82,B,don't know,EN2005a
+2520.67,2521.03,D,marking,EN2005a
+2520.82,2520.98,B,of,EN2005a
+2521.03,2521.14,D,up a,EN2005a
+2521.11,2521.34,A,. Uh,EN2005a
+2521.14,2521.38,D,lot of,EN2005a
+2521.34,2521.92,A,yeah,EN2005a
+2521.38,2522.16,D,higher level things,EN2005a
+2521.92,2522.16,A,. S,EN2005a
+2522.16,2522.26,D,in,EN2005a
+2522.16,2522.6,A,Stent,EN2005a
+2522.26,2522.41,D,our,EN2005a
+2522.6,2524.06,A,yeah Stent might does um,EN2005a
+2523.76,2524.17,B,On yeah,EN2005a
+2524.06,2525.03,A,yeah,EN2005a
+2524.17,2525.25,B,", I've s uh sorry",EN2005a
+2525.03,2525.35,A,. Stent,EN2005a
+2525.25,2526.37,B,. Um,EN2005a
+2525.35,2525.76,A,", yeah .",EN2005a
+2526.37,2528.98,B,but it c it's not been very popular,EN2005a
+2528.54,2529.22,A,Mm no,EN2005a
+2528.98,2529.42,B,car probably,EN2005a
+2529.22,2529.22,A,.,EN2005a
+2529.42,2530.65,B,'cause it makes um,EN2005a
+2530.65,2535.35,D,Okay . So um have you looked at Nate Blaylock's work ?,EN2005a
+2536.46,2539.86,A,Uh so so 'cause I'm I might not familiar with these,EN2005a
+2539.68,2539.88,D,So,EN2005a
+2539.86,2539.98,A,na,EN2005a
+2539.88,2549.89,D,"he has things like , you know , adopt um so basically it's to , you know , collaborative problem solving , you",EN2005a
+2549.77,2550.05,A,Mm-hmm,EN2005a
+2549.89,2550.23,D,"know , more",EN2005a
+2550.05,2550.05,A,.,EN2005a
+2550.23,2563.33,D,"than one person involved , and trying to characterise things as um You know , if I I can't remember the I can't remember",EN2005a
+2562.9,2563.49,A,So uh is,EN2005a
+2563.33,2563.85,D,the names,EN2005a
+2563.49,2563.98,A,it the work,EN2005a
+2563.85,2564.09,D,of all,EN2005a
+2563.98,2564.18,A,uh,EN2005a
+2564.09,2564.21,D,the,EN2005a
+2564.18,2564.64,A,described,EN2005a
+2564.21,2564.86,D,actions,EN2005a
+2564.64,2565.06,A,in the,EN2005a
+2564.86,2564.86,D,.,EN2005a
+2565.06,2568.09,A,c uh in in uh in the coconut project or something,EN2005a
+2567.98,2568.33,D,No,EN2005a
+2568.09,2568.44,A,similar,EN2005a
+2568.33,2569.02,D,", so",EN2005a
+2568.44,2568.44,A,?,EN2005a
+2569.02,2573.12,D,so the Coconut project is a project that I did with Rich Thomasson,EN2005a
+2573.07,2573.54,A,Yeah,EN2005a
+2573.12,2574.28,D,and Barbara DiGinio,EN2005a
+2573.54,2575.17,A,", yeah , yeah , yeah",EN2005a
+2574.28,2575.28,D,. Have you looked at that,EN2005a
+2575.17,2575.31,A,. Y,EN2005a
+2575.28,2575.28,D,?,EN2005a
+2575.31,2577.49,A,"yeah , look uh not very",EN2005a
+2577.2,2577.69,D,Not very,EN2005a
+2577.49,2578.19,A,much detail,EN2005a
+2577.69,2579.09,D,clear . No,EN2005a
+2578.19,2578.52,A,", yeah .",EN2005a
+2579.09,2580.81,D,. Though there's a lot of detail in the paper,EN2005a
+2580.76,2581.34,A,Yeah,EN2005a
+2580.81,2581.37,D,. But you haven't,EN2005a
+2581.34,2581.34,A,.,EN2005a
+2581.37,2583.75,D,looked at it no in very much detail,EN2005a
+2583.2,2583.83,A,No,EN2005a
+2583.75,2584.27,D,. Okay,EN2005a
+2583.83,2585.11,A,", not",EN2005a
+2584.27,2585.66,D,", so I think you should",EN2005a
+2585.11,2585.5,A,. Okay .,EN2005a
+2585.66,2593.14,D,", um because it was all these things that are done for joint problem solving and joint action I think are very relevant to look at because",EN2005a
+2592.98,2593.38,A,Yeah,EN2005a
+2593.14,2593.4,D,these,EN2005a
+2593.38,2593.38,A,.,EN2005a
+2593.4,2636.33,D,"people are solving a problem together , right . So um while these schemes may not have they have some es of the essential components that you need to characterise um joint problem solving . So while th um you may think that they're missing something , then we we could certainly augment them . But I think that they have to be looked at . And so so Nate Blaylock tried to okay , so you know , from Gross and Krauss and Gross and Sidener came all this stuff about shared plans and how you really can't understand , you know , dialogue u unless you understand shared plans . But the actual theoretical um or formalisation of it was incredibly complex",EN2005a
+2635.9,2636.7,A,Yes,EN2005a
+2636.33,2637.07,D,. And so,EN2005a
+2636.7,2637.06,A,", yes .",EN2005a
+2637.07,2662.96,D,"um Lockbaum simplified it quite and , you know , Sidener and Rich and Collagen have simplified it quite a bit . Um but Nate Blaylock tried to um , you know , define , you know , what happens after somebody suggests something . Well , you can adopt it , you can well I can't remember you know , okay , but he",EN2005a
+2662.77,2663.12,A,Yeah,EN2005a
+2662.96,2663.47,D,has,EN2005a
+2663.12,2663.93,A,", I know okay",EN2005a
+2663.47,2663.98,D,uh he has a,EN2005a
+2663.93,2664.33,A,. Oh,EN2005a
+2663.98,2665.34,D,taxonomy,EN2005a
+2664.33,2665.35,A,". Uh I know this guy , yeah",EN2005a
+2665.34,2665.72,D,yeah,EN2005a
+2665.35,2665.85,A,", yeah . Uh",EN2005a
+2665.72,2666.11,D,", right",EN2005a
+2665.85,2666.31,A,", Jim @'s",EN2005a
+2666.11,2666.11,D,.,EN2005a
+2666.31,2667.6,A,"student . Yeah , I know",EN2005a
+2667.59,2667.79,D,Yeah,EN2005a
+2667.6,2667.83,A,. No,EN2005a
+2667.79,2668.74,D,", yeah",EN2005a
+2667.83,2668.84,A,"no , in Saa Saarbruecken . Yeah",EN2005a
+2668.74,2668.99,D,. Yeah,EN2005a
+2668.84,2669.03,A,", yeah",EN2005a
+2668.99,2669.61,D,", exactly",EN2005a
+2669.03,2669.64,A,. Okay . Yeah yeah,EN2005a
+2669.61,2670.12,D,", right",EN2005a
+2669.64,2670.17,A,yeah . Okay . Yeah,EN2005a
+2670.12,2670.82,D,. Um,EN2005a
+2670.17,2670.58,A,", I know , her .",EN2005a
+2670.82,2676.07,D,"which we tried to apply to tutoring , but it actually doesn't work very well for tutoring 'cause tutoring's just a totally",EN2005a
+2675.81,2676.3,B,Different,EN2005a
+2676.07,2677.49,D,different,EN2005a
+2676.3,2676.3,B,.,EN2005a
+2677.35,2678.3,A,Okay,EN2005a
+2677.49,2678.59,D,ball game,EN2005a
+2678.3,2678.3,A,.,EN2005a
+2678.59,2701.93,D,". But um it you know , we spent a fair amount of time looking at it and it did strike me that for joint problem solving there w there were some good ideas . And there is , you know , a set of tags and what they mean and , you know , that sort of thing . And then you can also look at , you know , cl you know Clark on joint action . Now he's not gonna give you a set of tags 'cause that's not the kind of guy he is",EN2005a
+2701.83,2702.73,A,No,EN2005a
+2701.93,2702.64,D,. But um,EN2005a
+2702.73,2702.73,A,.,EN2005a
+2705.6,2712.84,D,"But the overarching idea , you know , I mean I think accounts for a lot of the ways in which um",EN2005a
+2712.51,2712.78,A,Mm-hmm .,EN2005a
+2712.84,2729.21,D,", you know , these other people are thi are thinking . But I mean I think that we we basically have to merge some of this stuff that's been done , you know , on meetings with some of the stuff that's been done on collaborative problem solving 'cause there's elements of each",EN2005a
+2728.71,2729.58,B,"Mm-hmm , yeah",EN2005a
+2729.21,2729.85,D,that seem,EN2005a
+2729.58,2729.58,B,.,EN2005a
+2729.85,2731.19,D,really important . And,EN2005a
+2731.17,2731.33,B,Well,EN2005a
+2731.19,2731.65,D,I think,EN2005a
+2731.33,2731.76,B,the first step,EN2005a
+2731.65,2731.68,D,th,EN2005a
+2731.76,2738.68,B,is find out in the what how much of the material does the collaborative problem solving cover ? So how much of a genre clash is there here ?,EN2005a
+2739.81,2755.42,D,"Because it really seems to me that , you know , if you look at and some of this stuff on exchange is like ancient and you know , they didn't have the ability to mark up lots of data and count things , you know . So I mean all the conversational analysis stuff , I mean those guys never count anything",EN2005a
+2755.4,2756.03,A,No,EN2005a
+2755.42,2756.08,D,", you know . I",EN2005a
+2756.03,2756.03,A,.,EN2005a
+2756.08,2763.75,D,"mean they're uh ps so they see a pattern and then they think it's kinda cute and then they scour the world for third turn repairs , you know . They don't actually",EN2005a
+2763.67,2763.92,B,Well,EN2005a
+2763.75,2764.06,D,say,EN2005a
+2763.92,2764.16,B,it's,EN2005a
+2764.06,2770.5,D,how often do those happen . I mean they worked I mean I know Manny Schegloff really well and they're not counters . They're purposely not counters . They,EN2005a
+2770.25,2770.78,B,Yeah,EN2005a
+2770.5,2770.96,D,define,EN2005a
+2770.78,2771.41,B,. B,EN2005a
+2770.96,2771.47,D,themselves,EN2005a
+2771.41,2772.41,B,th,EN2005a
+2771.47,2771.61,D,as,EN2005a
+2771.54,2771.95,A,Mm-hmm,EN2005a
+2771.61,2772.76,D,non-counters,EN2005a
+2771.95,2771.95,A,.,EN2005a
+2772.41,2772.94,B,But there,EN2005a
+2772.76,2772.76,D,.,EN2005a
+2772.94,2785.96,B,"there are people in the field that are moving that direction , like Martin . And also what's important here is the theoretical clarity about what an initiation and a response is . So what is it that ties um different acts together at",EN2005a
+2785.89,2787.15,D,Mm-hmm,EN2005a
+2785.96,2787.43,B,a higher level,EN2005a
+2787.15,2787.43,D,". Yeah , th",EN2005a
+2787.43,2787.51,B,", you",EN2005a
+2787.43,2787.53,D,I,EN2005a
+2787.51,2787.76,B,know,EN2005a
+2787.53,2787.86,D,mean,EN2005a
+2787.76,2787.76,B,.,EN2005a
+2787.86,2796.16,D,"it it does seem like , you know , there's something that we want from that and then there's something that we want from collaborative problem solving",EN2005a
+2795.75,2796.07,B,Mm-hmm .,EN2005a
+2796.16,2805.48,D,". And if you l if you take the exchange stuff , it's not gonna d quite do everything you want , and if you look at the collaborative problem solving stuff , maybe it won't do every that you want . And so",EN2005a
+2807.55,2853.84,B,"But I think more important than looking at um whether parts of the meeting are highly interactive or not so interactive is uh looking at what sort of task the people are trying to do at the moment . So you know , are they doing um uh i are are they uh i as in the kick off meeting just exchanging information to get started with a project or are they uh actually addressing some specific design um criteria at the moment . Should try to decide which shape the thing is . Um because that's going to affect the kinds of relations that you get between the utterances . And so that is much more like um the um the literature from McGrath about the different kinds of activities groups get into",EN2005a
+2853.17,2853.6,A,Yeah .,EN2005a
+2853.84,2856.57,B,. So I think that's another thing that has to be pulled into this,EN2005a
+2856.52,2856.88,D,Hmm,EN2005a
+2856.57,2857.96,B,because,EN2005a
+2856.88,2856.88,D,.,EN2005a
+2857.96,2869.16,B,um you you do require different uh uh different kinds of relations . Or you expect different kinds of relations from some over-arching set in um those different kinds of activities,EN2005a
+2868.64,2870.3,A,Yeah,EN2005a
+2869.16,2869.38,B,. Uh,EN2005a
+2870.3,2888.2,A,". So main actions I guess might be some some high level uh problem solving or decision making uh uh concepts , uh not like the exchange which which I I would like to be very low level utterance to utterance relations .",EN2005a
+2890.62,2892.74,B,Um so what's the high level version again ? P s,EN2005a
+2892.98,2894.16,A,Uh I mean uh I mean,EN2005a
+2894.08,2894.46,C,Meeting,EN2005a
+2894.16,2894.75,A,the m main,EN2005a
+2894.46,2895.34,C,action,EN2005a
+2894.75,2895.39,A,actions,EN2005a
+2895.34,2895.34,C,.,EN2005a
+2895.39,2897.16,A,might be some,EN2005a
+2896.7,2897.39,B,"Right , okay",EN2005a
+2897.16,2897.56,A,it might,EN2005a
+2897.39,2897.6,B,. I mean,EN2005a
+2897.56,2897.68,A,be,EN2005a
+2897.6,2898.76,B,i,EN2005a
+2897.68,2898.78,A,", yeah , built",EN2005a
+2898.76,2898.88,B,the,EN2005a
+2898.78,2899.04,A,built,EN2005a
+2898.88,2905.44,B,meeting actions is just gonna be a segmentation . It's not going to present any s any micro-structure,EN2005a
+2905.14,2905.63,A,"Okay , so",EN2005a
+2905.44,2905.68,B,. So it's,EN2005a
+2905.63,2905.87,A,well,EN2005a
+2905.68,2905.94,B,just gonna,EN2005a
+2905.87,2906.39,A,w,EN2005a
+2905.94,2908.39,B,say from here to here they're doing something . That's,EN2005a
+2908.22,2908.92,A,Okay,EN2005a
+2908.39,2908.83,B,all,EN2005a
+2908.82,2910.91,D,Like,EN2005a
+2908.83,2909.01,B,that,EN2005a
+2908.92,2908.92,A,.,EN2005a
+2909.01,2910.08,B,that scheme is gonna do .,EN2005a
+2910.34,2911.05,A,Okay,EN2005a
+2910.91,2911.34,D,somebody's,EN2005a
+2911.05,2911.05,A,.,EN2005a
+2911.34,2913.84,D,writing on the white-board or I mean the,EN2005a
+2913.71,2913.96,B,W,EN2005a
+2913.84,2915.87,D,w meeting actions they presented at the review,EN2005a
+2915.81,2916.19,B,It's,EN2005a
+2915.87,2916.21,D,seemed,EN2005a
+2916.19,2916.31,B,n,EN2005a
+2916.21,2919.35,D,"really low level to me , like somebody stood up",EN2005a
+2919.35,2919.69,B,That's,EN2005a
+2919.35,2919.35,D,.,EN2005a
+2919.63,2921.05,A,Okay,EN2005a
+2919.69,2921.16,B,"not no , those well , that's",EN2005a
+2921.05,2921.6,A,. Physical,EN2005a
+2921.16,2921.71,B,individual,EN2005a
+2921.6,2921.79,A,. Some,EN2005a
+2921.71,2922.79,B,actions,EN2005a
+2921.79,2922.81,A,"kind of physical actions , yeah",EN2005a
+2922.79,2922.9,B,. And,EN2005a
+2922.81,2922.81,A,.,EN2005a
+2922.9,2927.52,B,the meeting actions are meant to b uh become more um semantic and more theoretical,EN2005a
+2927.42,2927.85,D,Okay,EN2005a
+2927.52,2927.91,B,than the,EN2005a
+2927.85,2927.85,D,.,EN2005a
+2927.91,2930.57,B,kind IDIAP have traditionally used,EN2005a
+2929.78,2931.15,D,Okay,EN2005a
+2930.57,2932.02,B,. So,EN2005a
+2931.15,2931.46,D,. Okay .,EN2005a
+2932.02,2938.04,B,"so we need to still preserve some uh sense of the activity . But rather than saying it is somebody's at the white-board , it'll",EN2005a
+2937.81,2938.19,D,Okay,EN2005a
+2938.04,2938.41,B,be,EN2005a
+2938.19,2938.19,D,.,EN2005a
+2938.41,2942.11,B,", you know , that somebody's explaining something that the others are",EN2005a
+2941.39,2941.85,A,Okay,EN2005a
+2941.41,2941.92,D,I mean I I,EN2005a
+2941.85,2941.85,A,.,EN2005a
+2941.92,2942.25,D,realise,EN2005a
+2942.11,2942.55,B,focussed,EN2005a
+2942.25,2942.8,D,it's important,EN2005a
+2942.55,2942.73,B,on .,EN2005a
+2942.8,2948.76,D,"to recognise that , you know , what Wei-Xun got up and went to the white-board . I realise that's important , you know",EN2005a
+2948.57,2949.23,B,Yeah,EN2005a
+2948.76,2950.26,D,. But I d,EN2005a
+2949.23,2949.23,B,.,EN2005a
+2950.26,2953.51,D,was kind of surprised that those meeting actions . So,EN2005a
+2952.51,2954.21,B,It's it's a different scheme,EN2005a
+2953.51,2954.14,D,"Yeah , mm",EN2005a
+2953.99,2954.14,A,Yeah,EN2005a
+2954.14,2954.45,D,okay,EN2005a
+2954.14,2954.42,A,", different",EN2005a
+2954.21,2954.56,B,. Yeah,EN2005a
+2954.42,2954.68,A,scheme,EN2005a
+2954.45,2954.45,D,.,EN2005a
+2954.56,2954.56,B,.,EN2005a
+2954.68,2969.65,A,", yeah . So yeah uh th the the main actions that uh you're talk about I think might be , yeah , built up from the exchange , yeah . Ex at least exchange might be uh one kind of uh important information",EN2005a
+2969.55,2969.97,B,Mm-hmm,EN2005a
+2969.65,2970.11,A,for that,EN2005a
+2969.97,2970.17,B,. Well you,EN2005a
+2970.11,2970.26,A,kind,EN2005a
+2970.17,2970.35,B,might,EN2005a
+2970.26,2970.5,A,of,EN2005a
+2970.35,2985.18,B,"need the meeting action segmentation in order to know where what uh what area you're circumventing for so , it's just exchange structure in this area that you're looking at , and then that's a solid boundary between the next bit or something . I don't know",EN2005a
+2984.98,2985.44,A,Yeah,EN2005a
+2985.18,2986.61,B,. Um,EN2005a
+2985.44,2985.44,A,.,EN2005a
+2986.61,2990.24,B,"but w well , time's getting on",EN2005a
+2990.04,2990.34,A,Yeah,EN2005a
+2990.24,2990.63,B,. So,EN2005a
+2990.34,2990.64,A,", okay",EN2005a
+2990.63,2990.75,B,", you",EN2005a
+2990.64,2990.64,A,.,EN2005a
+2990.75,2996.46,B,"know , what practical things can we do to help this work move forward ? So y show what else",EN2005a
+2997.89,2998.54,A,Next,EN2005a
+2998.1,2998.6,B,you're,EN2005a
+2998.54,2998.89,A,. Yeah,EN2005a
+2998.6,2999.14,B,you're thinking,EN2005a
+2998.89,2999.19,A,. So,EN2005a
+2999.14,2999.55,B,about,EN2005a
+2999.19,2999.6,A,"yeah , for",EN2005a
+2999.55,2999.77,B,", yeah",EN2005a
+2999.6,3000.11,A,the monologue,EN2005a
+2999.77,2999.77,B,.,EN2005a
+3000.11,3032.06,A,I've I have not uh looked into the details about the this kind of uh relations for the monologue parts . Just a list of these uh relations . And uh so uh next I need to uh review the literature and uh come up with s schemes for the real data annotation,EN2005a
+3031.87,3032.24,B,Mm-hmm,EN2005a
+3032.06,3032.38,A,. And after,EN2005a
+3032.24,3032.24,B,.,EN2005a
+3032.38,3039.7,A,that uh we w 'cause this mm is not in the hub corpus . So,EN2005a
+3039.11,3039.43,B,Mm-hmm .,EN2005a
+3039.7,3045.57,A,we are not going to get l all the meetings annotated with that kind of,EN2005a
+3045.47,3045.85,B,Mm-hmm,EN2005a
+3045.57,3047.4,A,. So,EN2005a
+3045.85,3045.85,B,.,EN2005a
+3047.4,3070.61,A,"uh so we we might ju first try a few meetings and uh have a reliability study . If it's reliable enough , then we must just uh just annotate a small part of the meetings and using some learning techniques to boot boot-strap the uh uh automatic uh analyser .",EN2005a
+3070.976,3075.68,B,. Well m marking up exchange structure if if it's there and,EN2005a
+3075.49,3075.91,A,Mm-hmm,EN2005a
+3075.68,3076.38,B,if,EN2005a
+3075.91,3075.91,A,.,EN2005a
+3076.38,3082.18,B,um if you've got a working scheme for it is relatively cheap . It's a lot cheaper than doing dialogue,EN2005a
+3081.99,3082.19,A,Yeah,EN2005a
+3082.18,3082.31,B,act,EN2005a
+3082.19,3082.31,A,", if",EN2005a
+3082.31,3082.53,B,coding,EN2005a
+3082.31,3082.69,A,uh if,EN2005a
+3082.53,3082.87,B,in the first,EN2005a
+3082.69,3083.12,A,it's based,EN2005a
+3082.87,3083.38,B,place,EN2005a
+3083.12,3083.61,A,on the,EN2005a
+3083.38,3083.38,B,.,EN2005a
+3083.61,3085.64,A,"uh um dialogue acts , yeah .",EN2005a
+3086.94,3092.51,B,"Um right , well one presumes it is , otherwise it's gonna be ra radically expensive to do any",EN2005a
+3092.48,3092.79,A,Mm-hmm,EN2005a
+3092.51,3093.89,B,kind of mark-up,EN2005a
+3092.79,3092.79,A,.,EN2005a
+3093.89,3122.53,B,". So um the you know , it's something that we can look at , but you need to what we need it's more important than knowing , you know , that we need exchange structure marked up on X_ amount of data at this point is knowing um where you're headed with this , I think . So what's the good that that uh the project gets out of this in the end . So you know , what's the w what's the headline results of the work on the project , I think is is what we're trying to get a sense of here .",EN2005a
+3124.46,3127.38,A,Hmm Yes,EN2005a
+3127.03,3127.48,B,So you get,EN2005a
+3127.38,3127.38,A,.,EN2005a
+3127.48,3143.94,B,"your exchange structure marked up . And say we just put in the money , get exchange structure marked up on that entire hub or , you know , figure out how to boot-strap it so we we get this um uh how do you how do you sell that as a as a project goal , you know ? 'Cause",EN2005a
+3143.77,3144.33,A,Hmm,EN2005a
+3143.94,3144.36,B,people are gonna,EN2005a
+3144.33,3144.33,A,.,EN2005a
+3144.36,3149.4,B,"say exchange structure , so what . What do wh what do you what how",EN2005a
+3149.37,3149.43,A,Or,EN2005a
+3149.4,3149.46,B,do,EN2005a
+3149.43,3149.86,A,fits,EN2005a
+3149.46,3149.96,B,you plug that,EN2005a
+3149.86,3150.02,A,the,EN2005a
+3149.96,3150.12,B,into,EN2005a
+3150.02,3150.24,A,meeting,EN2005a
+3150.12,3150.43,B,the rest,EN2005a
+3150.24,3150.97,A,browser,EN2005a
+3150.43,3151.31,B,"the stuff , right",EN2005a
+3150.97,3152.76,A,. Yeah,EN2005a
+3151.31,3151.74,B,? Yeah .,EN2005a
+3152.76,3182.95,A,". Okay , so mm This might not be the final goal that uh that could be fit into the uh browser . But it uh might be some kind of uh uh information which might benefit meeting actions or some more high level decision making or problem solving",EN2005a
+3182.48,3182.82,B,Mm-hmm .,EN2005a
+3182.95,3186.66,A,". 'Cause this is the building blocks , I guess , yeah . So",EN2005a
+3186.13,3192.17,B,Yeah . See 'cause I think that um just to make this m more efficient,EN2005a
+3191.96,3192.33,A,Mm-hmm,EN2005a
+3192.17,3192.46,B,", you should",EN2005a
+3192.33,3192.33,A,.,EN2005a
+3192.46,3194.74,B,be thinking about the high-level goal in,EN2005a
+3194.63,3195.07,A,Yeah,EN2005a
+3194.74,3195.45,B,order to focus,EN2005a
+3195.07,3195.07,A,.,EN2005a
+3195.45,3206.64,B,"the work that you're doing rather than thinking well , you know , there's these theories , you know , how can we apply these theories to it . Um and then seeing what comes out of that that might be useful for the meeting browser , actually",EN2005a
+3206.63,3207.05,A,Okay,EN2005a
+3206.64,3207.1,B,trying to,EN2005a
+3207.05,3207.05,A,.,EN2005a
+3207.1,3214.77,B,"say yeah , we have a goal of being able to do this with the meeting browser , um what kinds of dialogue structure would we need to be able to do that",EN2005a
+3214.68,3214.98,A,Mm-hmm,EN2005a
+3214.77,3215.02,B,. I mean uh,EN2005a
+3214.98,3214.98,A,.,EN2005a
+3215.02,3224.38,B,"I don't know , maybe you'd wanna disagree with that , but I this more goal directed might actually make it easier to um bring these things to publication in the long run , right ?",EN2005a
+3226.01,3244.53,D,"Well I think we should approach it both ways . I mean uh you know , I I d You know , the meeting browser people have a lot of constraints . And so what they end up with saying is most critical for them right now might not be the most interesting thing in the longer term",EN2005a
+3244.14,3244.66,B,Right,EN2005a
+3244.53,3244.85,D,. And,EN2005a
+3244.66,3244.89,B,. It's,EN2005a
+3244.85,3245.27,D,so,EN2005a
+3244.89,3249.99,B,"not necessarily what they say . But it's something at least identify something that we'd hope to get out of it , you know .",EN2005a
+3250.2,3256.95,D,Right . I mean people have said over and over again that they would like to understand how a decision has evolved,EN2005a
+3256.88,3257.18,B,Mm-hmm,EN2005a
+3256.95,3257.64,D,", right",EN2005a
+3257.18,3257.18,B,.,EN2005a
+3257.64,3270.48,D,". Um and I think that Well , I don't know if all of this low level stuff would allow you to track that kind of thing , but it might at least be the building blocks of allowing you to track that kind",EN2005a
+3270.34,3270.69,A,Yeah,EN2005a
+3270.48,3270.83,D,of thing,EN2005a
+3270.69,3270.98,A,", yeah",EN2005a
+3270.83,3271.32,D,and,EN2005a
+3270.98,3277.97,A,. So after this if uh if uh uh we might do some mm pe uh from here we might be,EN2005a
+3277.88,3278.15,D,Yeah,EN2005a
+3277.97,3278.4,A,some,EN2005a
+3278.15,3278.62,D,", some higher",EN2005a
+3278.4,3278.86,A,uh,EN2005a
+3278.62,3278.98,D,level,EN2005a
+3278.86,3279.2,A,"uh , yeah",EN2005a
+3278.98,3279.32,D,yeah,EN2005a
+3279.2,3279.35,A,", c",EN2005a
+3279.32,3279.32,D,.,EN2005a
+3279.35,3282.01,A,"problem solving , decision making process to track",EN2005a
+3281.84,3282.19,B,Yeah,EN2005a
+3282.01,3282.32,A,that kind,EN2005a
+3282.19,3282.19,B,.,EN2005a
+3282.32,3283.09,A,of information . Yeah .,EN2005a
+3283.19,3297.51,D,"So I mean I think it's clear that something at this level needs to be there . I mean and to ask questions , like who disagreed or were there any counter proposals or whatever . Even those kind of questions you need some kind of mark-up like",EN2005a
+3297.49,3297.83,B,I,EN2005a
+3297.51,3297.89,D,this,EN2005a
+3297.83,3298.0,B,It,EN2005a
+3297.89,3297.89,D,.,EN2005a
+3298.0,3317.97,B,"just helps you know which theory you should be concentrating on . So you know , that immediately discounts exchange um structures that are mostly for information seeking alone because the notion exchange is to restrict it there , and in favour of um these these more argumentative things . So I mean uh I do think you should keep in mind what the final goal is",EN2005a
+3317.74,3318.12,A,Yeah,EN2005a
+3317.97,3318.21,B,so,EN2005a
+3318.12,3318.12,A,.,EN2005a
+3318.21,3322.99,B,that you can plug this into something at the end and and um show some benefit of having the mark-up .,EN2005a
+3323.86,3349.06,D,"Well that brings up something interesting because I think probably what we should do is try to get you know , some of these tasks sort of put on , you know , sort of as part of the official agenda . So being able to answer questions like um were there any counter proposals to the bana you know , banana shape or whatever . Um",EN2005a
+3348.22,3348.67,B,Mm-hmm .,EN2005a
+3349.06,3364.07,D,"uh or to some specific , you know , recommendation and things like that . I mean , you know , those , you know , strike me as cl clear things that , you know , people who go to decision making meetings want to know if they've missed one or are arriving",EN2005a
+3363.97,3364.48,B,Yeah,EN2005a
+3364.07,3364.65,D,late or anything,EN2005a
+3364.48,3364.48,B,.,EN2005a
+3364.65,3375.83,D,"like that . So it wou it seems like we should probably get some of these things on the official agenda and say look , you know , wouldn't it be nice if you could have answers to these questions",EN2005a
+3375.29,3376.45,B,Yeah . I mean operationally,EN2005a
+3375.83,3376.4,D,", or something .",EN2005a
+3376.45,3381.97,B,"it's not gonna much difference whether it's hub or not , right , because we've got the",EN2005a
+3381.94,3382.1,D,Oh,EN2005a
+3381.97,3382.18,B,bank,EN2005a
+3382.1,3382.1,D,.,EN2005a
+3382.18,3389.89,B,"of people . We have to get the hub stuff through , but um you know , he's n not ready with an annotation scheme that can be used at the moment anyway . So",EN2005a
+3389.44,3390.03,D,"No , m",EN2005a
+3389.89,3390.07,B,And,EN2005a
+3390.03,3390.45,D,So,EN2005a
+3390.07,3393.17,B,it it's not that expensive . I mean it's something that we can afford off budget,EN2005a
+3393.02,3393.19,D,And,EN2005a
+3393.17,3393.41,B,'cause,EN2005a
+3393.19,3398.0,D,I think we wouldn't wanna necessarily do this on ICSI data . I think the ICSI data is too,EN2005a
+3397.93,3399.29,A,Messy,EN2005a
+3398.0,3398.45,D,too,EN2005a
+3398.15,3398.48,B,Yeah,EN2005a
+3398.45,3399.12,D,complex,EN2005a
+3398.48,3399.14,B,", it",EN2005a
+3399.12,3399.31,D,", and",EN2005a
+3399.14,3399.45,B,uh and,EN2005a
+3399.29,3399.51,A,. Yeah,EN2005a
+3399.31,3399.46,D,there,EN2005a
+3399.45,3399.58,B,it's,EN2005a
+3399.46,3399.76,D,aren't,EN2005a
+3399.51,3399.66,A,", yeah",EN2005a
+3399.58,3399.72,B,too,EN2005a
+3399.66,3399.66,A,.,EN2005a
+3399.72,3400.03,B,different,EN2005a
+3399.76,3401.38,D,enough real,EN2005a
+3400.03,3401.36,B,"a genre , yeah .",EN2005a
+3401.38,3402.04,D,decisions,EN2005a
+3401.52,3402.58,A,Hmm,EN2005a
+3402.04,3402.61,D,"made , you",EN2005a
+3402.58,3403.0,A,. Mm-hmm,EN2005a
+3402.61,3403.11,D,"know , that you",EN2005a
+3403.0,3403.0,A,.,EN2005a
+3403.11,3406.53,D,"could clearly identify . I mean there are some , but",EN2005a
+3405.74,3406.15,B,Mm .,EN2005a
+3406.53,3406.95,D,and not that,EN2005a
+3406.94,3407.33,A,Ye,EN2005a
+3406.95,3407.43,D,I've read more,EN2005a
+3407.33,3408.38,A,Yeah,EN2005a
+3407.43,3408.57,D,than about two meetings . But,EN2005a
+3408.38,3408.85,A,. Yeah,EN2005a
+3408.57,3410.64,D,um,EN2005a
+3408.85,3408.85,A,.,EN2005a
+3410.64,3432.3,D,"I think , w it , you know w well , so one thing that's gonna be interesting is the , I think to me , is the um what can you do because presumably the um D_F_K_I_ folk or somebody is gonna mark up a lot of the data with sort of tags about ontology , right",EN2005a
+3431.98,3432.37,A,Mm-hmm,EN2005a
+3432.3,3432.68,B,Mm-hmm,EN2005a
+3432.3,3432.3,D,?,EN2005a
+3432.37,3432.37,A,.,EN2005a
+3432.62,3433.11,D,So,EN2005a
+3432.68,3432.68,B,.,EN2005a
+3433.11,3440.96,D,"we know , you know , somebody will have gone and by hand and sort of marked up som something l like shallow semanticy kinds of things , right , or",EN2005a
+3440.87,3441.53,B,Yeah,EN2005a
+3440.96,3442.7,D,maybe,EN2005a
+3441.53,3442.94,B,", that's not help either . But yeah",EN2005a
+3442.7,3443.19,D,deeper,EN2005a
+3442.94,3443.39,B,", they're sure",EN2005a
+3443.19,3443.9,D,semanticy,EN2005a
+3443.39,3443.96,B,to do that,EN2005a
+3443.9,3444.36,D,things,EN2005a
+3443.96,3443.96,B,.,EN2005a
+3444.36,3479.91,D,", but that but you know , not really in a in a formal language , but mostly just , you know , tags , right ? Um and then the question is , well , how does you know , just the way people typically do this is , you know , let's take these semantic features into or these features into account and see how well we do with the the learning , and then let's throw these features out and see how well we do , um because we know we're gonna have them , because one or two sides is really intr are really interested in this ontology stuff , right ? I mean",EN2005a
+3478.94,3479.22,B,Mm-hmm .,EN2005a
+3479.91,3483.03,D,"T_N_O_ is and D_F_K_I_ is , right",EN2005a
+3482.62,3482.82,B,Mm-hmm .,EN2005a
+3483.03,3498.59,D,. So there will be some kind of domain semantics . And there will also be presumably some kind of task hierarchy modelling going on in I mean 'cause,EN2005a
+3498.4,3498.65,B,In the,EN2005a
+3498.59,3498.73,D,the,EN2005a
+3498.65,3498.77,B,m,EN2005a
+3498.73,3513.49,D,"whole browser working group um final um sort of presentation on that second day was about , you know , knowing the task , right",EN2005a
+3512.82,3513.06,B,Mm-hmm .,EN2005a
+3513.49,3528.11,D,". And very you know , details about which task is this you know , which sub-task is this little chunk of the meeting addressing and furthering in various ways , right",EN2005a
+3527.79,3528.1,B,Y,EN2005a
+3528.11,3532.82,D,. Which seems like it would be really hard in an open domain .,EN2005a
+3535.16,3538.05,B,"Um well , I don't remember that about the w I mean",EN2005a
+3537.97,3538.05,D,You,EN2005a
+3538.05,3538.15,B,the,EN2005a
+3538.05,3548.02,D,"remember when Steve came in , Steve Whittaker came in at the end and said , you know , they'd spent the morning talking and they came up with this idea . Um",EN2005a
+3547.63,3548.03,B,"Oh , but",EN2005a
+3547.95,3548.05,C,Mm,EN2005a
+3548.03,3548.17,B,that,EN2005a
+3548.05,3548.05,C,.,EN2005a
+3548.17,3559.44,B,was about what task the person doing the browsing was gonna do . It w they didn't say anything about what sort of information they'd want from the meeting itself . It w it was about uh i,EN2005a
+3560.25,3574.41,C,"They just mention that they want decision um for issues , action items . I think they are more talking about um user requirement for the meeting than soft text , they want to know",EN2005a
+3576.24,3576.89,D,No,EN2005a
+3576.35,3577.2,C,what happened,EN2005a
+3576.89,3577.38,D,", they said",EN2005a
+3577.2,3577.75,C,happening,EN2005a
+3577.38,3577.81,D,people are,EN2005a
+3577.75,3577.94,C,in,EN2005a
+3577.81,3578.14,D,talking,EN2005a
+3577.94,3578.59,C,a meeting,EN2005a
+3578.14,3579.54,D,about tasks,EN2005a
+3578.59,3578.59,C,.,EN2005a
+3579.54,3582.8,D,", you know . I mean they really they made it clear that they were",EN2005a
+3582.8,3582.93,B,That,EN2005a
+3582.8,3583.02,D,that,EN2005a
+3582.93,3583.13,B,was,EN2005a
+3583.02,3583.14,D,that,EN2005a
+3583.13,3583.36,B,the,EN2005a
+3583.14,3583.42,D,was gonna,EN2005a
+3583.36,3583.53,B,that,EN2005a
+3583.42,3584.15,D,be heavily,EN2005a
+3583.53,3597.93,B,"we the browser task . You know they've identified these seven different tasks people might wanna do with browsers , um you know , like uh join a meeting late and ch um catch up on what's happened in the meeting so far , be at home waiting for the washing repair guy",EN2005a
+3597.67,3598.0,D,"No , those",EN2005a
+3597.93,3598.16,B,. And,EN2005a
+3598.0,3598.18,D,are the,EN2005a
+3598.12,3598.26,C,they,EN2005a
+3598.18,3598.57,D,s,EN2005a
+3598.26,3598.67,C,say,EN2005a
+3598.57,3598.82,D,those,EN2005a
+3598.67,3598.76,C,that ?,EN2005a
+3598.82,3603.18,D,are the scenarios . Those are the user scenarios . The task,EN2005a
+3602.49,3602.86,B,Yeah .,EN2005a
+3603.18,3610.54,D,"what what he came back and said that at the end , I mean it actually kind kind of scared me , because it was all based around tasks .",EN2005a
+3611.12,3612.45,B,"Okay , well",EN2005a
+3612.42,3612.69,D,And,EN2005a
+3612.45,3612.95,B,c maybe,EN2005a
+3612.69,3613.13,D,and,EN2005a
+3612.95,3612.95,B,.,EN2005a
+3613.13,3621.2,D,"the domain tasks , okay , they're now they now have to decide how many buttons to put on this thing . I mean it was all about the domain task .",EN2005a
+3622.84,3623.17,B,Okay,EN2005a
+3623.06,3623.3,D,And,EN2005a
+3623.17,3623.17,B,.,EN2005a
+3623.3,3637.68,D,"it is really the it and given that , uh it it's really scary to think about what you could possibly do in an open domain where you don't where you don't know what the tasks are . And I don't think you're gonna be able to figure them out",EN2005a
+3637.11,3637.47,B,Mm-hmm .,EN2005a
+3637.68,3638.72,D,uh very reliably .,EN2005a
+3639.68,3645.4,B,But I thought you wanted to avoid doing stuff that was s stuck in this particular domain if possible . But you know,EN2005a
+3645.33,3645.63,D,I,EN2005a
+3645.4,3645.68,B,", th they",EN2005a
+3645.63,3645.9,D,do,EN2005a
+3645.68,3645.93,B,weren't,EN2005a
+3645.9,3646.05,D,", but",EN2005a
+3645.93,3646.66,B,concentrating,EN2005a
+3646.05,3652.03,D,"the whole project is , you know , focussed on AMI hub data as their first priority .",EN2005a
+3652.78,3659.43,B,Well yeah . But that doesn't mean you have to be um using the techniques that you can,EN2005a
+3659.42,3659.95,D,N,EN2005a
+3659.43,3660.31,B,be using open-domain,EN2005a
+3659.95,3660.31,D,no no,EN2005a
+3660.31,3660.54,B,techn,EN2005a
+3660.31,3676.09,D,"no no no , but I mean if the if the if they had th they had this sort of epiphany at the end of this meeting where they decided well why are people browsing this . Well it's all to see how , you know , how the participants were furthering their tasks .",EN2005a
+3677.52,3701.14,B,"Mm-hmm . And you don't think that can be done in open domain at all . 'Cause we don't wanna get into um working with ontologies . I mean one of the strengths of this grouping was that , yeah , they all work with the closed domain ontologies and we'll do the open-domain side of things . So I don't know",EN2005a
+3700.44,3701.18,D,Well right . And,EN2005a
+3701.14,3701.23,B,. We'll,EN2005a
+3701.18,3701.67,D,then,EN2005a
+3701.23,3701.45,B,see .,EN2005a
+3701.67,3716.57,D,", yes , and then there was this confusion about the um last spider phone conference that the messages telling people to call came out after the meeting happened , at least to some of us .",EN2005a
+3716.71,3718.92,B,"Oh right , yeah . So we don't know what happened at that one . Yeah .",EN2005a
+3720.71,3736.84,D,"So um I mean we'll we'll get that back on track . But I think that um we don't you know , there will be some meeting browser demo that um , you know I I think it's an interesting question of okay well , if you have knowledge , here's what you can do . If you don't have that knowledge",EN2005a
+3737.31,3737.56,B,Mm-hmm .,EN2005a
+3738.63,3742.42,D,"you have to do different things and , you know , you can't necessarily",EN2005a
+3743.6,3756.52,B,"Yeah . So you're advising Wei-Xun that he should be using like any ontologies and propositional content that um D_F_K_I_ and T_N_O_ bank in the C_V_S_ repository , or or not",EN2005a
+3756.29,3756.56,A,Yeah,EN2005a
+3756.49,3756.74,D,Well,EN2005a
+3756.52,3756.7,B,? That's,EN2005a
+3756.56,3756.88,A,", ma",EN2005a
+3756.7,3756.83,B,what,EN2005a
+3756.74,3757.03,D,I think,EN2005a
+3756.83,3756.93,B,I'm,EN2005a
+3756.88,3757.13,A,ma,EN2005a
+3756.93,3757.09,B,not,EN2005a
+3757.03,3757.16,D,when,EN2005a
+3757.09,3757.48,B,clear,EN2005a
+3757.13,3757.3,A,uh,EN2005a
+3757.16,3757.6,D,he does,EN2005a
+3757.3,3757.67,A,s,EN2005a
+3757.48,3757.57,B,on .,EN2005a
+3757.6,3759.75,D,re when he does lear these learning,EN2005a
+3759.37,3759.75,A,Mm-hmm,EN2005a
+3759.75,3761.01,D,experiments,EN2005a
+3759.75,3759.75,A,.,EN2005a
+3761.01,3763.46,D,", he should do 'em two ways . Because he will have",EN2005a
+3763.33,3763.48,B,With,EN2005a
+3763.46,3763.62,D,this,EN2005a
+3763.48,3764.3,B,our without,EN2005a
+3763.62,3764.4,D,opportunity,EN2005a
+3764.3,3765.38,B,. Mm-hmm,EN2005a
+3764.4,3765.43,D,with or without . And,EN2005a
+3765.24,3765.8,A,Yeah,EN2005a
+3765.38,3765.77,B,. Okay,EN2005a
+3765.43,3765.93,D,then we can,EN2005a
+3765.77,3765.77,B,.,EN2005a
+3765.8,3766.05,A,", that's",EN2005a
+3765.93,3766.2,D,see,EN2005a
+3766.05,3766.24,A,kind,EN2005a
+3766.2,3766.45,D,like,EN2005a
+3766.24,3766.66,A,of uh,EN2005a
+3766.45,3781.69,D,"well without , you know , these tags so you know , Alex was showing um yesterday well without knowing the head word of the utterance at the leaf , you know , you get these kinds of results , and when you add that in , you get these other kinds",EN2005a
+3781.58,3781.8,A,Yeah,EN2005a
+3781.69,3782.23,D,of results,EN2005a
+3781.8,3782.23,A,", yeah",EN2005a
+3782.23,3782.42,D,. And,EN2005a
+3782.23,3782.52,A,", yeah",EN2005a
+3782.42,3782.56,D,you,EN2005a
+3782.52,3782.89,A,. Different,EN2005a
+3782.56,3783.72,D,"know , I think",EN2005a
+3782.89,3783.81,A,feature combination,EN2005a
+3783.72,3785.07,D,yeah,EN2005a
+3783.81,3784.3,A,", yeah .",EN2005a
+3785.07,3791.76,D,". Um so I think if we have those features , it's , you know , it's a rare orp or rare opportunity that you can",EN2005a
+3791.68,3791.95,B,Can,EN2005a
+3791.76,3792.57,D,", you know",EN2005a
+3791.95,3792.63,B,actually try,EN2005a
+3792.57,3792.76,D,", you",EN2005a
+3792.63,3793.0,B,. Mm-hmm,EN2005a
+3792.76,3793.22,D,can try,EN2005a
+3793.0,3793.34,B,. Yeah,EN2005a
+3793.22,3793.56,D,one,EN2005a
+3793.34,3793.34,B,.,EN2005a
+3793.56,3800.51,D,head to head against the other . Um and then of course to make sure that you really um,EN2005a
+3802.45,3811.21,B,I don't know when they'll bank these by the way . Um 'cause that's it's not hub . So i it's one of these things where everybody's supposed to bank as many things as possible,EN2005a
+3810.7,3812.02,D,Right,EN2005a
+3811.21,3812.11,B,. So you know w,EN2005a
+3812.02,3821.14,D,". Well we won't I mean we won't use 'em till they're ready obviously . So we might do the sort of open domain , I mean a although it will be a closed domain , I mean we we can't",EN2005a
+3820.93,3821.61,B,Yeah,EN2005a
+3821.14,3821.95,D,use any domain,EN2005a
+3821.61,3822.43,B,. But open,EN2005a
+3821.95,3822.58,D,information,EN2005a
+3822.43,3822.43,B,.,EN2005a
+3822.58,3837.97,D,"necessarily . Uh I mean , there probably are a bunch of issues like if you've got a hundred hours of meetings and they all talk about a lot of the same things",EN2005a
+3837.63,3838.07,B,"Yeah , it's",EN2005a
+3837.97,3838.44,D,", then",EN2005a
+3838.07,3838.48,B,not really,EN2005a
+3838.44,3838.7,D,it's,EN2005a
+3838.48,3838.78,B,an open,EN2005a
+3838.7,3838.94,D,ea,EN2005a
+3838.78,3839.1,B,domain,EN2005a
+3838.94,3839.22,D,it,EN2005a
+3839.1,3839.78,B,task,EN2005a
+3839.22,3839.94,D,it's not really,EN2005a
+3839.78,3840.01,B,", yeah",EN2005a
+3839.94,3840.22,D,open,EN2005a
+3840.01,3840.01,B,.,EN2005a
+3840.22,3848.07,D,"domain and somehow that sneaks into all the statistics anyway 'cause you don't have such a wide vocabulary and , you",EN2005a
+3847.98,3848.45,B,Well,EN2005a
+3848.07,3848.35,D,know,EN2005a
+3848.45,3852.51,B,eventually the hub is supposed to be forty percent non-scenario,EN2005a
+3851.99,3852.44,D,Right .,EN2005a
+3852.51,3855.43,B,. But that data's definitely gonna be kind of coming in the last . So,EN2005a
+3855.57,3866.26,D,"Sure , so we might find that when we move from what we thought was open domain , but on the hub , you know , our results go down when we truly are",EN2005a
+3864.91,3866.29,B,Mm-hmm . Yeah,EN2005a
+3866.26,3866.64,D,getting,EN2005a
+3866.29,3867.4,B,. That's,EN2005a
+3866.64,3867.45,D,meeting yeah,EN2005a
+3867.4,3867.59,B,quite,EN2005a
+3867.45,3868.12,D,. So,EN2005a
+3867.59,3869.06,B,reasonable,EN2005a
+3868.12,3869.46,D,I mean that'll be interesting,EN2005a
+3869.06,3869.47,B,. W we've,EN2005a
+3869.46,3869.46,D,.,EN2005a
+3869.47,3876.38,B,"got five ISCA meetings actually which are still uh an elicitation task , but they're not our domain . So that should help some .",EN2005a
+3878.38,3879.64,D,"Okay , well that's good",EN2005a
+3879.56,3879.71,B,And,EN2005a
+3879.64,3879.64,D,.,EN2005a
+3879.71,3891.41,B,"they've been declared hub . So so they'll accrue all of the normal an annotations . Of course yeah , you'll you'll never get the T_N_O_ and D_F_K_I_ stuff on it 'cause they're only billing stuff for the one to make the",EN2005a
+3891.68,3902.64,D,"So okay . So we wanna decide um what Wei-Xun should do next and maybe think about meeting in , I don't know",EN2005a
+3902.32,3902.77,B,"Yeah , just",EN2005a
+3902.64,3903.13,D,", a month",EN2005a
+3902.77,3903.16,B,figure out how,EN2005a
+3903.13,3903.27,D,or,EN2005a
+3903.16,3903.41,B,we're gonna,EN2005a
+3903.27,3904.0,D,something,EN2005a
+3903.41,3904.31,B,help him,EN2005a
+3904.0,3904.48,D,. Yeah,EN2005a
+3904.31,3904.85,B,to,EN2005a
+3904.48,3904.78,D,", mm-hmm .",EN2005a
+3904.85,3907.02,B,to try to make this more efficient .,EN2005a
+3909.97,3914.2,D,"Um so before we do that , can I just ask you a question about chunking",EN2005a
+3913.74,3914.51,A,Yeah,EN2005a
+3914.2,3914.86,D,? In the beginning,EN2005a
+3914.51,3914.87,A,", yes",EN2005a
+3914.86,3915.09,D,you,EN2005a
+3914.87,3914.87,A,.,EN2005a
+3915.09,3924.95,D,"said something about you were doing this chunking um and you're doing it on the ICSI data , but this was did you say it th wasn't picked up in AMI or you I I I was confused",EN2005a
+3924.7,3925.07,A,Uh uh,EN2005a
+3924.95,3925.25,D,about,EN2005a
+3925.07,3925.46,A,yeah,EN2005a
+3925.25,3925.29,D,w,EN2005a
+3925.44,3925.73,B,Yeah,EN2005a
+3925.46,3925.76,A,. Uh I,EN2005a
+3925.73,3925.73,B,.,EN2005a
+3925.76,3937.76,A,"mean I was supposed to chunk uh some part of the AMI meetings , you know , to see if the chunker channel switchboard works well enough",EN2005a
+3937.56,3937.96,D,Mm-hmm,EN2005a
+3937.76,3938.25,A,or not,EN2005a
+3937.96,3937.96,D,.,EN2005a
+3938.25,3944.23,A,". If not , then mm we have to use some kind of semi-superv supervised learning or",EN2005a
+3944.21,3944.57,D,Mm-hmm,EN2005a
+3944.23,3944.65,A,some uh,EN2005a
+3944.57,3944.57,D,.,EN2005a
+3944.65,3948.1,A,boot-strapping to to to do the chunking .,EN2005a
+3949.15,3950.38,D,And you and you haven't done it yet .,EN2005a
+3950.44,3955.83,A,"No , no , 'cause I was a bit worried about uh this kind of uh discourse structure , yeah .",EN2005a
+3956.23,3957.51,D,Tha that's fine . So,EN2005a
+3957.49,3957.86,A,Yeah,EN2005a
+3957.51,3957.88,D,that's,EN2005a
+3957.86,3957.86,A,.,EN2005a
+3957.88,3959.82,D,still on the agenda to do at,EN2005a
+3959.7,3959.97,B,Yeah,EN2005a
+3959.82,3960.07,D,some,EN2005a
+3959.97,3960.1,B,", but",EN2005a
+3960.07,3960.36,D,point,EN2005a
+3960.1,3960.42,B,we should make,EN2005a
+3960.36,3960.36,D,.,EN2005a
+3960.42,3963.14,B,"sure we finish that off , because otherwise that work's just wasted , right .",EN2005a
+3963.53,3964.8,D,Yeah . Exactly,EN2005a
+3964.63,3964.96,A,Yeah,EN2005a
+3964.73,3964.83,B,We're,EN2005a
+3964.8,3965.05,D,. That's,EN2005a
+3964.83,3965.1,B,gonna,EN2005a
+3964.96,3964.96,A,.,EN2005a
+3965.1,3967.12,B,use chunks for something useful,EN2005a
+3967.0,3967.38,A,Okay,EN2005a
+3967.12,3967.43,B,. Yeah,EN2005a
+3967.38,3967.38,A,.,EN2005a
+3967.43,3967.69,B,", chunks",EN2005a
+3967.59,3968.63,D,Well,EN2005a
+3967.69,3969.2,B,are gonna be,EN2005a
+3968.63,3969.27,D,so I,EN2005a
+3969.2,3969.44,B,named,EN2005a
+3969.27,3971.26,D,mean,EN2005a
+3969.44,3971.01,B,entities if nothing else .,EN2005a
+3971.26,3985.52,D,"right . Um or building blocks . I mean so I mean we have to think about how s chunking interacts with the automatic segmentation , you know . Because um Barbara was",EN2005a
+3985.46,3985.81,B,Automatic,EN2005a
+3985.52,3987.58,D,showing,EN2005a
+3985.81,3986.97,B,segmentation at which level ?,EN2005a
+3987.58,3988.6,D,the low level .,EN2005a
+3988.97,3989.32,A,Uh,EN2005a
+3989.05,3989.97,B,Uh-huh,EN2005a
+3989.32,3990.0,A,dialogue,EN2005a
+3989.97,3990.3,B,. Dialogue,EN2005a
+3990.0,3990.83,A,segmentaton,EN2005a
+3990.3,3991.12,B,act,EN2005a
+3990.83,3991.29,A,. Yeah,EN2005a
+3991.12,3991.54,B,", yeah",EN2005a
+3991.29,3991.75,A,", okay",EN2005a
+3991.54,3991.54,B,.,EN2005a
+3991.75,3991.75,A,.,EN2005a
+3993.19,3999.87,D,And I mean it seems to me that chunking should have some kind of so if if your dialogue act segmenter says there's,EN2005a
+3999.6,3999.96,B,Yeah,EN2005a
+3999.87,4000.05,D,there's,EN2005a
+3999.96,3999.96,B,.,EN2005a
+4000.05,4003.81,D,"a segment here , but your chunker said no , this is a coherent chunk",EN2005a
+4003.37,4003.9,B,Yeah,EN2005a
+4003.81,4004.84,D,", then",EN2005a
+4003.9,4004.95,B,", and that's a problem",EN2005a
+4004.84,4005.14,D,y,EN2005a
+4004.95,4005.45,B,. Yeah,EN2005a
+4005.14,4005.51,D,y you,EN2005a
+4005.45,4005.45,B,.,EN2005a
+4005.51,4010.71,D,"know , w I mean maybe they could work together to do a better job than",EN2005a
+4011.26,4016.09,B,Certainly if if you've got chunks it ought to help you know where your dialogue act boundaries better not be,EN2005a
+4016.01,4016.6,D,Right,EN2005a
+4016.09,4017.75,B,. Yeah,EN2005a
+4016.6,4016.89,D,. Yeah .,EN2005a
+4017.75,4018.42,B,. Mm-hmm,EN2005a
+4017.83,4018.21,A,Mm-hmm .,EN2005a
+4018.42,4024.02,B,. And it may be even more mechanical than that based on the um examples we're seeing from D_F_K_I_,EN2005a
+4023.96,4024.24,A,Mm-hmm,EN2005a
+4024.02,4024.54,B,. 'Cause they're,EN2005a
+4024.24,4024.24,A,.,EN2005a
+4024.54,4036.61,B,they're hand marking stuff and the dialogue act boundaries are supposed to be intentional . Um but they seem to always be marking them that um uh after,EN2005a
+4036.36,4037.33,D,Periods,EN2005a
+4036.61,4037.75,B,verbs,EN2005a
+4037.33,4038.85,D,". Oh , after",EN2005a
+4037.75,4039.36,B,", you know , with clause",EN2005a
+4038.44,4038.93,C,Hmm . Mm-hmm,EN2005a
+4038.85,4039.06,D,uh,EN2005a
+4038.93,4038.93,C,.,EN2005a
+4039.06,4039.54,D,right,EN2005a
+4039.36,4039.63,B,m,EN2005a
+4039.54,4039.54,D,.,EN2005a
+4039.63,4043.31,B,uh it's very it looks quite mechanical . So we're querying them about this because,EN2005a
+4043.09,4044.99,D,Okay,EN2005a
+4043.31,4045.69,B,that's not the way they're supposed to be doing it,EN2005a
+4044.99,4047.03,D,". Right , okay",EN2005a
+4045.69,4045.96,B,. And,EN2005a
+4047.03,4049.96,D,. Good . So it sounds like well,EN2005a
+4049.66,4050.0,B,Well hold,EN2005a
+4049.96,4050.2,D,w,EN2005a
+4050.0,4065.58,B,"on . But when do we need chunking by ? And it you know , so y I don't like the idea that , you know , you start something and then eighteen months later you pick up to do the last ten percent of the work to finish it off or whatever . So it I like things kinda tidy . Right . So how",EN2005a
+4065.43,4065.76,D,Well how,EN2005a
+4065.58,4065.8,B,much,EN2005a
+4065.76,4066.11,D,much,EN2005a
+4065.8,4066.26,B,work is,EN2005a
+4066.11,4066.34,D,AMI,EN2005a
+4066.26,4071.58,B,there left and when do we actually need it by would be useful to discuss .,EN2005a
+4072.44,4076.13,D,"Well , you wanted to do the chunking on the AMI data , right",EN2005a
+4075.34,4075.67,A,Yeah .,EN2005a
+4076.13,4077.43,D,? Because,EN2005a
+4077.21,4077.54,B,The AMI,EN2005a
+4077.43,4077.57,D,m,EN2005a
+4077.54,4087.92,B,"data is is there . There's I mean there's hub set A_ is transcribed I think um in final form . You we can check the Wikis . But you know , the data is rolling in . So",EN2005a
+4087.83,4097.85,D,"So we got stuck at some point on evaluation of chunking , right . The problem was you didn't have ICSI data that",EN2005a
+4097.78,4098.06,A,Or,EN2005a
+4097.85,4098.37,D,was hand,EN2005a
+4098.06,4100.07,A,AMI data,EN2005a
+4098.37,4100.13,D,labelled for chunks,EN2005a
+4100.07,4100.21,A,. N,EN2005a
+4100.13,4100.26,D,. And,EN2005a
+4100.21,4100.5,A,no,EN2005a
+4100.26,4101.29,D,we decided,EN2005a
+4100.5,4100.5,A,.,EN2005a
+4101.29,4109.39,D,labelling the ICSI data for chunks would be probably difficult and maybe not very useful . And,EN2005a
+4109.34,4109.56,B,And,EN2005a
+4109.39,4109.69,D,so,EN2005a
+4109.56,4109.92,B,but,EN2005a
+4109.69,4109.98,D,it,EN2005a
+4109.92,4110.36,B,Barbara,EN2005a
+4109.98,4110.37,D,it mi,EN2005a
+4110.36,4113.5,B,still says somebody's done this for chunks,EN2005a
+4113.14,4113.59,A,Okay,EN2005a
+4113.5,4113.7,B,. I'll,EN2005a
+4113.59,4113.81,A,. So,EN2005a
+4113.7,4114.53,B,have to look up,EN2005a
+4114.52,4114.99,D,Okay,EN2005a
+4114.53,4116.26,B,", you know , so",EN2005a
+4114.99,4124.86,D,", if there if there was if there was hand labelled data that you could evaluate again so train on some and evaluate on some , wouldn't that um 'cause you've trained on Switchboard , right , where",EN2005a
+4124.69,4124.92,A,Mm-hmm,EN2005a
+4124.86,4125.14,D,there,EN2005a
+4124.92,4124.92,A,.,EN2005a
+4125.14,4133.31,D,"there are chunks . So if you had some ICSI data that you could maybe use , I don't know",EN2005a
+4133.27,4133.86,A,Yeah,EN2005a
+4133.31,4134.03,D,", um as",EN2005a
+4133.86,4133.86,A,.,EN2005a
+4134.03,4142.79,D,a what's the n there's t there's a training set and then there's the development set and then there's the test set . Maybe you'd use some chunked ICSI stuff as development or something,EN2005a
+4142.52,4142.84,A,Mm-hmm,EN2005a
+4142.79,4142.9,D,and,EN2005a
+4142.84,4142.84,A,.,EN2005a
+4142.9,4145.94,D,do some last tweaks and then evaluate,EN2005a
+4145.39,4145.85,B,Mm .,EN2005a
+4145.94,4151.97,D,". But you know , w h I mean I can see why Wei-Xun didn't wanna spend his time chunking ICSI d",EN2005a
+4165.06,4169.25,D,Which means we have to get some portion of the data,EN2005a
+4169.06,4170.37,B,Hand-chunked,EN2005a
+4169.25,4170.11,D,hand-chunked .,EN2005a
+4170.37,4176.91,B,". Mm-hmm . But that shouldn't be that hard to do , right ? How much data do you need ?",EN2005a
+4178.61,4180.54,D,How much um,EN2005a
+4180.15,4180.63,B,I don't read,EN2005a
+4180.54,4180.92,D,well,EN2005a
+4180.63,4182.62,B,lips . What was that ? Was,EN2005a
+4182.49,4182.7,D,how,EN2005a
+4182.62,4183.62,B,it hard,EN2005a
+4182.7,4183.27,D,much,EN2005a
+4183.569,4183.569,C,.,EN2005a
+4183.62,4183.62,B,?,EN2005a
+4184.94,4188.82,D,in Switchboard . Switchboard is all chunked,EN2005a
+4188.22,4188.4,A,Yeah .,EN2005a
+4188.49,4188.94,B,Yeah,EN2005a
+4188.82,4189.08,D,. Right,EN2005a
+4188.94,4189.27,B,. They,EN2005a
+4189.08,4189.08,D,.,EN2005a
+4189.27,4195.62,B,the data how much data you need was not a problem with the Switchboard 'cause he had lots . So he didn't have to think about how much . So we,EN2005a
+4195.52,4195.88,D,Right,EN2005a
+4195.62,4196.0,B,need to know,EN2005a
+4195.88,4195.88,D,.,EN2005a
+4196.0,4198.53,B,how much data you need hand-chunked,EN2005a
+4198.25,4198.58,D,Well,EN2005a
+4198.53,4204.36,B,". And then uh how do you hand-chunk stuff , right . So you were were working on instructions for doing hand-chunking .",EN2005a
+4205.34,4205.91,A,Mm,EN2005a
+4205.76,4206.02,D,No,EN2005a
+4205.91,4205.91,A,.,EN2005a
+4206.02,4207.63,D,", you had Penn tree-bank parses , and you",EN2005a
+4207.59,4207.83,B,For,EN2005a
+4207.63,4207.86,D,made,EN2005a
+4207.83,4208.44,B,Switchboard,EN2005a
+4207.86,4208.58,D,chunks from that,EN2005a
+4208.44,4208.79,B,", yeah",EN2005a
+4208.58,4208.58,D,.,EN2005a
+4208.79,4208.92,B,. But,EN2005a
+4208.8,4209.07,A,Yeah,EN2005a
+4208.92,4209.08,B,then,EN2005a
+4209.07,4209.24,A,", yeah",EN2005a
+4209.08,4209.4,B,he,EN2005a
+4209.24,4209.63,A,", for Switchboard",EN2005a
+4209.4,4209.7,B,there,EN2005a
+4209.63,4209.93,A,", yeah",EN2005a
+4209.7,4209.94,B,were two,EN2005a
+4209.93,4209.93,A,.,EN2005a
+4209.94,4221.65,B,"possible options for uh for doing this on the AMI data . You could either um essentially go the same route as they did with the Switchboard um , you know , do the Penn tree-bank and then create the chunks off that",EN2005a
+4221.07,4221.4,D,Mm-hmm .,EN2005a
+4221.65,4227.12,B,", or you could chunk directly . And it wasn't clear to us which one of those two methods was the right way to do this .",EN2005a
+4228.82,4233.78,A,"Direct chunking , 'cause we are not going to in a tree out of the AMI data .",EN2005a
+4235.24,4235.7,B,"Right , well",EN2005a
+4235.52,4236.19,D,Is anybody,EN2005a
+4235.7,4236.27,B,", so you'd have to",EN2005a
+4236.19,4236.4,D,gonna,EN2005a
+4236.27,4236.57,B,produce,EN2005a
+4236.4,4237.08,D,parse,EN2005a
+4236.57,4237.21,B,as part of this,EN2005a
+4237.08,4237.25,D,? Is,EN2005a
+4237.21,4237.8,B,exercise,EN2005a
+4237.25,4237.87,D,any gonna try,EN2005a
+4237.8,4237.8,B,.,EN2005a
+4237.87,4239.79,D,to anybody try to parse the AMI data ?,EN2005a
+4241.01,4242.73,B,"You would've thought so , but I dunno",EN2005a
+4242.43,4242.89,A,Uh so,EN2005a
+4242.73,4242.73,B,.,EN2005a
+4242.89,4248.92,A,"th uh we uh D_F_K_I_ , 'cause they're working on some H_P_S_G_ parsing",EN2005a
+4247.9,4248.59,B,Oh yes,EN2005a
+4248.58,4248.9,C,Mm-hmm,EN2005a
+4248.59,4249.13,B,", yeah , I'd forgotten",EN2005a
+4248.9,4248.9,C,.,EN2005a
+4248.92,4249.39,A,". Yeah , might",EN2005a
+4249.13,4249.49,B,about that,EN2005a
+4249.39,4250.76,A,be,EN2005a
+4249.49,4249.49,B,.,EN2005a
+4250.76,4255.33,A,". Might be , yeah . If",EN2005a
+4255.09,4255.53,B,But that's,EN2005a
+4255.33,4255.5,A,the,EN2005a
+4255.53,4265.32,B,"not very similar . Well , I don't know very much about grammar . Is th is that similar enough that that this same method could apply that we derive chunks off the H_P_S_G_ output",EN2005a
+4265.18,4265.64,A,Uh if,EN2005a
+4265.32,4265.32,B,?,EN2005a
+4265.64,4273.4,A,uh I'm I guess that if they're different then we might just uh write another script to do the translation .,EN2005a
+4275.04,4282.88,B,"I think you might lose a lot in , you know , this step . So basically your your chunker is trained on something that was derived off Penn tree-bank",EN2005a
+4282.23,4282.61,A,Mm-hmm .,EN2005a
+4282.88,4291.42,B,". And it might be different enough that that actually causes it not to match . You know , if you're suddenly evaluating against chunks that were done using H_P_S_G_",EN2005a
+4291.39,4292.1,A,Okay,EN2005a
+4291.42,4292.24,B,I don't know about grammar,EN2005a
+4292.1,4292.37,A,. Yeah,EN2005a
+4292.24,4292.6,B,", but",EN2005a
+4292.37,4292.68,A,", yeah",EN2005a
+4292.6,4292.89,B,it,EN2005a
+4292.68,4292.92,A,. I,EN2005a
+4292.89,4292.99,B,you,EN2005a
+4292.92,4293.01,A,need,EN2005a
+4292.99,4293.13,B,know,EN2005a
+4293.01,4293.17,A,to,EN2005a
+4293.13,4293.25,B,it,EN2005a
+4293.17,4295.28,A,look at some of to see,EN2005a
+4295.04,4295.42,D,Well they're,EN2005a
+4295.28,4295.28,A,.,EN2005a
+4295.42,4303.97,D,"using the E_R_G_ , right ? The which probably has a l maybe finer g uh which I believe has finer grained distinctions",EN2005a
+4303.88,4304.3,A,Mm-hmm,EN2005a
+4303.97,4304.8,D,than,EN2005a
+4304.3,4304.3,A,.,EN2005a
+4304.8,4306.08,D,", and different labels",EN2005a
+4305.52,4306.21,B,Yeah . And,EN2005a
+4306.08,4306.29,D,", than",EN2005a
+4306.21,4306.77,B,the mappings,EN2005a
+4306.29,4307.36,D,the Penn tree-bank,EN2005a
+4306.77,4307.54,B,are can be cr,EN2005a
+4307.36,4307.36,D,.,EN2005a
+4307.54,4311.86,B,"pretty difficult for this , right ? Or is is easy to map between finer grained distinctions",EN2005a
+4311.73,4311.97,D,It's,EN2005a
+4311.86,4312.28,B,and coarser,EN2005a
+4311.97,4312.33,D,I'm t,EN2005a
+4312.28,4312.55,B,ones,EN2005a
+4312.33,4312.55,D,it's,EN2005a
+4312.55,4312.55,B,?,EN2005a
+4312.55,4315.41,D,probably easy to dumb down the,EN2005a
+4315.31,4315.47,B,Think,EN2005a
+4315.41,4316.68,D,H_P_S_G_,EN2005a
+4315.47,4315.8,B,so ?,EN2005a
+4316.68,4318.52,D,parse too . 'Cause,EN2005a
+4318.38,4318.83,A,"Yeah , yeah",EN2005a
+4318.52,4318.84,D,the Penn,EN2005a
+4318.83,4318.83,A,.,EN2005a
+4318.84,4323.62,D,tree-bank parsers are pretty minimal because they didn't wanna commit to a specific,EN2005a
+4323.23,4323.7,B,Yeah,EN2005a
+4323.62,4324.21,D,grammatical,EN2005a
+4323.7,4323.7,B,.,EN2005a
+4324.21,4326.11,D,theory . So,EN2005a
+4324.86,4325.41,A,Okay .,EN2005a
+4326.11,4343.99,D,"I mean it probably is worth looking at 'Cause they're doing this with Dan Flickinger , right ? Which is the same um parser as the Redwoods Tree-bank was made with that Alex talked about yesterday",EN2005a
+4343.3,4343.62,A,Mm-hmm .,EN2005a
+4343.99,4362.39,D,". So you can look at Redwoods parses um and see how different they are from tree-bank parses . And you might wanna talk to Alex to find out if somebody's already done this turn Redwoods stuff into tree-bank stuff so that they can compare , you",EN2005a
+4362.29,4362.75,C,Mm-hmm,EN2005a
+4362.39,4363.47,D,"know , against",EN2005a
+4362.75,4362.75,C,.,EN2005a
+4363.47,4364.61,D,results that are reported,EN2005a
+4364.58,4365.29,B,Huh,EN2005a
+4364.61,4365.37,D,on tree-bank,EN2005a
+4365.29,4365.46,B,. The,EN2005a
+4365.37,4365.37,D,.,EN2005a
+4365.46,4368.03,B,"names would suggest that this was the idea , right .",EN2005a
+4368.21,4370.29,D,Well that was the idea I believe,EN2005a
+4369.87,4370.15,B,Yeah .,EN2005a
+4370.29,4377.72,D,", but um it was supposed to be another tree-bank .",EN2005a
+4384.31,4395.3,B,Right . So y that sort of assumes that we think it's better to do this by deriving chunks from um some parsed format than just hand chunking the stuff .,EN2005a
+4396.75,4406.53,D,Well the good thing about that is that then you know that when you go through and parse you'll be getting the same chunks as when you do this process automatically . 'Cause the problem w,EN2005a
+4406.43,4406.92,B,Mm-hmm,EN2005a
+4406.53,4406.95,D,when you go,EN2005a
+4406.92,4406.92,B,.,EN2005a
+4406.95,4419.36,D,"through and hand do it is then suddenly you introduce your automatic method and your accuracy goes can go way down . I mean sometimes it doesn't if you know , sort of for part of speech tagging , you know , whether you do it by hand or machine , it's pretty",EN2005a
+4419.32,4419.71,B,Yeah,EN2005a
+4419.36,4419.75,D,much the,EN2005a
+4419.71,4419.71,B,.,EN2005a
+4419.75,4421.02,D,"same accuracy , right . But",EN2005a
+4421.41,4438.68,B,"So let's try it this way , and then that that puts off the question of um when do we have to do this to when we get H_P_S_G_ stuff , right ? So can you ask um D_F_K_I_ whether they can give us a couple AMI meetings run through their H_P_S_G_ process",EN2005a
+4438.13,4438.45,A,Mm-hmm .,EN2005a
+4438.68,4447.03,B,"? I don't even know what time scale they had in mind . I mean it is this something they w they were doing it at the moment , but I don't know whether this was very preliminary or do you remember ?",EN2005a
+4447.86,4452.68,D,They talked about it at the meeting that we went to in,EN2005a
+4454.16,4454.49,A,Twenty,EN2005a
+4454.39,4455.02,D,Twente,EN2005a
+4454.49,4454.96,A,minute,EN2005a
+4454.74,4455.31,B,Twente,EN2005a
+4454.96,4455.31,A,", yeah",EN2005a
+4455.02,4455.02,D,.,EN2005a
+4455.07,4455.46,C,Mm-hmm,EN2005a
+4455.31,4455.62,B,", yeah",EN2005a
+4455.31,4455.31,A,.,EN2005a
+4455.46,4455.46,C,.,EN2005a
+4455.62,4455.62,B,.,EN2005a
+4456.83,4461.2,D,I was thinking Enschede . Why can't I remember the n the f the right name of,EN2005a
+4461.15,4462.39,C,Mm-hmm,EN2005a
+4461.2,4463.62,D,"this place ? Yes , Twente",EN2005a
+4462.39,4462.69,C,. Contact .,EN2005a
+4463.62,4468.64,D,. Which You were there Jean,EN2005a
+4468.15,4468.56,B,Yeah .,EN2005a
+4468.64,4468.96,D,. Yeah,EN2005a
+4468.77,4470.0,A,Yeah,EN2005a
+4468.96,4469.31,D,", okay .",EN2005a
+4470.0,4470.0,A,?,EN2005a
+4471.97,4474.29,B,"Y you're expecting me to remember stuff , aren't you ?",EN2005a
+4474.71,4478.71,D,"No no no no , no no no , I I I know you missed a meeting and",EN2005a
+4478.64,4478.83,B,Oh,EN2005a
+4478.71,4479.0,D,s,EN2005a
+4478.83,4480.41,B,yeah,EN2005a
+4479.0,4480.45,D,and so there there,EN2005a
+4480.41,4480.6,B,. Oh,EN2005a
+4480.45,4480.63,D,may,EN2005a
+4480.6,4480.67,B,", I",EN2005a
+4480.63,4480.79,D,have,EN2005a
+4480.67,4480.86,B,don't,EN2005a
+4480.79,4482.33,D,been,EN2005a
+4480.86,4482.42,B,even know which one I've missed,EN2005a
+4482.33,4482.67,D,you,EN2005a
+4482.42,4482.88,B,. Brussels,EN2005a
+4482.67,4483.05,D,missed,EN2005a
+4482.88,4484.55,B,", Amsterdam",EN2005a
+4483.05,4484.07,D,the one in T_N_O_ .,EN2005a
+4484.55,4486.73,B,". T_N_O_ , okay",EN2005a
+4485.07,4488.29,A,"T_N_O_ , yeah",EN2005a
+4486.73,4489.29,B,". See , I wasn't there . So I don't know where it was",EN2005a
+4488.29,4489.37,A,. Okay . Yeah,EN2005a
+4489.29,4489.65,B,. Um,EN2005a
+4489.37,4498.09,A,", 'cause yeah they did some work bio project with the H_P_S_G_ parsing",EN2005a
+4497.27,4497.68,B,Yeah .,EN2005a
+4498.09,4499.73,A,. At least,EN2005a
+4498.36,4499.85,D,"On on which project ? Sorry , I didn't get",EN2005a
+4499.73,4501.31,A,bio,EN2005a
+4499.85,4501.45,D,"that . Verbmobil , right",EN2005a
+4501.31,4501.48,A,. Yeah,EN2005a
+4501.45,4501.84,D,. Yes,EN2005a
+4501.48,4501.86,A,", well maybe",EN2005a
+4501.7,4501.95,B,Yeah,EN2005a
+4501.84,4502.11,D,", yes",EN2005a
+4501.86,4502.91,A,. Okay,EN2005a
+4501.95,4501.95,B,.,EN2005a
+4502.11,4502.65,D,", they did .",EN2005a
+4502.69,4502.98,C,Hmm,EN2005a
+4502.91,4503.29,A,. Yeah,EN2005a
+4502.98,4502.98,C,.,EN2005a
+4503.29,4503.29,A,.,EN2005a
+4503.99,4505.89,B,"So ask 'em , right",EN2005a
+4505.19,4505.5,D,It well,EN2005a
+4505.36,4505.66,A,Okay,EN2005a
+4505.5,4506.02,D,that's,EN2005a
+4505.66,4505.66,A,.,EN2005a
+4505.89,4505.89,B,.,EN2005a
+4506.02,4509.09,D,"that's what Alex talked about yesterday , right",EN2005a
+4508.44,4508.75,A,Mm-hmm .,EN2005a
+4509.09,4516.16,D,". The parse I mean that's wasn't something she did , but that's the data she's using , right",EN2005a
+4515.38,4515.7,A,Mm-hmm .,EN2005a
+4516.16,4529.1,D,". So we have all that stuff here , you know , the parsed Verbmobil material . So you can look at that and see what the parse trees look like . You don't need to wait",EN2005a
+4528.85,4529.19,A,No,EN2005a
+4529.1,4529.28,D,for,EN2005a
+4529.19,4529.19,A,.,EN2005a
+4529.28,4538.33,D,"D_F_K_I_ . And if it turns out that you think oh , there's no way I can map these into Penn tree-bank style",EN2005a
+4537.97,4538.34,C,Mm-hmm,EN2005a
+4538.33,4539.36,D,bracketing,EN2005a
+4538.34,4538.34,C,.,EN2005a
+4539.36,4543.18,D,", then then we have to think of something else",EN2005a
+4542.94,4543.44,A,Okay,EN2005a
+4543.18,4543.61,D,", right",EN2005a
+4543.44,4544.57,A,", okay",EN2005a
+4543.61,4543.61,D,.,EN2005a
+4543.84,4544.16,C,Hmm .,EN2005a
+4544.57,4544.84,A,. Mm-hmm .,EN2005a
+4545.61,4551.03,D,"But I think they had that in mind . So it's it's worth also talking to her about that . Okay , good .",EN2005a
+4555.38,4569.99,B,"So it's talk to Alex , see if it looks like it maps by looking at the Verbmobil . If it does , ask D_F_K_I_ either for data or a time scale , and you're gonna need to know how much data you need in order to do that . So",EN2005a
+4569.38,4569.88,A,Yeah .,EN2005a
+4569.99,4572.49,B,do you have a technique for estimating how much data you'd need ?,EN2005a
+4573.74,4576.87,A,Uh not sure c uh,EN2005a
+4576.92,4579.14,B,"I don't know how you do that , so who knows how you do that ?",EN2005a
+4580.53,4583.91,D,Everybody always says there's no data like more data .,EN2005a
+4584.23,4589.27,B,"Okay . So just ask D_F_K_I_ how much data and when , right",EN2005a
+4587.52,4588.07,A,Okay .,EN2005a
+4589.27,4590.4,B,. If,EN2005a
+4591.57,4595.37,D,"You know , I mean the typical thing is to do leave one out cross validation with",EN2005a
+4595.18,4595.7,A,Yeah,EN2005a
+4595.37,4597.8,D,", you know",EN2005a
+4595.7,4595.7,A,.,EN2005a
+4596.52,4597.54,B,"Yeah , I know",EN2005a
+4597.24,4597.62,A,Yeah,EN2005a
+4597.54,4597.54,B,.,EN2005a
+4597.62,4597.62,A,.,EN2005a
+4597.8,4603.25,D,", eighty nine dialogues . Okay , so I trained on eighty eight and then",EN2005a
+4603.06,4603.64,A,Okay,EN2005a
+4603.25,4603.83,D,or I train,EN2005a
+4603.64,4603.64,A,.,EN2005a
+4603.83,4608.98,D,"on one thousand nine hundred and ninety nine and Okay , but",EN2005a
+4608.8,4609.04,B,Uh we,EN2005a
+4608.98,4609.27,D,we,EN2005a
+4609.04,4609.39,B,don't have,EN2005a
+4609.27,4609.44,D,should,EN2005a
+4609.39,4609.6,B,any,EN2005a
+4609.44,4609.65,D,speak,EN2005a
+4609.6,4610.26,B,particular,EN2005a
+4609.65,4610.33,D,to Steve . We might,EN2005a
+4610.26,4610.55,B,time,EN2005a
+4610.33,4610.85,D,have some,EN2005a
+4610.55,4610.95,B,in mind,EN2005a
+4610.85,4611.47,D,um,EN2005a
+4610.95,4613.21,B,when we need a chunker that works on this stuff . So,EN2005a
+4613.45,4621.64,D,Well the question the question is what what is chunking gonna help ? I mean I think chunking could help automatic dialogue,EN2005a
+4621.53,4621.88,B,Yeah,EN2005a
+4621.64,4622.86,D,act segmentation,EN2005a
+4621.88,4621.88,B,.,EN2005a
+4622.86,4626.42,D,". I think chunking could help , as you mentioned , named entity recognition",EN2005a
+4625.92,4626.99,B,Yeah,EN2005a
+4626.42,4626.84,D,. Um,EN2005a
+4626.99,4633.59,B,. Well I gue if we did a chunked version of the AMI data and stuck it into C_V_S_ under the automatic contributions,EN2005a
+4633.3,4633.65,D,Mm-hmm,EN2005a
+4633.59,4634.04,B,then,EN2005a
+4633.65,4633.65,D,.,EN2005a
+4634.04,4637.01,B,"um people would end up using it , 'cause they do that , right",EN2005a
+4636.75,4637.17,D,Mm-hmm,EN2005a
+4637.01,4637.6,B,. So,EN2005a
+4637.17,4637.17,D,.,EN2005a
+4637.6,4639.83,B,the question is at what stage should we put that in ?,EN2005a
+4641.45,4645.1,D,Well we'd wanna make sure we're pretty happy that it's reliable,EN2005a
+4644.97,4645.21,B,Yeah,EN2005a
+4645.1,4645.69,D,because,EN2005a
+4645.21,4649.18,B,", so post-evaluation so we can put in some idea of what the evaluation is like",EN2005a
+4649.04,4649.92,D,Mm yeah,EN2005a
+4649.18,4649.18,B,.,EN2005a
+4649.92,4657.13,D,. I mean otherwise you get these very bizarre results because the data is not really,EN2005a
+4656.86,4657.17,B,Mm-hmm,EN2005a
+4657.13,4657.38,D,very,EN2005a
+4657.17,4657.17,B,.,EN2005a
+4657.38,4667.17,D,"good . So um but I and nobody has expressed like massive interest in t in chunking . So I think , you know , nobody's uh waiting",EN2005a
+4666.91,4667.26,B,"No , but he's",EN2005a
+4667.17,4667.37,D,for,EN2005a
+4667.26,4667.62,B,relying,EN2005a
+4667.37,4668.56,D,it . But,EN2005a
+4667.62,4668.72,B,it on it th this summer,EN2005a
+4668.56,4668.72,D,but,EN2005a
+4668.72,4668.72,B,.,EN2005a
+4668.72,4679.88,D,"we could we c I think we should talk to Barbara about how to do some joint experiments or or if she's gonna be sending other people , maybe Liz or whoever comes over next time . Uh and",EN2005a
+4679.79,4680.24,B,Mm-hmm,EN2005a
+4679.88,4680.34,D,it would actually,EN2005a
+4680.24,4680.24,B,.,EN2005a
+4680.34,4686.48,D,"be great if it was Liz , because I think she is the one who did the dialogue act segmentation",EN2005a
+4686.46,4686.66,B,So,EN2005a
+4686.48,4687.04,D,automatic,EN2005a
+4686.66,4689.06,B,when when do you think that would be ? When when is she sending,EN2005a
+4689.02,4689.21,D,She,EN2005a
+4689.06,4690.55,B,somebody,EN2005a
+4689.21,4690.64,D,just said that hopefully,EN2005a
+4690.55,4690.67,B,? Oh,EN2005a
+4690.64,4690.81,D,by,EN2005a
+4690.67,4690.88,B,for the,EN2005a
+4690.81,4690.92,D,the,EN2005a
+4690.88,4691.14,B,next,EN2005a
+4690.92,4691.35,D,next,EN2005a
+4691.14,4691.77,B,one,EN2005a
+4691.35,4691.78,D,meeting,EN2005a
+4691.61,4692.04,C,Mm,EN2005a
+4691.77,4692.19,B,", mm-hmm",EN2005a
+4691.78,4692.23,D,she would,EN2005a
+4692.04,4692.04,C,.,EN2005a
+4692.19,4692.19,B,.,EN2005a
+4692.23,4696.11,D,"be bringing someone else , or someone else would be coming instead of her",EN2005a
+4695.5,4695.8,C,Mm-hmm .,EN2005a
+4696.09,4696.19,B,But,EN2005a
+4696.11,4696.62,D,", remember",EN2005a
+4696.19,4696.67,B,that's a pretty,EN2005a
+4696.62,4696.62,D,?,EN2005a
+4696.67,4701.56,B,"tight time scale then , right , 'cause it'd be for the fall we'd wanna know the evaluation . Is",EN2005a
+4701.5,4701.61,D,The,EN2005a
+4701.56,4701.76,B,that,EN2005a
+4701.61,4702.81,D,th,EN2005a
+4701.76,4702.9,B,the time scale you're thinking of,EN2005a
+4702.81,4703.16,D,not,EN2005a
+4702.9,4703.19,B,or,EN2005a
+4703.16,4707.65,D,"to have not to have it done , but just to talk about how it could",EN2005a
+4707.38,4707.82,B,How it could,EN2005a
+4707.65,4708.46,D,interact,EN2005a
+4707.82,4708.22,B,be done .,EN2005a
+4708.46,4709.74,D,with automatic dialogue act,EN2005a
+4709.67,4709.99,B,Yeah,EN2005a
+4709.74,4711.2,D,segmentation,EN2005a
+4709.99,4709.99,B,.,EN2005a
+4711.2,4721.13,D,. Um and we I guess we should talk to Yoshi about about it in relationship to named entities . Who's uh who's doing named entities besides Yoshi,EN2005a
+4720.18,4721.88,B,Uh that's all I think,EN2005a
+4721.13,4721.95,D,? Okay,EN2005a
+4721.88,4722.08,B,. Uh,EN2005a
+4721.95,4724.18,D,. So we could talk to Vasilis about that as well .,EN2005a
+4724.39,4736.7,B,"Mm-hmm . I think you should still ask Barbara again , you know , c can you have another think about who might have the chunking stuff . 'Cause she has said several times there must be somebody and she can help with that . And um I think she's just forgotten . So",EN2005a
+4739.4,4739.81,D,And then,EN2005a
+4739.83,4742.47,B,"So and then we can evaluate on the ICSI , you know , pretty easily .",EN2005a
+4745.74,4784.57,D,"So one thing that would be very helpful for me because I haven't read I think we're in a situation where Jean , you know , has read a lot of literature and I've read a lot of literature and we there is some overlap , but there's also quite a big space where we don't know the literature from the other side . And since you're gonna be reading it , I mean it would be probably be useful if you made some kind of , you know , report that described , you know , okay , this what these people you know , this is , you know , a synthesis okay , here's the basic idea behind exchange structure and , you know , here's a couple of you know , here's the two most relevant works that I've read or something like that , you know",EN2005a
+4784.49,4784.79,B,Yeah,EN2005a
+4784.57,4785.09,D,", to just",EN2005a
+4784.79,4792.44,B,", even if it's just a you know , on a Wiki the um the references and then why they're relevant , right . I mean you don't wanna make this",EN2005a
+4792.35,4792.56,D,Or,EN2005a
+4792.44,4792.63,B,really,EN2005a
+4792.56,4792.76,D,even,EN2005a
+4792.63,4793.07,B,formal,EN2005a
+4792.76,4793.12,D,just like,EN2005a
+4793.07,4793.22,B,", or do",EN2005a
+4793.12,4794.01,D,a paragraph,EN2005a
+4793.22,4794.18,B,you,EN2005a
+4794.01,4794.25,D,of,EN2005a
+4794.18,4794.41,B,? Yeah,EN2005a
+4794.25,4794.41,D,", you",EN2005a
+4794.41,4794.45,B,", a",EN2005a
+4794.41,4794.57,D,know,EN2005a
+4794.45,4794.94,B,paragraph,EN2005a
+4794.57,4795.08,D,", the basic",EN2005a
+4794.94,4795.57,B,each,EN2005a
+4795.08,4795.88,D,idea . Just,EN2005a
+4795.57,4795.9,B,. Yeah,EN2005a
+4795.88,4796.73,D,because,EN2005a
+4795.9,4795.9,B,.,EN2005a
+4796.73,4801.68,D,", you know , obviously I'm not gonna go rea off and read all this kind of stuff because I don't have time . And",EN2005a
+4801.62,4802.02,A,Hmm,EN2005a
+4801.68,4802.09,D,you probably,EN2005a
+4801.91,4802.35,B,Yeah,EN2005a
+4802.02,4802.31,A,hmm,EN2005a
+4802.09,4802.37,D,don't have,EN2005a
+4802.31,4802.31,A,.,EN2005a
+4802.35,4802.35,B,.,EN2005a
+4802.37,4803.94,D,time to read all this collaborative prol,EN2005a
+4803.93,4804.04,B,But,EN2005a
+4803.94,4804.19,D,problem,EN2005a
+4804.04,4804.34,B,that wou,EN2005a
+4804.19,4804.39,D,solving,EN2005a
+4804.34,4804.48,B,that,EN2005a
+4804.39,4804.58,D,. So,EN2005a
+4804.48,4813.73,B,"would help us be a lot more specific ab than than just um you know , listing bullet points on slides cause then we'd know sort of which literature you're thinking of um putting",EN2005a
+4813.64,4814.07,A,Okay,EN2005a
+4813.73,4814.35,B,in and we could,EN2005a
+4814.07,4815.13,A,". Yeah , yeah",EN2005a
+4814.35,4815.26,B,read the most,EN2005a
+4815.13,4815.55,A,. Yeah,EN2005a
+4815.26,4815.67,B,important,EN2005a
+4815.35,4815.66,D,Well,EN2005a
+4815.55,4815.55,A,.,EN2005a
+4815.66,4815.76,D,in,EN2005a
+4815.67,4816.18,B,argumentative,EN2005a
+4815.76,4816.32,D,"any way , every",EN2005a
+4816.18,4816.44,B,stuff,EN2005a
+4816.32,4816.48,D,time,EN2005a
+4816.44,4816.44,B,.,EN2005a
+4816.48,4818.13,D,"you write a paper , you've got to go back",EN2005a
+4818.04,4818.14,B,I,EN2005a
+4818.13,4818.3,D,and,EN2005a
+4818.14,4818.33,B,can,EN2005a
+4818.3,4818.45,D,do,EN2005a
+4818.33,4818.57,B,have,EN2005a
+4818.45,4818.63,D,this,EN2005a
+4818.57,4818.75,B,these,EN2005a
+4818.63,4819.11,D,related,EN2005a
+4818.75,4819.44,B,things anyway,EN2005a
+4819.11,4819.65,D,work thing,EN2005a
+4819.44,4819.74,B,", yeah",EN2005a
+4819.65,4820.11,D,anyway,EN2005a
+4819.74,4819.74,B,.,EN2005a
+4820.11,4821.83,D,. So it just it,EN2005a
+4821.79,4822.33,B,Yeah,EN2005a
+4821.83,4822.35,D,just makes,EN2005a
+4822.33,4822.33,B,.,EN2005a
+4822.35,4824.42,D,it a lot easier um to get that,EN2005a
+4825.77,4826.0,B,Mm-hmm,EN2005a
+4825.81,4826.26,D,common,EN2005a
+4826.0,4826.0,B,.,EN2005a
+4826.18,4827.41,A,'Kay,EN2005a
+4826.26,4827.61,D,"ground I think , you know",EN2005a
+4827.41,4827.66,A,. Yeah,EN2005a
+4827.61,4827.71,D,. I,EN2005a
+4827.66,4827.95,A,", yeah",EN2005a
+4827.71,4828.01,D,think it's a,EN2005a
+4827.95,4827.95,A,.,EN2005a
+4828.01,4837.11,D,"real advantage that we've read different things and come at it from a different side because I think this ha they the the previous approaches haven't really ,",EN2005a
+4837.7,4838.79,B,Mm-hmm,EN2005a
+4838.49,4839.22,D,you know,EN2005a
+4838.79,4839.31,B,. They haven't addressed,EN2005a
+4839.22,4842.07,D,", taken",EN2005a
+4839.31,4840.62,B,this problem . Yeah .,EN2005a
+4842.07,4848.59,D,"you know , the good features from , you know , both sides and and tried to put them together .",EN2005a
+4848.79,4850.02,B,Yeah,EN2005a
+4849.59,4849.84,A,Hmm .,EN2005a
+4850.02,4851.25,B,. I'm gonna have to go very soon,EN2005a
+4851.09,4851.46,D,Yeah,EN2005a
+4851.25,4851.53,B,because,EN2005a
+4851.46,4851.69,D,", me",EN2005a
+4851.53,4851.75,B,I've got,EN2005a
+4851.69,4852.09,D,too,EN2005a
+4851.75,4852.17,B,this,EN2005a
+4852.09,4852.09,D,.,EN2005a
+4852.17,4855.84,B,um this hearing to go to . But uh,EN2005a
+4855.59,4855.9,D,I can,EN2005a
+4855.84,4856.21,B,so,EN2005a
+4855.9,4856.27,D,send,EN2005a
+4856.21,4856.33,B,the,EN2005a
+4856.27,4856.47,D,you,EN2005a
+4856.33,4856.92,B,practical,EN2005a
+4856.47,4856.68,D,a l,EN2005a
+4856.92,4860.43,B,"actions , you know , what are the things we're gonna go away and do . Yeah",EN2005a
+4860.25,4860.55,D,Well,EN2005a
+4860.43,4860.43,B,.,EN2005a
+4860.55,4873.14,D,"I think we both wanna send w well , I don't know , maybe you've already done this , but I you know , I will send you or we can , you know , chat off-line for a minute a about a list of things that I think you really need to take a look at",EN2005a
+4873.08,4873.41,A,Yeah,EN2005a
+4873.14,4873.79,D,. And,EN2005a
+4873.41,4873.62,A,", yeah .",EN2005a
+4873.79,4877.07,D,"Jean , probably maybe you should do the same",EN2005a
+4876.9,4877.46,A,Okay,EN2005a
+4877.07,4877.51,D,. Um,EN2005a
+4877.46,4878.91,A,". S so then later , yeah ? Okay .",EN2005a
+4880.34,4884.48,D,"And if Sabrina has any ideas , we'd be happy to hear from Sabrina as well",EN2005a
+4883.96,4884.28,C,Yeah .,EN2005a
+4884.48,4886.59,D,. Um,EN2005a
+4886.18,4891.97,C,Um right now d uh I'm doing I'm trying to do the uh meeting action segmentation,EN2005a
+4891.55,4891.87,D,Mm-hmm .,EN2005a
+4891.97,4903.23,C,. J because uh after talking to Jane um just uh we have different ideas whether uh meeting action will be about the same size as topic segments,EN2005a
+4902.96,4903.43,D,Okay,EN2005a
+4903.23,4903.55,C,. So,EN2005a
+4903.43,4903.75,D,. Yeah,EN2005a
+4903.55,4904.15,C,um,EN2005a
+4903.75,4904.03,D,. Mm-hmm .,EN2005a
+4904.15,4909.91,C,"it would be good to um t right now I'm doing this , um looking at the data and trying to see",EN2005a
+4909.78,4910.06,D,Mm-hmm,EN2005a
+4909.91,4910.15,C,if,EN2005a
+4910.06,4910.06,D,.,EN2005a
+4910.15,4913.06,C,I can do the meeting action segmentation first and,EN2005a
+4913.02,4913.13,D,M,EN2005a
+4913.06,4916.39,C,"the scheme , and then do topic segmentation again",EN2005a
+4916.16,4916.52,D,Mm-hmm,EN2005a
+4916.39,4916.54,C,to,EN2005a
+4916.52,4916.52,D,.,EN2005a
+4916.54,4919.88,C,see if the boundary actually coincide with each other,EN2005a
+4919.3,4919.95,D,Hmm,EN2005a
+4919.88,4920.22,C,. Yeah,EN2005a
+4919.95,4920.34,D,. Yeah,EN2005a
+4920.22,4920.6,C,", if",EN2005a
+4920.34,4920.34,D,.,EN2005a
+4920.6,4923.91,C,"if that that do , then maybe we can talk again",EN2005a
+4923.66,4925.29,B,Yeah,EN2005a
+4923.91,4925.79,C,whether um i it,EN2005a
+4925.29,4925.91,B,. So you can do this,EN2005a
+4925.79,4926.08,C,it make,EN2005a
+4925.91,4926.5,B,exercise,EN2005a
+4926.08,4928.09,C,sense,EN2005a
+4926.5,4928.37,B,and then come and talk to me some time next,EN2005a
+4928.09,4928.71,C,. Mm-hmm,EN2005a
+4928.37,4928.77,B,week,EN2005a
+4928.71,4928.71,C,.,EN2005a
+4928.77,4931.96,B,". I'm not in Monday , but the other days I'll be around",EN2005a
+4931.35,4932.04,C,Alright,EN2005a
+4931.96,4932.19,B,. Mm-hmm,EN2005a
+4932.04,4932.63,C,", yeah",EN2005a
+4932.19,4932.19,B,.,EN2005a
+4932.63,4945.28,C,. Um I have just started . And um so far um I s think uh it's uh it I think it it's a still um about the s about the same level of segmentation we're,EN2005a
+4945.13,4946.77,B,Yeah,EN2005a
+4945.28,4947.02,C,talking here . But uh,EN2005a
+4946.77,4947.34,B,. Yeah,EN2005a
+4947.02,4947.59,C,maybe,EN2005a
+4947.34,4947.47,B,. S,EN2005a
+4947.59,4950.56,C,the boundary will not be exactly the same,EN2005a
+4950.49,4950.84,B,Yeah,EN2005a
+4950.56,4951.38,C,. But uh,EN2005a
+4950.84,4951.45,B,", so this this",EN2005a
+4951.38,4951.66,C,that,EN2005a
+4951.45,4951.95,B,is interesting,EN2005a
+4951.66,4952.24,C,that,EN2005a
+4951.95,4952.37,B,", but i",EN2005a
+4952.24,4952.37,C,the,EN2005a
+4952.37,4952.55,B,w,EN2005a
+4952.37,4952.98,C,segment,EN2005a
+4952.55,4955.91,B,I don't think we can afford to l um look at this right now,EN2005a
+4955.59,4956.33,C,Mm-hmm,EN2005a
+4955.91,4956.34,B,. So why don't you,EN2005a
+4956.33,4957.05,C,", right",EN2005a
+4956.34,4957.29,B,bring it by,EN2005a
+4957.05,4958.32,C,", sure",EN2005a
+4957.29,4958.78,B,um next week,EN2005a
+4958.32,4958.6,C,. Yeah .,EN2005a
+4958.78,4961.71,B,? And i what I really wanna do concentrate just now is,EN2005a
+4961.56,4961.97,C,Mm-hmm,EN2005a
+4961.71,4962.28,B,is finding,EN2005a
+4961.97,4961.97,C,.,EN2005a
+4962.28,4965.04,B,out the how we're gonna help um,EN2005a
+4964.74,4965.55,C,Mm,EN2005a
+4965.04,4965.45,B,Wei-Xun,EN2005a
+4965.22,4965.56,D,Mm-hmm,EN2005a
+4965.45,4965.79,B,with,EN2005a
+4965.55,4966.98,C,", sure",EN2005a
+4965.56,4965.56,D,.,EN2005a
+4965.79,4967.14,B,with making progress on this,EN2005a
+4966.98,4967.33,C,. Yes,EN2005a
+4967.14,4967.43,B,. So we've,EN2005a
+4967.33,4967.33,C,.,EN2005a
+4967.43,4975.26,B,"already got you know , he's gonna um construct a list of the references he thinks is important , and Johanna and I and and you as well are gonna contribute to that",EN2005a
+4974.58,4974.99,C,Mm-hmm .,EN2005a
+4975.26,4978.35,B,. And we can put that on a Wiki or we can do it some other way . I mean,EN2005a
+4978.19,4979.86,C,Mm-hmm,EN2005a
+4978.29,4978.5,A,Okay,EN2005a
+4978.35,4978.71,B,you know,EN2005a
+4978.5,4978.5,A,.,EN2005a
+4978.71,4980.24,B,I'm Wiki mad . So,EN2005a
+4979.86,4980.05,C,. Hmm .,EN2005a
+4980.24,4984.75,B,"um if we share it , it should go on a Wiki 'cause I can't find anything in my email . But , you know , you",EN2005a
+4984.66,4985.1,A,Yeah,EN2005a
+4984.75,4985.17,B,don't have,EN2005a
+4985.1,4985.77,A,", it's",EN2005a
+4985.17,4985.68,B,to do that .,EN2005a
+4985.77,4986.18,A,yeah,EN2005a
+4985.92,4986.38,C,Hmm,EN2005a
+4986.18,4986.18,A,.,EN2005a
+4986.33,4986.85,B,Um,EN2005a
+4986.38,4986.38,C,.,EN2005a
+4986.85,5030.05,B,"and then uh how do we you're actually so what you're doing is taking all of the the the most important references for um finding argument structure that might i eventually be of some use to a meeting browser and trying to look at actual data and apply and and see like which one helps you figure out what you're actually gonna do with this particular data , right . So it seems to me that we should take like the front-runner scheme and the data and you should look at not front-runner scheme but front-runner theory and i see if you can speak to the data , you know , using that kind of theory at some point . And might might be an interesting exercise , right ?",EN2005a
+5030.23,5047.6,D,"Well I think we need to um , like you mentioned earlier , um factor in what this might be used for in the end . And so even if it we won't it won't be used , maybe if it would need some higher level analysis before it could be directly",EN2005a
+5047.39,5048.21,B,The update,EN2005a
+5047.6,5048.71,D,used for that purpose,EN2005a
+5048.21,5048.21,B,.,EN2005a
+5048.71,5060.89,D,", we should still keep that in mind . And so I think going through the presentations that um were given at the work package six meeting where",EN2005a
+5060.5,5060.83,B,Mm-hmm .,EN2005a
+5060.89,5064.27,D,um and I think it was um,EN2005a
+5063.3,5063.57,C,Hmm .,EN2005a
+5064.27,5086.28,D,"it wasn't wha was it Anita or was it oh I've forgotten her name , the other woman um from Twente , you know , they talked about they did they had done a lot of questionnaires , and they got some user requirements out of that . And then Steve presented um the results of following people around and looking at how they used their notes from",EN2005a
+5086.15,5086.58,B,Mm-hmm,EN2005a
+5086.28,5087.89,D,meetings,EN2005a
+5086.58,5086.58,B,.,EN2005a
+5087.17,5087.29,C,Hmm .,EN2005a
+5087.89,5099.52,D,". And and so that would give us some ideas about , you know , what people want , you know , out of meeting records . But then we should also add things that we think",EN2005a
+5099.14,5099.55,B,Yeah,EN2005a
+5099.52,5099.71,D,are,EN2005a
+5099.55,5099.76,B,. But,EN2005a
+5099.71,5100.86,D,interesting,EN2005a
+5099.76,5100.94,B,that's a good starting point,EN2005a
+5100.86,5101.0,D,. But,EN2005a
+5100.94,5101.3,B,", yeah",EN2005a
+5101.0,5101.37,D,just to,EN2005a
+5101.3,5101.3,B,.,EN2005a
+5101.37,5108.3,D,have to keep some of these goals in mind 'cause they're t o one scheme might let you answer this set of questions but wouldn't help you at all,EN2005a
+5108.25,5108.55,B,That'll,EN2005a
+5108.3,5108.76,D,with another,EN2005a
+5108.55,5109.3,B,be the,EN2005a
+5108.76,5109.71,D,set of questions,EN2005a
+5109.3,5109.88,B,Exactly,EN2005a
+5109.71,5109.71,D,.,EN2005a
+5109.88,5122.87,B,", yeah . So you wanna go through basically the user requirements and , you know , maybe think about some user requirements of your own and make a case for , you know , these are the kinds of things that we'd want , and look , you're gonna need um this kind of dialogue or argument structure for it .",EN2005a
+5122.96,5132.48,D,So should we expect that all the slides from like the work package six meeting or the joint work package five work pa will be u up on one of the work package web sites ? And if,EN2005a
+5132.46,5134.83,B,Um,EN2005a
+5132.48,5134.6,D,"not , how do we make that happen ?",EN2005a
+5134.83,5136.73,B,uh uh I'll think,EN2005a
+5136.65,5137.36,D,Hmm,EN2005a
+5136.73,5137.19,B,about that .,EN2005a
+5137.36,5161.57,D,"okay . Some of this was presented in at least the one spider phone or the second spider phone telecon I went to for work package six . So if they're not on the web we can try to look at that , you know , at the materials that were presented in that telecon without necessarily listening to the whole telecon . Yeah ?",EN2005a
+5161.71,5163.87,B,Yeah . So we're just trying to get records,EN2005a
+5163.64,5163.76,D,Wh,EN2005a
+5163.87,5164.99,B,. I mean I'm sure they're not on the web,EN2005a
+5164.96,5165.15,D,And,EN2005a
+5164.99,5165.7,B,yet,EN2005a
+5165.15,5165.83,D,Steve,EN2005a
+5165.7,5166.02,B,. So,EN2005a
+5165.83,5169.05,D,"m and his I've forgotten the name , is it was it Simon , his",EN2005a
+5168.69,5169.1,B,Yeah,EN2005a
+5169.05,5169.67,D,yeah,EN2005a
+5169.1,5169.1,B,.,EN2005a
+5169.67,5172.99,D,. They they've I think they may have written this up um,EN2005a
+5172.83,5173.17,B,Mm-hmm,EN2005a
+5172.99,5173.2,D,in a,EN2005a
+5173.17,5173.52,B,", yeah",EN2005a
+5173.2,5173.88,D,report,EN2005a
+5173.52,5173.52,B,.,EN2005a
+5173.88,5177.98,D,"um , but I wou would hope that's on the work package six web site",EN2005a
+5177.76,5179.2,B,Yeah,EN2005a
+5177.98,5178.37,D,as well .,EN2005a
+5179.2,5194.21,B,". Okay . So so we're gonna go through the requirements like that and did did you think that's that was reasonable to after that to try and um actually , you know , take some theory that seems fairly reasonable and think about the particular",EN2005a
+5193.89,5194.32,D,I do,EN2005a
+5194.21,5194.44,B,data,EN2005a
+5194.32,5194.54,D,as,EN2005a
+5194.44,5194.58,B,and,EN2005a
+5194.54,5194.72,D,i,EN2005a
+5194.58,5194.73,B,come,EN2005a
+5194.72,5195.12,D,once,EN2005a
+5194.73,5195.04,B,and talk ?,EN2005a
+5195.12,5197.55,D,he's read a couple more,EN2005a
+5197.35,5198.04,B,Yeah,EN2005a
+5197.55,5198.08,D,I mean he's,EN2005a
+5198.04,5198.17,B,. I,EN2005a
+5198.08,5198.33,D,just,EN2005a
+5198.17,5198.36,B,there's,EN2005a
+5198.33,5198.77,D,completely,EN2005a
+5198.36,5199.12,B,a few references,EN2005a
+5198.77,5199.31,D,missed out,EN2005a
+5199.12,5199.86,B,missing,EN2005a
+5199.31,5200.08,D,the collaborative,EN2005a
+5199.86,5200.2,B,. Yeah,EN2005a
+5200.08,5200.37,D,problem,EN2005a
+5200.2,5200.2,B,.,EN2005a
+5200.37,5210.97,D,"solving world , which I d I really think we need to take into account . I mean you may take it into account and say no , you're wrong , and here's why , but I I I'm gonna need some convincing .",EN2005a
+5212.14,5216.76,B,"Yep . So then try front-runner scheme on , well , a front-runner",EN2005a
+5216.43,5216.78,D,Or t,EN2005a
+5216.76,5217.27,B,theory,EN2005a
+5216.78,5217.33,D,or or,EN2005a
+5217.27,5217.27,B,.,EN2005a
+5217.33,5224.49,D,"two and see this one gives you this and this g and can't you know , are they fundamentally incompatible . Or can we",EN2005a
+5223.19,5225.51,B,Yeah . But try it informally,EN2005a
+5224.49,5225.58,D,"yeah , mm-hmm",EN2005a
+5225.51,5225.8,B,. Yep,EN2005a
+5225.58,5225.58,D,.,EN2005a
+5225.8,5229.84,B,", mm-hmm . When do we get together again ? 'Cause I really do have to go",EN2005a
+5229.55,5229.92,D,Okay,EN2005a
+5229.84,5229.96,B,. I,EN2005a
+5229.92,5229.92,D,.,EN2005a
+5229.96,5231.2,B,promised these guys I'd be there .,EN2005a
+5231.46,5236.27,D,I think this is gonna take about three weeks 'cause he's got plenty of reading to do,EN2005a
+5235.59,5236.5,B,Uh-huh . But,EN2005a
+5236.27,5236.57,D,. So,EN2005a
+5236.5,5236.53,B,w,EN2005a
+5236.57,5239.63,D,maybe we get together again in,EN2005a
+5238.11,5239.69,B,"Reading lists before that though , so",EN2005a
+5239.63,5239.99,D,the,EN2005a
+5239.69,5239.97,B,right ?,EN2005a
+5239.99,5242.05,D,"yeah , I mean , I'll send them the references immediately",EN2005a
+5241.51,5242.3,B,So we'll get together,EN2005a
+5242.05,5242.05,D,.,EN2005a
+5242.3,5243.93,B,in about three weeks,EN2005a
+5243.57,5244.09,A,Okay,EN2005a
+5243.93,5244.27,B,. Uh,EN2005a
+5244.09,5244.09,A,.,EN2005a
+5244.78,5247.43,D,Is that enough time for you do you think,EN2005a
+5247.05,5249.06,A,Sorry ? You mean,EN2005a
+5247.43,5249.21,D,? Is that enough time for you to to,EN2005a
+5249.06,5249.62,A,mm,EN2005a
+5249.21,5249.65,D,read,EN2005a
+5249.62,5249.62,A,.,EN2005a
+5249.65,5250.65,D,and think about,EN2005a
+5251.59,5252.73,A,"I will try my best , yeah",EN2005a
+5252.71,5252.85,D,If,EN2005a
+5252.73,5252.73,A,.,EN2005a
+5252.85,5255.67,D,"y if if it's too tight , you know , I think m",EN2005a
+5255.6,5255.86,A,Oh,EN2005a
+5255.67,5256.02,D,we can,EN2005a
+5255.86,5256.54,A,yeah,EN2005a
+5256.02,5256.56,D,say four,EN2005a
+5256.54,5256.82,A,. Uh,EN2005a
+5256.56,5256.95,D,. Or are,EN2005a
+5256.82,5257.03,A,I,EN2005a
+5256.95,5257.06,D,you,EN2005a
+5257.03,5257.68,A,m,EN2005a
+5257.06,5258.13,D,gonna be on holiday,EN2005a
+5257.68,5258.23,A,I,EN2005a
+5258.13,5258.13,D,?,EN2005a
+5258.23,5264.97,A,"might yeah , 'cause uh Julie and the boy is here . So . it's a little tiring 'cause my parents have left",EN2005a
+5264.76,5266.2,D,Yeah,EN2005a
+5264.97,5265.62,A,. Uh yeah,EN2005a
+5265.16,5265.57,B,Uh-huh .,EN2005a
+5265.62,5266.22,A,. So I might,EN2005a
+5266.2,5266.51,D,. Maybe,EN2005a
+5266.22,5266.6,A,take two,EN2005a
+5266.51,5266.81,D,four,EN2005a
+5266.6,5267.07,A,weeks,EN2005a
+5266.81,5267.64,D,weeks,EN2005a
+5267.07,5267.68,A,off two,EN2005a
+5267.64,5269.26,D,? Okay,EN2005a
+5267.68,5269.69,A,"weeks off in uh May , yeah , sometimes",EN2005a
+5269.26,5270.08,D,. Okay,EN2005a
+5269.69,5270.16,A,", yeah",EN2005a
+5270.08,5270.22,D,. So,EN2005a
+5270.16,5270.41,A,. Off,EN2005a
+5270.22,5270.49,D,we should,EN2005a
+5270.41,5272.31,A,", yeah",EN2005a
+5270.49,5271.66,D,get together probably in about four,EN2005a
+5271.47,5271.72,B,Four,EN2005a
+5271.66,5272.16,D,weeks,EN2005a
+5271.72,5272.3,B,"weeks , yeah",EN2005a
+5272.16,5273.1,D,", yes",EN2005a
+5272.3,5272.3,B,.,EN2005a
+5272.31,5273.16,A,". Okay , thanks",EN2005a
+5273.1,5273.26,D,. So,EN2005a
+5273.16,5273.16,A,.,EN2005a
+5273.26,5282.93,D,when are you gonna bring this beautiful baby in to see everybody,EN2005a
+5276.16,5278.5,C,Mm,EN2005a
+5277.1,5278.63,A,"Uh yeah , hope",EN2005a
+5278.5,5278.74,C,. I want,EN2005a
+5278.63,5278.79,A,I,EN2005a
+5278.74,5278.94,C,to,EN2005a
+5278.79,5279.09,A,hope,EN2005a
+5278.94,5280.9,C,see,EN2005a
+5279.09,5285.05,A,so very soon . Yeah . Yeah,EN2005a
+5280.9,5280.9,C,.,EN2005a
+5282.93,5283.6,D,? Good,EN2005a
+5283.49,5285.05,C,Something,EN2005a
+5283.6,5284.55,D,", good . That's great .",EN2005a
+5285.05,5285.3,C,. Sure,EN2005a
+5285.05,5285.05,A,.,EN2005a
+5285.3,5285.3,C,.,EN2005a
+5286.28,5287.77,B,Right . I'm gonna head off .,EN2005a
+5287.81,5288.38,D,Yep . Well,EN2005a
+5288.25,5289.37,A,Okay,EN2005a
+5288.38,5289.67,D,good luck,EN2005a
+5289.06,5289.37,C,Mm-hmm,EN2005a
+5289.22,5290.22,B,C 'cause,EN2005a
+5289.37,5289.37,C,.,EN2005a
+5289.37,5289.83,A,", thanks",EN2005a
+5289.67,5290.06,D,solving,EN2005a
+5289.83,5289.83,A,.,EN2005a
+5290.06,5291.65,D,your problem,EN2005a
+5290.22,5291.95,B,floods are more important than dialogue structure,EN2005a
+5291.65,5292.11,D,. I,EN2005a
+5291.95,5292.43,B,", I'm afraid",EN2005a
+5292.11,5292.72,D,have,EN2005a
+5292.43,5292.43,B,.,EN2005a
+5292.72,5297.84,D,to tick and tick ? It does something weird when you do that .,EN2005a

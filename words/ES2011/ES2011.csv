@@ -1,0 +1,3924 @@
+Start,End,Speaker,Speech,meeting
+34.27,64.28,A,"Here we go . Welcome everybody . Um , I'm Abigail Claflin . You can call me Abbie . 'S see . PowerPoint , that's not it . There we go . So this is our kick off meeting . Um and I guess we should all get acquainted . Let's shall we all introduce ourselves ?",ES2011a
+65.0,77.37,D,"Hi I'm Chiara , I'm the um Marketing Expert . Um , would you like me to talk about my aims at the moment , or would you like me to just say my name and then we can talk about business",ES2011a
+77.04,77.4,A,I think,ES2011a
+77.37,77.78,D,later,ES2011a
+77.4,77.98,A,we'll get around,ES2011a
+77.78,77.78,D,?,ES2011a
+77.98,78.99,A,"to that , yeah",ES2011a
+78.93,79.03,D,We'll,ES2011a
+78.99,79.17,A,. So,ES2011a
+79.03,79.25,D,get,ES2011a
+79.17,79.28,A,this,ES2011a
+79.25,79.47,D,round,ES2011a
+79.28,79.51,A,is,ES2011a
+79.47,79.53,D,to,ES2011a
+79.51,79.75,A,just,ES2011a
+79.53,80.51,D,that later,ES2011a
+79.75,80.6,A,introductions,ES2011a
+80.51,80.65,D,. My,ES2011a
+80.6,80.79,A,yeah,ES2011a
+80.65,80.86,D,name,ES2011a
+80.79,80.79,A,.,ES2011a
+80.86,82.89,D,is Chiara and I'm the Marketing Expert .,ES2011a
+82.98,89.24,A,"Okay . I forgot to s say I'm the Project Manager but I figured you all knew that already , um so",ES2011a
+89.02,89.79,C,I'm Stephanie,ES2011a
+89.24,89.24,A,.,ES2011a
+89.79,93.1,C,and I am the User Interface Designer .,ES2011a
+93.94,95.68,B,I'm Krista and I'm the Industrial Designer .,ES2011a
+96.02,164.1,A,"Okay . Um so f here's our agenda for today . Um we're gonna do some tool training , project plan and discuss then close . Um so . So our aim is to produce a remote control that is original , trendy and user friendly . And to do this , we have to um there's certain things we have to consider about functional aspects and conceptual design of the thing . So . We'll get to that . Oh there it is . Right . Functional design , conceptual design and detailed design . So throughout our next couple of meetings we'll we'll be covering these things . Um so we're gonna try out our white board . If we'll all draw our favourite animal , to sum up the characteristics of that animal .",ES2011a
+166.81,166.95,C,So,ES2011a
+166.85,167.28,A,Okay,ES2011a
+166.95,167.33,C,you want us to,ES2011a
+167.28,167.28,A,.,ES2011a
+167.33,169.81,C,draw it and then talk about it ? Or just draw it ?,ES2011a
+172.05,173.57,D,I think both,ES2011a
+173.16,174.02,A,Yeah,ES2011a
+173.16,173.91,C,Okay,ES2011a
+173.57,173.57,D,.,ES2011a
+173.91,174.09,C,. Why don't,ES2011a
+174.02,174.84,A,. Both,ES2011a
+174.09,175.93,C,we do both,ES2011a
+174.84,176.7,A,. Yeah,ES2011a
+175.8,176.81,D,Who starts,ES2011a
+175.93,176.24,C,. Right .,ES2011a
+176.7,176.7,A,.,ES2011a
+176.81,180.79,D,? We ought to decide who starts and all that . No,ES2011a
+180.64,180.84,A,Any,ES2011a
+180.79,181.08,D,? Uh-huh,ES2011a
+180.84,182.69,A,volunteers,ES2011a
+181.08,181.08,D,.,ES2011a
+182.69,184.96,A,? Does anyone know what they wanna draw,ES2011a
+184.17,185.05,C,"Mm , I gotta think",ES2011a
+184.96,184.96,A,?,ES2011a
+185.05,195.19,C,"about it for a second like . Uh Does it have to be functional , trendy and user friendly",ES2011a
+194.51,195.53,A,I,ES2011a
+195.19,195.19,C,?,ES2011a
+195.53,196.54,A,don't think so,ES2011a
+196.53,197.03,C,Um,ES2011a
+196.54,196.54,A,.,ES2011a
+197.03,205.25,C,". Okay , I'll draw . I'll draw one . Make sure my things here .",ES2011a
+220.69,220.87,C,Uh-oh .,ES2011a
+229.48,229.96,C,Right .,ES2011a
+239.31,243.49,C,"Okay , my favourite animal is see .",ES2011a
+261.76,262.14,C,Oops .,ES2011a
+265.48,269.33,A,A dolphin,ES2011a
+266.6,268.61,C,"Yeah , it's",ES2011a
+269.33,270.51,A,. 'S like playing Pictionary,ES2011a
+270.31,270.55,C,"Yeah , I",ES2011a
+270.51,270.51,A,.,ES2011a
+270.55,272.79,C,"guess it has a fin on top too , yeah .",ES2011a
+279.83,280.44,C,It's my dolphin .,ES2011a
+280.98,286.21,A,So what characteristics do you like about your animal,ES2011a
+284.36,286.58,C,I like its tail . Um,ES2011a
+286.21,286.21,A,?,ES2011a
+286.58,299.44,C,", no , I think dolphins are really uh I dunno , they're smart and they they're cute and they like swimming and that's cool , like",ES2011a
+298.53,299.25,A,They're graceful .,ES2011a
+299.44,301.18,C,"they're graceful yeah , and they're so",ES2011a
+302.85,305.48,A,Sleek,ES2011a
+303.57,306.17,C,Yeah they're sleek and they look intelligent and,ES2011a
+305.48,305.48,A,.,ES2011a
+306.17,309.76,C,"I don't know , they're I guess it's the whole like binocular",ES2011a
+309.22,309.77,A,I don't know how,ES2011a
+309.76,310.06,C,vision,ES2011a
+309.77,310.41,A,intelligent,ES2011a
+310.06,310.31,C,thing .,ES2011a
+310.41,313.88,A,that one looks,ES2011a
+311.39,314.42,C,Yeah he he doesn't look that smart,ES2011a
+313.88,313.88,A,.,ES2011a
+314.42,339.67,C,". He's a I dunno um they're I think it's cool the the um the interaction that or the th things that the reasons people seem to like you know you get ex you know people are sitting on the beach and p they're like oh look there's dolphins and it's kinda like but they're you know they jump around in the water and they're happy and they're mammals , but they",ES2011a
+338.96,342.37,A,Yes . Does,ES2011a
+339.67,340.88,C,swim .,ES2011a
+342.37,345.4,A,anybody else wanna draw their animal ?,ES2011a
+346.66,349.35,B,"Suppose I can draw an animal , yeah .",ES2011a
+376.0,381.32,A,. Uh-oh there goes the ten . It's a cat,ES2011a
+379.95,380.22,B,Yeah .,ES2011a
+381.32,381.32,A,.,ES2011a
+386.04,389.07,B,"I don't know . They sleep all day , they're easy to draw .",ES2011a
+394.66,395.63,A,Do you wanna,ES2011a
+395.22,396.26,D,Uh yeah,ES2011a
+395.63,396.47,A,anything ? I dunno,ES2011a
+396.26,396.54,D,. Well,ES2011a
+396.47,396.6,A,if,ES2011a
+396.54,396.6,D,I,ES2011a
+396.6,397.31,A,the,ES2011a
+396.6,396.8,D,had,ES2011a
+396.66,396.9,B,I think,ES2011a
+396.8,397.25,D,the cat,ES2011a
+396.9,397.43,B,the pen is,ES2011a
+397.25,397.43,D,as,ES2011a
+397.31,398.29,A,the,ES2011a
+397.43,398.01,D,well,ES2011a
+397.43,398.04,B,running out of,ES2011a
+398.01,399.21,D,", but",ES2011a
+398.29,398.62,A,ah .,ES2011a
+399.21,408.43,D,uh I've got a spare one . So I'll use the spare one . Um but it's harder to draw,ES2011a
+408.26,408.47,C,And,ES2011a
+408.43,408.73,D,um,ES2011a
+408.47,408.88,C,the pen's,ES2011a
+408.73,408.73,D,.,ES2011a
+408.88,410.71,C,dying,ES2011a
+409.82,410.49,D,Um .,ES2011a
+410.71,410.71,C,.,ES2011a
+414.06,414.18,A,A,ES2011a
+414.09,414.45,D,Uh,ES2011a
+414.18,414.97,A,horse,ES2011a
+414.39,415.17,C,Horse,ES2011a
+414.45,414.45,D,.,ES2011a
+414.97,414.97,A,.,ES2011a
+415.17,415.17,C,.,ES2011a
+419.01,421.29,D,Um I don't really know,ES2011a
+421.19,421.4,A,That's,ES2011a
+421.29,421.43,D,how,ES2011a
+421.4,421.62,A,very,ES2011a
+421.43,421.97,D,the legs,ES2011a
+421.62,421.91,A,good .,ES2011a
+421.97,449.27,D,"go , but anyway I will do that . Um , and the main reason is they're pretty . I think they're very pretty and they go well with the environment , and I like the way they run and I used to do horse riding and they're just very sort of sturdy and nice animals . And I like the way um they feel , sort of under under the hand , I think that's pretty much it . Um",ES2011a
+450.4,450.63,A,Yeah .,ES2011a
+458.82,460.78,A,This cord's,ES2011a
+468.02,475.0,A,Uh . Right . Actually I haven't thought of anything yet . Uh,ES2011a
+487.56,502.34,A,"It's a pig . So I'm thinking we should design a remote control that's water resistant , strong and furry . What do you think , yeah",ES2011a
+502.1,502.67,C,And furry,ES2011a
+502.34,503.04,A,? This is,ES2011a
+502.67,502.67,C,.,ES2011a
+503.04,505.53,A,"yeah , well like a cat , you know",ES2011a
+505.36,506.14,C,Textile,ES2011a
+505.53,508.46,A,", soft yeah",ES2011a
+506.14,508.54,C,"tactile , tactile remote",ES2011a
+508.46,508.75,A,. Although,ES2011a
+508.54,508.83,C,control,ES2011a
+508.75,508.88,A,uh,ES2011a
+508.83,508.83,C,.,ES2011a
+508.88,514.07,A,I'll just put there . Right .,ES2011a
+515.09,520.35,C,You're dragging a you have a tail,ES2011a
+517.2,519.56,A,"Oh my gosh , this is disastrous .",ES2011a
+520.35,520.35,C,.,ES2011a
+521.83,550.99,A,"Sorry about that . Okay . So moving on . Our selling price goal is twenty five Euro and profit aim is fifty million Euro . So I'm guessing that we're not actually in Scotland , we're in some European country . Um , and we will hope to sell this internationally .",ES2011a
+551.61,554.93,C,Sorry can you just say that what's the what are our price goals again ?,ES2011a
+555.49,558.88,A,Um selling price is twenty five Euro,ES2011a
+557.6,558.2,C,Okay .,ES2011a
+558.88,563.14,A,. Profit aim fifty million Euro .,ES2011a
+567.89,571.92,D,"How many should we sell then ? Um , a lot",ES2011a
+571.73,572.09,A,Anyone,ES2011a
+571.92,572.3,D,", two",ES2011a
+572.09,574.26,A,a mathematician,ES2011a
+572.3,574.59,D,two two million,ES2011a
+574.26,574.26,A,?,ES2011a
+574.59,577.6,D,", two mi no , more f four million .",ES2011a
+577.98,578.43,B,Two million .,ES2011a
+578.64,584.9,D,Four million . And it well it's the profit so if a profit for each is twelve,ES2011a
+584.77,585.11,B,Oh,ES2011a
+584.9,585.76,D,fifty,ES2011a
+585.11,585.45,B,", yeah .",ES2011a
+585.76,586.81,D,", that'll do four million .",ES2011a
+597.77,599.67,D,It is a lot . Uh .,ES2011a
+614.41,654.36,A,"So f that's a fifty percent um uh . Um , I don't know what these mean because I didn't actually make the slide-show . Experience with remote control . So I guess we have to reflect on our experiences with remote controls to decide what um we would like to see in a convenient , practical , nice remote control . Um so do we have any initial ideas for uh how this remote control should be designed or formatted or the the buttons",ES2011a
+654.15,654.89,D,Um,ES2011a
+654.36,654.95,A,it should have,ES2011a
+654.89,655.04,D,", I",ES2011a
+654.95,654.95,A,.,ES2011a
+655.04,658.49,D,think one thing is that it should be easy to find,ES2011a
+658.36,658.61,C,I was,ES2011a
+658.49,659.15,D,bec,ES2011a
+658.61,659.66,C,thinking that too,ES2011a
+659.15,659.66,D,yeah,ES2011a
+659.66,660.0,A,Yeah,ES2011a
+659.66,660.06,D,bec,ES2011a
+659.66,660.07,C,. I think,ES2011a
+660.0,660.0,A,.,ES2011a
+660.07,668.1,C,"we should design something that has like a so you can like somehow like you I mean you always know where your T_V_ is , so just have a call button , I've always wanted that",ES2011a
+668.04,668.3,D,Yeah,ES2011a
+668.1,668.37,C,", so",ES2011a
+668.26,669.45,A,Yeah,ES2011a
+668.3,668.51,D,", yeah",ES2011a
+668.37,668.82,C,like,ES2011a
+668.51,668.87,D,yeah,ES2011a
+668.82,668.88,C,you,ES2011a
+668.87,669.21,D,yeah,ES2011a
+668.88,669.24,C,can push,ES2011a
+669.21,669.31,D,yeah,ES2011a
+669.24,669.32,C,a,ES2011a
+669.31,669.31,D,.,ES2011a
+669.32,669.58,C,button,ES2011a
+669.45,669.69,A,. I mean,ES2011a
+669.58,669.81,C,on your,ES2011a
+669.69,669.98,A,you have,ES2011a
+669.81,670.63,C,T_V_,ES2011a
+669.98,670.76,A,it for the portable,ES2011a
+670.63,671.37,C,Yeah,ES2011a
+670.76,671.4,A,"phone , so",ES2011a
+671.37,671.75,C,", yeah",ES2011a
+671.4,671.86,A,why not,ES2011a
+671.75,671.95,C,yeah,ES2011a
+671.86,672.22,A,yeah,ES2011a
+671.95,672.23,C,"yeah , so",ES2011a
+672.22,672.22,A,.,ES2011a
+672.23,674.67,C,you should have a call button on your television to,ES2011a
+674.61,675.03,D,Yeah,ES2011a
+674.67,675.3,C,be able to find,ES2011a
+675.03,675.03,D,.,ES2011a
+675.3,676.09,C,your remote control .,ES2011a
+676.52,686.59,D,And even I think a little light . Um or even a maybe a vib a vibrating thing . I dunno but someth because it's usually under the sofa .,ES2011a
+687.41,688.06,C,Yeah,ES2011a
+687.55,688.4,D,In which case,ES2011a
+688.06,688.37,C,. Yeah .,ES2011a
+688.4,692.47,D,you're going to be l but if it has a sort of signal which isn't any sound I don't know,ES2011a
+692.38,693.94,C,Yeah,ES2011a
+692.47,694.12,D,if it's expensive maybe to,ES2011a
+693.94,697.21,C,. I don't yeah I mean it,ES2011a
+695.09,697.04,D,Maybe call is enough . But yeah .,ES2011a
+697.21,701.29,C,but like I mean just I mean like your phone even just has so,ES2011a
+701.17,701.46,D,Yeah,ES2011a
+701.29,701.57,C,like,ES2011a
+701.46,701.65,D,yeah,ES2011a
+701.57,701.73,C,it,ES2011a
+701.65,701.99,D,yeah,ES2011a
+701.73,702.47,C,can vibrate,ES2011a
+701.99,701.99,D,.,ES2011a
+702.47,704.51,C,", it can light up and make",ES2011a
+704.23,704.77,D,Yeah,ES2011a
+704.51,704.87,C,noise,ES2011a
+704.77,704.77,D,.,ES2011a
+704.87,705.68,C,and I dunno .,ES2011a
+712.88,725.17,A,What if it had something like um just like a magnet on the back of it and you could I mean j just to have some place to put it besides like a base,ES2011a
+724.86,725.85,C,Yeah,ES2011a
+725.17,726.14,A,. You know like a portable,ES2011a
+725.85,726.22,C,. Yeah,ES2011a
+726.14,726.44,A,phone,ES2011a
+726.22,726.49,C,", or if it",ES2011a
+726.44,726.81,A,has,ES2011a
+726.49,727.46,C,had a,ES2011a
+726.81,728.35,A,a base,ES2011a
+727.46,728.15,C,yeah .,ES2011a
+728.35,732.56,A,", like just to have a home for it",ES2011a
+730.69,731.77,D,Yeah yeah yeah yeah .,ES2011a
+731.8,732.61,C,"Yeah , I mean",ES2011a
+732.56,738.11,A,". 'Cause people just stick it on top of their T_V_ , but the point of having a remote is not to have to walk over to the T_V_",ES2011a
+737.84,738.37,C,Yeah,ES2011a
+738.11,738.56,A,", so",ES2011a
+738.32,738.42,B,Well,ES2011a
+738.37,738.37,C,.,ES2011a
+738.42,739.66,B,that's why it's always in the couch,ES2011a
+739.65,740.31,A,Yeah,ES2011a
+739.66,739.66,B,.,ES2011a
+739.79,740.53,C,Yeah,ES2011a
+740.31,740.31,A,.,ES2011a
+740.53,746.0,C,", in in the couch . I dunno , it seems like though that that would be hard , 'cause",ES2011a
+745.76,746.05,A,Yeah,ES2011a
+746.0,746.16,C,you,ES2011a
+746.05,746.05,A,.,ES2011a
+746.16,747.22,C,not you're not gonna be lazy,ES2011a
+747.22,747.39,A,Maybe,ES2011a
+747.22,747.65,C,anyway,ES2011a
+747.39,747.73,A,we should,ES2011a
+747.65,748.05,C,and,ES2011a
+747.73,749.73,A,design couches that have the remote control,ES2011a
+749.65,749.86,C,Yeah,ES2011a
+749.73,750.47,A,in,ES2011a
+749.86,750.6,C,so we,ES2011a
+750.47,750.96,A,the side,ES2011a
+750.6,751.02,C,the project,ES2011a
+750.96,752.38,A,arm,ES2011a
+751.02,752.07,C,is now couches and,ES2011a
+751.96,752.12,D,But,ES2011a
+752.07,752.32,C,remote,ES2011a
+752.12,752.43,D,even,ES2011a
+752.32,753.57,C,controls,ES2011a
+752.38,752.38,A,.,ES2011a
+752.43,753.6,D,just a thing to attach,ES2011a
+753.57,753.57,C,.,ES2011a
+753.6,758.69,D,"it to the w you know if you had a thing , a pretty object attached to the wall . But that would really",ES2011a
+758.47,758.94,C,Yeah,ES2011a
+758.69,758.96,D,make,ES2011a
+758.94,758.94,C,.,ES2011a
+758.96,763.9,D,"it more expensive . But it's only a plastic thing , r",ES2011a
+763.74,764.14,C,Yeah,ES2011a
+763.9,764.29,D,really,ES2011a
+764.06,764.4,A,Yeah,ES2011a
+764.14,764.14,C,.,ES2011a
+764.29,764.63,D,", the thing",ES2011a
+764.4,764.4,A,.,ES2011a
+764.63,766.84,D,on the wall . Something like that . And the other,ES2011a
+766.76,766.89,A,Do you,ES2011a
+766.84,767.08,D,thing,ES2011a
+766.89,767.15,A,think it,ES2011a
+767.08,767.42,D,is,ES2011a
+767.15,771.07,A,"needs to be bigger to not lose , or does that",ES2011a
+771.01,771.57,C,Bigger,ES2011a
+771.07,771.59,A,not factor,ES2011a
+771.52,771.91,D,Not,ES2011a
+771.57,771.57,C,.,ES2011a
+771.59,771.88,A,in ?,ES2011a
+771.91,772.57,D,well it needs,ES2011a
+772.44,772.74,A,Like,ES2011a
+772.57,773.85,D,to be sort of,ES2011a
+773.93,774.71,A,Hand,ES2011a
+774.43,775.47,C,Hand-sized,ES2011a
+774.71,775.16,A,hand held,ES2011a
+775.06,776.03,D,Yeah,ES2011a
+775.16,775.56,A,size,ES2011a
+775.47,775.47,C,.,ES2011a
+775.56,775.82,A,", yeah .",ES2011a
+776.03,777.2,D,. I don't think you need a,ES2011a
+777.62,779.33,A,"Not not huge , but",ES2011a
+779.48,781.66,D,But definitely not well I don't know .,ES2011a
+781.67,784.96,C,It can't be that hard to put some kind of a noise on it,ES2011a
+784.93,785.3,D,No,ES2011a
+784.96,784.96,C,.,ES2011a
+785.3,786.05,D,", it can't be",ES2011a
+785.67,786.19,B,No it really,ES2011a
+786.02,786.14,C,Or,ES2011a
+786.05,786.33,D,", uh-uh",ES2011a
+786.14,786.93,C,like,ES2011a
+786.19,786.49,B,wouldn't,ES2011a
+786.22,786.72,A,Huh,ES2011a
+786.33,786.33,D,.,ES2011a
+786.49,786.76,B,be,ES2011a
+786.72,786.72,A,.,ES2011a
+786.76,786.76,B,.,ES2011a
+786.93,791.61,C,or like a light thing . You know . I dunno,ES2011a
+790.56,792.11,D,Like spaceship,ES2011a
+791.61,793.03,C,. Yeah,ES2011a
+792.11,793.37,D,. Right . Um,ES2011a
+793.03,801.11,C,. Or make it mobile so it runs around and comes come find you yeah . That would be really I'm sure we could do that for twenty five,ES2011a
+800.95,801.14,A,Little,ES2011a
+801.11,801.38,C,Euros,ES2011a
+801.14,801.48,A,homing,ES2011a
+801.38,802.76,C,a pop,ES2011a
+801.48,804.07,A,device,ES2011a
+802.76,804.86,C,. Yeah . Uh,ES2011a
+804.07,804.63,A,. Um .,ES2011a
+804.86,804.86,C,.,ES2011a
+805.9,812.93,A,Okay . So what do we think this remote control should Five minutes .,ES2011a
+813.01,813.45,D,Oh dear .,ES2011a
+814.08,816.87,A,Till the meeting oh right . This is what we have left .,ES2011a
+818.79,819.05,C,I also,ES2011a
+819.02,820.29,A,Um,ES2011a
+819.05,820.34,C,think though that,ES2011a
+820.29,820.48,A,", oh",ES2011a
+820.34,820.66,C,it shouldn't,ES2011a
+820.48,821.53,A,we just,ES2011a
+820.66,822.31,C,"have too many buttons , 'cause I hate",ES2011a
+822.2,822.45,B,Yeah,ES2011a
+822.31,822.47,C,that,ES2011a
+822.45,822.55,B,", I",ES2011a
+822.47,822.59,C,when,ES2011a
+822.55,823.76,B,agree,ES2011a
+822.59,824.46,C,they have too many buttons and,ES2011a
+823.76,824.01,B,. B_,ES2011a
+823.78,824.07,D,Yeah,ES2011a
+823.85,824.15,A,Yeah,ES2011a
+824.01,824.32,B,button,ES2011a
+824.07,824.25,D,", yeah",ES2011a
+824.15,824.15,A,.,ES2011a
+824.25,824.61,D,yeah,ES2011a
+824.32,824.54,B,and the,ES2011a
+824.46,824.55,C,I,ES2011a
+824.54,824.8,B,F_,ES2011a
+824.55,824.68,C,mean,ES2011a
+824.61,824.61,D,.,ES2011a
+824.68,824.91,C,I know,ES2011a
+824.8,825.04,B,button,ES2011a
+824.91,825.14,C,it has,ES2011a
+825.04,825.15,B,", they",ES2011a
+825.14,825.25,C,to,ES2011a
+825.15,825.37,B,don't,ES2011a
+825.25,825.41,C,have,ES2011a
+825.37,825.54,B,do,ES2011a
+825.41,825.58,C,enough,ES2011a
+825.54,826.26,B,anything,ES2011a
+825.58,826.29,C,functions,ES2011a
+826.26,826.26,B,.,ES2011a
+826.29,832.24,C,"but like , I don't know you , just have like eight thousand buttons and you're like , no , you never use half of them",ES2011a
+832.09,832.61,A,You,ES2011a
+832.24,832.35,C,. So .,ES2011a
+832.61,842.32,A,"what if um may be a little fancy but what if it had like a little screen , so it has less buttons but it still has all the functions",ES2011a
+841.87,842.72,C,That would be cool,ES2011a
+842.32,842.65,A,. Like the,ES2011a
+842.58,843.23,D,Yeah,ES2011a
+842.65,842.76,A,way,ES2011a
+842.72,842.72,C,.,ES2011a
+842.76,843.46,A,a mobile phone,ES2011a
+843.23,843.23,D,.,ES2011a
+843.46,843.97,A,does .,ES2011a
+844.08,847.41,C,Yeah . I mean it just seems like,ES2011a
+846.74,847.81,A,So you could like,ES2011a
+847.41,847.84,C,yeah,ES2011a
+847.81,848.96,A,um,ES2011a
+847.84,847.84,C,.,ES2011a
+848.96,855.54,A,"like if you have I dunno if you have satellite if you have a hundred channels , you can the way you do it on your radio is that you uh what do you call",ES2011a
+855.47,856.9,D,Select,ES2011a
+855.54,856.94,A,it s y yeah but you,ES2011a
+856.9,857.15,D,. Uh,ES2011a
+856.94,857.3,A,can,ES2011a
+857.15,857.15,D,.,ES2011a
+857.3,863.08,A,"programme , so you can programme like your favourite channels , so like if you had a s",ES2011a
+862.76,866.85,D,"But , would you have the screen on the thing , or would you have it on the telly transmitting the screen .",ES2011a
+867.12,869.12,A,That's something we could decide,ES2011a
+868.88,869.54,D,Because,ES2011a
+868.88,869.16,C,I guess,ES2011a
+869.12,869.74,A,. Mm,ES2011a
+869.16,870.17,C,they would go together,ES2011a
+869.74,869.74,A,.,ES2011a
+870.17,871.13,C,somehow ? I dunno .,ES2011a
+871.4,878.2,D,"Because , I don't know if it's I think it's e expensive , if you have if you use the telly screen , 'cause the telly's",ES2011a
+877.82,878.22,A,Yeah,ES2011a
+878.2,878.56,D,already,ES2011a
+878.22,878.22,A,.,ES2011a
+878.56,885.71,D,"a screen , then you can pro sort of have a programming function , really easy sort of arrow up and down , on",ES2011a
+885.6,885.86,A,Yeah,ES2011a
+885.71,886.35,D,the remote,ES2011a
+885.86,885.86,A,.,ES2011a
+886.35,888.14,D,", and then use the telly as a screen .",ES2011a
+889.78,891.24,A,Right,ES2011a
+889.91,890.86,D,But um,ES2011a
+891.24,891.24,A,.,ES2011a
+892.85,893.21,C,I'm thinking,ES2011a
+893.12,893.25,D,But,ES2011a
+893.21,893.47,C,kind,ES2011a
+893.25,893.63,D,yeah for,ES2011a
+893.47,893.66,C,of,ES2011a
+893.63,897.88,D,sure . Something like not it's not on the button but it's telling you what to do,ES2011a
+897.83,898.82,A,Yeah,ES2011a
+897.88,898.61,D,", is that what you mean ?",ES2011a
+898.82,899.17,A,. Yeah .,ES2011a
+900.39,901.3,D,Right . Mm .,ES2011a
+901.7,923.18,C,"Or like you h you see those you know people I'm thinking of like celebrity cribs kind of things when like they have all those these things that at their house you know their their entire house is so electronic , and they have like this one master control that and it's like a hand held like turns on everything sort of control and it has like a screen and like so I think it should be possible to have some kind of a screen , I don't know",ES2011a
+923.13,923.39,D,Yeah,ES2011a
+923.18,924.08,C,if,ES2011a
+923.39,923.39,D,.,ES2011a
+924.08,927.69,C,it must be it would probably must be ex too expensive though t like I dunno .,ES2011a
+927.84,928.15,D,But like,ES2011a
+928.14,928.29,A,Mm,ES2011a
+928.15,928.53,D,mobile,ES2011a
+928.29,928.29,A,.,ES2011a
+928.53,929.61,D,phones have screens,ES2011a
+929.5,930.07,C,Yeah,ES2011a
+929.61,930.52,D,and they're cheap,ES2011a
+930.07,930.77,C,", yeah",ES2011a
+930.52,930.52,D,.,ES2011a
+930.77,930.98,C,. Yeah,ES2011a
+930.78,931.96,A,Yeah,ES2011a
+930.98,931.41,C,that's true .,ES2011a
+931.96,935.54,A,". I mean , we have to remember our budget is twelve point",ES2011a
+935.17,935.49,D,Yeah .,ES2011a
+935.54,938.55,A,twelve fifty for to actually make the device,ES2011a
+938.29,938.72,C,Mm,ES2011a
+938.55,938.55,A,.,ES2011a
+938.72,938.72,C,.,ES2011a
+940.66,941.19,A,Um,ES2011a
+940.7,941.33,C,"Well , I guess",ES2011a
+941.19,941.45,A,but it's,ES2011a
+941.33,941.5,C,we have,ES2011a
+941.45,941.76,A,something,ES2011a
+941.5,941.82,C,to get to,ES2011a
+941.76,941.83,A,to,ES2011a
+941.82,942.0,C,that,ES2011a
+941.83,942.02,A,think,ES2011a
+942.0,942.29,C,later,ES2011a
+942.02,942.98,A,"about , yeah",ES2011a
+942.29,942.75,C,", yeah .",ES2011a
+942.98,945.47,A,. I mean we'll have to see how much that would be,ES2011a
+945.27,945.91,D,Or some,ES2011a
+945.47,945.47,A,.,ES2011a
+945.91,948.65,D,it i we can find out probably on the,ES2011a
+948.6,949.07,A,Yeah,ES2011a
+948.65,950.06,D,internet,ES2011a
+949.07,949.07,A,.,ES2011a
+950.06,961.28,D,"how much it's Um . Yeah , and the other thing you said that thing about robust and water um What was the word",ES2011a
+960.98,961.5,C,Furry,ES2011a
+961.28,961.64,D,? Water,ES2011a
+961.5,961.5,C,.,ES2011a
+961.64,962.51,D,resistant,ES2011a
+962.2,965.23,A,Oh I,ES2011a
+962.51,965.56,D,". No but it's I thought , ah",ES2011a
+965.23,966.65,A,was,ES2011a
+965.56,967.04,D,", spot on",ES2011a
+966.65,967.37,A,just,ES2011a
+967.04,970.16,D,". Good feel , tact tactile",ES2011a
+968.74,969.04,A,Yeah .,ES2011a
+970.16,974.36,D,", good tactile feel , maybe something didn doesn't make your hands sweat lot .",ES2011a
+974.61,975.82,C,"Yeah . Mm , mm",ES2011a
+975.78,976.03,D,That's,ES2011a
+975.82,975.82,C,.,ES2011a
+976.03,976.8,D,quite annoying .,ES2011a
+980.74,987.71,A,"Maybe um just like a simple thing to have a clip on it , like so you can clip it to your",ES2011a
+986.93,987.36,C,Yeah .,ES2011a
+987.71,988.6,A,like that's another,ES2011a
+989.2,994.22,D,"Yeah , clip . Ooh . Um .",ES2011a
+997.66,1022.02,A,"Um . We should probably start wrapping up , um we've got some initial ideas that we can all look into . Um , and come up with some new ones for the next meeting , which will be in another thirty minutes . Um . So . Yeah . The Industrial Designer , what does that stand",ES2011a
+1021.85,1022.1,B,Yeah,ES2011a
+1022.02,1022.23,A,for,ES2011a
+1022.1,1022.33,B,I think,ES2011a
+1022.23,1022.46,A,", I_D_",ES2011a
+1022.33,1022.62,B,so,ES2011a
+1022.46,1023.53,A,", yeah",ES2011a
+1022.62,1022.62,B,.,ES2011a
+1023.53,1039.99,A,"um is going to be looking more into the working design . So I guess you'd be looking at lots of the things we discussed about screen and um that sort of thing . The something , what is the U_I_",ES2011a
+1038.69,1039.17,B,User .,ES2011a
+1039.55,1040.03,C,That's me,ES2011a
+1039.99,1040.29,A,? Yeah,ES2011a
+1040.03,1040.03,C,.,ES2011a
+1040.29,1042.22,A,", what does it stand for again",ES2011a
+1041.22,1042.23,C,"Uh , User Interface",ES2011a
+1042.22,1042.47,A,? User,ES2011a
+1042.23,1043.12,C,design,ES2011a
+1042.47,1043.22,A,Interface,ES2011a
+1043.12,1043.12,C,.,ES2011a
+1043.22,1055.96,A,Designer . So that's gonna be more technical . I guess that maybe the working design has also to do with like the physical feat like just,ES2011a
+1055.07,1056.15,C,So,ES2011a
+1055.96,1056.18,A,the way,ES2011a
+1056.15,1056.61,C,technical,ES2011a
+1056.18,1056.66,A,it looks,ES2011a
+1056.53,1056.62,B,The,ES2011a
+1056.61,1057.2,C,function,ES2011a
+1056.62,1056.91,B,working,ES2011a
+1056.66,1057.25,A,and,ES2011a
+1056.91,1057.33,B,design,ES2011a
+1057.2,1057.2,C,.,ES2011a
+1057.25,1057.49,A,the way,ES2011a
+1057.33,1057.89,B,is,ES2011a
+1057.49,1057.67,A,it w,ES2011a
+1057.89,1058.91,B,the structure .,ES2011a
+1059.08,1059.79,A,"Yeah , yeah .",ES2011a
+1060.88,1063.74,C,What is technical functions exactl I I don't really know what,ES2011a
+1063.89,1067.37,A,"Um , I guess you'd have to find out",ES2011a
+1067.15,1067.69,D,It says,ES2011a
+1067.37,1067.37,A,.,ES2011a
+1067.42,1067.84,B,Um,ES2011a
+1067.69,1067.86,D,on,ES2011a
+1067.84,1067.84,B,.,ES2011a
+1067.86,1068.72,D,that email,ES2011a
+1068.68,1068.75,B,It,ES2011a
+1068.72,1068.91,D,but,ES2011a
+1068.75,1068.88,B,was,ES2011a
+1068.79,1068.91,C,It,ES2011a
+1068.88,1068.99,B,in,ES2011a
+1068.91,1069.03,D,it,ES2011a
+1068.91,1069.26,C,does,ES2011a
+1068.99,1070.18,B,the email,ES2011a
+1069.26,1070.59,C,but it I just don't really,ES2011a
+1070.18,1070.95,B,. I wrote down what,ES2011a
+1070.87,1071.08,D,It,ES2011a
+1070.95,1071.22,B,mine,ES2011a
+1071.08,1071.74,D,said,ES2011a
+1071.22,1072.03,B,were,ES2011a
+1071.71,1072.32,C,Yeah,ES2011a
+1071.74,1072.38,D,um,ES2011a
+1072.03,1072.03,B,.,ES2011a
+1072.32,1072.32,C,.,ES2011a
+1074.26,1075.12,D,It said,ES2011a
+1075.1,1079.64,C,"What effect should the thing ha should it have , okay . Alright",ES2011a
+1079.12,1079.75,D,Yeah like,ES2011a
+1079.64,1080.96,C,. And working design . Okay,ES2011a
+1080.93,1081.15,D,Be,ES2011a
+1080.96,1080.96,C,.,ES2011a
+1081.15,1083.24,D,a medium between you and the telly,ES2011a
+1083.04,1083.46,C,Yeah,ES2011a
+1083.24,1083.71,D,I think,ES2011a
+1083.46,1084.35,C,", yeah",ES2011a
+1083.6,1083.9,A,Mm,ES2011a
+1083.71,1084.06,D,", that's",ES2011a
+1083.9,1083.9,A,.,ES2011a
+1084.06,1084.23,D,uh,ES2011a
+1084.35,1088.29,C,". Alright . And how it works , okay . Right . I'm I'm on task .",ES2011a
+1088.3,1091.61,A,"And the M_E_ , what does that stand for ? M",ES2011a
+1092.1,1092.54,B,Marketing .,ES2011a
+1092.74,1093.25,A,Marketing,ES2011a
+1092.84,1093.56,D,Marketing,ES2011a
+1093.25,1093.99,A,", right",ES2011a
+1093.56,1094.2,D,. Oh it's written,ES2011a
+1093.99,1094.86,A,. Um,ES2011a
+1094.2,1095.12,D,here,ES2011a
+1094.86,1094.86,A,.,ES2011a
+1095.12,1096.16,D,", but um .",ES2011a
+1096.93,1103.77,A,"So we'll be working on the user requirements , um Yeah",ES2011a
+1102.95,1103.32,D,Okay .,ES2011a
+1103.77,1113.77,A,. So I guess that wraps it up . I'll see you all in thirty minutes . I just did .,ES2011a
+31.54,31.8,D,Okay .,ES2011b
+33.49,83.64,A,"'Kay so we'll try to zip through this , since we're short on time . Welcome everybody . Um hope your sessions went well . Um so this is our functional design meeting , we're going to consider um user needs , technical effects , and the working design of our remote control . Um I've been taking meetings on the minute minutes on the meetings , and I'll be putting them in the shared documents folder so if there's anything you need to refer to you can find them in there . Um I I'll get the ones up for next time , um they're not finished yet . Right . Um so can we have updates from everyone from what you've worked on just kind of a quick summary of anything interesting that you'd like to share",ES2011b
+83.19,83.81,D,And I can,ES2011b
+83.64,84.22,A,or discuss,ES2011b
+83.81,84.26,D,start if,ES2011b
+84.22,84.31,A,in,ES2011b
+84.26,84.36,D,you,ES2011b
+84.31,84.93,A,this,ES2011b
+84.36,85.28,D,want,ES2011b
+84.93,86.02,A,sure,ES2011b
+85.28,85.48,D,. Mm .,ES2011b
+86.02,86.02,A,.,ES2011b
+86.24,88.39,D,Is there an order ? No . We haven't,ES2011b
+88.39,88.58,A,Hm,ES2011b
+88.39,88.88,D,decided,ES2011b
+88.58,88.58,A,?,ES2011b
+88.88,89.41,D,on an order .,ES2011b
+90.37,90.63,A,No,ES2011b
+90.38,91.73,D,First,ES2011b
+90.63,92.04,A,", any any order's fine",ES2011b
+91.73,92.74,D,. Okay,ES2011b
+92.04,92.6,A,. Yeah .,ES2011b
+92.74,95.31,D,". Um , how do I put this",ES2011b
+95.3,95.59,B,Just,ES2011b
+95.31,95.84,D,I'll just,ES2011b
+95.59,95.82,B,uh,ES2011b
+95.84,96.73,D,put the cable in .,ES2011b
+98.48,99.05,A,"Oh yeah , sorry .",ES2011b
+107.96,115.85,D,"Is that it ? Can you see ? Oh , here . Okay . So what happens it doesn't work",ES2011b
+115.32,116.01,A,It sh it,ES2011b
+115.85,115.85,D,?,ES2011b
+116.01,117.93,A,takes a few seconds I think .,ES2011b
+124.99,125.84,B,You may need to,ES2011b
+131.67,132.76,C,Who's that ?,ES2011b
+133.13,135.8,D,No . Is it in the,ES2011b
+135.74,135.83,B,But,ES2011b
+135.8,136.1,D,right,ES2011b
+135.83,136.19,B,sometimes,ES2011b
+136.1,136.48,D,thing,ES2011b
+136.19,136.51,B,you have to,ES2011b
+136.48,136.48,D,?,ES2011b
+136.51,142.44,B,"do it it's like a three set setting cycle , so press it a couple times , hold down function and then press",ES2011b
+142.19,142.91,D,Oh wait,ES2011b
+142.44,142.77,B,F_ eight .,ES2011b
+142.91,147.86,D,", um . Uh . You need to help me .",ES2011b
+148.19,151.2,A,"Uh-huh , and then press function .",ES2011b
+152.15,152.77,D,Yeah,ES2011b
+152.37,153.43,A,and F_ eight,ES2011b
+152.77,152.77,D,.,ES2011b
+153.43,153.43,A,.,ES2011b
+156.976,158.62,C,. Could you just plug it back into hers because,ES2011b
+158.5,158.78,D,Oh,ES2011b
+158.62,159.45,C,she had,ES2011b
+158.78,159.84,D,", wait . That's",ES2011b
+159.45,159.61,C,oh .,ES2011b
+159.84,160.62,D,is that it,ES2011b
+160.55,161.12,B,Adjusting,ES2011b
+160.62,160.62,D,?,ES2011b
+161.12,161.12,B,.,ES2011b
+162.66,162.99,A,Here we are .,ES2011b
+165.76,167.99,B,The cable might be a little loose or something,ES2011b
+167.91,168.04,D,Right,ES2011b
+167.99,168.22,B,. Oh,ES2011b
+168.04,168.34,D,here we,ES2011b
+168.22,168.46,B,", you got",ES2011b
+168.34,169.75,D,are,ES2011b
+168.46,168.56,B,it .,ES2011b
+169.12,170.36,A,Oh . Is it on,ES2011b
+169.75,170.59,D,. We're here,ES2011b
+170.36,170.8,A,? Okay,ES2011b
+170.59,171.1,D,. Okay,ES2011b
+170.8,170.8,A,.,ES2011b
+171.1,227.8,D,", um . In order to see what the functional requirements were to be found , um a hundred people were tested in a usability laboratory through just their habits to n know their habits were observed and questionnaires were given out . Um , the findings in in some cases matched what we were talking about . Custome Customers and users don't like the way remote controls look , they don't like the way they feel , they don't think they match their operating behaviour , and an example is what we were talking about , the buttons , they only use ten per cent of the buttons , so later on there's a study of the buttons that they use most and I think we should design according to these buttons . Easy to lose , and R_S_I_ . I don't know what R_S_I_ means . Um the person that did the questionnaire obviously did , I don't have a",ES2011b
+227.72,227.9,A,Hm,ES2011b
+227.8,228.14,D,clue,ES2011b
+227.9,227.9,A,.,ES2011b
+228.14,337.77,D,". Um , according to the frequency of use and the relevance of each buttons , I have made a list of the buttons that we should focus on in order of importance . So the most important buttons are those to do with channel selection . They're used about a hundred and sixty times per hour . And um yeah so and and people like to zap a lot apparently , so this is the order . Channel selection , teletext , volume , and power . The other ones are the settings , and they're used less than you know zero point eight to zero point five times per hour , and this means that I think we can we could have like a a button for all the settings , and then , just one , and then from there go on to the audio on the screen , either on the remote or on the television . Um , about the screen , and speech recognition , some people are more willing than others to actually pay for that . And if we look at the market , f people from well from fifteen to thirty five year old year olds , I don't really know how to describe this , um ninety one to seventy six percent of people in that age range are willing to pay more for this sort of product , while people that are above thirty five years ol um years old go from thirty five percent to eight percent , so people that are sixty five for example wouldn't actually pay for this sort of thing . Um I don't I don't know um what the decision to be made is , but I think that the people that actually do buy remotes m more are those like teenagers and young professionals and um , most likely , but we should discuss this together . And that's all I have to say about the matter",ES2011b
+337.77,338.68,A,'Kay,ES2011b
+337.77,338.26,D,", um .",ES2011b
+338.68,338.68,A,.,ES2011b
+341.89,344.56,D,Shall I what do I do ? Do I give this to someone else,ES2011b
+344.4,345.0,A,Yeah,ES2011b
+344.56,344.56,D,?,ES2011b
+345.0,345.83,A,. Just move right on .,ES2011b
+350.17,354.01,C,Right . So get this .,ES2011b
+377.81,381.85,C,"Okay so now I need to press F_ eight , what is it ?",ES2011b
+382.08,382.87,A,Uh function,ES2011b
+382.44,382.95,D,Function,ES2011b
+382.87,383.09,A,F_,ES2011b
+382.95,383.14,D,F_,ES2011b
+383.09,383.52,A,eight,ES2011b
+383.14,383.42,D,eight .,ES2011b
+383.52,383.52,A,.,ES2011b
+389.19,391.2,C,'Kay . What's function ?,ES2011b
+391.49,393.13,A,It's the little blue w it's,ES2011b
+393.08,393.19,C,Oh,ES2011b
+393.13,393.21,A,the,ES2011b
+393.19,393.54,C,function,ES2011b
+393.21,393.56,A,one,ES2011b
+393.54,393.61,C,", I",ES2011b
+393.56,393.78,A,th,ES2011b
+393.61,393.84,C,see,ES2011b
+393.78,394.57,A,yeah,ES2011b
+393.84,393.9,C,it .,ES2011b
+394.57,394.57,A,.,ES2011b
+397.68,398.38,C,There we go,ES2011b
+398.05,398.44,A,Yeah,ES2011b
+398.38,398.38,C,.,ES2011b
+398.44,398.76,A,should be,ES2011b
+405.73,406.78,A,It should be yeah .,ES2011b
+410.55,547.44,C,"Okay . Um . This my presentation about the uh technical functions design and I basically just tried to focus on um just what what functions we need and how to make that the best function for the user . So uh and I just sort of like thought about it myself and looked on the internet . And okay so basically um I think i uh like it is really important that we sort of get this done in a user friendly and fashionable way . Um so I think things like uh you know keeping buttons together that like close together that um are used in the same way , uh or um maybe that making 'em the same colour , keeping the number of buttons the uh leas you know to a minimum , and also things like is it is it um is it uh can you c y small enough large enough I'm not sure we c I guess we would need to do some research about , I would , about what size is appropriate and that sort of thing , um but basically we need to make sure that it turns on and off the T_V_ . Does it have like capacity to change the channels ? Um does it do or do we need to have like functions for cable or V_C_R_ ? And then , is it findable , and uh how do we wanna do that ? And um I just thought that these two remotes were pretty boring , um I dunno if this will work but And I think we can find something that's more fun to look at and use than either of those . Just I mean I like the one on the right better , just because it does have fewer buttons , uh but I mean I think we sh can sort of think about things like um like colour and you know size , shapes , that sort of thing , to best fit the user . That concludes my presentation . Okay . You need the little thingy .",ES2011b
+564.54,564.79,C,Ooh .,ES2011b
+593.58,595.47,B,How do I um,ES2011b
+599.83,599.96,D,S,ES2011b
+609.73,611.24,D,That's on view . Oh .,ES2011b
+611.4,754.22,B,"Right . Okay so this is on the working design , which is sort of the uh mechanical functions of the remote , um and the method I used was to basically look at existing designs and incorporate ideas from our last meeting . Um so I think we need two basic functions which is just the basic remote functions , the user can input a channel or volume setting and it will be output to the T_V_ . And also we talked about um a location function where maybe you could press a button on the T_V_ and it would send sort of signal to the remote where it would beep or flash or vibrate or whatever to tell you where the remote is . So the components we need are an energy source to power the remote , um input which would probably be buttons , although um we just talked about voice recognition , processor to take the information , um something to transmit it to the T_V_ , and we also need something on the remote that would receive the location signal and have an output , like possibly a beep or a vibration . And also you need a sender for location signal , which would probably be a separate um thing that we'd have to sell with the remote and people could stick it on their T_V_ or stick it on their wall . And this is just sort of an overview of how the remote works . Power comes from the battery , goes to the chip , um and then it is sent from there to an infrared bulb which is probably the easiest way to send to the T_V_ . And then for the location function , you would have a sender on the T_V_ which would output some sort of signal , um we could use I_R_ but we'd probably wanna use radio instead . That signal would go to a receiver which it would process it , and it would be output in the form of a buzzer or a light lighting up . Um so my personal preferences for how to build the remote would probably be uh , battery for the energy source , that way you wouldn't have to plug it in , um a button pad for input , um we can purchase a pre-made chip which will handle all the processing stuff , I_R_ transmitter to communicate to the T_V_ , that's just sort of standard , um so most T_V_s have an I_R_ receiver . Probably a radio receiver to send out location function and to receive it and I'd probably say a buzzer for the location function on the remote itself . So that concludes my presentation .",ES2011b
+756.06,756.37,A,'Kay,ES2011b
+756.34,756.41,C,Do,ES2011b
+756.37,756.37,A,.,ES2011b
+756.41,758.44,C,you know about like I dunno,ES2011b
+758.19,758.33,B,Mm ?,ES2011b
+758.44,760.24,C,", you seem like you know about",ES2011b
+760.21,762.3,B,"Yeah , uh I d I was an engineer",ES2011b
+761.96,763.16,C,Okay,ES2011b
+762.3,763.03,B,before I came here .,ES2011b
+763.16,763.98,C,. Cool .,ES2011b
+768.96,855.53,A,"Okay . Well thank you everybody . Um we have we'll discuss that and then I just wanna mention some new project requirements that came in . Um , teletext is apparently outdated , so due to internet popularity , so that's off the list . Um , also our remote should be used only for television , um , no extra internet kinda fancy things , just the remote and the television . Um and also we need to incorporate our corporate image onto this , so um the phrase is , we put fashion in electronics , so let's be fashionable I guess . Um if we have something I mean silver and and gold or yellow are our colours , so if we had a like a kind of silver one like you saw , and yellow writing , something like that . Okay . Um . So we need to make some decisions on the remote control functions . Um , yeah . Do Let's I guess we should yeah make some kind of brainstorming",ES2011b
+855.35,855.53,C,Like,ES2011b
+855.53,855.69,A,", see",ES2011b
+855.53,855.93,C,in terms,ES2011b
+855.69,856.12,A,what we can,ES2011b
+855.93,856.3,C,of,ES2011b
+856.87,857.62,D,How it looks,ES2011b
+857.46,857.64,C,how,ES2011b
+857.62,857.97,D,or,ES2011b
+857.64,859.14,C,"it looks , or like what",ES2011b
+859.08,859.54,A,wha,ES2011b
+859.14,859.74,C,it does,ES2011b
+859.54,860.3,A,what,ES2011b
+859.74,859.74,C,?,ES2011b
+860.3,868.57,A,um well probably our target group and how it's gonna going to appeal to our target group,ES2011b
+868.37,868.79,C,Okay,ES2011b
+868.57,869.31,A,and,ES2011b
+868.79,868.79,C,.,ES2011b
+869.31,872.99,A,I dunno the the s the buttons and what it does and,ES2011b
+872.34,873.74,C,Yeah,ES2011b
+872.99,873.91,A,that sort of thing,ES2011b
+873.74,874.09,C,. Okay,ES2011b
+873.91,874.21,A,. So,ES2011b
+874.09,874.09,C,.,ES2011b
+874.21,874.21,A,.,ES2011b
+877.54,888.51,C,So Is our target group then people so do we wanna go ahead and design this thing with the finder button ? So,ES2011b
+888.49,889.01,A,I think that,ES2011b
+888.87,889.14,B,It's,ES2011b
+889.01,889.45,A,seems,ES2011b
+889.14,889.53,B,easy to,ES2011b
+889.45,889.71,A,to,ES2011b
+889.53,890.07,B,implement,ES2011b
+889.71,890.5,A,yeah,ES2011b
+890.07,890.07,B,.,ES2011b
+890.28,891.01,C,Okay,ES2011b
+890.5,890.7,A,. Mm .,ES2011b
+891.01,892.4,C,. So,ES2011b
+891.77,892.55,D,the the,ES2011b
+892.4,892.95,C,the,ES2011b
+892.55,892.97,D,buzzer you,ES2011b
+892.95,893.32,C,yeah,ES2011b
+892.97,893.37,D,mean,ES2011b
+893.32,893.52,C,", yeah",ES2011b
+893.37,893.78,D,", yeah",ES2011b
+893.52,894.27,C,", yeah",ES2011b
+893.58,894.13,B,Locator,ES2011b
+893.78,894.28,D,", for sure",ES2011b
+894.13,894.13,B,.,ES2011b
+894.27,894.51,C,. So,ES2011b
+894.28,894.68,D,", yeah",ES2011b
+894.51,894.82,C,then,ES2011b
+894.68,894.68,D,.,ES2011b
+894.82,898.6,C,our target age group would be the nineteen to thirty five range,ES2011b
+898.52,898.75,A,Yeah,ES2011b
+898.6,898.76,C,", what",ES2011b
+898.75,899.52,A,", teenagers",ES2011b
+898.76,899.14,C,was it ?,ES2011b
+899.52,900.96,A,and young professionals,ES2011b
+900.32,901.18,D,Well that's for speech,ES2011b
+900.96,900.96,A,.,ES2011b
+901.18,902.05,D,recognition .,ES2011b
+902.6,902.85,C,Oh,ES2011b
+902.79,903.18,B,Well,ES2011b
+902.85,902.85,C,.,ES2011b
+902.96,903.47,A,Oh,ES2011b
+903.01,904.39,D,And screen,ES2011b
+903.47,903.73,A,", uh .",ES2011b
+904.39,904.95,D,. That's only for,ES2011b
+904.93,905.02,B,I,ES2011b
+904.95,905.3,D,speech,ES2011b
+905.02,905.61,B,was thinking,ES2011b
+905.3,905.92,D,recognition,ES2011b
+905.61,905.96,B,about,ES2011b
+905.92,906.1,D,and,ES2011b
+905.96,906.31,B,that,ES2011b
+906.1,906.57,D,screen,ES2011b
+906.31,907.01,B,but,ES2011b
+906.57,906.57,D,.,ES2011b
+907.01,910.75,B,"uh I mean speech recognition is really hard to programme , and also",ES2011b
+910.02,910.52,A,Yeah .,ES2011b
+910.75,917.03,B,", if the T_V_ is on it's making sound and the people on the T_V_ are talking , and if somebody says like one , then the T_V_'s gonna switch itself to channel one",ES2011b
+916.69,917.46,D,Yeah yeah,ES2011b
+917.03,917.76,B,", or",ES2011b
+917.39,918.73,C,Yeah,ES2011b
+917.41,917.81,A,Mm,ES2011b
+917.46,917.85,D,yeah,ES2011b
+917.76,917.87,B,it,ES2011b
+917.81,917.81,A,.,ES2011b
+917.85,918.0,D,. I,ES2011b
+917.87,918.09,B,seems,ES2011b
+918.0,918.36,D,mean,ES2011b
+918.09,918.91,B,like a silly,ES2011b
+918.73,919.22,C,. Yeah,ES2011b
+918.91,919.25,B,", I'm not",ES2011b
+919.22,919.22,C,.,ES2011b
+919.25,920.67,B,sure how you would implement it .,ES2011b
+920.96,922.84,D,I just put the values in,ES2011b
+922.79,922.96,A,And,ES2011b
+922.84,923.1,D,. But,ES2011b
+922.96,923.12,A,if,ES2011b
+923.1,923.37,D,um,ES2011b
+923.12,923.41,A,if you,ES2011b
+923.37,923.52,D,the,ES2011b
+923.41,923.79,A,consider,ES2011b
+923.52,923.92,D,screen,ES2011b
+923.79,924.02,A,our,ES2011b
+923.92,924.08,D,is,ES2011b
+924.02,924.52,A,budget,ES2011b
+924.08,924.58,D,the same as,ES2011b
+924.52,924.68,A,", it",ES2011b
+924.58,924.78,D,what,ES2011b
+924.68,925.4,A,probably,ES2011b
+924.78,924.78,D,",",ES2011b
+924.81,926.0,B,It's a cool idea,ES2011b
+925.4,926.18,A,if you consider,ES2011b
+926.0,927.59,B,but,ES2011b
+926.18,927.34,A,"our budget , to",ES2011b
+927.25,927.63,C,Yeah,ES2011b
+927.34,927.65,A,h,ES2011b
+927.63,927.63,C,.,ES2011b
+927.65,932.87,A,have speech recognition programmed in every single remote might be a little,ES2011b
+932.41,932.96,D,"Yeah , I'm",ES2011b
+932.87,933.81,A,pricey,ES2011b
+932.96,934.19,D,happy with,ES2011b
+933.81,935.0,A,. Yeah,ES2011b
+934.19,935.13,D,that . Completely,ES2011b
+934.61,935.01,C,Hu yeah,ES2011b
+935.0,935.39,A,. Right,ES2011b
+935.01,935.01,C,.,ES2011b
+935.13,935.13,D,.,ES2011b
+935.39,941.72,A,so um,ES2011b
+939.16,941.92,C,Okay so are we gonna have just some kind of a like we'll have the buzzer,ES2011b
+941.72,942.79,A,yeah,ES2011b
+941.92,942.95,C,on the som like,ES2011b
+942.79,942.79,A,.,ES2011b
+942.95,944.01,C,on the T_V_ itself .,ES2011b
+944.41,946.3,B,Well you would have to have a button on a T_V_,ES2011b
+946.21,946.43,D,Yeah,ES2011b
+946.3,946.59,B,or,ES2011b
+946.43,946.43,D,.,ES2011b
+946.59,947.96,B,on your wall or some place,ES2011b
+947.81,948.16,A,Yeah,ES2011b
+947.96,948.18,B,since,ES2011b
+948.16,948.16,A,.,ES2011b
+948.18,950.47,B,the T_V_ already has power,ES2011b
+949.62,950.03,C,Yeah .,ES2011b
+950.47,961.55,B,". Yeah you click the button , it's gonna send out a signal , and I was thinking , I_R_ is line of sight , so unless the remote is like actually in front of the T_V_ it's not gonna work , um so probably like a radio signal like on",ES2011b
+961.55,962.24,C,Okay,ES2011b
+961.55,962.24,B,a on,ES2011b
+962.24,963.08,C,. Okay,ES2011b
+962.24,962.3,B,a,ES2011b
+962.25,963.06,D,Yeah,ES2011b
+962.3,963.26,B,cell phone,ES2011b
+963.06,963.73,D,. Okay,ES2011b
+963.08,963.29,C,. Alright,ES2011b
+963.25,963.65,A,Okay,ES2011b
+963.26,963.49,B,. Sends,ES2011b
+963.29,963.29,C,.,ES2011b
+963.49,964.02,B,out a signal,ES2011b
+963.65,963.65,A,.,ES2011b
+963.73,963.73,D,.,ES2011b
+964.02,968.27,B,and then the the remote hears the signal and so it beeps probably .,ES2011b
+968.71,969.02,C,Okay .,ES2011b
+969.1,972.37,A,So you you'd need like a separate base for that or like something,ES2011b
+972.15,972.42,B,It would have,ES2011b
+972.37,972.45,A,you,ES2011b
+972.42,972.48,B,to,ES2011b
+972.45,973.65,A,can,ES2011b
+972.48,973.83,B,be sold separately because,ES2011b
+973.65,973.89,A,right,ES2011b
+973.83,973.98,B,if,ES2011b
+973.89,973.89,A,.,ES2011b
+973.98,977.28,B,the sender's on the remote then you'd have to find the remote first to click the button to,ES2011b
+977.26,977.72,A,Yeah,ES2011b
+977.28,978.41,B,find the remote,ES2011b
+977.72,978.14,A,", yeah .",ES2011b
+978.41,978.41,B,.,ES2011b
+979.72,983.08,D,"So do you plug it in the T_ you plug it in T_V_ , this",ES2011b
+982.93,983.17,B,"Yeah , it'd",ES2011b
+983.08,983.44,D,thing,ES2011b
+983.17,983.53,B,probably just,ES2011b
+983.44,983.44,D,?,ES2011b
+983.53,984.58,B,stick it on your T_V_ so,ES2011b
+984.46,985.73,D,Okay,ES2011b
+984.58,985.74,B,"if you need to find the remote , click",ES2011b
+985.73,986.25,D,. Okay,ES2011b
+985.74,986.2,B,the button .,ES2011b
+986.25,986.25,D,.,ES2011b
+986.4,988.24,C,So it's now like a two-part,ES2011b
+988.0,988.28,B,Yeah,ES2011b
+988.24,988.63,C,thing,ES2011b
+988.28,988.65,B,", so it would be",ES2011b
+988.63,989.66,C,. Okay,ES2011b
+988.65,989.66,B,a two part package,ES2011b
+989.66,989.9,C,. Alright,ES2011b
+989.66,989.66,B,.,ES2011b
+989.88,990.39,D,Okay,ES2011b
+989.9,989.9,C,.,ES2011b
+990.39,990.39,D,.,ES2011b
+991.14,997.44,C,"So we get to design that too . Make it fashionable . Um , okay .",ES2011b
+998.61,1005.95,A,So do you think even though we're not talking about speek speech recognition our target group should still be teenagers and young professionals,ES2011b
+1004.91,1005.45,B,Yeah I think,ES2011b
+1005.4,1006.62,D,Yeah,ES2011b
+1005.45,1005.64,B,so .,ES2011b
+1005.95,1006.16,A,. Huh .,ES2011b
+1006.62,1007.21,D,. Just there .,ES2011b
+1007.72,1008.3,A,Okay,ES2011b
+1007.98,1008.69,D,Mm,ES2011b
+1008.3,1008.3,A,.,ES2011b
+1008.69,1016.84,D,. Are we um should that thing be on the thing to put the you s you talking about a home for it . Do you,ES2011b
+1016.79,1017.14,A,Yeah,ES2011b
+1016.84,1017.34,D,still want,ES2011b
+1017.14,1017.14,A,.,ES2011b
+1017.34,1021.79,D,to build a little thing next to the telly or to p hang on the wall or shall we leave that for now ?,ES2011b
+1022.64,1025.76,A,We probably leave that . I mean I guess one takes care of the other,ES2011b
+1025.75,1026.26,D,Okay,ES2011b
+1025.76,1026.51,A,", like",ES2011b
+1026.26,1026.26,D,.,ES2011b
+1026.28,1026.74,C,Yeah,ES2011b
+1026.51,1026.96,A,um,ES2011b
+1026.74,1026.74,C,.,ES2011b
+1026.96,1030.4,A,if you can yeah if you can call it then it's,ES2011b
+1030.9,1031.82,C,Then it can live anywhere,ES2011b
+1031.78,1033.24,A,Yeah,ES2011b
+1031.82,1031.82,C,.,ES2011b
+1032.69,1033.56,D,Okay,ES2011b
+1032.93,1033.28,C,Yeah,ES2011b
+1033.24,1033.24,A,.,ES2011b
+1033.28,1033.28,C,.,ES2011b
+1033.56,1040.87,D,". For the so you have that button , that so there's is there a light or shall we leave just have a radio ?",ES2011b
+1041.85,1042.16,B,Um,ES2011b
+1041.97,1042.31,D,Are we just,ES2011b
+1042.16,1042.35,B,on the,ES2011b
+1042.31,1042.57,D,having,ES2011b
+1042.35,1042.71,B,T_V_,ES2011b
+1042.57,1042.99,D,a radio,ES2011b
+1042.71,1043.0,B,or on the,ES2011b
+1042.99,1042.99,D,?,ES2011b
+1043.0,1044.65,B,phone,ES2011b
+1043.58,1044.29,D,On the phone .,ES2011b
+1044.65,1046.22,B,? Um,ES2011b
+1045.47,1045.56,C,T,ES2011b
+1046.22,1046.49,B,it seemed,ES2011b
+1046.31,1046.66,D,You don't,ES2011b
+1046.49,1047.0,B,like a,ES2011b
+1046.66,1047.81,D,need a light,ES2011b
+1047.0,1047.9,B,a beep seemed the most,ES2011b
+1047.81,1048.15,D,. Yeah,ES2011b
+1047.9,1048.23,B,reasonable,ES2011b
+1048.15,1048.35,D,yeah,ES2011b
+1048.23,1048.4,B,to me,ES2011b
+1048.35,1049.36,D,yeah,ES2011b
+1048.4,1048.67,B,", I think",ES2011b
+1048.58,1048.96,A,Yeah,ES2011b
+1048.67,1048.98,B,that's what,ES2011b
+1048.96,1048.96,A,.,ES2011b
+1048.98,1049.38,B,the phone,ES2011b
+1049.36,1049.58,D,. Yeah,ES2011b
+1049.38,1050.45,B,has,ES2011b
+1049.58,1049.84,D,yeah .,ES2011b
+1050.34,1050.68,A,Yeah,ES2011b
+1050.45,1050.71,B,", I mean when",ES2011b
+1050.68,1050.68,A,.,ES2011b
+1050.71,1054.83,B,"you need to find your phone , you just have someone call it and it starts ringing somewhere and then you can figure out",ES2011b
+1054.79,1054.99,A,And,ES2011b
+1054.83,1055.02,B,that it's,ES2011b
+1054.99,1055.16,A,like,ES2011b
+1055.02,1055.17,B,in the,ES2011b
+1055.16,1055.38,A,if,ES2011b
+1055.17,1055.56,B,couch,ES2011b
+1055.38,1055.57,A,the,ES2011b
+1055.56,1055.65,B,or,ES2011b
+1055.57,1055.68,A,if,ES2011b
+1055.65,1055.93,B,wherever,ES2011b
+1055.68,1056.15,A,the phone's,ES2011b
+1055.93,1055.93,B,.,ES2011b
+1056.15,1057.32,A,"under the couch , you",ES2011b
+1057.2,1057.37,D,You,ES2011b
+1057.32,1057.47,A,might,ES2011b
+1057.37,1057.56,D,can,ES2011b
+1057.47,1057.58,A,not,ES2011b
+1057.56,1057.73,D,hear,ES2011b
+1057.58,1057.84,A,see the,ES2011b
+1057.73,1057.93,D,it's,ES2011b
+1057.84,1058.25,A,light,ES2011b
+1057.93,1058.27,D,under the,ES2011b
+1058.25,1058.86,A,", so",ES2011b
+1058.27,1059.9,D,couch yeah,ES2011b
+1058.86,1059.18,A,yeah .,ES2011b
+1059.82,1060.02,C,So,ES2011b
+1059.9,1062.76,D,. Um,ES2011b
+1060.02,1060.54,C,i Yeah .,ES2011b
+1062.76,1071.65,D,", So need the other buttons . So we have this",ES2011b
+1071.48,1071.73,A,So,ES2011b
+1071.65,1072.14,D,mm,ES2011b
+1071.73,1072.15,A,I mean the,ES2011b
+1072.14,1072.14,D,.,ES2011b
+1072.15,1075.58,A,two remotes that you had shown r I don't remember,ES2011b
+1075.56,1076.88,D,Mm-hmm,ES2011b
+1075.58,1075.72,A,who,ES2011b
+1075.7,1075.87,C,That,ES2011b
+1075.72,1075.97,A,showed,ES2011b
+1075.87,1076.1,C,was,ES2011b
+1075.97,1076.11,A,them,ES2011b
+1076.1,1076.19,C,that,ES2011b
+1076.11,1076.4,A,", yeah",ES2011b
+1076.19,1076.88,C,was me,ES2011b
+1076.4,1077.37,A,you you did,ES2011b
+1076.88,1076.88,C,.,ES2011b
+1076.88,1076.88,D,.,ES2011b
+1077.37,1084.1,A,"um , they're I mean one looked like it was for V_C_R_ type thing , and the other looked like just",ES2011b
+1084.07,1084.14,C,I,ES2011b
+1084.1,1084.77,A,television,ES2011b
+1084.14,1084.82,C,think w,ES2011b
+1084.77,1084.77,A,.,ES2011b
+1084.82,1087.96,C,I think they're both sort of just like general remo they're both general,ES2011b
+1087.64,1088.21,A,Oh really,ES2011b
+1087.96,1089.34,C,remotes,ES2011b
+1088.21,1088.21,A,.,ES2011b
+1089.34,1089.67,C,. And,ES2011b
+1089.41,1089.8,A,'Cause that,ES2011b
+1089.67,1089.94,C,uh,ES2011b
+1089.8,1094.94,A,"that is something we have to decide , is whether we want to have V_C_R_ capabilities .",ES2011b
+1095.08,1095.55,C,Yeah,ES2011b
+1095.43,1095.57,B,Does,ES2011b
+1095.55,1095.55,C,.,ES2011b
+1095.57,1099.4,B,anyone know if V_C_R_s are the same across international ?,ES2011b
+1099.99,1101.11,A,They're not,ES2011b
+1100.57,1101.11,D,They're not,ES2011b
+1101.11,1101.76,A,no,ES2011b
+1101.11,1101.42,D,", no",ES2011b
+1101.41,1101.62,B,Okay,ES2011b
+1101.42,1101.42,D,.,ES2011b
+1101.62,1101.81,B,", so you'd",ES2011b
+1101.76,1101.76,A,.,ES2011b
+1101.79,1102.1,C,S,ES2011b
+1101.81,1103.0,B,need like a whole different,ES2011b
+1102.98,1103.35,A,Yeah,ES2011b
+1103.0,1103.62,B,set of buttons,ES2011b
+1103.35,1103.73,A,", that's",ES2011b
+1103.6,1103.86,D,It,ES2011b
+1103.62,1103.77,B,for,ES2011b
+1103.73,1103.99,A,right,ES2011b
+1103.77,1104.28,B,everybody's,ES2011b
+1103.86,1104.05,D,not,ES2011b
+1103.99,1104.62,A,", yeah",ES2011b
+1104.05,1104.78,D,V_H_S_,ES2011b
+1104.28,1105.2,B,V_C_R_s,ES2011b
+1104.62,1104.88,A,. But,ES2011b
+1104.78,1105.11,D,here,ES2011b
+1104.88,1105.43,A,D_V_D_,ES2011b
+1105.11,1105.11,D,?,ES2011b
+1105.2,1105.2,B,.,ES2011b
+1105.43,1106.23,A,probably is .,ES2011b
+1107.46,1109.33,B,"Yeah , other than that region and coding thing .",ES2011b
+1109.48,1110.24,C,Um,ES2011b
+1110.29,1111.35,D,But V_C_R_s,ES2011b
+1110.69,1116.68,A,"And and if we're if we're targeting young professionals and teenagers , I mean it's gonna be D_V_D_ type",ES2011b
+1116.03,1116.91,D,Yeah,ES2011b
+1116.68,1117.0,A,", that's",ES2011b
+1116.91,1117.19,D,. Yeah,ES2011b
+1117.0,1117.36,A,the,ES2011b
+1117.19,1117.37,D,", for",ES2011b
+1117.36,1117.54,A,the,ES2011b
+1117.37,1117.74,D,sure,ES2011b
+1117.54,1118.1,A,technology,ES2011b
+1117.7,1118.86,C,Yeah,ES2011b
+1117.74,1117.74,D,.,ES2011b
+1117.83,1118.31,B,Mm-hmm,ES2011b
+1118.1,1118.33,A,these,ES2011b
+1118.31,1118.31,B,.,ES2011b
+1118.33,1118.67,A,days .,ES2011b
+1118.86,1127.99,C,". So . Okay , let's see if I can I think still though , it shouldn't be that hard to take like just reduce the number of buttons you know",ES2011b
+1127.64,1128.03,A,Yeah,ES2011b
+1127.99,1128.12,C,", like",ES2011b
+1128.03,1128.03,A,.,ES2011b
+1128.12,1137.12,C,"'cause if you just have like one menu button , that works like with a you know , or you can just kind of scroll through the",ES2011b
+1136.63,1137.03,A,Yeah .,ES2011b
+1137.12,1137.91,C,options u,ES2011b
+1137.78,1137.97,D,Well,ES2011b
+1137.91,1138.08,C,that,ES2011b
+1137.97,1138.14,D,for,ES2011b
+1138.08,1138.23,C,come,ES2011b
+1138.14,1138.35,D,sure,ES2011b
+1138.23,1138.37,C,up,ES2011b
+1138.35,1138.5,D,we,ES2011b
+1138.37,1138.53,C,on the,ES2011b
+1138.5,1138.79,D,need,ES2011b
+1138.53,1139.01,C,T_V_,ES2011b
+1138.79,1139.2,D,the,ES2011b
+1139.01,1139.01,C,.,ES2011b
+1139.2,1146.63,D,um I think we can just design the channels ? I mean power's,ES2011b
+1146.51,1146.89,A,S,ES2011b
+1146.63,1148.23,D,just a button,ES2011b
+1147.54,1147.99,C,Yeah,ES2011b
+1147.84,1148.1,B,Mm-hmm,ES2011b
+1147.99,1147.99,C,.,ES2011b
+1148.1,1148.1,B,.,ES2011b
+1148.22,1148.51,A,Huh,ES2011b
+1148.23,1148.68,D,", and it's",ES2011b
+1148.51,1148.51,A,.,ES2011b
+1148.68,1150.17,D,"not used that much , s and",ES2011b
+1150.07,1150.4,C,Yeah,ES2011b
+1150.17,1150.77,D,it's usually,ES2011b
+1150.4,1150.4,C,.,ES2011b
+1150.77,1151.89,D,that red,ES2011b
+1151.66,1152.16,C,Yeah,ES2011b
+1151.89,1152.35,D,and I think,ES2011b
+1152.16,1152.16,C,.,ES2011b
+1152.35,1154.28,D,it's quite nice to keep it like,ES2011b
+1154.12,1154.63,C,Yeah,ES2011b
+1154.28,1154.83,D,red,ES2011b
+1154.63,1154.63,C,.,ES2011b
+1154.83,1154.83,D,.,ES2011b
+1154.98,1166.83,A,"You know , I've seen some remotes that where you just hold one , like if you hold one down it's it's a different colour than the other buttons but that turns it on . So you don't actually have a separate power button",ES2011b
+1166.52,1166.88,D,Oh,ES2011b
+1166.83,1167.07,A,", it's",ES2011b
+1166.88,1167.67,D,okay,ES2011b
+1167.07,1167.54,A,just,ES2011b
+1167.67,1168.02,D,", yeah",ES2011b
+1167.72,1168.03,C,It seems,ES2011b
+1168.02,1168.02,D,.,ES2011b
+1168.03,1168.52,C,like that would be,ES2011b
+1168.44,1168.66,A,But,ES2011b
+1168.52,1171.71,C,"hard though . I mean , like because unless you",ES2011b
+1171.58,1171.86,A,It might,ES2011b
+1171.71,1172.66,C,know,ES2011b
+1171.86,1172.96,A,be confusing,ES2011b
+1172.66,1173.65,C,yeah,ES2011b
+1172.96,1173.35,A,. Yeah .,ES2011b
+1173.65,1175.58,C,. Just 'cause I wouldn't I would probably pick it up and just,ES2011b
+1175.44,1176.02,A,Yeah,ES2011b
+1175.58,1176.06,C,be like,ES2011b
+1176.02,1176.02,A,.,ES2011b
+1176.06,1177.39,C,uh why is there no on,ES2011b
+1177.27,1177.69,A,Besides,ES2011b
+1177.39,1179.4,C,button,ES2011b
+1177.69,1178.2,A,you like to be able,ES2011b
+1178.12,1178.3,B,Yeah,ES2011b
+1178.2,1178.44,A,to go,ES2011b
+1178.3,1178.54,B,", I never",ES2011b
+1178.41,1178.99,D,Yeah,ES2011b
+1178.44,1179.26,A,power,ES2011b
+1178.54,1179.11,B,think to hold,ES2011b
+1178.99,1178.99,D,.,ES2011b
+1179.11,1179.49,B,something,ES2011b
+1179.26,1180.14,A,. I,ES2011b
+1179.4,1179.97,C,. Yeah,ES2011b
+1179.49,1181.36,B,down,ES2011b
+1179.97,1182.04,C,. B,ES2011b
+1180.14,1182.56,A,have the power,ES2011b
+1181.36,1181.36,B,.,ES2011b
+1182.04,1182.52,C,Yeah .,ES2011b
+1182.56,1186.23,A,I guess . So we definitely want a power button and numbers,ES2011b
+1185.97,1186.45,C,Yeah,ES2011b
+1186.23,1186.49,A,. Right,ES2011b
+1186.45,1186.45,C,.,ES2011b
+1186.48,1186.65,D,Well,ES2011b
+1186.49,1186.49,A,.,ES2011b
+1186.65,1201.19,D,"even um iPod thing , like um , I don't know if people like this but if you want to reduce the number , of buttons , instead of having like one to nine , have a sort of",ES2011b
+1202.05,1202.52,C,That,ES2011b
+1202.34,1202.98,D,scrolling,ES2011b
+1202.52,1203.01,C,sort of like,ES2011b
+1202.98,1203.09,D,I,ES2011b
+1203.01,1203.72,C,joystick,ES2011b
+1203.09,1204.16,D,don't know,ES2011b
+1203.72,1204.11,C,flat,ES2011b
+1203.94,1205.18,A,Mm,ES2011b
+1204.11,1204.43,C,touch,ES2011b
+1204.16,1205.36,D,. Yeah,ES2011b
+1204.43,1205.27,C,thing,ES2011b
+1205.18,1205.18,A,.,ES2011b
+1205.27,1205.63,C,", yeah",ES2011b
+1205.36,1205.71,D,. Because,ES2011b
+1205.63,1205.63,C,.,ES2011b
+1205.71,1213.1,D,people li seem now the iPod's out people seem to like this thing that there's no Know you don't have one two three,ES2011b
+1212.93,1213.23,C,Yeah,ES2011b
+1213.1,1213.3,D,four,ES2011b
+1213.23,1213.48,C,", yeah",ES2011b
+1213.3,1214.15,D,five,ES2011b
+1213.48,1215.34,C,". I think that's an interesting idea , 'cause",ES2011b
+1214.72,1214.95,A,Mm .,ES2011b
+1215.34,1227.65,C,"it's cool , it's it's funny like you f like I just I don't have an iPod but like I , you know , I just like started messing around with one of my friend's the other day , and you just sort of and it's funny how you pick it up and you just figure out how to use it quite easily , like it's not that hard",ES2011b
+1227.65,1227.98,A,Yeah,ES2011b
+1227.65,1227.98,C,", you know",ES2011b
+1227.98,1227.98,A,.,ES2011b
+1227.98,1227.98,C,.,ES2011b
+1227.99,1230.08,D,"Yeah yeah , it's just and it's one thing",ES2011b
+1229.73,1230.29,C,Yeah,ES2011b
+1230.08,1230.48,D,which has,ES2011b
+1230.29,1230.49,C,", and",ES2011b
+1230.48,1231.27,D,everything,ES2011b
+1230.49,1231.28,C,it is,ES2011b
+1231.27,1231.27,D,.,ES2011b
+1231.28,1234.85,C,"yeah . It is really but do you need a screen then , do you have to have a screen then",ES2011b
+1234.82,1234.96,D,Well,ES2011b
+1234.85,1234.85,C,?,ES2011b
+1234.96,1238.18,D,can't it tell the like can't you,ES2011b
+1237.83,1238.25,B,"Yeah , you",ES2011b
+1238.18,1238.32,D,if,ES2011b
+1238.25,1238.36,B,can,ES2011b
+1238.32,1239.01,D,you,ES2011b
+1238.36,1239.3,B,have the number going,ES2011b
+1239.01,1239.17,D,you,ES2011b
+1239.1,1239.87,C,Yeah,ES2011b
+1239.17,1239.31,D,can,ES2011b
+1239.3,1239.6,B,around,ES2011b
+1239.31,1239.89,D,have the number,ES2011b
+1239.6,1240.36,B,in the corner,ES2011b
+1239.87,1240.6,C,. Okay,ES2011b
+1239.89,1240.56,D,on the telly,ES2011b
+1240.36,1240.36,B,.,ES2011b
+1240.56,1240.86,D,going,ES2011b
+1240.6,1241.72,C,. Yeah,ES2011b
+1240.86,1241.98,D,like one two three four five,ES2011b
+1241.72,1242.82,C,. Yeah,ES2011b
+1241.98,1242.95,D,once you scroll,ES2011b
+1242.82,1243.13,C,. Okay,ES2011b
+1242.95,1243.49,D,and then,ES2011b
+1243.13,1243.41,C,so we,ES2011b
+1243.36,1243.49,A,Oh,ES2011b
+1243.41,1243.62,C,have,ES2011b
+1243.49,1243.83,A,that's,ES2011b
+1243.62,1243.84,C,this,ES2011b
+1243.83,1244.1,A,gonna,ES2011b
+1243.84,1245.65,C,like scrolling sort of button .,ES2011b
+1245.7,1246.56,A,Is that like on,ES2011b
+1246.34,1246.66,C,Like a,ES2011b
+1246.56,1246.73,A,on,ES2011b
+1246.66,1247.12,C,disc,ES2011b
+1246.73,1247.17,A,a mouse,ES2011b
+1247.12,1247.12,C,.,ES2011b
+1247.17,1248.47,A,pad where,ES2011b
+1248.29,1248.97,C,Yeah,ES2011b
+1248.47,1248.99,A,like kind,ES2011b
+1248.97,1249.21,C,. Yeah,ES2011b
+1248.99,1249.27,A,of,ES2011b
+1249.21,1249.34,C,. It's,ES2011b
+1249.27,1249.64,A,okay,ES2011b
+1249.34,1249.78,C,like it's,ES2011b
+1249.64,1249.64,A,.,ES2011b
+1249.78,1251.28,C,just like the same,ES2011b
+1250.88,1250.99,A,I've,ES2011b
+1250.97,1251.2,D,It's,ES2011b
+1250.99,1251.43,A,never,ES2011b
+1251.2,1251.59,D,like,ES2011b
+1251.28,1251.87,C,technology,ES2011b
+1251.43,1251.72,A,used,ES2011b
+1251.59,1252.02,D,l,ES2011b
+1251.72,1252.05,A,one,ES2011b
+1251.87,1252.32,C,as a mouse,ES2011b
+1252.02,1253.1,D,this,ES2011b
+1252.05,1252.25,A,. No .,ES2011b
+1252.32,1252.63,C,pad .,ES2011b
+1253.1,1253.72,D,"like that , and",ES2011b
+1253.67,1254.01,A,Okay,ES2011b
+1253.72,1254.34,D,then you,ES2011b
+1254.01,1254.01,A,.,ES2011b
+1254.34,1254.97,D,do that .,ES2011b
+1255.35,1255.94,A,Okay,ES2011b
+1255.35,1255.72,C,Yeah .,ES2011b
+1255.94,1255.94,A,.,ES2011b
+1256.87,1257.0,C,Yeah,ES2011b
+1256.92,1257.11,D,And,ES2011b
+1257.0,1257.19,C,and,ES2011b
+1257.11,1257.58,D,then,ES2011b
+1257.19,1257.49,C,then .,ES2011b
+1257.58,1271.7,D,"you can have um if you actually just want to zap , you can have like a thing like that , and that , and then it can just be plus and minus",ES2011b
+1271.47,1272.5,C,Okay,ES2011b
+1271.7,1271.7,D,.,ES2011b
+1272.5,1277.45,C,. So like it's like a little part of the circle that Or it,ES2011b
+1277.25,1277.58,D,Yeah,ES2011b
+1277.45,1277.7,C,oh,ES2011b
+1277.58,1278.0,D,", you can",ES2011b
+1277.7,1278.26,C,so it's just,ES2011b
+1278.16,1278.4,A,Well,ES2011b
+1278.26,1278.68,C,a region,ES2011b
+1278.4,1278.59,A,i,ES2011b
+1278.68,1279.72,C,of the circle that you can,ES2011b
+1280.6,1281.29,D,"Yeah , click",ES2011b
+1280.98,1281.51,C,zap,ES2011b
+1281.29,1281.92,D,o actually,ES2011b
+1281.51,1281.97,C,. Okay,ES2011b
+1281.92,1282.24,D,click,ES2011b
+1281.97,1281.97,C,.,ES2011b
+1282.02,1282.49,A,We could,ES2011b
+1282.24,1282.63,D,on to,ES2011b
+1282.49,1282.82,A,we could,ES2011b
+1282.63,1283.17,D,have,ES2011b
+1282.82,1289.39,A,"even have four buttons , like , if that's the if that's the mouse , you could have the volume",ES2011b
+1289.33,1289.71,D,Yeah,ES2011b
+1289.39,1290.11,A,and the channel,ES2011b
+1289.71,1289.71,D,.,ES2011b
+1290.11,1290.76,A,changers,ES2011b
+1290.74,1291.52,C,Yeah,ES2011b
+1290.76,1291.81,A,just like on that,ES2011b
+1291.52,1292.15,C,. So volume,ES2011b
+1291.81,1292.26,A,as well,ES2011b
+1292.15,1292.32,C,could,ES2011b
+1292.26,1292.26,A,.,ES2011b
+1292.32,1295.11,C,be like the top it and the bottom So do you need to,ES2011b
+1294.88,1295.12,B,Doesn't,ES2011b
+1295.11,1295.44,C,okay,ES2011b
+1295.12,1295.63,B,it rotate,ES2011b
+1295.44,1295.44,C,.,ES2011b
+1295.63,1296.85,B,"though , so it'll be",ES2011b
+1296.77,1296.95,C,Well,ES2011b
+1296.85,1297.18,B,moving,ES2011b
+1296.95,1297.23,C,y you,ES2011b
+1297.18,1297.63,B,around,ES2011b
+1297.23,1297.75,C,have to you,ES2011b
+1297.63,1297.63,B,.,ES2011b
+1297.75,1300.21,C,have to like be able to change the function of it to like,ES2011b
+1301.76,1302.75,D,What do you mean the function,ES2011b
+1302.73,1302.85,C,I,ES2011b
+1302.75,1302.75,D,?,ES2011b
+1302.85,1315.76,C,"mean like okay , 'cause so I dunno , I guess Okay so when you g scroll your thumb like around it , it'll s like say you're go you're going clockwise . That that means you're gonna go up the channels , and then you",ES2011b
+1315.67,1315.9,D,Yeah,ES2011b
+1315.76,1315.97,C,scroll,ES2011b
+1315.9,1315.9,D,.,ES2011b
+1315.97,1317.5,C,the other way and it'll go down,ES2011b
+1317.14,1317.44,D,Yeah,ES2011b
+1317.44,1317.68,B,Mm-hmm,ES2011b
+1317.44,1317.44,D,.,ES2011b
+1317.5,1318.02,C,. But then,ES2011b
+1317.68,1317.68,B,.,ES2011b
+1318.02,1330.82,C,"so if you wanna switch to the to u do you have to switch to a function where like y so you're either in that mode or you're in the mode where like it just has like the four like you know this is channel that way , that's that way and volume is up and down .",ES2011b
+1331.62,1332.95,D,Yeah but it knows for some,ES2011b
+1332.88,1332.99,C,It,ES2011b
+1332.95,1333.75,D,reason,ES2011b
+1332.99,1333.39,C,just,ES2011b
+1333.75,1334.89,D,. The iPod knows,ES2011b
+1334.53,1335.3,C,It just kno,ES2011b
+1334.89,1334.89,D,.,ES2011b
+1335.3,1336.67,C,the iPod knows . S,ES2011b
+1336.24,1337.87,B,If it works on an iPod then it works,ES2011b
+1337.78,1338.35,C,Yeah,ES2011b
+1337.87,1337.87,B,.,ES2011b
+1338.22,1338.45,A,Huh,ES2011b
+1338.35,1338.6,C,. So,ES2011b
+1338.45,1338.45,A,.,ES2011b
+1338.6,1339.57,C,you just you just,ES2011b
+1339.42,1339.67,B,I don't,ES2011b
+1339.57,1339.73,C,can,ES2011b
+1339.67,1339.85,B,have,ES2011b
+1339.73,1339.88,C,either,ES2011b
+1339.85,1340.31,B,one,ES2011b
+1339.88,1340.32,C,do this,ES2011b
+1340.31,1340.31,B,.,ES2011b
+1340.32,1341.79,C,or like you can just touch it if you want,ES2011b
+1341.76,1341.92,D,Well,ES2011b
+1341.79,1341.79,C,.,ES2011b
+1341.92,1344.82,D,for the volume you have to press the middle,ES2011b
+1344.36,1344.93,C,Okay . That's,ES2011b
+1344.82,1345.04,D,", and",ES2011b
+1344.93,1345.05,C,what,ES2011b
+1345.04,1345.59,D,then,ES2011b
+1345.05,1345.84,C,I mean . Okay,ES2011b
+1345.59,1346.33,D,go up,ES2011b
+1345.84,1345.84,C,.,ES2011b
+1346.33,1346.33,D,.,ES2011b
+1346.84,1348.32,C,Okay so you have to like press,ES2011b
+1348.05,1348.46,B,Oh,ES2011b
+1348.32,1348.7,C,this middle,ES2011b
+1348.46,1348.46,B,.,ES2011b
+1348.7,1351.13,C,"region and then you can scroll up , go up",ES2011b
+1351.09,1351.26,D,And,ES2011b
+1351.13,1351.49,C,and down,ES2011b
+1351.26,1351.56,D,then,ES2011b
+1351.36,1351.59,A,So,ES2011b
+1351.49,1351.49,C,.,ES2011b
+1351.56,1351.79,D,well,ES2011b
+1351.59,1351.94,A,it's like,ES2011b
+1351.79,1352.04,D,if you,ES2011b
+1351.94,1352.66,A,holding,ES2011b
+1352.04,1357.12,D,"do that it goes , but if you like that makes more sense 'cause there's already ones with up and down",ES2011b
+1356.88,1357.56,A,You can,ES2011b
+1357.12,1358.37,D,here,ES2011b
+1357.56,1357.63,A,o,ES2011b
+1358.37,1359.02,D,", that I've seen .",ES2011b
+1359.25,1366.82,A,And you you is there an extra actual button ? Or are you actually you're just using the mouse to go up and down,ES2011b
+1366.29,1366.94,D,Well what you,ES2011b
+1366.82,1367.04,A,. Like,ES2011b
+1366.94,1367.35,D,for the,ES2011b
+1367.24,1367.38,C,It's,ES2011b
+1367.35,1367.74,D,iPod,ES2011b
+1367.38,1367.64,C,like a b,ES2011b
+1367.74,1370.26,D,you press an w right if you're on the channel let's,ES2011b
+1370.19,1370.51,A,Mm-hmm,ES2011b
+1370.26,1370.74,D,say,ES2011b
+1370.51,1370.51,A,.,ES2011b
+1370.74,1372.19,D,", then you press on the middle",ES2011b
+1372.11,1372.39,A,Mm-hmm,ES2011b
+1372.19,1372.53,D,and then,ES2011b
+1372.39,1372.39,A,.,ES2011b
+1372.53,1374.59,D,"if you do that again the volume goes up , and",ES2011b
+1374.57,1374.92,A,Right,ES2011b
+1374.59,1375.14,D,if you do that,ES2011b
+1374.92,1374.92,A,.,ES2011b
+1375.14,1376.15,D,it goes down,ES2011b
+1375.89,1376.16,A,Mm-hmm,ES2011b
+1376.15,1376.26,D,. But,ES2011b
+1376.16,1376.16,A,.,ES2011b
+1376.26,1381.66,D,"if you wanna keep it with volume here and here , I'm pretty sure",ES2011b
+1382.16,1385.48,A,"Well I mean if if you're gonna this for channels , right",ES2011b
+1385.43,1385.76,D,Yeah,ES2011b
+1385.48,1385.78,A,", then y",ES2011b
+1385.76,1385.76,D,.,ES2011b
+1385.78,1389.85,A,wouldn't the volume need to be separate somehow ? Like you could just have,ES2011b
+1391.06,1391.63,D,"I don't know , you",ES2011b
+1391.62,1392.07,A,Oh,ES2011b
+1391.63,1392.25,D,could click,ES2011b
+1392.07,1392.34,A,", like",ES2011b
+1392.25,1393.31,D,and then have it up and,ES2011b
+1393.18,1393.4,C,Like,ES2011b
+1393.31,1393.63,D,down,ES2011b
+1393.63,1393.76,A,Oh,ES2011b
+1393.63,1393.78,D,", but",ES2011b
+1393.76,1393.92,A,you,ES2011b
+1393.78,1394.29,D,I think,ES2011b
+1393.92,1394.78,A,could actually,ES2011b
+1395.73,1398.03,C,I think we can go on the fact that it does just work with the,ES2011b
+1397.97,1398.21,D,Yeah,ES2011b
+1398.03,1398.7,C,iPod,ES2011b
+1398.21,1398.73,D,yeah,ES2011b
+1398.45,1398.98,B,Yeah,ES2011b
+1398.57,1398.9,A,Yeah,ES2011b
+1398.7,1398.81,C,. But,ES2011b
+1398.73,1398.82,D,yeah,ES2011b
+1398.81,1398.89,C,the,ES2011b
+1398.82,1398.82,D,.,ES2011b
+1398.89,1399.05,C,only,ES2011b
+1398.9,1398.9,A,.,ES2011b
+1398.98,1398.98,B,.,ES2011b
+1399.05,1403.73,C,"thing is like , iPods are so expensive , like , it has to be is that part of",ES2011b
+1403.09,1403.78,A,Is that what makes them,ES2011b
+1403.73,1404.37,C,yeah,ES2011b
+1403.78,1404.43,A,expensi I think,ES2011b
+1404.37,1404.5,C,", I",ES2011b
+1404.43,1404.59,A,it's,ES2011b
+1404.5,1405.2,C,dunno,ES2011b
+1404.59,1405.27,A,all of they,ES2011b
+1405.2,1406.2,C,", I dunno",ES2011b
+1405.27,1405.42,A,have,ES2011b
+1405.27,1405.5,B,I don't,ES2011b
+1405.42,1405.57,A,so,ES2011b
+1405.5,1405.68,B,think,ES2011b
+1405.57,1405.73,A,much,ES2011b
+1405.68,1406.04,B,so,ES2011b
+1405.73,1406.15,A,memory,ES2011b
+1406.04,1406.04,B,.,ES2011b
+1406.15,1406.37,A,though,ES2011b
+1406.2,1406.46,C,. You don't,ES2011b
+1406.37,1407.02,A,", that's",ES2011b
+1406.46,1407.03,C,think so,ES2011b
+1407.02,1407.53,A,it's,ES2011b
+1407.03,1407.44,C,? Okay,ES2011b
+1407.03,1407.49,B,I don't think,ES2011b
+1407.44,1407.44,C,.,ES2011b
+1407.49,1408.34,B,it's the,ES2011b
+1408.12,1408.47,D,I think,ES2011b
+1408.34,1408.53,B,wheel,ES2011b
+1408.47,1408.6,D,it,ES2011b
+1408.53,1409.33,B,dealy,ES2011b
+1409.16,1409.78,A,Yeah,ES2011b
+1409.33,1409.33,B,.,ES2011b
+1409.72,1410.02,D,Yeah,ES2011b
+1409.78,1410.04,A,. I think,ES2011b
+1410.02,1410.56,C,Okay,ES2011b
+1410.02,1410.02,D,.,ES2011b
+1410.04,1410.63,A,it's the,ES2011b
+1410.56,1410.56,C,.,ES2011b
+1410.63,1414.73,A,uh h it's their capabili I mean they it can hold what like five thousand,ES2011b
+1414.39,1414.71,B,Yeah .,ES2011b
+1414.73,1415.16,A,songs,ES2011b
+1414.75,1415.53,C,Yeah,ES2011b
+1414.943,1414.943,B,.,ES2011b
+1415.16,1415.8,A,or something,ES2011b
+1415.53,1415.89,C,. I'm thinking,ES2011b
+1415.8,1415.8,A,.,ES2011b
+1415.89,1418.36,C,we could if if we're hav So ba I mean but an iPod,ES2011b
+1417.98,1419.06,B,And they're re-programmable,ES2011b
+1418.36,1419.19,C,just has that,ES2011b
+1419.06,1419.3,B,aren't,ES2011b
+1419.19,1419.58,C,circle,ES2011b
+1419.3,1419.61,B,they ? You,ES2011b
+1419.58,1419.78,C,thing,ES2011b
+1419.59,1420.84,A,Yeah,ES2011b
+1419.61,1419.9,B,can put,ES2011b
+1419.78,1419.92,C,you,ES2011b
+1419.9,1420.0,B,on,ES2011b
+1419.92,1420.13,C,know,ES2011b
+1420.0,1420.13,B,your,ES2011b
+1420.13,1420.13,C,.,ES2011b
+1420.13,1420.85,B,songs and then put on a,ES2011b
+1420.84,1421.53,A,. Yeah,ES2011b
+1420.85,1421.54,B,"different set , that's",ES2011b
+1421.53,1421.84,A,. Yeah,ES2011b
+1421.54,1421.91,B,probably why,ES2011b
+1421.84,1421.84,A,.,ES2011b
+1421.91,1423.07,B,they're expensive,ES2011b
+1422.63,1423.99,C,Yeah,ES2011b
+1423.07,1423.52,B,", they're like little",ES2011b
+1423.41,1423.64,A,S,ES2011b
+1423.52,1424.13,B,computers,ES2011b
+1423.99,1425.3,C,. Yeah,ES2011b
+1424.13,1424.13,B,.,ES2011b
+1425.3,1430.52,C,". Well like since it just has the circle thing , you could make it a qui a kind of cool shape , like it could be a cool",ES2011b
+1430.13,1430.53,D,Yeah,ES2011b
+1430.52,1430.79,C,sort,ES2011b
+1430.53,1430.53,D,.,ES2011b
+1430.79,1431.81,C,of,ES2011b
+1431.4,1431.66,B,Mm-hmm .,ES2011b
+1431.81,1434.43,C,"you know , because it could be circular",ES2011b
+1434.25,1434.49,D,Yeah,ES2011b
+1434.43,1434.51,C,", you",ES2011b
+1434.49,1434.66,D,yeah,ES2011b
+1434.51,1434.99,C,know,ES2011b
+1434.66,1434.98,D,yeah .,ES2011b
+1434.99,1436.04,C,", or something weird like",ES2011b
+1435.98,1436.13,D,Well,ES2011b
+1436.04,1436.25,C,that,ES2011b
+1436.13,1436.37,D,it could,ES2011b
+1436.25,1436.6,C,", just",ES2011b
+1436.37,1453.63,D,"just be simple instead of being a l mass . Because , the other thing , I didn't tell you all my presentation , is that people find it find that it's a big waste of time to have to learn how to use your remote",ES2011b
+1453.59,1454.05,C,Yeah,ES2011b
+1453.63,1454.46,D,and,ES2011b
+1454.05,1454.05,C,.,ES2011b
+1454.46,1454.73,D,that's,ES2011b
+1454.63,1455.31,A,Mm,ES2011b
+1454.73,1455.33,D,another thing,ES2011b
+1455.31,1455.31,A,.,ES2011b
+1455.33,1457.24,D,they complained about,ES2011b
+1456.37,1456.78,C,Yeah .,ES2011b
+1457.24,1462.5,D,". Um , what other buttons were there ? Volume oh we've ts just said that .",ES2011b
+1464.59,1465.43,C,So okay,ES2011b
+1464.84,1466.06,D,Channel selection,ES2011b
+1465.43,1466.09,C,. This is just,ES2011b
+1466.06,1466.06,D,.,ES2011b
+1466.09,1469.23,C,"for T_V_ , it's not for or it is does need to be compatible with",ES2011b
+1469.1,1469.26,B,I,ES2011b
+1469.54,1470.38,A,Um,ES2011b
+1470.6,1472.78,B,"A D_V_D_ is simple , you just have play",ES2011b
+1472.72,1473.68,C,Yeah,ES2011b
+1472.78,1474.07,B,", pause",ES2011b
+1473.68,1473.88,C,. So,ES2011b
+1473.76,1474.3,D,Menu,ES2011b
+1473.88,1474.09,C,how do,ES2011b
+1474.05,1474.2,A,You,ES2011b
+1474.07,1474.59,B,", eject",ES2011b
+1474.09,1474.2,C,you,ES2011b
+1474.2,1474.33,A,know,ES2011b
+1474.2,1474.72,C,switch,ES2011b
+1474.3,1474.3,D,.,ES2011b
+1474.33,1474.86,A,actually,ES2011b
+1474.59,1474.59,B,",",ES2011b
+1474.86,1476.52,A,our our new project requirements,ES2011b
+1476.44,1476.6,B,and,ES2011b
+1476.52,1476.66,A,", I'm",ES2011b
+1476.6,1476.98,B,menu,ES2011b
+1476.66,1477.28,A,not sure,ES2011b
+1476.98,1477.29,B,maybe,ES2011b
+1477.28,1477.55,A,if,ES2011b
+1477.29,1477.29,B,.,ES2011b
+1477.55,1482.76,A,they meant o onl use only for television as in not for D_V_D_ or just not,ES2011b
+1482.52,1483.13,B,Oh yeah,ES2011b
+1482.76,1483.31,A,internet,ES2011b
+1483.13,1483.13,B,.,ES2011b
+1483.31,1485.07,A,type things . So I'll I'll,ES2011b
+1484.72,1485.13,C,Okay,ES2011b
+1485.07,1485.33,A,check,ES2011b
+1485.13,1485.13,C,.,ES2011b
+1485.33,1487.32,A,that and update you on the next,ES2011b
+1486.6,1487.5,C,So like if we had,ES2011b
+1487.32,1487.93,A,But,ES2011b
+1487.5,1487.78,C,that,ES2011b
+1487.93,1489.52,A,we'll hold off on that 'cause,ES2011b
+1489.08,1489.74,C,Yeah .,ES2011b
+1490.29,1491.08,A,But s yeah,ES2011b
+1490.99,1491.12,D,But,ES2011b
+1491.08,1491.36,A,uh,ES2011b
+1491.12,1491.46,D,D_V_D_,ES2011b
+1491.36,1491.36,A,.,ES2011b
+1491.46,1493.01,D,players usually have their own remote .,ES2011b
+1493.6,1495.17,C,"That's true , yeah",ES2011b
+1494.32,1494.73,A,Yeah .,ES2011b
+1495.17,1496.36,C,". So , I know I'm not c really",ES2011b
+1496.22,1496.46,B,But it's,ES2011b
+1496.36,1496.64,C,clear,ES2011b
+1496.46,1496.65,B,cool,ES2011b
+1496.64,1496.76,C,on,ES2011b
+1496.65,1496.93,B,to have,ES2011b
+1496.76,1496.9,C,what,ES2011b
+1496.93,1497.76,B,"it all on one , because",ES2011b
+1497.7,1498.12,D,Yeah,ES2011b
+1497.76,1498.35,C,Yeah,ES2011b
+1497.76,1498.3,B,you wanna turn,ES2011b
+1498.12,1498.37,D,", yeah",ES2011b
+1498.3,1498.4,B,it,ES2011b
+1498.35,1498.63,C,", yeah",ES2011b
+1498.37,1499.04,D,", yeah",ES2011b
+1498.4,1498.74,B,on then,ES2011b
+1498.63,1498.63,C,.,ES2011b
+1498.74,1499.14,B,you wanna turn,ES2011b
+1499.04,1499.04,D,.,ES2011b
+1499.14,1500.49,B,"up the volume , and then you wanna go to",ES2011b
+1500.46,1501.26,A,Mm,ES2011b
+1500.49,1501.01,B,the menu,ES2011b
+1500.73,1501.35,D,Yeah,ES2011b
+1500.88,1501.06,C,So,ES2011b
+1501.01,1501.69,B,", so",ES2011b
+1501.06,1501.39,C,you'd have,ES2011b
+1501.26,1501.66,A,. Mm,ES2011b
+1501.35,1501.35,D,.,ES2011b
+1501.39,1501.67,C,to have,ES2011b
+1501.66,1501.66,A,.,ES2011b
+1501.67,1501.85,C,like,ES2011b
+1501.69,1501.88,B,you don't,ES2011b
+1501.85,1501.92,C,I,ES2011b
+1501.88,1502.01,B,wanna,ES2011b
+1501.92,1502.62,C,think,ES2011b
+1502.01,1502.63,B,switch,ES2011b
+1502.62,1502.83,C,you,ES2011b
+1502.63,1502.63,B,.,ES2011b
+1502.83,1509.73,C,"would have to have like a function switch button , you know somewhere so like you can you're either on T_V_ , you're on D_V_D_ or you're on V_C_R_",ES2011b
+1509.27,1509.77,A,Yeah,ES2011b
+1509.73,1509.87,C,", or",ES2011b
+1509.77,1509.77,A,.,ES2011b
+1509.87,1510.33,C,you're like,ES2011b
+1510.24,1510.34,B,Well,ES2011b
+1510.33,1510.54,C,. So,ES2011b
+1510.34,1512.39,B,but D_V_D_ is only like four buttons .,ES2011b
+1512.52,1512.95,D,"Yeah , it",ES2011b
+1512.92,1513.15,C,Yeah,ES2011b
+1512.95,1513.15,D,is,ES2011b
+1513.15,1513.27,C,", but",ES2011b
+1513.15,1513.44,D,only,ES2011b
+1513.27,1513.45,C,I mean,ES2011b
+1513.44,1513.85,D,fun,ES2011b
+1513.45,1514.11,C,like to switch,ES2011b
+1514.09,1514.44,A,But,ES2011b
+1514.11,1514.54,C,the fun,ES2011b
+1514.44,1514.68,A,i,ES2011b
+1514.54,1518.7,C,"so like to switch the function of the little circle disc , the touch",ES2011b
+1518.49,1518.82,B,Oh,ES2011b
+1518.7,1518.99,C,pad,ES2011b
+1518.78,1519.31,A,Yeah,ES2011b
+1518.82,1518.99,B,. But I,ES2011b
+1518.99,1518.99,C,.,ES2011b
+1518.99,1519.36,B,think the,ES2011b
+1519.31,1519.31,A,.,ES2011b
+1519.36,1524.22,B,circle only does channel isn't applicable to D_V_D_ really 'cause you don't wanna,ES2011b
+1523.6,1524.34,C,Yeah but it it,ES2011b
+1524.22,1524.36,B,but,ES2011b
+1524.34,1524.47,C,would,ES2011b
+1524.36,1524.76,B,volume,ES2011b
+1524.47,1524.72,C,be,ES2011b
+1524.76,1527.48,B,is and volume is actually controlled on the T_V_ so you don't have to switch .,ES2011b
+1527.68,1548.18,C,"So but I'm saying like , does it make sense to have like some kind of a button , so like you're if you're on T_V_ , like you can switch channels , but then if uh if you're on D_V_D_ then like the channel bu like the the region of the disc that was for channels is for like switching to different tracks or s you know , to different I mean do we need to think about that , that like",ES2011b
+1548.08,1548.55,A,Um,ES2011b
+1548.29,1548.55,B,Yes we,ES2011b
+1548.55,1548.83,A,", yeah",ES2011b
+1548.55,1548.89,B,can try,ES2011b
+1548.83,1549.09,A,", let's",ES2011b
+1548.89,1549.23,B,that,ES2011b
+1549.09,1549.29,A,think,ES2011b
+1549.23,1549.23,B,.,ES2011b
+1549.29,1552.94,A,about it 'cause we need to wrap up . Um,ES2011b
+1552.43,1552.93,D,Okay .,ES2011b
+1552.94,1571.53,A,"let's see . Um so everyone's gonna go finish their questionnaire , uh then when we come back after lunch we'll have thirty minutes of individual work , um yeah , so think about the things we've discussed and bring some new ideas to our next meeting . See you soon .",ES2011b
+74.59,83.0,A,"Hi everyone , hope you had a nice lunch . Um . Alright we're moving on to conceptual design .",ES2011c
+84.84,86.91,C,'Scuse me,ES2011c
+86.03,86.6,D,Bless you .,ES2011c
+86.91,86.91,C,.,ES2011c
+88.02,135.43,A,"Um , I'll just review what we did in our last meeting . Um , under marketing we targeted our audience , and Um , yeah . That was generally how helpful that was . Um , then we considered some design options with how it should look , um , we discussed an iPod-like button system which , uh , we haven't concluded but we're Right , um So , if you all have presentations to do , we can see what where you've come from our last time . Does everyone have",ES2011c
+135.29,135.6,B,Hmm,ES2011c
+135.43,136.22,A,presentations,ES2011c
+135.6,135.6,B,.,ES2011c
+136.22,136.22,A,?,ES2011c
+136.72,137.33,D,Yeah,ES2011c
+136.86,137.94,C,Yes,ES2011c
+137.28,138.32,A,Okay,ES2011c
+137.3,137.83,B,Yes,ES2011c
+137.33,137.33,D,.,ES2011c
+137.83,137.83,B,.,ES2011c
+137.94,137.94,C,.,ES2011c
+138.32,139.75,A,. Would anybody like to go first ?,ES2011c
+141.06,141.56,B,Sure .,ES2011c
+141.94,142.09,A,Okay .,ES2011c
+161.56,244.8,B,"So I've been looking at the components design . Um . Mostly by consulting remote control diagrams from the internet and also by incorporating design ideas from the last project meeting . Um , so we need some custom design parts , and other parts we'll just use standard . Um , I assume we'll be custom designing our case , probably a hard plastic or some other material case , to protect the remote and the locator . And we'll need to custom desi design a circuit board , because the circuit board has to take the button input and send it to the output so you have to design that each time . But once we come up with a design we'll send it to the circuit people and they'll just print it out . Um , standard parts include the buttons and the wheels , um the iPod-style wheel . The infrared L_E_D_ is actually gonna be included in the circuit board that comes with it . Um , we need a radio sender and receiver , those are standard . And al we also need a beeper or buzzer or other sort of noise thing for locating the remote . So we have some material options . Um , we can use rubber , plastic , wood or titanium . Um , I'd recommend against titanium because it can only be used in the flat cases and it's really heavy . Um , and the rubber case requires rubber buttons , so if we definitely want plastic buttons , we shouldn't have a rubber case . And",ES2011c
+243.83,245.09,A,And why not wood,ES2011c
+244.8,245.14,B,", hmm",ES2011c
+245.09,245.28,A,? And,ES2011c
+245.14,245.14,B,?,ES2011c
+245.28,250.68,A,why not wood,ES2011c
+247.74,251.22,B,"Uh , well we can use wood . I don't know why we'd want to",ES2011c
+250.68,250.68,A,?,ES2011c
+251.22,268.43,B,". Um and also we should note that if we want an iPod-style wheel button , it's gonna require a m qu slightly more expensive chip . We can't use the minimal chip , we need the next higher grade , which is called regular . I don't think it's much more expensive , but it is more expensive . So that's what I've got on design .",ES2011c
+271.33,271.7,A,'S good .,ES2011c
+279.28,281.89,D,"Um , can I do next ? 'Cause I have to say something about the",ES2011c
+281.85,282.14,A,Hmm,ES2011c
+281.89,282.56,D,material,ES2011c
+282.14,282.14,A,.,ES2011c
+282.55,282.79,C,Yeah .,ES2011c
+283.7,285.73,D,which is quite shocking .,ES2011c
+292.78,293.54,D,Ha . Mm .,ES2011c
+310.16,371.73,D,"Right , um , I have been searching the current trends , um , both on the web and via fashion-watchers , and the findings are that the first thing to aim for is a fashion uh , fancy look and feel . Um . Next comes technologic technology and the innovations to do with that . And th last thing is the easy to use um factor . Um , fancy look and feel goes far beyond the functionality of the thing , but I suppose that is included in in the ease of use . Um , our fashion-watchers in Milan and Paris have decided , well noticed , that f the fruit and vegetable theme is the is the current trend and and therefore um we need to go for that if we want , you know , wh whatever our motto is . Um . For fashion",ES2011c
+371.48,371.66,A,Mm .,ES2011c
+371.73,461.03,D,", we go for fashion . The fashion in electronics . So we want to put the fashion electronics , we need to go fruit and vegetables . And also go for a spongy feel , so the the question of our technology whate is Industrial Designer . As to the material should be limited to I don't know how spongy it can be , should discuss this together , I don't know how spongy can be achieved but apparently that's the way to go . Um . I I have been thinking about this fruit and vegetable thing and I prefer fruits to vegetables , but that's just a personal opinion . I think I think people like to have a fruit instead of a vegetables in their sitting room . Uh those are just suggestions and also we need to decide whether this should be printed , so that still has to do with the material discuss should we print the fruit stuff , or should the actual remote look like a fruit ? Um , and finally again with the spongy . It has to be technologically innovative so maybe again our Industrial Designer should look into that or find come up with a solution that's better than mine . Um , yeah , to summarise these are the points that need to be um , touched in order to get a good decision , and hopefully our User Interface has more to say about the matter",ES2011c
+460.49,462.32,C,Mm-hmm,ES2011c
+461.03,462.41,D,. Thank you for your attention,ES2011c
+462.32,462.32,C,.,ES2011c
+462.41,462.41,D,.,ES2011c
+477.83,479.28,C,So .,ES2011c
+480.83,481.78,A,I think it's the next,ES2011c
+481.74,481.85,C,Oh,ES2011c
+481.78,481.96,A,it's,ES2011c
+481.85,482.23,C,", uh",ES2011c
+481.96,482.58,A,the blue one,ES2011c
+482.23,482.91,C,", there",ES2011c
+482.58,482.86,A,", yeah .",ES2011c
+482.91,500.96,C,we go . Uh . Okay . Um . Well so that fruit and vegetables thing huh . I actually wasn't aware of the new trends in electronics and,ES2011c
+500.28,501.17,D,Neither was I . Well,ES2011c
+500.96,501.19,C,and,ES2011c
+501.17,501.4,D,it's,ES2011c
+501.19,503.41,C,uh,ES2011c
+501.4,505.64,D,"a trend in fashion , in clothing and um",ES2011c
+505.35,505.71,A,Yeah but,ES2011c
+505.64,509.26,D,fabrics,ES2011c
+505.71,509.16,A,you're not gonna wear your remote control,ES2011c
+507.96,511.1,C,"So so okay , let me",ES2011c
+509.16,509.16,A,.,ES2011c
+509.26,509.26,D,.,ES2011c
+511.1,545.59,C,"get this right . Okay , uh Okay , alright anyway . Um here we go . Conceptual User Interface . Trying we're gonna try to talk about , um what kind of uh how people are actually going to be using this iPod-ish remote control , based on fruit vegetable design . And , um , basically , so , this is a touched ba a touch-based graphical interface system . Uh , so people are going to be looking at this little screen . Um , kind of I mean I assume , are we still on the screen idea ?",ES2011c
+546.39,549.23,A,Oh we s hadn't discussed it last,ES2011c
+548.98,549.32,C,'Cause if,ES2011c
+549.23,549.62,A,time,ES2011c
+549.32,549.84,C,we're gonna have,ES2011c
+549.62,549.62,A,.,ES2011c
+549.84,558.7,C,to ha if we have this it just seems like in order to have someone going around and using the um the wheel,ES2011c
+559.18,560.08,A,You need a screen,ES2011c
+559.99,560.24,C,you,ES2011c
+560.08,560.34,A,for,ES2011c
+560.24,560.56,C,it seems,ES2011c
+560.34,560.56,A,it,ES2011c
+560.56,560.69,C,like,ES2011c
+560.56,560.56,A,?,ES2011c
+560.69,561.79,C,you would need a screen,ES2011c
+561.43,562.08,B,You need a screen,ES2011c
+561.79,561.79,C,.,ES2011c
+562.08,566.11,B,"with music because you're looking for a specific song , like you know that band or whatever",ES2011c
+565.66,566.14,C,But like if you,ES2011c
+566.11,566.27,B,. With,ES2011c
+566.14,566.33,C,think,ES2011c
+566.27,566.53,B,T_V_,ES2011c
+566.33,566.59,C,about,ES2011c
+566.53,566.93,B,channels,ES2011c
+566.59,568.36,C,it,ES2011c
+566.93,568.41,B,"it's , you know , one two three",ES2011c
+568.36,568.67,C,yeah,ES2011c
+568.41,568.8,B,. So,ES2011c
+568.67,574.53,C,"but if so is it just okay . So , b you you're gonna have to switch to like D_V_D_ and like other things like that , aren't",ES2011c
+574.43,574.99,A,We're,ES2011c
+574.53,575.45,C,you,ES2011c
+574.99,575.49,A,", um , we're",ES2011c
+575.45,575.55,C,? Are,ES2011c
+575.49,575.81,A,actually,ES2011c
+575.55,576.41,C,we,ES2011c
+575.81,577.03,A,"not having D_V_D_ , that was",ES2011c
+577.0,577.56,B,Yeah,ES2011c
+577.03,578.16,A,one of th,ES2011c
+577.56,577.56,B,.,ES2011c
+578.16,578.53,A,I,ES2011c
+578.28,580.16,C,Okay,ES2011c
+578.53,580.19,A,"I was sorry , I I",ES2011c
+580.16,581.33,C,. Alright,ES2011c
+580.19,581.49,A,meant to update you on that,ES2011c
+581.33,581.67,C,. Okay,ES2011c
+581.49,582.09,A,. Um,ES2011c
+581.67,581.67,C,.,ES2011c
+581.69,582.32,D,But the screen,ES2011c
+582.09,582.09,A,.,ES2011c
+582.32,584.29,D,"can come up on the telly , the",ES2011c
+584.05,584.91,C,Okay,ES2011c
+584.29,585.42,D,she said . That,ES2011c
+584.91,585.67,C,. Okay,ES2011c
+585.19,585.46,B,Yeah,ES2011c
+585.42,585.77,D,correct,ES2011c
+585.46,585.46,B,.,ES2011c
+585.67,585.91,C,. So,ES2011c
+585.77,585.77,D,?,ES2011c
+585.91,600.43,C,anyway if well we just we need to Okay so if we're not gonna have a screen I think I was thinking okay . So basically it's just gonna be a wheel then ? And you're just gonna I mean I think you're gonna have to have some kind of a,ES2011c
+600.2,600.58,D,Graphical,ES2011c
+600.43,601.14,C,right,ES2011c
+600.58,601.45,D,interface,ES2011c
+601.14,601.55,C,. Yeah,ES2011c
+601.45,601.7,D,? Uh,ES2011c
+601.55,601.77,C,like you're,ES2011c
+601.7,601.92,D,on,ES2011c
+601.77,603.44,C,g,ES2011c
+601.92,604.01,D,the you can have it on the telly though,ES2011c
+603.44,603.83,C,yeah,ES2011c
+603.72,604.03,A,Yeah,ES2011c
+603.83,604.1,C,like you're,ES2011c
+604.01,604.01,D,.,ES2011c
+604.03,604.03,A,.,ES2011c
+604.1,617.39,C,"gonna have to be able to switch to like a mode where you can okay we're not choosing that , I guess . But like choose channel control , like if you wa Because people aren't gonna be able to have like , um , you know , channels one two three four five six seven eight nine",ES2011c
+616.59,616.93,A,Yeah .,ES2011c
+617.39,619.4,C,. So that people seems to be,ES2011c
+619.15,619.4,A,You've,ES2011c
+619.4,619.51,C,well,ES2011c
+619.4,620.99,A,"Yeah , I know what you're saying",ES2011c
+620.68,621.19,C,You know,ES2011c
+620.99,621.24,A,", you have",ES2011c
+621.19,621.55,C,. But,ES2011c
+621.24,621.49,A,to,ES2011c
+621.55,642.65,C,you're gonna have to scroll to get channels . So um I guess that's wh why I was thinking you may need to have some kind of a screen because So that people can go arou go back and forth and choose if or or then again if you just I guess I c I can see like some kind of a thing where like you sort of have like the number come up on the T_V_,ES2011c
+642.64,643.4,D,Yeah,ES2011c
+642.65,643.52,C,like what channel you're on,ES2011c
+643.4,643.78,D,", yeah",ES2011c
+643.52,643.78,C,. You can,ES2011c
+643.71,644.01,B,Yeah,ES2011c
+643.78,644.0,C,just,ES2011c
+643.78,644.37,D,", yeah",ES2011c
+644.0,644.35,C,scroll,ES2011c
+644.01,644.01,B,.,ES2011c
+644.35,644.45,C,and,ES2011c
+644.37,644.86,D,. Yeah,ES2011c
+644.45,645.05,C,you can just get,ES2011c
+644.86,645.1,D,", yeah",ES2011c
+645.05,645.18,C,to,ES2011c
+645.1,645.1,D,.,ES2011c
+645.18,646.99,C,like five or like twelve or,ES2011c
+646.96,647.37,A,But,ES2011c
+647.14,647.63,B,My flatmates,ES2011c
+647.37,647.87,A,but imagine,ES2011c
+647.63,647.92,B,actually,ES2011c
+647.87,648.15,A,someone,ES2011c
+647.92,648.17,B,had,ES2011c
+648.15,648.37,A,with,ES2011c
+648.17,648.44,B,one with,ES2011c
+648.37,648.44,A,s,ES2011c
+648.44,649.71,B,"a wheel , and it it did show up",ES2011c
+649.61,650.09,C,I,ES2011c
+649.71,650.22,B,on the T_V_,ES2011c
+650.09,650.76,C,oh yeah,ES2011c
+650.22,650.22,B,.,ES2011c
+650.76,650.76,C,?,ES2011c
+651.44,654.62,A,But i what if you have satellite and you have like two hundred channels . Then to,ES2011c
+654.56,655.41,C,'Cause,ES2011c
+654.62,655.42,A,get to channel,ES2011c
+655.41,655.57,C,you'll,ES2011c
+655.42,655.62,A,one,ES2011c
+655.57,655.79,C,have,ES2011c
+655.62,655.9,A,eighty,ES2011c
+655.67,656.59,D,Yeah,ES2011c
+655.79,655.93,C,to,ES2011c
+655.9,656.24,A,nine,ES2011c
+655.93,656.95,C,like,ES2011c
+656.24,656.81,A,you have to,ES2011c
+656.55,656.66,B,They,ES2011c
+656.59,656.59,D,.,ES2011c
+656.66,657.04,B,have to,ES2011c
+656.95,657.14,C,but you,ES2011c
+657.04,657.18,B,r,ES2011c
+657.14,657.32,C,can,ES2011c
+657.18,657.48,B,wheel,ES2011c
+657.32,657.76,C,quickly,ES2011c
+657.48,658.93,B,really fast,ES2011c
+657.76,658.19,C,s,ES2011c
+657.76,658.84,A,Yeah,ES2011c
+658.19,658.86,C,you can,ES2011c
+658.84,658.84,A,.,ES2011c
+658.93,660.73,B,. But I think the wheel goes through like a hundred,ES2011c
+660.44,661.03,C,Yeah,ES2011c
+660.46,660.76,D,Yeah,ES2011c
+660.73,661.13,B,channels,ES2011c
+660.76,661.08,D,", yeah",ES2011c
+661.03,661.03,C,.,ES2011c
+661.08,661.77,D,", yeah",ES2011c
+661.13,662.42,B,", at least on theirs",ES2011c
+661.77,661.77,D,.,ES2011c
+662.42,662.42,B,.,ES2011c
+662.55,683.42,C,"Yeah if you do , it w so it would have to be you I mean so you basically just kinda need to figure out like what kind of , you know , range we need to have on the wheel , and um So you're either you're you know , th you're either doing this motion to like control the channels or like once once you stop that , you know , you can like tap for , um",ES2011c
+683.24,683.81,A,Yeah,ES2011c
+683.42,683.97,C,", different",ES2011c
+683.81,683.81,A,.,ES2011c
+685.91,699.83,C,"uh , whatchamacallits , different um , you know , functions like volume or , like you can tap just to get to different channels . Like if you just wanted to go to like from five to six you could tap or someth",ES2011c
+699.93,700.31,A,Right .,ES2011c
+701.01,717.43,C,"And then there's also the concern about you know um how do you get to the menu if you wanna change the brightness of your television , or if you want to um you know switch around , I don't know , like , these different modes like turn on the timer or like",ES2011c
+716.46,716.73,A,Yeah,ES2011c
+717.43,718.87,C,"something something like that , like",ES2011c
+718.68,723.63,A,"I mean with that many options , you'd uh I'd think that the screen would be better , because",ES2011c
+723.22,723.71,C,I would think,ES2011c
+723.63,723.74,A,you,ES2011c
+723.71,723.93,C,so,ES2011c
+723.74,723.93,A,could,ES2011c
+723.93,724.25,C,too,ES2011c
+723.93,724.39,A,have that,ES2011c
+724.25,724.52,C,", like",ES2011c
+724.39,726.31,A,"menu option , sort of",ES2011c
+726.18,732.06,C,"So I mean and it seems it w it does seem a little silly to have this screen if you hardly are ever using it , you know , because but",ES2011c
+731.94,732.29,A,Yeah,ES2011c
+732.06,732.42,C,then again,ES2011c
+732.29,732.29,A,.,ES2011c
+732.42,739.92,C,"it would it does make kind of if the screen's sort of just like an option that , like , is just there and you're not really using it , that's kind of",ES2011c
+739.17,739.54,A,Yeah .,ES2011c
+739.79,739.95,B,It's,ES2011c
+739.92,740.86,C,m,ES2011c
+739.95,740.88,B,more expensive,ES2011c
+740.86,741.6,C,yeah,ES2011c
+740.88,741.97,B,according to the design,ES2011c
+741.6,741.6,C,.,ES2011c
+741.75,743.07,A,Uh,ES2011c
+741.97,743.14,B,people,ES2011c
+742.47,743.11,C,"Yeah , that's the",ES2011c
+743.07,743.07,A,.,ES2011c
+743.11,743.28,C,only,ES2011c
+743.14,743.38,B,. You have,ES2011c
+743.28,743.46,C,thing,ES2011c
+743.38,743.49,B,to,ES2011c
+743.46,743.74,C,though,ES2011c
+743.49,743.91,B,get a,ES2011c
+743.74,743.74,C,.,ES2011c
+743.91,749.12,B,"an advanced chip if you wanna have a screen in , which is more expensive than the regular chip , which is more expensive than the",ES2011c
+749.06,749.85,C,Yeah,ES2011c
+749.12,749.64,B,minimal .,ES2011c
+749.85,750.53,C,. So then basically,ES2011c
+750.42,750.75,A,Mm,ES2011c
+750.53,750.77,C,it has,ES2011c
+750.75,750.75,A,.,ES2011c
+750.77,763.07,C,"to have some way to get to get to a mode on the television where you're doing , um You can get to you know , you can Like maybe it'll be that central button",ES2011c
+762.77,763.12,D,Yeah,ES2011c
+763.07,763.27,C,that,ES2011c
+763.12,763.3,D,", yeah",ES2011c
+763.27,763.81,C,", like",ES2011c
+763.3,763.87,D,", yeah",ES2011c
+763.34,763.76,B,Mm-hmm .,ES2011c
+763.81,763.95,C,", then",ES2011c
+763.83,763.97,A,Mm,ES2011c
+763.87,763.87,D,.,ES2011c
+763.95,764.06,C,you,ES2011c
+763.97,763.97,A,.,ES2011c
+764.06,767.06,C,hit that and then you can it brings up like the menu on the T_V_,ES2011c
+766.88,767.38,D,Yeah,ES2011c
+767.06,767.39,C,and you can,ES2011c
+767.38,767.38,D,.,ES2011c
+767.39,767.58,C,just,ES2011c
+767.4,768.17,A,Yeah,ES2011c
+767.58,768.3,C,scroll around,ES2011c
+768.17,768.44,A,. So,ES2011c
+768.3,769.05,C,", like",ES2011c
+768.44,769.35,A,the T_V_,ES2011c
+769.05,769.37,C,", to do",ES2011c
+769.35,769.63,A,is,ES2011c
+769.37,769.95,C,the timer,ES2011c
+769.63,770.38,A,the screen,ES2011c
+769.95,770.43,C,", to do the",ES2011c
+770.38,770.76,A,", that",ES2011c
+770.43,771.14,C,yeah,ES2011c
+770.76,771.04,A,yeah,ES2011c
+771.14,771.59,C,", yeah .",ES2011c
+771.8,773.9,A,So it would have all these different options,ES2011c
+773.78,775.39,C,Yeah,ES2011c
+773.9,774.97,A,of changing,ES2011c
+775.39,776.09,C,. But the remote,ES2011c
+775.96,776.31,A,to,ES2011c
+776.09,776.95,C,itself isn't really,ES2011c
+776.87,777.07,D,Look,ES2011c
+776.95,777.4,C,cluttered,ES2011c
+777.07,777.45,D,it even,ES2011c
+777.4,777.81,C,up,ES2011c
+777.45,778.35,D,has settings,ES2011c
+777.81,777.81,C,.,ES2011c
+777.87,778.16,A,Okay .,ES2011c
+778.35,778.35,D,.,ES2011c
+779.51,781.45,C,Hmm,ES2011c
+779.53,780.92,D,On the,ES2011c
+780.05,780.21,A,Yeah .,ES2011c
+780.92,781.58,D,you can just,ES2011c
+781.45,782.19,C,? Yeah,ES2011c
+781.58,782.41,D,take theirs,ES2011c
+782.19,782.41,C,", well",ES2011c
+782.19,782.39,A,Yeah .,ES2011c
+782.41,782.5,C,we,ES2011c
+782.41,782.87,D,and,ES2011c
+782.5,782.95,C,don't want the,ES2011c
+782.87,784.31,D,just,ES2011c
+782.95,798.95,C,"screen I guess , but um 'cause that just it does seem like , it that would be , like , incredibly expensive , but I dunno , and then so , it just im really all you need is , like , this little wheel then , and you can control everything . So",ES2011c
+802.22,812.71,A,"Um , right . What if I mean , if you're thinking of the design of it now , like the a you know , physical attributes",ES2011c
+812.03,812.38,C,Yeah .,ES2011c
+812.71,824.78,A,", um , and you just have this , it's like just a long silver thing , or whatever we're thinking . I mean are you you gonna have any buttons on that besides power and this thing ? Or",ES2011c
+825.12,831.73,C,It doesn't seem that you would need anything besides pow I mean and the power button could even be like hold down the menu button for like,ES2011c
+831.32,831.63,A,Yeah .,ES2011c
+831.73,834.56,C,longer than one second and it turns on the T_V_ .,ES2011c
+834.74,840.02,A,So can we imagine that this would be smaller than the remote controls that you showed us before,ES2011c
+840.02,840.53,C,Yeah,ES2011c
+840.02,841.44,A,. I mean,ES2011c
+840.53,841.46,C,. Yeah definitely . Like,ES2011c
+841.44,841.8,A,okay,ES2011c
+841.46,841.95,C,", I think we're",ES2011c
+841.8,841.8,A,.,ES2011c
+841.95,850.28,C,"looking at something that could be , like like even maybe like a cir I'm f I'm seeing almost like a circular sort of like handheld like thing",ES2011c
+850.08,850.43,D,Yeah,ES2011c
+850.28,850.45,C,. I mean,ES2011c
+850.43,850.64,D,but,ES2011c
+850.45,850.85,C,it,ES2011c
+850.64,850.84,D,should,ES2011c
+850.69,852.05,A,Yeah,ES2011c
+850.84,850.94,D,be,ES2011c
+850.85,851.03,C,it,ES2011c
+850.93,851.21,B,Yeah,ES2011c
+850.94,851.84,D,comfortable,ES2011c
+851.03,851.27,C,needs,ES2011c
+851.21,851.21,B,.,ES2011c
+851.27,852.16,C,to be easy,ES2011c
+851.84,851.84,D,.,ES2011c
+852.05,852.45,A,. Yeah,ES2011c
+852.16,852.73,C,to somehow,ES2011c
+852.45,852.45,A,.,ES2011c
+852.73,855.9,C,it needs to be easy to like manipulate and use your,ES2011c
+856.45,856.75,A,Yeah .,ES2011c
+857.32,867.28,C,"I mean how do how do I'm not really Like when I use an iPod , I end up just kind of using my index finger to like control it",ES2011c
+866.87,867.31,A,"Yeah , I've",ES2011c
+867.28,867.68,C,. So,ES2011c
+867.31,868.67,A,seen some people just going like that,ES2011c
+868.64,869.15,C,Yeah,ES2011c
+868.67,869.0,A,with their,ES2011c
+868.97,869.43,D,Yeah,ES2011c
+869.0,869.7,A,thumb,ES2011c
+869.15,869.77,C,. Or your thumb,ES2011c
+869.43,869.9,D,I use,ES2011c
+869.7,870.05,A,", yeah",ES2011c
+869.77,870.4,C,or something,ES2011c
+869.9,870.16,D,it like,ES2011c
+870.05,870.05,A,.,ES2011c
+870.16,870.61,D,that,ES2011c
+870.36,870.55,B,W,ES2011c
+870.4,870.86,C,. So,ES2011c
+870.55,870.74,B,when,ES2011c
+870.61,870.61,D,.,ES2011c
+870.74,875.17,B,"we had the wheely remote control , we it was on the top I think , if you held it like that",ES2011c
+874.74,875.09,A,Yeah .,ES2011c
+875.12,876.8,C,Yeah,ES2011c
+875.17,875.17,B,.,ES2011c
+875.25,875.73,D,Yeah .,ES2011c
+876.8,877.03,C,. Yeah,ES2011c
+876.88,877.25,A,But,ES2011c
+877.03,877.36,C,", so",ES2011c
+877.25,878.69,A,", were there buttons on there as well ?",ES2011c
+878.72,881.71,B,Yeah well it had the wheely thing and then it had those eighteen different buttons,ES2011c
+881.63,882.67,A,Mm,ES2011c
+881.71,882.74,B,that I don't know what they do,ES2011c
+882.67,883.27,A,. Yeah,ES2011c
+882.7,882.78,C,Mm,ES2011c
+882.74,883.02,B,. So,ES2011c
+882.78,883.5,C,yeah,ES2011c
+883.02,883.33,B,we just,ES2011c
+883.27,883.27,A,.,ES2011c
+883.33,883.6,B,used,ES2011c
+883.5,883.5,C,.,ES2011c
+883.6,884.2,B,the top part .,ES2011c
+884.6,885.06,A,Yeah,ES2011c
+885.04,885.35,C,Yeah,ES2011c
+885.06,885.06,A,.,ES2011c
+885.13,885.43,D,Uh,ES2011c
+885.35,885.62,C,", so",ES2011c
+885.43,885.43,D,.,ES2011c
+885.62,892.71,C,"but I mean I think it could be pretty small . Like , I d I mean , you you want it to be large enough that you can",ES2011c
+892.13,910.57,A,"What if , um , you had like a b a cover that went over buttons that you don't use very much ? Like you so you could slide it up if you needed to like change the contrast or something like that ? So the options are there but they're not in interfering with the design and the practicality of it .",ES2011c
+912.13,912.82,C,But can't you just,ES2011c
+912.65,912.89,A,Do do,ES2011c
+912.82,913.19,C,get,ES2011c
+912.89,913.46,A,you know what I'm talking,ES2011c
+913.43,914.51,B,Yeah,ES2011c
+913.46,914.64,A,"about though ? Like , uh , yeah just",ES2011c
+914.51,914.77,B,. Yeah,ES2011c
+914.64,915.17,A,something,ES2011c
+914.77,914.93,B,like,ES2011c
+914.86,914.94,C,K,ES2011c
+914.93,916.01,B,maybe something on the side,ES2011c
+915.89,916.08,D,Well you,ES2011c
+916.01,916.12,B,where,ES2011c
+916.08,916.2,D,can,ES2011c
+916.12,916.77,B,you,ES2011c
+916.2,916.53,D,have it on,ES2011c
+916.52,916.98,A,Yeah,ES2011c
+916.53,917.43,D,the settings,ES2011c
+916.77,917.0,B,slip a,ES2011c
+916.98,917.13,A,", that",ES2011c
+917.0,917.3,B,panel,ES2011c
+917.13,917.3,A,you can,ES2011c
+917.3,917.49,B,down,ES2011c
+917.3,917.61,A,flip,ES2011c
+917.43,918.34,D,", no",ES2011c
+917.49,917.7,B,and it's,ES2011c
+917.61,917.91,A,over,ES2011c
+917.7,917.92,B,got a,ES2011c
+917.91,918.53,A,", yeah",ES2011c
+917.92,918.06,B,whole,ES2011c
+917.97,918.71,C,Yeah,ES2011c
+918.06,918.5,B,bunch of,ES2011c
+918.34,918.34,D,?,ES2011c
+918.53,918.75,A,", yeah",ES2011c
+918.71,918.84,C,", But",ES2011c
+918.75,918.75,A,.,ES2011c
+918.84,927.09,C,", I mean , do you need that ? If if you can get to , you know if so long as you're able to bring up the menu on the T_V_ screen",ES2011c
+926.01,926.85,A,Yeah I mean I guess,ES2011c
+926.8,927.27,B,Yeah,ES2011c
+926.85,927.16,A,that's the,ES2011c
+927.09,927.25,C,. That,ES2011c
+927.16,927.41,A,thing,ES2011c
+927.25,927.54,C,keeps,ES2011c
+927.27,927.27,B,.,ES2011c
+927.41,927.75,A,is,ES2011c
+927.54,927.66,C,it,ES2011c
+927.75,928.86,A,is if w I,ES2011c
+928.71,929.14,C,really,ES2011c
+928.86,931.31,A,"if we can do this , that'd probably",ES2011c
+931.04,931.89,C,Yeah,ES2011c
+931.31,931.63,A,be,ES2011c
+931.89,934.64,C,. Uh you wouldn't I don't I just don't think you would even need it,ES2011c
+933.83,934.56,A,"Yeah , yeah .",ES2011c
+934.64,935.12,C,. So,ES2011c
+935.86,936.08,A,So I,ES2011c
+936.04,936.39,C,Mean,ES2011c
+936.08,944.08,A,"guess we have to look into the , um , like , the programming , how this how they actually programme these things",ES2011c
+944.02,944.21,B,Oh,ES2011c
+944.08,944.21,A,", and",ES2011c
+944.21,944.32,B,how,ES2011c
+944.21,944.36,A,if,ES2011c
+944.32,944.42,B,they,ES2011c
+944.36,945.25,A,that's,ES2011c
+944.42,945.31,B,make the menu show up on,ES2011c
+945.25,945.84,A,yeah,ES2011c
+945.31,945.82,B,the T_V_ ?,ES2011c
+945.84,945.84,A,.,ES2011c
+947.28,947.42,C,I mean,ES2011c
+947.39,947.55,B,I,ES2011c
+947.42,947.67,C,you can,ES2011c
+947.55,947.77,B,don't,ES2011c
+947.67,947.8,C,do,ES2011c
+947.77,949.18,B,know,ES2011c
+947.77,947.88,A,I,ES2011c
+947.8,948.84,C,it,ES2011c
+947.88,948.07,A,mean,ES2011c
+947.95,948.4,D,They already,ES2011c
+948.07,948.52,A,it would,ES2011c
+948.4,948.65,D,do,ES2011c
+948.52,948.68,A,y,ES2011c
+948.65,949.25,D,it,ES2011c
+948.68,949.58,A,would,ES2011c
+948.84,949.26,C,", you it's",ES2011c
+949.18,949.27,B,. I,ES2011c
+949.25,949.25,D,.,ES2011c
+949.26,949.34,C,it,ES2011c
+949.27,949.61,B,believe,ES2011c
+949.34,949.62,C,doesn't,ES2011c
+949.58,949.77,A,that,ES2011c
+949.61,949.8,B,it's,ES2011c
+949.62,949.84,C,seem,ES2011c
+949.77,949.99,A,would,ES2011c
+949.8,950.18,B,ins,ES2011c
+949.84,950.01,C,that,ES2011c
+949.99,950.28,A,be,ES2011c
+950.01,950.99,C,hard,ES2011c
+950.18,951.31,B,it's gotta be inside the T_V_,ES2011c
+950.99,950.99,C,.,ES2011c
+951.31,952.97,B,", not inside the remote .",ES2011c
+953.8,954.57,C,I mean I've never bought,ES2011c
+954.45,954.58,B,I'm,ES2011c
+954.57,954.62,C,a,ES2011c
+954.58,954.73,B,not,ES2011c
+954.62,954.95,C,remote,ES2011c
+954.73,955.27,B,sure,ES2011c
+954.95,955.38,C,. It sounds like,ES2011c
+955.27,955.27,B,.,ES2011c
+955.38,958.11,C,"this remote's going to be purchased separately from the television , which is",ES2011c
+957.98,958.38,B,Well,ES2011c
+958.11,958.46,C,a little,ES2011c
+958.38,959.53,B,they usually are . Well,ES2011c
+959.74,961.89,C,"My I've never bought just a remote , like , so",ES2011c
+961.72,962.16,D,No,ES2011c
+961.89,962.2,C,I don't I,ES2011c
+962.16,962.16,D,.,ES2011c
+962.2,962.54,C,don't really,ES2011c
+962.51,962.78,A,Huh,ES2011c
+962.54,962.79,C,know,ES2011c
+962.78,962.78,A,.,ES2011c
+962.79,963.63,C,. But um,ES2011c
+963.65,966.66,B,I guess that's right . It always comes with the T_V_,ES2011c
+966.22,967.25,C,So,ES2011c
+966.66,966.66,B,.,ES2011c
+967.25,979.7,C,", um but I mean it's I've never had a hard time with like my remotes , like bringing up the menu screen if you need to like change the date or whatever , you know . And I don't think that should uh that should be too hard .",ES2011c
+979.72,986.92,B,"Yeah , it most of the ones we've had have had the menu button , 'cause it's not like you need to have a button access to like change the contrast or something",ES2011c
+986.56,986.91,C,Yeah .,ES2011c
+986.92,989.23,B,. 'Cause it just doesn't come up every day or something,ES2011c
+989.2,990.55,C,Yeah,ES2011c
+989.23,989.23,B,.,ES2011c
+990.55,1001.38,C,". Well so So , do we need I dunno . Well I guess we have to you know think about But I mean you just basically need the output signal",ES2011c
+1001.15,1001.49,B,Mm-hmm,ES2011c
+1001.38,1001.5,C,you,ES2011c
+1001.49,1001.49,B,.,ES2011c
+1001.5,1001.81,C,know to be,ES2011c
+1001.75,1003.36,A,Yeah,ES2011c
+1001.81,1003.89,C,able to bring it up,ES2011c
+1003.36,1003.69,A,. Okay .,ES2011c
+1003.89,1004.73,C,. That's what it does anyway,ES2011c
+1004.64,1004.74,D,But,ES2011c
+1004.73,1004.73,C,.,ES2011c
+1004.74,1014.57,D,"also if you have it on the screen you can actually write everything out , because the problem with buttons is you like , they have these sort of abbreviations and",ES2011c
+1014.02,1014.68,C,Yeah,ES2011c
+1014.44,1014.96,B,Yeah,ES2011c
+1014.57,1015.19,D,codes,ES2011c
+1014.68,1014.68,C,.,ES2011c
+1014.7,1015.89,A,Yeah,ES2011c
+1014.96,1014.96,B,.,ES2011c
+1015.19,1015.95,D,that you're supposed,ES2011c
+1015.89,1016.04,A,", you",ES2011c
+1015.95,1016.67,D,to understand,ES2011c
+1016.04,1016.71,A,don't know they mean,ES2011c
+1016.67,1016.79,D,", and",ES2011c
+1016.71,1017.07,A,", yeah",ES2011c
+1016.79,1017.22,D,I never,ES2011c
+1017.07,1017.37,A,", it's",ES2011c
+1017.22,1017.61,D,get,ES2011c
+1017.37,1018.14,A,like,ES2011c
+1017.61,1017.99,D,it,ES2011c
+1017.86,1018.36,C,Yeah,ES2011c
+1017.99,1018.33,D,. Never,ES2011c
+1018.14,1018.41,A,yeah,ES2011c
+1018.33,1019.68,D,ever,ES2011c
+1018.36,1018.36,C,.,ES2011c
+1018.41,1018.41,A,.,ES2011c
+1019.68,1020.46,D,. So,ES2011c
+1019.99,1024.72,C,"So , but oh , you mean if we have this screen like the iPod screen",ES2011c
+1023.62,1024.78,D,Well on the telly,ES2011c
+1024.23,1024.94,B,Or on the T_V_,ES2011c
+1024.72,1024.87,C,? On,ES2011c
+1024.78,1024.78,D,.,ES2011c
+1024.87,1025.2,C,the telly,ES2011c
+1024.94,1025.83,B,too,ES2011c
+1025.2,1025.98,C,", okay , yeah",ES2011c
+1025.83,1025.83,B,.,ES2011c
+1025.98,1039.53,C,". So yeah I think , I mean , I think I think the touch-based graphical interface is a really uh cool idea because you know it is so obnoxious to like have to push those like okay now I hit this you know , you have your little guide out and you're like , hit this button twice , like",ES2011c
+1039.26,1040.3,A,Mm,ES2011c
+1039.53,1040.86,C,to,ES2011c
+1039.88,1040.37,D,Mm,ES2011c
+1040.3,1040.51,A,. And,ES2011c
+1040.37,1040.37,D,.,ES2011c
+1040.51,1041.69,A,it is technologically,ES2011c
+1040.86,1041.59,C,activate the date .,ES2011c
+1041.69,1043.37,A,"innovative in a way , so",ES2011c
+1043.03,1043.42,C,Yeah,ES2011c
+1043.37,1043.56,A,that,ES2011c
+1043.42,1045.02,C,. I guess,ES2011c
+1043.56,1044.39,A,fits with the,ES2011c
+1045.02,1045.82,C,. And it is trendy,ES2011c
+1045.56,1045.59,A,B,ES2011c
+1045.82,1047.36,C,", the iPods are",ES2011c
+1047.01,1047.19,A,Yeah .,ES2011c
+1047.36,1048.14,C,really hot right now,ES2011c
+1047.98,1048.36,D,Did you,ES2011c
+1048.14,1048.56,C,", so",ES2011c
+1048.36,1051.81,D,did you get that pc picture on did they provide you with that picture,ES2011c
+1051.68,1053.21,C,Um,ES2011c
+1051.81,1052.39,D,on the web ?,ES2011c
+1053.21,1055.69,C,", yeah , by web research , yeah , so",ES2011c
+1055.69,1064.62,D,That's quite interesting . What are we going to do about this vegetable thing that I'm dreading,ES2011c
+1061.32,1061.93,A,Oh,ES2011c
+1061.59,1062.19,C,Oh,ES2011c
+1061.93,1063.08,A,god,ES2011c
+1062.19,1062.19,C,.,ES2011c
+1062.61,1063.16,B,"Oh , I was",ES2011c
+1063.08,1063.08,A,.,ES2011c
+1063.16,1064.73,B,gonna say . You said uh people,ES2011c
+1064.62,1064.62,D,?,ES2011c
+1064.73,1066.53,B,want spongy . Um,ES2011c
+1066.33,1066.62,D,Yeah,ES2011c
+1066.48,1067.04,C,Yeah,ES2011c
+1066.53,1066.71,B,", one",ES2011c
+1066.62,1066.62,D,.,ES2011c
+1066.71,1067.11,B,of your,ES2011c
+1067.04,1067.04,C,.,ES2011c
+1067.11,1072.65,B,one of the material options is a sort of rubber that's in like those stress ball things . So,ES2011c
+1071.84,1072.41,C,"Oh , okay , that",ES2011c
+1072.39,1073.74,D,Yeah,ES2011c
+1072.41,1072.51,C,would,ES2011c
+1072.47,1073.38,A,Ah,ES2011c
+1072.51,1074.26,C,be cool,ES2011c
+1072.65,1073.48,B,", that would be spongy",ES2011c
+1073.38,1074.14,A,. Yeah,ES2011c
+1073.48,1073.48,B,.,ES2011c
+1073.74,1074.07,D,. Yeah .,ES2011c
+1074.14,1074.14,A,.,ES2011c
+1074.26,1075.67,C,. Mm,ES2011c
+1075.4,1075.76,D,Just,ES2011c
+1075.67,1075.67,C,.,ES2011c
+1075.76,1077.94,D,"nice feel , but I hate spongy",ES2011c
+1077.91,1078.14,C,Yeah,ES2011c
+1077.94,1077.94,D,.,ES2011c
+1078.14,1078.6,C,", c",ES2011c
+1078.39,1078.68,A,Yeah,ES2011c
+1078.6,1078.82,C,that's,ES2011c
+1078.68,1078.68,A,.,ES2011c
+1078.82,1083.93,C,"e that would be kind of oh , you know , usually like the touch pad things are kind of a hard plastic typ mouse type",ES2011c
+1083.54,1083.89,A,Yeah .,ES2011c
+1083.93,1085.3,C,", you know , thing . But what if",ES2011c
+1085.28,1085.41,A,I,ES2011c
+1085.3,1085.43,C,we,ES2011c
+1085.41,1085.58,A,mean,ES2011c
+1085.43,1086.21,C,ha,ES2011c
+1085.58,1086.39,A,definitely the area,ES2011c
+1086.21,1086.4,C,what if,ES2011c
+1086.39,1086.71,A,round,ES2011c
+1086.4,1086.74,C,we had like,ES2011c
+1086.71,1086.92,A,it,ES2011c
+1086.74,1087.43,C,a spongy,ES2011c
+1086.92,1086.92,A,.,ES2011c
+1087.43,1092.07,C,sort of like stress balley kinda so you're like,ES2011c
+1092.36,1093.2,B,Yeah I think it could work .,ES2011c
+1093.44,1093.66,C,Or what,ES2011c
+1093.54,1093.78,A,Yeah,ES2011c
+1093.66,1093.87,C,if we,ES2011c
+1093.78,1093.78,A,.,ES2011c
+1093.87,1103.78,C,"integrated the the uh the f what if the whole thing about the fruit and vegetables we somehow made it tactilely fash you know , we c tapped into that , so like it feels like",ES2011c
+1104.9,1105.05,D,Well,ES2011c
+1104.94,1107.25,C,a vegetable,ES2011c
+1105.05,1105.52,D,it could be,ES2011c
+1105.46,1105.61,A,An,ES2011c
+1105.52,1106.31,D,like,ES2011c
+1105.61,1107.95,A,orange,ES2011c
+1105.65,1106.67,B,Don't think,ES2011c
+1106.31,1107.19,D,mobiles,ES2011c
+1106.67,1107.4,B,I'd want it to feel,ES2011c
+1107.19,1107.35,D,that,ES2011c
+1107.25,1107.25,C,.,ES2011c
+1107.35,1107.66,D,just,ES2011c
+1107.4,1108.11,B,like a banana,ES2011c
+1107.66,1108.08,D,you just,ES2011c
+1107.95,1107.95,A,.,ES2011c
+1108.08,1108.24,D,put,ES2011c
+1108.11,1108.11,B,.,ES2011c
+1108.24,1108.93,D,a cover .,ES2011c
+1109.72,1110.22,C,Yeah,ES2011c
+1110.01,1110.27,D,If it's,ES2011c
+1110.22,1110.22,C,.,ES2011c
+1110.27,1124.19,D,"a small thing , you c instead of creating an object for it that looks like a banana , which frankly I'm not particularly fond of , um you could just have covers and then your mobile f it's like a mobile phone thing . You know you",ES2011c
+1124.16,1125.1,C,Yeah,ES2011c
+1124.19,1124.42,D,had,ES2011c
+1124.38,1124.88,A,Yeah,ES2011c
+1124.42,1125.13,D,there was a time,ES2011c
+1124.88,1124.88,A,.,ES2011c
+1125.1,1125.1,C,.,ES2011c
+1125.13,1127.08,D,when they had all these different covers,ES2011c
+1126.65,1127.61,C,Yeah,ES2011c
+1126.89,1127.15,B,You,ES2011c
+1127.08,1127.86,D,for mobiles,ES2011c
+1127.15,1127.65,B,could do like,ES2011c
+1127.61,1127.61,C,.,ES2011c
+1127.65,1127.89,B,the,ES2011c
+1127.86,1127.86,D,.,ES2011c
+1127.89,1132.68,B,"computers where they have like the grapefruit , apple machine and they have like the blueberry",ES2011c
+1132.62,1132.87,D,Yeah,ES2011c
+1132.68,1132.87,B,", like",ES2011c
+1132.87,1133.39,D,", yeah",ES2011c
+1132.87,1132.98,B,all,ES2011c
+1132.94,1134.37,A,Yeah,ES2011c
+1132.98,1133.43,B,the colours,ES2011c
+1133.39,1133.5,D,", yeah",ES2011c
+1133.43,1133.51,B,are,ES2011c
+1133.5,1133.5,D,.,ES2011c
+1133.51,1134.62,B,named after fruits,ES2011c
+1134.34,1134.93,C,Yeah,ES2011c
+1134.37,1135.1,A,. Yeah,ES2011c
+1134.62,1134.62,B,.,ES2011c
+1134.73,1135.08,D,Yeah,ES2011c
+1134.93,1135.27,C,. You could,ES2011c
+1135.08,1135.08,D,.,ES2011c
+1135.1,1135.1,A,.,ES2011c
+1135.27,1137.25,C,name it after fruits and vegetables,ES2011c
+1137.19,1137.34,D,And,ES2011c
+1137.25,1138.55,C,", or",ES2011c
+1137.34,1145.49,D,"it could the colour can fit your sitting room , so if you have red sitting room you can have strawberry , and then if you have a green one you can have well I don't know",ES2011c
+1145.29,1145.81,C,Yeah,ES2011c
+1145.49,1145.55,D,. Um .,ES2011c
+1145.81,1145.81,C,.,ES2011c
+1146.86,1147.11,A,So,ES2011c
+1147.07,1147.2,C,So,ES2011c
+1147.11,1147.29,A,what,ES2011c
+1147.2,1147.84,C,I think,ES2011c
+1147.29,1148.27,A,if what,ES2011c
+1147.84,1148.89,C,"yeah , colours",ES2011c
+1148.27,1148.9,A,this is I'm,ES2011c
+1148.89,1148.89,C,.,ES2011c
+1148.9,1162.44,A,"just forming this idea in my head of how this thing is looking . If you have like that stress ball material kind of as what you're actually holding in your hand , so like what you're feeling is comfortable , and then there's more of a hard plastic thing",ES2011c
+1161.67,1162.08,D,Yeah .,ES2011c
+1162.44,1164.29,A,where that thing is,ES2011c
+1163.4,1164.32,C,Yeah,ES2011c
+1164.29,1164.49,A,. And,ES2011c
+1164.32,1164.32,C,.,ES2011c
+1164.49,1171.7,A,on that hard plastic thing you can change either the colour or the fruit or vegetable that's on there,ES2011c
+1171.39,1172.01,C,Yeah,ES2011c
+1171.7,1172.19,A,. Is that kind,ES2011c
+1172.01,1172.01,C,.,ES2011c
+1172.19,1176.49,A,of I 'cause I I'm thinking of silver because those are our company colours,ES2011c
+1175.62,1177.19,C,Yeah,ES2011c
+1176.49,1176.99,A,. Um,ES2011c
+1177.19,1181.86,C,. Unfortunately they don't have silver fruits and vegetables . I do I dunno . Um,ES2011c
+1184.58,1191.17,A,I mean how are you how are you all envisioning by what we've just the feedback we've just got about the,ES2011c
+1191.52,1192.61,D,Maybe a ball .,ES2011c
+1193.73,1194.28,A,A ball ?,ES2011c
+1196.29,1201.03,D,"Know , a squashy ball . A relaxing squashy ball .",ES2011c
+1202.54,1205.87,C,"That's in the shape of a fruit , like a",ES2011c
+1205.7,1213.06,D,"That you can p well I see you're thinking , it's weird , you're thinking the opposite of me 'cause you're thinking you change the the hard bit",ES2011c
+1212.61,1212.99,A,Yeah .,ES2011c
+1213.06,1223.94,D,"and I'm thinking how do you change the hard would you put a um sticker sort of ? Because I was thinking if you have a cover for the squashy bit , like a",ES2011c
+1225.33,1228.07,A,This is just Okay,ES2011c
+1228.06,1228.33,D,Oh,ES2011c
+1228.07,1228.36,A,. Say,ES2011c
+1228.33,1229.14,D,", okay",ES2011c
+1228.36,1229.37,A,that's the s say that's,ES2011c
+1229.14,1229.66,D,", yeah",ES2011c
+1229.37,1229.95,A,the squashy,ES2011c
+1229.66,1229.66,D,.,ES2011c
+1229.95,1231.42,A,bit . Squashy,ES2011c
+1230.79,1231.65,D,Yeah I was thinking,ES2011c
+1231.42,1231.42,A,.,ES2011c
+1231.65,1233.48,D,of getting a cover for,ES2011c
+1234.04,1235.5,A,That see I was thinking,ES2011c
+1235.24,1235.63,D,Which is,ES2011c
+1235.5,1235.99,A,this,ES2011c
+1235.63,1236.51,D,cheaper,ES2011c
+1235.99,1237.33,A,s sorry,ES2011c
+1236.51,1237.64,D,. Well I don't know if it's cheaper,ES2011c
+1237.33,1237.51,A,I was,ES2011c
+1237.47,1237.92,B,Oh,ES2011c
+1237.51,1237.97,A,thinking,ES2011c
+1237.64,1238.51,D,actually,ES2011c
+1237.92,1238.14,B,. Mm,ES2011c
+1237.97,1238.31,A,this,ES2011c
+1238.14,1238.14,B,.,ES2011c
+1238.31,1238.52,A,bit,ES2011c
+1238.51,1238.51,D,.,ES2011c
+1238.52,1243.6,A,here would be the cover and like that's your actual,ES2011c
+1243.53,1244.85,C,Yeah,ES2011c
+1243.6,1244.85,A,thing . And like,ES2011c
+1244.85,1244.97,C,. Oh,ES2011c
+1244.85,1245.16,A,this,ES2011c
+1244.97,1245.23,C,I like,ES2011c
+1245.16,1245.26,A,you,ES2011c
+1245.23,1245.39,C,that,ES2011c
+1245.26,1245.57,A,could have,ES2011c
+1245.39,1246.28,C,shape,ES2011c
+1245.57,1246.32,A,like you could have like,ES2011c
+1246.28,1246.28,C,.,ES2011c
+1246.32,1248.31,A,cherries and,ES2011c
+1247.4,1248.11,C,Yeah .,ES2011c
+1248.31,1250.89,A,things around there . Um,ES2011c
+1250.55,1251.05,B,I was thinking,ES2011c
+1250.89,1251.16,A,but,ES2011c
+1251.05,1254.07,B,sort of a single ball shape,ES2011c
+1253.51,1253.61,A,I,ES2011c
+1253.6,1254.19,C,Yeah,ES2011c
+1253.61,1254.12,A,was thinking if,ES2011c
+1254.07,1254.16,B,. So,ES2011c
+1254.12,1254.19,A,it,ES2011c
+1254.16,1254.29,B,you're,ES2011c
+1254.19,1254.19,C,.,ES2011c
+1254.19,1254.32,A,was,ES2011c
+1254.29,1254.92,B,holding,ES2011c
+1254.32,1254.94,A,like this,ES2011c
+1254.92,1255.0,B,a,ES2011c
+1254.94,1255.19,A,'cause,ES2011c
+1255.0,1255.37,B,squishy,ES2011c
+1255.19,1255.46,A,the way,ES2011c
+1255.37,1255.73,B,ball,ES2011c
+1255.46,1255.76,A,you were,ES2011c
+1255.73,1255.82,B,and,ES2011c
+1255.76,1256.33,A,describing,ES2011c
+1255.82,1256.55,B,then it has a,ES2011c
+1256.33,1259.0,A,the the iPod and the thi the roll thingy,ES2011c
+1258.95,1259.3,C,It's like it,ES2011c
+1259.25,1259.57,B,Mm-hmm,ES2011c
+1259.3,1259.65,C,has to,ES2011c
+1259.57,1259.57,B,.,ES2011c
+1259.65,1261.08,C,be s yeah,ES2011c
+1260.16,1261.17,A,It's almost like your thumb,ES2011c
+1261.08,1261.08,C,.,ES2011c
+1261.17,1262.85,A,"is farther up , so if if you",ES2011c
+1262.8,1262.93,B,Yeah,ES2011c
+1262.85,1262.98,A,could,ES2011c
+1262.93,1263.18,B,I guess,ES2011c
+1262.98,1263.34,A,squish,ES2011c
+1263.18,1263.42,B,so,ES2011c
+1263.34,1263.46,A,it,ES2011c
+1263.42,1263.42,B,.,ES2011c
+1263.46,1264.31,A,lower,ES2011c
+1263.99,1264.75,C,Yeah,ES2011c
+1264.31,1264.73,A,then,ES2011c
+1264.4,1265.69,D,Yeah,ES2011c
+1264.75,1264.75,C,.,ES2011c
+1265.69,1271.26,D,". So it wouldn't be very big in either like how big ? This big , and then you just do that",ES2011c
+1270.81,1271.03,C,What,ES2011c
+1270.92,1271.24,A,Yeah,ES2011c
+1271.03,1271.46,C,"if , yeah",ES2011c
+1271.24,1271.35,A,", I",ES2011c
+1271.26,1271.41,D,", I",ES2011c
+1271.35,1271.46,A,know,ES2011c
+1271.41,1271.85,D,suppose,ES2011c
+1271.46,1271.58,C,", what",ES2011c
+1271.46,1271.7,A,what you,ES2011c
+1271.58,1271.73,C,if,ES2011c
+1271.7,1271.92,A,meant,ES2011c
+1271.73,1272.35,C,the squishy,ES2011c
+1271.85,1271.85,D,.,ES2011c
+1271.92,1272.27,A,", yeah .",ES2011c
+1272.35,1286.53,C,", oh so so you're saying the squishy part's like detachable , and you can so so maybe one you know you can have like the broccoli squishy thing , and then you could have like the banana squishy thing and you could get you could have your choice , you know",ES2011c
+1286.23,1286.82,D,Well just,ES2011c
+1286.53,1286.53,C,?,ES2011c
+1286.82,1297.15,D,"a li I can't des like condom thingy , like a a cover . But well the question is , which one's easiest to change and we can just",ES2011c
+1297.11,1297.5,A,Yeah,ES2011c
+1297.15,1297.85,D,contact,ES2011c
+1297.5,1297.5,A,.,ES2011c
+1297.85,1300.61,D,"our relevant department for that , and",ES2011c
+1300.55,1301.68,C,Yeah,ES2011c
+1300.61,1301.79,D,just see what the cost,ES2011c
+1301.68,1301.68,C,.,ES2011c
+1301.79,1303.62,D,is for covering that or covering,ES2011c
+1303.31,1303.78,C,Yeah,ES2011c
+1303.62,1303.97,D,that,ES2011c
+1303.78,1304.61,C,", yeah",ES2011c
+1303.84,1304.05,A,Mm,ES2011c
+1303.97,1304.13,D,", and",ES2011c
+1304.05,1304.05,A,.,ES2011c
+1304.13,1304.65,D,for now we,ES2011c
+1304.61,1304.61,C,.,ES2011c
+1304.65,1307.34,D,can do two prototypes maybe and then,ES2011c
+1307.22,1307.64,C,Yeah,ES2011c
+1307.34,1307.95,D,hi,ES2011c
+1307.64,1307.64,C,.,ES2011c
+1307.95,1309.14,D,try and ask users,ES2011c
+1309.08,1309.32,A,Okay,ES2011c
+1309.14,1309.41,D,what,ES2011c
+1309.32,1309.32,A,.,ES2011c
+1309.41,1310.35,D,"the best is , and",ES2011c
+1311.19,1312.32,A,Yeah,ES2011c
+1311.33,1313.34,C,Yeah,ES2011c
+1311.97,1312.24,D,No .,ES2011c
+1312.32,1312.61,A,. Okay .,ES2011c
+1313.34,1314.0,C,. Oh,ES2011c
+1313.82,1314.36,D,Um,ES2011c
+1314.0,1314.0,C,.,ES2011c
+1314.36,1315.89,D,. That's nicer . I think it's,ES2011c
+1315.88,1316.76,C,Yeah,ES2011c
+1315.89,1317.3,D,nicer to have a drawing,ES2011c
+1316.76,1316.76,C,.,ES2011c
+1317.3,1318.31,D,'cause it's neater .,ES2011c
+1318.79,1318.96,A,Hmm .,ES2011c
+1319.97,1320.66,D,Um,ES2011c
+1320.39,1320.76,A,Well that's,ES2011c
+1320.66,1320.66,D,.,ES2011c
+1320.76,1322.08,A,"not very neat , but",ES2011c
+1322.29,1333.74,C,Yeah . I mean I think uh and I think the handhe I think the handheld part is definitely So you could make that into the fruit and vegetable part .,ES2011c
+1333.99,1340.38,D,"If it's a bit like those juggling balls , you can change shape according to your to the way you hold",ES2011c
+1340.11,1340.62,B,Yeah,ES2011c
+1340.38,1340.74,D,it . If,ES2011c
+1340.6,1340.86,A,Mm-hmm,ES2011c
+1340.62,1340.86,B,you could,ES2011c
+1340.74,1340.97,D,it's,ES2011c
+1340.86,1341.23,B,squish,ES2011c
+1340.86,1340.86,A,.,ES2011c
+1340.97,1341.73,D,got sand,ES2011c
+1341.23,1341.68,B,it .,ES2011c
+1341.73,1343.88,D,"in it maybe , or something",ES2011c
+1343.46,1343.69,A,Yeah .,ES2011c
+1343.88,1346.75,D,", you it it just moulds to your hand",ES2011c
+1346.34,1348.04,C,Yeah,ES2011c
+1346.75,1346.75,D,.,ES2011c
+1348.04,1349.86,C,. So where are the fruit and vegetables now ?,ES2011c
+1350.55,1350.79,D,We,ES2011c
+1350.75,1350.98,C,Fruits,ES2011c
+1350.79,1351.22,D,we don't,ES2011c
+1350.98,1351.43,C,and veg,ES2011c
+1351.16,1351.31,B,I,ES2011c
+1351.22,1352.62,D,know,ES2011c
+1351.31,1351.54,B,guess,ES2011c
+1351.43,1351.43,C,.,ES2011c
+1351.54,1352.8,B,they would be either in the colour,ES2011c
+1352.62,1352.62,D,.,ES2011c
+1352.8,1354.14,B,of that plastic,ES2011c
+1354.12,1354.69,C,Yeah,ES2011c
+1354.14,1354.55,B,face on,ES2011c
+1354.52,1354.82,A,Yeah,ES2011c
+1354.55,1354.93,B,the front,ES2011c
+1354.69,1354.69,C,.,ES2011c
+1354.82,1354.82,A,.,ES2011c
+1354.93,1357.08,B,", or in the colour of the squishy thing underneath",ES2011c
+1356.72,1357.11,D,Yeah,ES2011c
+1357.08,1357.08,B,.,ES2011c
+1357.11,1357.11,D,.,ES2011c
+1357.65,1358.02,C,Yeah .,ES2011c
+1358.26,1361.97,D,And the rest is the company the company colour's silver ?,ES2011c
+1362.26,1366.8,A,"It was , yeah , silver and yellow . It l it looks like I don't",ES2011c
+1366.67,1367.24,C,We could,ES2011c
+1367.2,1367.69,D,Okay,ES2011c
+1367.24,1367.72,C,promote the,ES2011c
+1367.69,1367.69,D,.,ES2011c
+1367.72,1370.0,C,banana one,ES2011c
+1368.91,1369.69,A,Yeah .,ES2011c
+1370.0,1371.61,C,. Like mm .,ES2011c
+1372.36,1376.96,A,"I mean that's another question , where are we gonna we we should have the logo somewhere on it .",ES2011c
+1377.35,1377.71,C,Mm,ES2011c
+1377.36,1378.57,D,Mm-hmm,ES2011c
+1377.71,1377.71,C,.,ES2011c
+1378.57,1380.83,D,". Should also fit the batteries , which we haven't",ES2011c
+1381.35,1381.55,C,Oh,ES2011c
+1381.37,1381.72,A,Yeah,ES2011c
+1381.55,1381.84,C,yeah,ES2011c
+1381.72,1381.72,A,.,ES2011c
+1381.79,1381.89,B,I,ES2011c
+1381.84,1381.84,C,.,ES2011c
+1381.89,1383.79,B,think the batteries would have to go right under the plastic,ES2011c
+1383.76,1384.43,A,Yeah,ES2011c
+1383.79,1384.21,B,case .,ES2011c
+1384.26,1385.06,C,Yeah,ES2011c
+1384.43,1386.02,A,", th and that would",ES2011c
+1385.04,1385.49,D,Okay,ES2011c
+1385.06,1385.06,C,.,ES2011c
+1385.49,1385.49,D,.,ES2011c
+1385.59,1386.04,B,Especially if,ES2011c
+1386.02,1386.4,A,that,ES2011c
+1386.04,1391.95,B,you're switching out the squishy part . Then you need to have the other part just be sort of a single unit that you can snap off,ES2011c
+1391.92,1392.31,D,Mm-hmm,ES2011c
+1391.95,1391.95,B,.,ES2011c
+1392.31,1392.31,D,.,ES2011c
+1392.42,1392.71,A,Mm-hmm .,ES2011c
+1393.95,1411.83,C,"Yeah , I think , um it'd be interesting to have the b the squishy bit . The part that you , yeah , can change into the different , you know , trendy vegetables and fruits . But uh",ES2011c
+1411.62,1412.0,B,Well I dunno,ES2011c
+1411.83,1411.94,C,it,ES2011c
+1412.0,1417.22,B,. You'd spend so much time like squishing it to your own personal hand . Then you'd get a new one and you'd have to do it all over again,ES2011c
+1417.21,1417.86,C,Yeah,ES2011c
+1417.22,1417.22,B,.,ES2011c
+1417.86,1417.86,C,.,ES2011c
+1418.55,1422.75,D,No but it does it automatically . Does it automatically,ES2011c
+1422.06,1422.48,C,Yeah .,ES2011c
+1422.75,1423.24,D,? I don't know .,ES2011c
+1423.38,1429.6,A,I don't know what the rest of my notes mean because they were made for me,ES2011c
+1429.26,1430.11,D,Okay,ES2011c
+1429.6,1431.15,A,. But if someone,ES2011c
+1430.11,1430.11,D,.,ES2011c
+1431.15,1435.14,A,components concept . Question mark . Energy . Question,ES2011c
+1434.77,1435.25,B,That was me,ES2011c
+1435.14,1435.79,A,mark,ES2011c
+1435.25,1435.25,B,.,ES2011c
+1435.79,1436.88,A,. Was that you,ES2011c
+1436.38,1436.68,B,Yes .,ES2011c
+1436.88,1444.96,A,"? Okay . Oh right right . Yeah . Um , so what d but what do we know about energy ? I mean we're gonna use batteries right",ES2011c
+1444.71,1445.03,B,Uh we,ES2011c
+1444.96,1445.21,A,? And,ES2011c
+1445.03,1451.93,B,"actually had an option of batteries , solar power , and um a dynamo , which is something I don't know what it is . Something",ES2011c
+1451.8,1451.94,D,Oh,ES2011c
+1451.93,1452.02,B,to,ES2011c
+1451.94,1452.47,D,", a dynamo",ES2011c
+1452.02,1452.86,B,do with torches,ES2011c
+1452.47,1453.41,D,is,ES2011c
+1452.86,1452.86,B,.,ES2011c
+1453.41,1460.53,D,"ah , it's a bicycle . It's a bicycle mechanism . It's the en it's like if if something moves",ES2011c
+1460.5,1460.59,B,Oh,ES2011c
+1460.53,1460.75,D,", when",ES2011c
+1460.59,1461.55,B,okay,ES2011c
+1460.75,1461.57,D,it moves,ES2011c
+1461.55,1461.72,B,. Yeah,ES2011c
+1461.57,1461.92,D,", it",ES2011c
+1461.72,1462.03,B,", the other",ES2011c
+1461.92,1462.36,D,stores,ES2011c
+1462.03,1463.41,B,one was,ES2011c
+1462.36,1463.44,D,energy,ES2011c
+1463.41,1463.48,B,the,ES2011c
+1463.44,1463.44,D,.,ES2011c
+1463.48,1467.98,B,other one was a kinetic thing where you'd basically have to wind it yourself . So,ES2011c
+1467.43,1468.68,D,It's quite sweet,ES2011c
+1467.98,1468.69,B,I sort of picked,ES2011c
+1468.68,1468.68,D,.,ES2011c
+1468.69,1477.69,B,battery . We could have talked about doing a wind-up or a dynamo or a solar power . Um but I think solar power's not available with the rubber case anyways .,ES2011c
+1478.34,1479.11,A,I think batteries,ES2011c
+1478.68,1480.27,B,It,ES2011c
+1479.11,1480.33,A,sound good . What does,ES2011c
+1480.27,1480.41,B,it,ES2011c
+1480.32,1482.2,D,No,ES2011c
+1480.33,1480.6,A,everyone,ES2011c
+1480.41,1480.69,B,seems,ES2011c
+1480.6,1480.85,A,else,ES2011c
+1480.69,1480.99,B,a little,ES2011c
+1480.85,1483.28,A,think,ES2011c
+1480.99,1481.4,B,weird for,ES2011c
+1481.25,1481.8,C,The dynamo,ES2011c
+1481.4,1481.91,B,a living room,ES2011c
+1481.8,1481.95,C,would,ES2011c
+1481.91,1483.5,B,anyways,ES2011c
+1481.95,1482.66,C,be interesting,ES2011c
+1482.2,1483.74,D,. But dynamo,ES2011c
+1482.66,1482.66,C,.,ES2011c
+1483.28,1483.28,A,?,ES2011c
+1483.5,1483.5,B,.,ES2011c
+1483.74,1489.92,D,"the the fact with dynamo is , the moment you move it , it c it creates energy on its own .",ES2011c
+1490.18,1490.97,C,Oh,ES2011c
+1490.51,1492.7,A,What about Kryptonite,ES2011c
+1490.88,1491.02,D,Which,ES2011c
+1490.97,1490.97,C,.,ES2011c
+1491.02,1492.83,D,"is quite cool . So if you throw it , it's gonna",ES2011c
+1492.7,1492.7,A,?,ES2011c
+1492.83,1499.69,D,"store loads of energy , and you don't need to buy a battery 'cause they're quite f I find them annoying . But we need to find cost .",ES2011c
+1499.83,1500.11,A,Yeah .,ES2011c
+1502.24,1503.32,D,Don't know the cost .,ES2011c
+1505.08,1505.37,B,Didn't have,ES2011c
+1505.28,1505.44,D,Does,ES2011c
+1505.37,1505.59,B,enough,ES2011c
+1505.44,1505.8,D,anyone,ES2011c
+1505.59,1505.86,B,data,ES2011c
+1505.8,1506.03,D,have,ES2011c
+1505.86,1506.58,B,to actually,ES2011c
+1506.03,1508.48,D,costs on the on the web,ES2011c
+1507.73,1508.48,B,All it said was,ES2011c
+1508.48,1508.48,D,?,ES2011c
+1508.48,1514.93,B,"it gave sort of relative , some chips are more expensive than others , sort of things . It didn't give me any actual",ES2011c
+1514.37,1515.13,D,Okay,ES2011c
+1514.93,1515.92,B,cost,ES2011c
+1515.13,1515.13,D,.,ES2011c
+1515.92,1515.92,B,.,ES2011c
+1516.37,1516.68,D,Right .,ES2011c
+1517.35,1517.52,C,Hmm,ES2011c
+1517.39,1517.75,D,Mm,ES2011c
+1517.52,1517.52,C,.,ES2011c
+1517.75,1517.75,D,.,ES2011c
+1518.57,1527.33,B,Most of the stuff is pretty cheap though bought in bulk . So I don't think it's that much of a problem . Like the chip is probably the most expensive part .,ES2011c
+1528.28,1529.81,A,What does chip on print mean ?,ES2011c
+1530.42,1535.92,B,"Um , for things like remote controls , um , they stamp out a chip",ES2011c
+1535.73,1535.97,A,Uh-huh,ES2011c
+1535.92,1536.44,B,", calculators",ES2011c
+1535.97,1535.97,A,.,ES2011c
+1536.44,1540.38,B,"too I think . Um , so you can mass produce 'em pretty cheap",ES2011c
+1539.89,1540.22,A,Okay .,ES2011c
+1540.38,1543.69,B,". But it's not like a computer , you can't like reprogramme your remo remote controls , it's like",ES2011c
+1543.6,1543.81,A,Right,ES2011c
+1543.69,1544.12,B,stamped,ES2011c
+1543.81,1543.81,A,.,ES2011c
+1544.12,1544.71,B,onto the chip .,ES2011c
+1545.17,1548.85,A,"So , chip on print is just means like that they're mass-produced",ES2011c
+1547.87,1548.16,B,Yeah .,ES2011c
+1548.85,1551.94,A,. Okay . And case ? Uh I guess,ES2011c
+1551.78,1552.06,B,Case,ES2011c
+1551.94,1552.12,A,that's,ES2011c
+1552.06,1552.18,B,is,ES2011c
+1552.12,1552.22,A,what,ES2011c
+1552.18,1552.29,B,what,ES2011c
+1552.22,1552.36,A,we've,ES2011c
+1552.29,1552.47,B,we were,ES2011c
+1552.36,1552.66,A,been talking,ES2011c
+1552.47,1553.02,B,discussing,ES2011c
+1552.66,1553.07,A,"about , yeah",ES2011c
+1553.02,1553.66,B,yeah,ES2011c
+1553.07,1553.78,A,. Casing,ES2011c
+1553.66,1553.66,B,.,ES2011c
+1553.78,1560.55,A,. Yeah . thinking of like syntactic case and thi um let's see .,ES2011c
+1567.36,1569.58,A,Is there anything else we need to,ES2011c
+1570.65,1571.31,C,Hmm .,ES2011c
+1571.38,1593.96,A,"talk about ? Oh when we move on , you two are going to be playing with play-dough . Um , and working on the look and feel of the design and user interface design . And you're gonna be doing protu product evaluation . So you'll get mm m more instructions from your personal coach .",ES2011c
+1594.21,1595.11,D,"Oh , thank",ES2011c
+1594.72,1594.91,A,Mm .,ES2011c
+1594.95,1595.46,C,Cool,ES2011c
+1595.11,1595.34,D,you .,ES2011c
+1595.46,1595.46,C,.,ES2011c
+1595.76,1600.68,A,See you soon . Does it matter that I end early ?,ES2011c
+1601.59,1603.34,D,I it's strange because,ES2011c
+1604.23,1611.87,A,How how early is it ? I didn't get a pop-up thing that said,ES2011c
+64.98,127.65,A,'Kay . Hmm . Okay everybody . Welcome to the detailed design meeting . Um Let's see . Our agenda . Last time we discussed the squishy fruitiness of our remote controls and how we might pursue that . Um and I think looks like we've come up with some ideas . Um and we also talked about materials we'd use and what kind of chip would be necessary . Um so for later in the meeting I've done a a spreadsheet of production costs so we'll take a look at that . Um and see if it's changed at all from when we last discussed it . Um so actually I think Yeah um f you guys wanna give a prototype presentation of,ES2011d
+129.31,159.74,B,"Okay well um . So our design looks something like this . This being the wheel that you use to uh change channels or volume or whatever . This is a button , serves as the power button if you hold it down , and if you just tap on it I think it brings up the menu . And uh the base of the remote control , which has a squishy spongy rubbery feel , is interchangeable . So you can change the colour , according to your to suit your living room or whatever . And",ES2011d
+159.62,159.83,C,You could,ES2011d
+159.74,161.15,B,it comes,ES2011d
+159.83,161.61,C,change the vegetable,ES2011d
+161.15,161.79,B,"yeah , I can change",ES2011d
+161.61,162.12,C,", or fruit",ES2011d
+161.79,163.2,B,the vegetable,ES2011d
+162.11,162.18,A,Oh,ES2011d
+162.12,162.12,C,.,ES2011d
+162.18,166.0,A,is that broccoli,ES2011d
+163.2,163.31,B,. This,ES2011d
+163.29,164.08,C,Yeah,ES2011d
+163.31,165.11,B,one's broccoli,ES2011d
+164.08,164.08,C,.,ES2011d
+165.11,166.54,B,. So this snaps off,ES2011d
+166.0,166.0,A,?,ES2011d
+166.54,179.06,B,"and you can put on whichever one you want . This is not to scale 'cause it would have the battery inside it . This is a mango . The it's trendy fruit , it's not just ordinary fruits . You don't have orange , you have mango . Um I guess strawberry's not as",ES2011d
+179.0,179.16,A,'S,ES2011d
+179.06,179.51,B,trendy,ES2011d
+179.16,179.57,A,a very,ES2011d
+179.51,180.94,B,", but",ES2011d
+179.57,181.11,A,bright strawberry .,ES2011d
+181.89,188.68,B,So we'll come up with a variety of trendy and exciting fruit designs for the remote control .,ES2011d
+189.7,189.9,C,It's,ES2011d
+189.74,189.92,B,And then,ES2011d
+189.9,190.06,C,been,ES2011d
+189.92,190.17,B,people,ES2011d
+190.06,190.22,C,a,ES2011d
+190.17,190.32,B,will,ES2011d
+190.22,190.27,C,l,ES2011d
+190.32,193.37,B,"be encouraged to buy three or five of them , because they'll need to switch 'em out .",ES2011d
+194.61,212.52,C,"It's been a little bit difficult to um make sure that it's hand-holdable , and that the user can use it , you know , it's not too big . Uh but we think that this you know , this size will be okay and we will have to fit the battery case in there",ES2011d
+212.42,212.7,B,Mm-hmm,ES2011d
+212.52,213.21,C,somehow,ES2011d
+212.7,212.7,B,.,ES2011d
+213.13,213.24,A,Oh,ES2011d
+213.21,213.82,C,. And,ES2011d
+213.24,213.61,A,yeah .,ES2011d
+213.82,224.34,C,"I guess the only other thing that we really didn't talk about was or design yet actually , would be the um thing the locator . How how so",ES2011d
+224.35,226.33,B,Well the locator is just chip that's inside there .,ES2011d
+226.35,227.82,C,Okay so that's just,ES2011d
+227.61,229.81,B,And the beeper's also inside there too somewhere,ES2011d
+229.65,229.98,C,So,ES2011d
+229.81,229.81,B,.,ES2011d
+229.98,233.57,C,you have to have a button on your on your you have to attach the button to the,ES2011d
+233.81,235.36,B,Yeah we didn't design that,ES2011d
+234.82,235.62,C,Yeah we have that,ES2011d
+235.36,235.36,B,.,ES2011d
+235.62,236.55,C,that has yes yet,ES2011d
+236.45,236.59,B,But,ES2011d
+236.55,236.68,C,to,ES2011d
+236.59,236.72,B,it,ES2011d
+236.68,236.77,C,be,ES2011d
+236.72,236.97,B,would,ES2011d
+236.77,237.28,C,designed,ES2011d
+236.97,237.81,B,be coordinating,ES2011d
+237.28,237.28,C,.,ES2011d
+237.81,238.65,B,with that of course,ES2011d
+238.56,239.01,C,Yeah,ES2011d
+238.65,238.65,B,.,ES2011d
+239.01,239.24,C,that c,ES2011d
+239.22,239.53,A,Yeah,ES2011d
+239.24,239.67,C,hey that,ES2011d
+239.53,239.53,A,.,ES2011d
+239.67,241.58,C,that could you know match the handset .,ES2011d
+241.88,242.15,B,Mm-hmm .,ES2011d
+243.24,248.59,C,"You could have a broccoli , or you could have a mango . So . Tada",ES2011d
+248.58,248.81,A,Oh,ES2011d
+248.59,248.59,C,.,ES2011d
+248.81,299.2,A,". Um if you wanna look in your project documents folder , there's an Excel spreadsheet . Um the only one that's in there , production costs . And if you open it up . Um I've just stuck the numbers in , it was a real challenge there . But if I missed anything that we've gone over , or if you see something that has changed I mean , we decided on batteries , and the regular chip would be necessary for the more advanced iPod-like button . Um I said uncurved or flat . I think that's what you have there , is that right ? For the for the plastic part would be",ES2011d
+298.82,303.77,B,My impression was that flat meant like like one of those square remotes . But it's,ES2011d
+303.76,304.48,A,Oh,ES2011d
+303.77,304.53,B,really not very,ES2011d
+304.48,305.19,A,. Okay,ES2011d
+304.53,305.31,B,"clear , because",ES2011d
+305.19,305.19,A,.,ES2011d
+305.31,308.32,B,you got single curve and double curve and,ES2011d
+307.31,307.89,A,Right .,ES2011d
+308.32,312.6,B,d I dunno what that means . One side is curved and then the other side is curved .,ES2011d
+314.06,337.76,A,Well yeah . If we're talking about the area just oh I d I dunno . I guess we'd have to contact the company that makes them and see . Um so what else ? There's plastic for that area around the button . Um and then rubber would be the squishy like thing right,ES2011d
+336.45,336.74,B,Mm-hmm .,ES2011d
+337.76,346.22,A,? Um and lots of special colours actually . Uh scroll wheel . Do you see anything that I've missed ?,ES2011d
+347.07,348.79,B,No I think that's alright .,ES2011d
+348.99,362.56,A,"Okay so that would make our total of eleven point nine , which is even less than twelve point five , which means we'd be making even more of a profit . And if we sold a lot of squishy things",ES2011d
+361.59,361.94,C,Mm .,ES2011d
+362.56,378.31,A,. Boo yeah . Okay . S So Mm .,ES2011d
+388.13,390.05,A,Did y what did you work on ? The,ES2011d
+389.99,393.3,D,Um evaluation criteria,ES2011d
+392.26,393.35,A,Okay . Do you wanna,ES2011d
+393.3,395.09,D,. I've got a presentation .,ES2011d
+395.42,397.18,A,Okay . I think,ES2011d
+396.8,397.5,D,So I need,ES2011d
+397.18,397.9,A,that's,ES2011d
+397.5,398.53,D,where's the cable ?,ES2011d
+409.28,506.41,D,"Right what happens is we have to um decide whether this this whole this whole project we've been working on actually um meets the standards we were set at the start . Um . Right . This doesn't okay . Um the method is we well I've analysed the user requirements and integrated them to the trends found in marketing reports and in our company strategy marketing . And um the findings were that we need it to look in a certain way , feel in a certain way , and this is everything's listed down . Um , look in a certain way , feel in a certain way , it has to be technologically innovative and it has to be easy to use . These are all things we looked at at the start , um and criteria that have to be met . We have to use a table , I'll show you that later , together to decide whether it meets the standards . And we we have therefore in total um We have five we have eleven points according to which this should be evaluated . And um the cri well basically the findings are the same as the evaluation criteria . I would like to show you the table we have to use . Um . No . This is the table . Can you see this here ?",ES2011d
+506.65,507.02,B,Mm-hmm .,ES2011d
+507.35,532.45,D,"Um so the que the questions I've given you c could you write that down ? True is one and and false is seven . And we'll just go through each point together , hopefully . Um . I think if each of us gives an opinion then they can be mixed somehow . I dunno how it works exactly , I haven't",ES2011d
+532.21,533.91,C,Yeah,ES2011d
+532.45,533.33,D,been told .,ES2011d
+533.91,535.94,C,. Is it possible that we can bring this up on our own,ES2011d
+537.22,541.43,D,Yeah it's in the um it's in the project documents .,ES2011d
+541.74,543.93,C,Is it meeting three minutes ? No it's not,ES2011d
+543.73,543.99,D,It's,ES2011d
+543.93,544.58,C,minutes,ES2011d
+543.99,545.31,D,called evaluation,ES2011d
+544.58,544.58,C,.,ES2011d
+545.31,546.04,D,criteria .,ES2011d
+546.32,546.87,C,Okay .,ES2011d
+548.26,552.24,D,And it's under evaluation .,ES2011d
+552.81,554.05,A,"Huh , the PowerPoint",ES2011d
+553.72,553.92,B,Hmm ?,ES2011d
+554.05,554.23,A,one ?,ES2011d
+554.72,555.3,D,Yeah,ES2011d
+555.04,555.52,C,Okay,ES2011d
+555.3,555.3,D,.,ES2011d
+555.52,556.02,C,. Cool .,ES2011d
+556.54,557.56,D,You've found it all,ES2011d
+557.51,557.69,A,Yeah,ES2011d
+557.56,557.56,D,?,ES2011d
+557.69,557.69,A,.,ES2011d
+564.27,569.06,D,So it was um Yeah true's one .,ES2011d
+574.19,575.96,C,True's one and false is seven,ES2011d
+575.64,576.14,D,Do you want,ES2011d
+575.96,575.96,C,.,ES2011d
+576.14,579.02,D,us to discuss this together or do you want us to do it singly ?,ES2011d
+579.39,581.67,A,Um we can do it separately and then discuss,ES2011d
+581.24,582.04,D,Yeah okay,ES2011d
+581.67,583.07,A,it if,ES2011d
+582.04,582.04,D,.,ES2011d
+583.07,584.37,A,if that's what people wanna do .,ES2011d
+590.47,592.02,C,So it's actually a scale .,ES2011d
+592.33,596.51,A,"Wait , one is true and",ES2011d
+596.34,596.84,D,Um,ES2011d
+596.51,596.88,A,so these,ES2011d
+596.84,596.84,D,",",ES2011d
+596.88,598.8,A,are the questions we're answering,ES2011d
+598.43,598.87,D,yes,ES2011d
+598.8,598.99,A,. And,ES2011d
+598.87,599.29,D,it's,ES2011d
+598.99,599.72,A,one is,ES2011d
+599.29,601.86,D,if it's fancy you put one,ES2011d
+601.2,601.96,A,"One , right",ES2011d
+601.86,602.07,D,", if",ES2011d
+601.96,602.42,A,okay,ES2011d
+602.07,602.76,D,it's really,ES2011d
+602.42,602.42,A,.,ES2011d
+602.76,604.58,D,unfancy it's seven,ES2011d
+603.99,604.62,A,If it's somewhere in,ES2011d
+604.58,604.58,D,.,ES2011d
+604.62,607.25,A,between you put four,ES2011d
+605.85,607.35,D,"Yeah , something",ES2011d
+606.79,607.64,C,Okay,ES2011d
+607.25,607.83,A,. Okay,ES2011d
+607.35,607.35,D,.,ES2011d
+607.64,607.64,C,.,ES2011d
+607.83,607.83,A,.,ES2011d
+661.53,666.27,C,Does it feel fancy,ES2011d
+663.95,665.32,B,Feels like play-dough .,ES2011d
+666.27,669.16,C,? No .,ES2011d
+678.6,681.72,D,They shouldn't really be questions . Should be more like,ES2011d
+713.48,716.8,D,Are the batteries easy to insert,ES2011d
+716.06,717.85,B,I'm gonna say yes,ES2011d
+716.8,718.19,D,? Yes,ES2011d
+717.85,717.85,B,.,ES2011d
+718.19,720.34,D,? Very very true . Okay,ES2011d
+719.83,720.49,B,I imagine they're,ES2011d
+720.34,720.34,D,.,ES2011d
+720.49,723.75,B,somewhere on the front . We have a little case that you slip 'em in .,ES2011d
+723.76,724.41,D,Okay .,ES2011d
+785.28,786.36,A,Are we just about ready ?,ES2011d
+788.28,793.25,D,Apparently I'm supposed to use the whiteboard . Do we um is it necessary ?,ES2011d
+794.45,796.71,A,I don't think so . It's,ES2011d
+796.1,796.85,D,We'll just do,ES2011d
+796.71,797.02,A,yeah,ES2011d
+796.85,797.61,D,um,ES2011d
+797.02,800.09,A,the the marker thing kinda stopped working last time,ES2011d
+799.9,801.22,C,Yeah,ES2011d
+800.09,800.28,A,we,ES2011d
+801.22,801.87,C,. Okay,ES2011d
+801.34,802.18,D,Yeah,ES2011d
+801.79,802.21,A,Our animals,ES2011d
+801.87,801.87,C,.,ES2011d
+802.18,802.89,D,. Okay,ES2011d
+802.21,802.96,A,will forever be,ES2011d
+802.89,802.89,D,.,ES2011d
+802.96,808.74,A,there . Un unless you feel you need it t to,ES2011d
+807.92,811.03,D,I don't feel any,ES2011d
+808.74,810.54,A,okay okay . We'll,ES2011d
+811.03,817.02,D,right um Right so one point one ? We'll just go in a circle .,ES2011d
+817.15,818.07,C,One,ES2011d
+817.39,817.51,B,'Kay,ES2011d
+818.07,818.07,C,.,ES2011d
+818.66,819.08,B,Five,ES2011d
+818.71,819.31,D,Right,ES2011d
+819.08,819.08,B,.,ES2011d
+819.31,822.96,D,. Ooh I don't know . Right . One ?,ES2011d
+823.44,823.82,B,Five .,ES2011d
+824.25,824.98,A,Five .,ES2011d
+825.85,833.08,D,Five . Two . Okay so do we just add it up and divide it by four ? Is that what the company does ?,ES2011d
+833.39,835.03,A,I I think we should,ES2011d
+834.92,836.12,B,It's four if you wanna do that .,ES2011d
+836.16,837.58,A,Yeah,ES2011d
+837.06,837.4,D,Yeah ?,ES2011d
+837.42,837.77,B,It adds,ES2011d
+837.58,837.99,A,. Yeah,ES2011d
+837.77,838.28,B,to sixteen,ES2011d
+837.99,837.99,A,.,ES2011d
+838.28,838.79,B,", so that's four .",ES2011d
+841.0,844.66,D,Oh no . It adds to thirteen . One five five two .,ES2011d
+845.04,845.93,B,Oh I thought she said five .,ES2011d
+846.13,846.29,C,Hmm .,ES2011d
+847.37,853.39,D,"One five five two is thirteen , over four for now . I think that's um next ?",ES2011d
+854.29,855.69,C,Um three .,ES2011d
+856.91,857.44,B,Six .,ES2011d
+857.54,861.48,A,Six,ES2011d
+859.29,860.58,D,Really,ES2011d
+859.99,861.3,C,Yeah,ES2011d
+860.58,861.66,D,? Two,ES2011d
+861.3,861.3,C,.,ES2011d
+861.48,861.93,A,. I wasn't,ES2011d
+861.66,861.83,D,. Uh-oh .,ES2011d
+861.93,863.95,A,cheating I swear,ES2011d
+863.41,864.14,D,Right . One,ES2011d
+863.95,863.95,A,.,ES2011d
+864.14,867.03,D,point three is,ES2011d
+868.18,870.72,C,So it's a one was true and seven was false ?,ES2011d
+872.26,872.53,B,Huh,ES2011d
+872.39,872.64,A,Uh,ES2011d
+872.53,872.53,B,?,ES2011d
+872.59,873.46,D,Yeah,ES2011d
+872.64,872.64,A,.,ES2011d
+873.03,873.63,C,Okay,ES2011d
+873.46,873.46,D,.,ES2011d
+873.63,875.15,C,", so you guys really didn't like it ?",ES2011d
+875.58,875.79,D,I,ES2011d
+875.74,875.96,A,Oh,ES2011d
+875.79,876.16,D,really,ES2011d
+875.94,876.16,B,Wait,ES2011d
+875.96,876.22,A,I thought,ES2011d
+876.16,876.91,B,a minute,ES2011d
+876.22,880.0,A,it was the other way round,ES2011d
+876.91,878.02,B,. I thought it was the other way round too .,ES2011d
+879.99,880.92,D,Well,ES2011d
+880.0,881.09,A,. So we do have about,ES2011d
+880.92,880.96,D,uh,ES2011d
+881.09,881.2,A,the,ES2011d
+881.11,881.3,B,Sh,ES2011d
+881.2,883.04,A,"same thing , we just have it the other",ES2011d
+882.84,883.28,B,Yeah,ES2011d
+883.04,883.14,A,way,ES2011d
+883.28,884.11,B,I,ES2011d
+883.44,884.36,D,Yeah yeah . It was,ES2011d
+884.11,884.39,B,I was,ES2011d
+884.36,884.58,D,one,ES2011d
+884.39,884.74,B,thinking,ES2011d
+884.58,884.9,D,is,ES2011d
+884.74,885.03,B,one,ES2011d
+884.9,885.49,D,true,ES2011d
+885.03,885.5,B,means no,ES2011d
+885.49,886.32,D,and,ES2011d
+885.5,886.47,B,"points , you know",ES2011d
+886.32,886.75,D,false,ES2011d
+886.47,886.77,B,", all the way",ES2011d
+886.75,886.86,D,is,ES2011d
+886.77,886.87,B,up,ES2011d
+886.86,887.38,D,seven,ES2011d
+886.87,888.14,B,to the top,ES2011d
+887.38,888.16,D,. I should've kept the,ES2011d
+888.14,888.14,B,.,ES2011d
+888.16,888.96,D,table up,ES2011d
+888.92,889.55,A,Oh,ES2011d
+888.96,888.96,D,.,ES2011d
+889.13,890.31,B,I'll just,ES2011d
+889.55,890.53,A,gosh . Okay,ES2011d
+890.31,890.66,B,I'll just,ES2011d
+890.53,890.86,A,. Well,ES2011d
+890.66,892.21,B,reverse them all . It's no problem,ES2011d
+892.05,892.6,A,Yeah,ES2011d
+892.21,892.21,B,.,ES2011d
+892.6,892.6,A,.,ES2011d
+894.17,896.73,D,"Right , well I'm glad this came out",ES2011d
+896.6,896.78,C,I was,ES2011d
+896.73,896.73,D,.,ES2011d
+896.78,898.1,C,"like , why did you guys design it that",ES2011d
+898.09,900.23,D,Yeah,ES2011d
+898.1,898.78,C,way if you hated,ES2011d
+898.66,898.95,B,I thought,ES2011d
+898.78,900.54,C,it,ES2011d
+898.95,904.92,B,you guys hated it,ES2011d
+900.23,901.13,D,. No,ES2011d
+900.44,904.61,A,Yeah,ES2011d
+900.54,904.53,C,? Yeah,ES2011d
+901.13,904.74,D,. Oh that's quite funny,ES2011d
+904.53,904.53,C,.,ES2011d
+904.61,904.61,A,.,ES2011d
+904.74,904.74,D,.,ES2011d
+904.92,904.92,B,.,ES2011d
+923.7,924.09,B,Okay .,ES2011d
+924.63,925.82,D,Okay,ES2011d
+925.51,925.88,A,Yeah,ES2011d
+925.82,925.82,D,.,ES2011d
+925.88,925.88,A,.,ES2011d
+927.15,930.9,D,"Okay . So , starting again , one point one ?",ES2011d
+931.1,931.8,C,One .,ES2011d
+933.15,934.08,B,Say two .,ES2011d
+935.16,935.78,A,Three .,ES2011d
+937.29,938.87,D,"Two . Okay , one point two ?",ES2011d
+941.1,942.25,C,Uh three .,ES2011d
+942.31,943.01,B,Two,ES2011d
+942.86,943.68,A,Two,ES2011d
+943.01,943.01,B,.,ES2011d
+943.68,943.68,A,.,ES2011d
+944.66,948.19,D,"Two . Okay . Um , one point three ?",ES2011d
+949.47,949.78,C,One .,ES2011d
+950.64,951.39,A,One,ES2011d
+951.17,951.8,B,One,ES2011d
+951.39,951.39,A,.,ES2011d
+951.8,951.8,B,.,ES2011d
+953.17,955.68,D,Ha . Two point one ?,ES2011d
+956.95,957.32,C,Uh,ES2011d
+957.07,957.65,A,Two,ES2011d
+957.32,957.85,C,two,ES2011d
+957.65,957.65,A,.,ES2011d
+957.85,957.85,C,.,ES2011d
+958.92,959.84,B,Uh two .,ES2011d
+961.29,965.73,A,"Two point I think I missed two . Wait , is that two point one ?",ES2011d
+966.73,967.24,B,Yeah I put it,ES2011d
+967.18,968.23,D,Yeah,ES2011d
+967.24,968.28,B,down as one point four,ES2011d
+968.21,968.39,A,One,ES2011d
+968.23,968.49,D,. Oh,ES2011d
+968.28,968.46,B,for,ES2011d
+968.39,968.63,A,point,ES2011d
+968.46,968.67,B,some,ES2011d
+968.49,969.5,D,dear,ES2011d
+968.63,968.93,A,four,ES2011d
+968.67,969.01,B,reason,ES2011d
+968.93,969.06,A,", one",ES2011d
+969.01,969.01,B,.,ES2011d
+969.06,969.57,A,point five,ES2011d
+969.5,970.11,D,", okay",ES2011d
+969.57,970.25,A,. Okay right,ES2011d
+970.11,970.89,D,. Sorry,ES2011d
+970.25,971.04,A,that's I have,ES2011d
+970.89,970.89,D,.,ES2011d
+971.04,971.92,A,two of them,ES2011d
+971.57,971.93,B,Mine has,ES2011d
+971.92,971.92,A,.,ES2011d
+971.93,972.49,B,all kinds of,ES2011d
+972.41,972.74,D,Two,ES2011d
+972.49,973.13,B,problems,ES2011d
+972.74,973.54,D,and one,ES2011d
+973.13,973.13,B,.,ES2011d
+973.54,977.18,D,". Sorry about that . T two point two , which is one point five .",ES2011d
+977.99,978.33,A,One .,ES2011d
+979.38,982.95,B,Uh three . Wait why did I put three,ES2011d
+982.82,983.05,C,Uh,ES2011d
+982.95,982.95,B,?,ES2011d
+983.05,983.46,C,one .,ES2011d
+984.62,984.92,B,I meant,ES2011d
+984.8,985.33,D,Okay,ES2011d
+984.92,985.55,B,one on mine,ES2011d
+985.33,985.33,D,.,ES2011d
+985.55,986.11,B,too .,ES2011d
+986.42,988.6,D,Three point one . Is that correct on my,ES2011d
+988.53,988.94,A,Yeah,ES2011d
+988.6,989.45,D,slide,ES2011d
+988.94,989.46,A,. Yeah,ES2011d
+989.24,990.1,C,Yeah,ES2011d
+989.45,989.71,D,? Yeah,ES2011d
+989.46,989.46,A,.,ES2011d
+989.71,989.71,D,?,ES2011d
+990.1,991.33,C,. Uh one .,ES2011d
+992.87,995.02,B,Three point one . I have four .,ES2011d
+995.47,996.33,A,Three,ES2011d
+995.64,996.8,D,"One , four",ES2011d
+996.33,996.33,A,.,ES2011d
+996.8,999.9,D,", three , three , three point two ?",ES2011d
+1001.06,1001.93,B,Three,ES2011d
+1001.72,1002.27,A,Three,ES2011d
+1001.93,1001.93,B,.,ES2011d
+1002.27,1002.27,A,.,ES2011d
+1003.45,1005.2,C,Uh . One .,ES2011d
+1006.45,1007.73,D,Three point three .,ES2011d
+1008.31,1008.89,C,One,ES2011d
+1008.89,1009.19,B,One,ES2011d
+1008.89,1008.89,C,.,ES2011d
+1009.19,1009.19,B,.,ES2011d
+1010.08,1010.89,A,Two .,ES2011d
+1013.4,1014.52,D,Four point one ?,ES2011d
+1015.0,1015.83,C,One,ES2011d
+1015.63,1015.91,B,Two,ES2011d
+1015.83,1015.83,C,.,ES2011d
+1015.91,1015.91,B,.,ES2011d
+1016.55,1017.65,A,Five .,ES2011d
+1019.35,1021.79,D,Two . Four point two .,ES2011d
+1022.08,1022.65,C,Two .,ES2011d
+1023.1,1023.63,B,Three .,ES2011d
+1023.81,1024.41,A,Four .,ES2011d
+1025.89,1028.37,D,Two and four point three .,ES2011d
+1029.19,1029.68,B,Two,ES2011d
+1029.51,1030.06,D,One,ES2011d
+1029.68,1029.68,B,.,ES2011d
+1030.06,1030.17,D,", two .",ES2011d
+1030.78,1031.19,C,One .,ES2011d
+1031.35,1032.01,A,Two .,ES2011d
+1033.76,1040.94,D,Right so I put one on that . Okay I'll um I'll just do the calculations now if you want to continue,ES2011d
+1040.8,1041.18,A,Okay,ES2011d
+1040.94,1041.22,D,. Or is,ES2011d
+1041.18,1041.55,A,. Um,ES2011d
+1041.22,1044.06,D,it tedious ? I'm I'm sorry this was so tedious,ES2011d
+1043.9,1044.11,A,No,ES2011d
+1044.06,1044.12,D,for,ES2011d
+1044.11,1044.39,A,no,ES2011d
+1044.12,1044.61,D,everyone,ES2011d
+1044.39,1044.82,A,that's,ES2011d
+1044.61,1044.61,D,.,ES2011d
+1044.82,1046.05,A,um,ES2011d
+1045.82,1046.1,D,I didn't,ES2011d
+1046.05,1046.18,A,I,ES2011d
+1046.1,1046.27,D,know,ES2011d
+1046.18,1046.45,A,think,ES2011d
+1046.27,1046.5,D,how,ES2011d
+1046.45,1046.58,A,we,ES2011d
+1046.5,1046.66,D,else,ES2011d
+1046.58,1046.81,A,should,ES2011d
+1046.66,1046.97,D,to do,ES2011d
+1046.81,1047.11,A,look at,ES2011d
+1046.97,1047.11,D,it,ES2011d
+1047.11,1047.21,A,the,ES2011d
+1047.11,1047.11,D,.,ES2011d
+1047.21,1058.55,A,"ones that like where s where people said four , where um it looks like we might wanna discuss changing an aspect of the remote .",ES2011d
+1058.69,1062.37,D,Okay . Well the worst ones were three point one .,ES2011d
+1062.94,1063.23,B,Mm-hmm .,ES2011d
+1063.6,1067.28,D,Do does every ones have the slide ? Three point,ES2011d
+1066.84,1067.92,A,The,ES2011d
+1067.28,1067.9,D,one .,ES2011d
+1067.92,1069.04,A,that was material .,ES2011d
+1069.96,1078.08,D,"Slide show . Material technologically innovative , okay",ES2011d
+1077.51,1077.79,A,Mm .,ES2011d
+1078.08,1082.56,D,". Um , do you want to change it ? What are the suggestions ? I don't know , anyone ?",ES2011d
+1083.28,1083.83,A,Um,ES2011d
+1083.51,1085.92,C,Which one is that again sorry ? Three point one ?,ES2011d
+1086.34,1087.05,A,Mm-hmm,ES2011d
+1087.01,1087.28,D,Yeah,ES2011d
+1087.05,1087.05,A,.,ES2011d
+1087.28,1091.51,D,that it's three point one was not that good . Four point one .,ES2011d
+1092.94,1094.06,A,Does the shape,ES2011d
+1094.29,1095.68,D,The shape,ES2011d
+1095.2,1096.05,C,I think,ES2011d
+1095.68,1097.01,D,. Four point two ?,ES2011d
+1097.26,1105.5,A,"See I'm having I'm having trouble imagining the is it uh gonna be the size , like the the controller ? It",ES2011d
+1105.35,1105.7,B,I think,ES2011d
+1105.5,1105.74,A,or,ES2011d
+1105.7,1105.82,B,the,ES2011d
+1105.74,1106.55,A,bigger,ES2011d
+1105.82,1107.03,B,wheel would probably be,ES2011d
+1106.55,1106.55,A,?,ES2011d
+1107.03,1107.34,B,mm,ES2011d
+1107.22,1108.14,A,Because,ES2011d
+1107.34,1107.34,B,.,ES2011d
+1107.6,1113.49,C,What if we just smash all the vegetables down flat ? And like then it you could hold it in your hand better .,ES2011d
+1114.09,1118.33,B,"I think the base would definitely be larger , 'cause some of these are not as easy to hold . They're",ES2011d
+1118.01,1118.54,A,Yeah,ES2011d
+1118.33,1118.56,B,kinda,ES2011d
+1118.54,1118.54,A,.,ES2011d
+1118.56,1119.4,B,smallish .,ES2011d
+1119.95,1124.79,A,"No but I imagine even if it was bigger , like if it's round and it's big then you you can't get",ES2011d
+1124.58,1125.54,C,Yeah,ES2011d
+1124.79,1125.88,A,that's why remote controls,ES2011d
+1125.54,1125.7,C,. The,ES2011d
+1125.64,1126.07,B,Yeah,ES2011d
+1125.7,1126.05,C,flat,ES2011d
+1125.88,1126.43,A,are long,ES2011d
+1126.05,1126.58,C,one,ES2011d
+1126.07,1126.07,B,.,ES2011d
+1126.43,1127.0,A,because,ES2011d
+1126.58,1127.31,C,. Yeah,ES2011d
+1127.0,1127.34,A,you have,ES2011d
+1127.31,1127.31,C,.,ES2011d
+1127.34,1133.65,A,that thumb kind of so c they could all be bananas and cucumbers,ES2011d
+1132.2,1132.9,C,Yeah .,ES2011d
+1133.65,1138.85,A,. Um but I don't s I I personally don't think this is comfortable,ES2011d
+1138.61,1139.38,C,I didn't,ES2011d
+1138.85,1139.45,A,to to,ES2011d
+1139.38,1140.35,C,yeah,ES2011d
+1139.45,1140.41,A,"sit there , like it's",ES2011d
+1140.35,1140.47,C,. But,ES2011d
+1140.41,1140.58,A,an,ES2011d
+1140.47,1140.66,C,like,ES2011d
+1140.58,1140.98,A,awkward,ES2011d
+1140.66,1141.16,C,if if,ES2011d
+1140.98,1141.92,A,position,ES2011d
+1141.16,1142.03,C,you just squash,ES2011d
+1141.92,1141.92,A,.,ES2011d
+1142.03,1144.03,C,them flat like and you made it flat,ES2011d
+1144.04,1147.64,B,Well if they're that s uh stress ball stuff they would be pretty squishable .,ES2011d
+1150.45,1150.75,C,But it's,ES2011d
+1150.74,1150.86,B,Mm,ES2011d
+1150.75,1150.97,C,still,ES2011d
+1150.86,1150.86,B,.,ES2011d
+1150.97,1152.28,C,"too big I think , in your",ES2011d
+1152.24,1152.96,A,Yeah,ES2011d
+1152.28,1153.2,C,hand,ES2011d
+1152.96,1152.96,A,.,ES2011d
+1153.2,1153.36,C,. Yeah .,ES2011d
+1155.82,1159.38,A,And would it even resemble fruit that way ? I mean,ES2011d
+1159.02,1162.24,C,Yeah like certain ones you'd have to limit the fruit selection,ES2011d
+1161.91,1162.2,A,Yeah .,ES2011d
+1162.24,1164.98,C,", like you could probably do a strawberry still",ES2011d
+1164.78,1165.28,A,Yeah,ES2011d
+1164.98,1165.29,C,. I think the,ES2011d
+1165.28,1165.28,A,.,ES2011d
+1165.29,1171.84,C,"broccoli would be out . You could do , although the broccoli is quite comfortable , I have to say , like sorta",ES2011d
+1171.73,1171.89,A,Yeah,ES2011d
+1171.84,1171.96,C,like,ES2011d
+1171.89,1172.12,A,that,ES2011d
+1171.96,1172.78,C,a joystick,ES2011d
+1172.12,1172.79,A,I I when,ES2011d
+1172.78,1172.78,C,.,ES2011d
+1172.79,1173.49,A,you were holding,ES2011d
+1173.34,1173.99,D,Yeah,ES2011d
+1173.49,1174.0,A,"that before , it",ES2011d
+1173.99,1174.21,D,. That,ES2011d
+1174.0,1174.37,A,actually,ES2011d
+1174.21,1174.45,D,looked,ES2011d
+1174.37,1175.24,A,looked,ES2011d
+1174.45,1175.44,D,really good,ES2011d
+1175.24,1175.52,A,yeah,ES2011d
+1175.44,1175.44,D,.,ES2011d
+1175.45,1175.53,C,I,ES2011d
+1175.52,1175.52,A,.,ES2011d
+1175.53,1176.58,C,don't know . So,ES2011d
+1178.01,1180.15,D,"Are there any fruits that look like broccoli , no ?",ES2011d
+1180.61,1181.28,C,Uh .,ES2011d
+1182.85,1188.02,B,Not that I can think of . Rhubarb,ES2011d
+1185.87,1188.17,C,Rhubarb,ES2011d
+1188.02,1188.02,B,.,ES2011d
+1188.17,1189.01,C,. These obscure,ES2011d
+1188.65,1189.02,D,I think,ES2011d
+1189.01,1189.71,C,fruits,ES2011d
+1189.02,1189.77,D,that broccoli is,ES2011d
+1189.71,1189.71,C,.,ES2011d
+1189.77,1191.85,D,my favourite actually,ES2011d
+1191.3,1191.72,A,Yeah .,ES2011d
+1191.85,1192.75,D,. Uh despite the,ES2011d
+1193.13,1193.52,C,I think we,ES2011d
+1193.45,1193.71,A,What,ES2011d
+1193.52,1193.85,C,needn't,ES2011d
+1193.71,1206.71,A,if um the it was just patterns on like we we chose the shape or the sh shape could be whatever we wanted and then it would just be like a design on the rubber .,ES2011d
+1208.34,1209.39,C,Huh,ES2011d
+1209.33,1209.46,A,You,ES2011d
+1209.39,1209.46,C,? Oh,ES2011d
+1209.46,1209.62,A,know,ES2011d
+1209.46,1209.99,C,okay,ES2011d
+1209.62,1210.41,A,like like,ES2011d
+1209.99,1209.99,C,.,ES2011d
+1210.26,1210.41,B,So,ES2011d
+1210.41,1210.64,A,just,ES2011d
+1210.41,1210.7,B,it's just,ES2011d
+1210.64,1210.71,A,a,ES2011d
+1210.7,1211.1,B,colour,ES2011d
+1210.71,1211.49,A,printed,ES2011d
+1211.1,1211.5,B,", and not",ES2011d
+1211.49,1211.84,A,yeah,ES2011d
+1211.5,1212.06,B,necessarily,ES2011d
+1211.84,1212.19,A,or,ES2011d
+1212.06,1212.53,B,the shape,ES2011d
+1212.19,1212.99,A,coloured,ES2011d
+1212.53,1213.38,B,of a strawberry,ES2011d
+1212.92,1213.39,C,Yeah,ES2011d
+1212.99,1213.35,A,yeah .,ES2011d
+1213.38,1213.38,B,.,ES2011d
+1213.39,1214.25,C,. That could work .,ES2011d
+1214.45,1215.62,D,Yeah .,ES2011d
+1215.94,1221.26,A,Or I mean we could even have fruit like around,ES2011d
+1220.26,1220.93,C,Yeah .,ES2011d
+1221.26,1221.85,A,I mean,ES2011d
+1222.32,1223.52,C,Yeah . I dunno,ES2011d
+1223.38,1223.52,A,But,ES2011d
+1223.5,1223.61,D,Yeah,ES2011d
+1223.52,1223.68,A,if,ES2011d
+1223.52,1223.52,C,.,ES2011d
+1223.61,1223.71,D,and,ES2011d
+1223.68,1223.82,A,we,ES2011d
+1223.71,1223.94,D,just,ES2011d
+1223.82,1224.1,A,if,ES2011d
+1223.94,1224.18,D,have the,ES2011d
+1224.1,1224.29,A,we,ES2011d
+1224.18,1224.6,D,colour,ES2011d
+1224.29,1225.6,A,need,ES2011d
+1224.6,1226.05,D,match or something,ES2011d
+1225.6,1226.41,A,yeah,ES2011d
+1226.05,1226.05,D,.,ES2011d
+1226.41,1236.21,A,". And if we wanna incorporate the fruit thing somehow , there might be I mean if it if it in if it uh conflicts with the comfort of actually holdi holding",ES2011d
+1235.88,1236.68,C,Yeah,ES2011d
+1236.21,1236.53,A,the,ES2011d
+1236.68,1240.3,C,. 'Cause yeah no-one wants to hold a remote that's uncomfortable obviously,ES2011d
+1239.65,1240.84,A,Mm,ES2011d
+1240.3,1240.3,C,.,ES2011d
+1240.33,1240.74,D,Mm .,ES2011d
+1240.84,1240.84,A,.,ES2011d
+1241.32,1252.21,C,"Or like I dunno , some of 'em you can kind of think see as like like you could if it was only this you know , if it was shaped like that , and it just had that . But you see the problem",ES2011d
+1252.1,1252.72,A,Yeah,ES2011d
+1252.21,1253.06,C,is you have to attach,ES2011d
+1252.72,1252.72,A,.,ES2011d
+1253.06,1254.69,C,"that , and this has to be detachable .",ES2011d
+1255.01,1255.42,A,Yeah .,ES2011d
+1256.35,1257.63,C,So like maybe that's just too,ES2011d
+1257.58,1257.68,A,Well,ES2011d
+1257.63,1257.87,C,big,ES2011d
+1257.68,1258.08,A,see th,ES2011d
+1257.87,1258.38,C,because,ES2011d
+1258.08,1261.61,A,the reason the broccoli works is you can kinda hold it like that,ES2011d
+1261.58,1261.82,C,Yeah,ES2011d
+1261.61,1261.97,A,", which is",ES2011d
+1261.82,1261.99,C,it's,ES2011d
+1261.89,1262.61,D,Yeah,ES2011d
+1261.97,1262.01,A,a,ES2011d
+1261.99,1262.18,C,sorta,ES2011d
+1262.01,1262.35,A,nice,ES2011d
+1262.18,1262.36,C,like,ES2011d
+1262.35,1262.59,A,kind,ES2011d
+1262.36,1263.31,C,a joystick,ES2011d
+1262.59,1263.49,A,of,ES2011d
+1262.61,1262.61,D,.,ES2011d
+1263.31,1263.31,C,.,ES2011d
+1263.49,1266.64,A,yeah . But,ES2011d
+1267.62,1269.03,C,I dunno . I guess,ES2011d
+1268.69,1273.38,A,I mean is there some way we could make it this kind of shape ? 'Cause like,ES2011d
+1273.24,1273.39,B,We,ES2011d
+1273.38,1273.6,A,kind,ES2011d
+1273.39,1273.63,B,could make,ES2011d
+1273.6,1274.04,A,of,ES2011d
+1273.63,1275.64,B,it that shape but just have different colours,ES2011d
+1275.55,1276.21,A,Yeah,ES2011d
+1275.64,1276.1,B,", and call",ES2011d
+1275.82,1276.49,C,Yeah,ES2011d
+1276.01,1276.51,D,Yeah,ES2011d
+1276.1,1276.28,B,'em the,ES2011d
+1276.21,1277.24,A,", yeah",ES2011d
+1276.28,1276.61,B,different,ES2011d
+1276.49,1276.49,C,.,ES2011d
+1276.51,1276.51,D,.,ES2011d
+1276.61,1277.78,B,fruits,ES2011d
+1277.24,1277.35,A,. Or,ES2011d
+1277.25,1277.68,C,Dif,ES2011d
+1277.35,1277.8,A,like,ES2011d
+1277.78,1277.89,B,. We,ES2011d
+1277.8,1278.27,A,even,ES2011d
+1277.89,1279.64,B,went with shape because we were having,ES2011d
+1279.58,1279.71,A,Or,ES2011d
+1279.64,1279.87,B,fun,ES2011d
+1279.71,1280.15,A,even,ES2011d
+1279.87,1280.81,B,with the play-dough,ES2011d
+1280.15,1280.69,A,like,ES2011d
+1280.81,1280.81,B,.,ES2011d
+1281.48,1284.07,A,"Yeah like you said , like a joystick like that",ES2011d
+1283.66,1284.6,C,Yeah,ES2011d
+1284.07,1284.5,A,. You know ?,ES2011d
+1284.6,1290.9,C,. Yeah . Like uh we could do I'm trying to think of other sha like fruits that are oddly shaped,ES2011d
+1290.43,1291.64,A,'Cause that,ES2011d
+1290.9,1290.9,C,.,ES2011d
+1291.64,1297.67,A,", I think I mean that fits the whole round iPod idea",ES2011d
+1296.77,1297.5,C,Yeah .,ES2011d
+1297.59,1297.83,B,Mm-hmm,ES2011d
+1297.67,1297.97,A,. And,ES2011d
+1297.73,1298.25,D,Yeah,ES2011d
+1297.83,1297.83,B,.,ES2011d
+1297.97,1298.38,A,you still,ES2011d
+1298.25,1298.25,D,.,ES2011d
+1298.38,1300.91,A,have the comfort of holding it like that .,ES2011d
+1302.17,1302.47,C,Mm .,ES2011d
+1303.99,1309.6,A,"And you could like if it's like this , you could put fruit designs and stuff on",ES2011d
+1308.88,1309.96,C,Yeah,ES2011d
+1309.6,1310.13,A,that,ES2011d
+1309.96,1310.35,C,. Yeah,ES2011d
+1310.13,1310.47,A,part,ES2011d
+1310.35,1310.35,C,.,ES2011d
+1310.47,1310.47,A,.,ES2011d
+1311.34,1311.78,C,Alright .,ES2011d
+1312.36,1316.47,A,But I mean it do we have any other ideas about that ?,ES2011d
+1317.53,1318.17,D,Um,ES2011d
+1322.2,1324.54,C,We could tr I don't know .,ES2011d
+1327.86,1343.46,D,"Think the critical ones came out to be yeah that one . . Batteries easy to insert for some reason , which can be easily I think that's not a problem",ES2011d
+1343.39,1343.48,A,The,ES2011d
+1343.46,1344.15,D,any,ES2011d
+1343.48,1344.09,A,batteries are,ES2011d
+1344.06,1344.27,B,That,ES2011d
+1344.09,1345.59,A,going,ES2011d
+1344.15,1344.25,D,more .,ES2011d
+1344.27,1345.71,B,everyone gave that a one or a two,ES2011d
+1345.59,1345.8,A,in,ES2011d
+1345.71,1345.71,B,.,ES2011d
+1345.8,1346.45,A,the back ?,ES2011d
+1346.95,1347.19,B,Yeah,ES2011d
+1346.99,1347.43,D,No,ES2011d
+1347.19,1347.54,B,they'd probably,ES2011d
+1347.43,1347.43,D,.,ES2011d
+1347.54,1349.3,B,be either on the front or the side of,ES2011d
+1349.18,1349.56,A,The reason,ES2011d
+1349.3,1349.78,B,the remote,ES2011d
+1349.56,1349.88,A,I I,ES2011d
+1349.78,1349.78,B,.,ES2011d
+1349.88,1355.32,A,ga I didn't give it a one I think I gave it a three because I thought you'd have to like unc,ES2011d
+1354.71,1355.84,B,No,ES2011d
+1355.32,1355.96,A,clip no,ES2011d
+1355.84,1356.27,B,I imagine,ES2011d
+1355.96,1356.66,A,you could,ES2011d
+1356.27,1357.79,B,there'd be sort of a hatch,ES2011d
+1357.79,1358.06,A,Just,ES2011d
+1357.79,1358.64,B,door,ES2011d
+1358.06,1358.85,A,like any other one,ES2011d
+1358.64,1358.98,B,", yeah um",ES2011d
+1358.85,1359.67,A,. Okay,ES2011d
+1358.98,1359.89,B,like on a normal remote,ES2011d
+1359.67,1359.92,A,. Yeah,ES2011d
+1359.89,1359.89,B,.,ES2011d
+1359.92,1361.39,A,. Right .,ES2011d
+1361.59,1366.43,B,"So it would probably either in the f no it can't be in the front 'cause the I_R_'s right there , but it'd be on one of the sides probably .",ES2011d
+1366.64,1367.12,A,Okay,ES2011d
+1367.01,1367.38,D,I think,ES2011d
+1367.12,1367.12,A,.,ES2011d
+1367.38,1369.05,D,everyone's under three anyway .,ES2011d
+1371.03,1371.16,A,Mm .,ES2011d
+1371.36,1374.78,D,So I think it's yeah those are the only two points .,ES2011d
+1377.03,1383.46,C,Cool . Well Yeah the broccoli I guess wins .,ES2011d
+1383.76,1384.73,D,Yeah,ES2011d
+1383.96,1384.96,B,Yeah I'd agree with changing,ES2011d
+1384.73,1384.73,D,.,ES2011d
+1384.96,1386.21,B,the shape . Um,ES2011d
+1386.21,1386.75,A,Okay,ES2011d
+1386.21,1386.79,B,", I was just having",ES2011d
+1386.75,1386.75,A,.,ES2011d
+1386.79,1389.03,B,fun making strawberries and stuff .,ES2011d
+1389.66,1414.84,C,"We were a bit off task . Um so uh I can't think of any So we'll have to like Mm . Yeah I dunno . You could make the touch pad in th in different shapes , but then that kind of re-designs the whole project like , but you could do",ES2011d
+1414.66,1414.86,B,It might,ES2011d
+1414.84,1414.99,C,like,ES2011d
+1414.86,1417.83,B,also sort of annoy people if we get used to having the buttons,ES2011d
+1417.59,1417.89,C,Yeah,ES2011d
+1417.83,1417.93,B,in,ES2011d
+1417.89,1418.19,C,that's,ES2011d
+1417.93,1418.59,B,one shape,ES2011d
+1418.19,1420.22,C,true,ES2011d
+1418.59,1418.59,B,.,ES2011d
+1418.84,1419.25,A,Yeah .,ES2011d
+1420.22,1420.63,C,. Yeah .,ES2011d
+1420.71,1423.02,A,And it would probably cost more to produce,ES2011d
+1422.47,1423.06,C,Yeah that's,ES2011d
+1423.02,1423.35,A,", 'cause",ES2011d
+1423.06,1423.43,C,true,ES2011d
+1423.35,1423.63,A,they're,ES2011d
+1423.43,1423.43,C,.,ES2011d
+1423.63,1424.24,A,irregular .,ES2011d
+1425.27,1426.23,C,Mm .,ES2011d
+1426.41,1429.61,B,I bet having different colours is a lot cheaper than having different shapes too .,ES2011d
+1429.62,1437.35,A,Yeah . Which is why printing might be like just printing the fruit on fruit .,ES2011d
+1438.24,1438.46,C,Hmm .,ES2011d
+1440.53,1440.88,A,Mm .,ES2011d
+1448.48,1467.96,A,"Not really Well we've done finance evaluation criteria , production evaluation . Um so project evaluation",ES2011d
+1467.83,1468.19,D,Do you want,ES2011d
+1467.96,1467.96,A,.,ES2011d
+1468.19,1473.18,D,this and we can all No .,ES2011d
+1473.25,1485.15,A,"I guess we're supposed to discuss um the prod the process of the project and how satisfied oh , oh it's alright . Uh",ES2011d
+1484.5,1485.4,D,It's alright yeah,ES2011d
+1485.15,1485.98,A,. Yeah,ES2011d
+1485.4,1485.4,D,?,ES2011d
+1485.98,1492.08,A,. Um Did you feel there was a lot of room for creativity in the sort of,ES2011d
+1492.5,1493.37,B,Sure .,ES2011d
+1493.4,1493.96,A,Yeah .,ES2011d
+1495.64,1496.24,C,I did .,ES2011d
+1497.18,1497.42,D,Yeah,ES2011d
+1497.38,1497.47,A,I,ES2011d
+1497.42,1497.42,D,.,ES2011d
+1497.47,1500.22,A,mean fruit and squishiness . How c more creative,ES2011d
+1500.17,1501.64,B,Sponginess,ES2011d
+1500.22,1501.65,A,can you get,ES2011d
+1501.58,1501.7,C,The,ES2011d
+1501.64,1501.64,B,.,ES2011d
+1501.65,1501.65,A,?,ES2011d
+1501.7,1514.5,C,prototype making was very creatively stimulating and I think we've come up with a product that's fun and meets all the criteria .,ES2011d
+1515.2,1518.61,A,And how was our leadership and teamwork ?,ES2011d
+1518.72,1523.64,B,I think it was good . We knew what we were doing . It was a very democratic process and everyone got to contribute .,ES2011d
+1525.87,1529.73,A,Well I thought my leadership was crap personally . Excuse me,ES2011d
+1529.66,1529.82,B,Well,ES2011d
+1529.73,1529.87,A,", am",ES2011d
+1529.82,1529.93,B,you,ES2011d
+1529.87,1530.12,A,I allowed,ES2011d
+1529.93,1530.15,B,told,ES2011d
+1530.12,1530.18,A,to,ES2011d
+1530.15,1530.25,B,us,ES2011d
+1530.18,1530.38,A,say,ES2011d
+1530.25,1530.39,B,when,ES2011d
+1530.38,1531.57,A,that,ES2011d
+1530.39,1531.59,B,"to start and when to end , and that's all",ES2011d
+1531.57,1533.82,A,? Yeah,ES2011d
+1531.59,1532.58,B,that matters .,ES2011d
+1533.82,1534.25,A,. Um .,ES2011d
+1534.49,1535.61,C,I think you were fine . You did,ES2011d
+1535.61,1536.36,A,Yeah,ES2011d
+1535.61,1536.39,C,a good job leading,ES2011d
+1536.36,1536.47,A,", well",ES2011d
+1536.39,1536.39,C,.,ES2011d
+1536.47,1541.67,A,"I'm never gonna do a management position , I know that now . Um yeah , I thought we all worked very",ES2011d
+1541.47,1541.67,D,Yeah,ES2011d
+1541.67,1541.82,A,well,ES2011d
+1541.67,1542.4,D,we didn't,ES2011d
+1541.82,1542.32,A,together .,ES2011d
+1542.4,1544.52,D,we uh it all c sort of blended,ES2011d
+1544.24,1544.57,A,Yeah,ES2011d
+1544.52,1544.78,D,quite,ES2011d
+1544.53,1544.79,C,Yeah,ES2011d
+1544.57,1544.57,A,.,ES2011d
+1544.78,1545.1,D,well,ES2011d
+1544.79,1545.18,C,I think it,ES2011d
+1545.1,1545.1,D,.,ES2011d
+1545.18,1548.79,C,"more than anything we didn't really have our set roles so much , as we just would be like",ES2011d
+1548.68,1550.24,A,Yeah,ES2011d
+1548.79,1550.5,C,"I don't know , all had ideas",ES2011d
+1550.24,1551.11,A,. Very democratic,ES2011d
+1550.5,1552.11,C,about it but,ES2011d
+1551.11,1551.11,A,.,ES2011d
+1552.11,1552.47,C,yeah .,ES2011d
+1552.54,1557.24,A,"No spats , that was good",ES2011d
+1554.22,1555.15,C,No .,ES2011d
+1557.24,1567.64,A,". Um and the means for like the materials we used , how convenient were they ? Like the the pens , the whiteboard , I mean",ES2011d
+1567.3,1567.71,B,Well I'm not,ES2011d
+1567.64,1567.75,A,we,ES2011d
+1567.71,1567.76,B,a,ES2011d
+1567.75,1568.05,A,used,ES2011d
+1567.76,1571.49,B,"big fan of any Microsoft , PowerPoint or any",ES2011d
+1571.39,1571.55,A,Are you,ES2011d
+1571.49,1571.58,B,of,ES2011d
+1571.55,1571.62,A,a,ES2011d
+1571.58,1571.8,B,this,ES2011d
+1571.62,1571.86,A,Mac,ES2011d
+1571.8,1572.63,B,stuff,ES2011d
+1571.86,1573.6,A,person,ES2011d
+1572.63,1573.7,B,. No no I never touch,ES2011d
+1573.6,1573.6,A,?,ES2011d
+1573.7,1580.32,B,"Macs either . I just use the Unix or the off market , sort of WordPerfect and all these other things .",ES2011d
+1580.39,1580.73,A,Huh .,ES2011d
+1581.09,1581.26,C,Hmm .,ES2011d
+1581.68,1583.56,D,Which isn't very user-friendly,ES2011d
+1583.38,1584.34,B,Yeah,ES2011d
+1583.56,1584.35,D,though,ES2011d
+1584.34,1584.53,B,. Well,ES2011d
+1584.35,1584.35,D,.,ES2011d
+1584.53,1596.65,B,the problem is if you don't like my new computer never has WordPerfect so I have to go track someone down who has an old disk and then I have to reinstall it . So I have all these documents I can't use now . But yeah I mean I guess it's okay .,ES2011d
+1597.62,1611.81,C,"I felt like my I dunno if it was just my role , but l but uh I di I thought that my the information that was available to me was kind of just like or maybe it was just the idea that we had . But there's kinda it was kinda like okay , I don't really think I dunno what I'm doing here",ES2011d
+1611.67,1611.88,A,Mm,ES2011d
+1611.81,1612.3,C,. So,ES2011d
+1611.88,1611.88,A,.,ES2011d
+1612.3,1619.99,C,I didn't really think it was helpful . So I kind of just made up my own stuff and I,ES2011d
+1619.89,1620.21,A,Yeah,ES2011d
+1619.99,1620.48,C,didn't really,ES2011d
+1620.21,1620.21,A,.,ES2011d
+1620.48,1624.89,C,"like the PowerPoint presentations , so I kind of wrote a lot of notes instead . But",ES2011d
+1624.55,1624.97,A,Yeah,ES2011d
+1624.89,1625.01,C,yeah,ES2011d
+1624.97,1624.97,A,.,ES2011d
+1625.01,1628.49,C,"I d I don't really like PowerPoint personally , think it's kinda",ES2011d
+1628.38,1629.34,B,Yeah,ES2011d
+1628.49,1629.16,C,stupid .,ES2011d
+1629.34,1630.16,B,. I never use it .,ES2011d
+1630.29,1631.71,C,Yeah but uh,ES2011d
+1631.94,1636.7,A,I can't say I found everything particularly helpful,ES2011d
+1636.56,1636.9,C,Yeah,ES2011d
+1636.7,1637.12,A,. Like,ES2011d
+1636.9,1637.12,C,. It didn't,ES2011d
+1637.12,1637.38,A,I,ES2011d
+1637.12,1637.4,C,really,ES2011d
+1637.26,1638.61,B,Yeah,ES2011d
+1637.4,1637.96,C,yeah .,ES2011d
+1638.34,1638.51,A,It,ES2011d
+1638.55,1638.79,D,I,ES2011d
+1638.61,1639.07,B,. My first,ES2011d
+1638.79,1639.1,D,though it,ES2011d
+1639.07,1639.2,B,bit,ES2011d
+1639.1,1639.35,D,was,ES2011d
+1639.2,1639.77,B,of information,ES2011d
+1639.35,1639.88,D,brilliant,ES2011d
+1639.77,1639.9,B,was,ES2011d
+1639.88,1640.62,D,no,ES2011d
+1639.9,1640.05,B,like,ES2011d
+1640.05,1642.13,A,Really,ES2011d
+1640.05,1640.73,B,this child's,ES2011d
+1640.62,1640.62,D,?,ES2011d
+1640.73,1642.35,B,drawn picture of how a remote,ES2011d
+1642.13,1642.13,A,?,ES2011d
+1642.35,1642.83,B,works .,ES2011d
+1642.91,1647.82,D,No mine was really helpful as in my stuff was quite helpful I think,ES2011d
+1647.64,1647.78,C,So,ES2011d
+1647.75,1647.87,A,I,ES2011d
+1647.78,1647.96,C,like,ES2011d
+1647.82,1648.13,D,. I,ES2011d
+1647.87,1648.38,A,mean,ES2011d
+1647.96,1648.16,C,a f,ES2011d
+1648.13,1648.46,D,think it,ES2011d
+1648.38,1648.58,A,m my,ES2011d
+1648.46,1648.85,D,depends,ES2011d
+1648.58,1649.81,A,problem,ES2011d
+1648.85,1649.64,D,on the role no,ES2011d
+1649.53,1649.83,C,Yeah,ES2011d
+1649.64,1649.64,D,?,ES2011d
+1649.81,1650.63,A,yeah,ES2011d
+1649.83,1649.89,C,I,ES2011d
+1649.85,1650.25,B,Yeah,ES2011d
+1649.89,1650.65,C,think so,ES2011d
+1650.25,1651.38,B,it probably does,ES2011d
+1650.63,1650.88,A,", yeah",ES2011d
+1650.65,1650.65,C,.,ES2011d
+1650.88,1651.58,A,. 'Cause my problem,ES2011d
+1651.38,1651.38,B,.,ES2011d
+1651.58,1656.17,A,"was , you guys had access to like they'd put send you to sites and stuff right",ES2011d
+1655.62,1655.92,B,Yeah .,ES2011d
+1656.17,1666.33,A,"? See I couldn't do that , so I didn't really know what you guys were doing . And when you were talking about it I was just like you know that's wh that's why I seemed so ignorant when when you were j explaining things , 'cause I",ES2011d
+1665.93,1670.58,B,Yeah well mine was mostly made up except when they told me like you know titanium costs more than,ES2011d
+1670.41,1671.13,A,Yeah,ES2011d
+1670.58,1671.24,B,wood to make,ES2011d
+1671.13,1671.13,A,.,ES2011d
+1671.24,1672.81,B,a remote control . As if,ES2011d
+1672.7,1673.86,D,Yeah,ES2011d
+1672.81,1672.93,B,you'd,ES2011d
+1672.86,1673.24,A,Yeah,ES2011d
+1672.93,1673.51,B,wanted to,ES2011d
+1673.24,1673.24,A,.,ES2011d
+1673.51,1673.51,B,.,ES2011d
+1673.86,1677.5,D,. But it must have been quite difficult for them to build a whole um,ES2011d
+1677.98,1678.99,A,System,ES2011d
+1678.6,1679.39,D,a whole system,ES2011d
+1678.99,1679.45,A,. Yeah,ES2011d
+1679.39,1679.58,D,", 'cause",ES2011d
+1679.45,1679.45,A,.,ES2011d
+1679.58,1684.2,D,of course they can't give you uh uh anything comparable to the internet for,ES2011d
+1683.97,1684.21,C,Yeah,ES2011d
+1684.2,1684.7,D,the,ES2011d
+1684.21,1685.02,C,I mean,ES2011d
+1684.4,1684.67,A,Yeah .,ES2011d
+1684.81,1685.18,B,Well I think,ES2011d
+1685.02,1685.69,C,", it",ES2011d
+1685.18,1690.58,B,"it's interesting how it all went together , like I had the stuff about how me how rubber's cheap , and you have how",ES2011d
+1690.53,1690.67,D,Yeah,ES2011d
+1690.58,1690.85,B,people,ES2011d
+1690.67,1691.44,D,", yeah",ES2011d
+1690.85,1691.81,B,want it to be spongy,ES2011d
+1691.44,1691.44,D,.,ES2011d
+1691.81,1692.13,B,", and",ES2011d
+1692.27,1693.37,A,"Yeah , huh",ES2011d
+1693.21,1693.55,B,It seems,ES2011d
+1693.37,1693.37,A,.,ES2011d
+1693.55,1694.45,B,planned you know .,ES2011d
+1694.52,1695.44,A,Yeah,ES2011d
+1694.7,1695.48,C,Yeah I kinda thought,ES2011d
+1695.44,1695.44,A,.,ES2011d
+1695.48,1706.47,C,"that um I felt like I would go and like try to use my information , or like I'd make this stupid little presentation and then like I just would end up talking about something completely unrelated because I dunno",ES2011d
+1706.39,1706.64,A,Yeah,ES2011d
+1706.47,1706.71,C,I felt,ES2011d
+1706.64,1706.64,A,.,ES2011d
+1706.71,1709.63,C,like I was off-task all the time . But um,ES2011d
+1710.29,1720.22,A,Well I mean we really got into talking about like personal practicalit like it wasn't necessarily what was like we would never have thought of fruit or sponginess,ES2011d
+1720.13,1721.11,D,No,ES2011d
+1720.22,1721.79,A,you know,ES2011d
+1720.51,1721.34,C,Yeah,ES2011d
+1721.11,1721.11,D,.,ES2011d
+1721.34,1721.34,C,.,ES2011d
+1721.5,1721.95,B,Yeah,ES2011d
+1721.79,1722.02,A,? So,ES2011d
+1721.95,1722.04,B,. If,ES2011d
+1722.02,1722.71,A,it's,ES2011d
+1722.04,1723.39,B,I hadn't been told that fruit was,ES2011d
+1723.73,1731.04,D,But I think that it it might be to see whether people actually all come up with the same,ES2011d
+1730.89,1731.11,A,Oh,ES2011d
+1731.04,1731.52,D,thing,ES2011d
+1731.11,1732.06,A,right . given,ES2011d
+1731.52,1731.52,D,.,ES2011d
+1732.06,1733.46,A,certain information or,ES2011d
+1734.32,1734.63,D,Yeah,ES2011d
+1734.46,1734.84,A,Just,ES2011d
+1734.63,1734.93,D,", like",ES2011d
+1734.84,1735.16,A,yeah,ES2011d
+1734.93,1735.57,D,if everyone's,ES2011d
+1735.16,1735.16,A,.,ES2011d
+1735.57,1737.51,D,given the same input I don't have a clue,ES2011d
+1737.51,1738.49,A,Mm,ES2011d
+1737.51,1739.36,D,", anyway . Um",ES2011d
+1738.49,1738.86,A,", mm .",ES2011d
+1739.36,1744.57,D,what's next ? Looks like oh no that's not um It's,ES2011d
+1744.52,1744.68,A,What,ES2011d
+1744.57,1745.08,D,quite,ES2011d
+1744.68,1746.79,A,do you guys think of the pens ? It asks,ES2011d
+1746.54,1746.87,B,They're,ES2011d
+1746.79,1747.02,A,about,ES2011d
+1746.87,1747.25,B,pretty,ES2011d
+1747.02,1747.58,A,that,ES2011d
+1747.25,1748.42,B,cool,ES2011d
+1747.58,1748.46,A,. Mm,ES2011d
+1748.42,1748.52,B,. They're,ES2011d
+1748.42,1748.52,C,I,ES2011d
+1748.46,1748.46,A,.,ES2011d
+1748.52,1748.74,B,kinda,ES2011d
+1748.52,1748.85,C,wanna s,ES2011d
+1748.74,1750.11,B,hard to write with though,ES2011d
+1750.05,1750.98,A,Yeah,ES2011d
+1750.09,1750.64,D,Yeah,ES2011d
+1750.11,1750.11,B,.,ES2011d
+1750.64,1750.64,D,.,ES2011d
+1750.98,1755.28,A,and I I've f forgotten once or twice to check the box .,ES2011d
+1755.51,1759.97,C,I I'd like to see what what it looks like on the,ES2011d
+1760.06,1766.59,B,"They're nicer than the pen that I'm using , because like your stuff actually shows up here , rather than having to look at the screen and write .",ES2011d
+1766.66,1767.12,A,Mm .,ES2011d
+1768.91,1770.16,B,"But even so , I dunno .",ES2011d
+1773.43,1779.54,A,And new ideas found,ES2011d
+1778.19,1779.99,D,Yeah it's all very new,ES2011d
+1779.54,1779.92,A,? Yeah .,ES2011d
+1779.99,1782.31,D,", no ? It's all very new .",ES2011d
+1784.71,1791.47,C,Yeah I think I'd like to um I dunno . Like,ES2011d
+1791.35,1791.87,D,Sorry,ES2011d
+1791.47,1791.89,C,it was,ES2011d
+1791.87,1791.87,D,.,ES2011d
+1791.89,1796.95,C,"the I think the microphones are okay when you're sitting down , but like they're kinda clumsy I guess",ES2011d
+1796.81,1796.98,B,Oh,ES2011d
+1796.95,1797.05,C,when,ES2011d
+1796.98,1797.99,B,yeah,ES2011d
+1797.05,1798.08,C,you're like when you're s,ES2011d
+1797.99,1797.99,B,.,ES2011d
+1798.08,1799.3,C,going up to the whiteboard like .,ES2011d
+1799.81,1801.78,B,Well they drop off if you like move too much,ES2011d
+1801.7,1802.17,C,Yeah,ES2011d
+1801.78,1801.78,B,.,ES2011d
+1802.17,1803.05,C,I dunno . But they're,ES2011d
+1802.84,1803.12,B,But I don't,ES2011d
+1803.05,1803.17,C,they're,ES2011d
+1803.12,1803.27,B,think,ES2011d
+1803.17,1803.74,C,okay,ES2011d
+1803.27,1803.76,B,we're supposed to be,ES2011d
+1803.74,1803.74,C,.,ES2011d
+1803.76,1806.89,B,testing these microphones . Maybe we are . I don't,ES2011d
+1806.82,1807.26,A,Mm,ES2011d
+1806.89,1807.54,B,know,ES2011d
+1807.18,1808.13,C,Uh,ES2011d
+1807.26,1807.26,A,.,ES2011d
+1807.54,1807.54,B,.,ES2011d
+1808.13,1819.56,C,"I think , and I think that uh all this technology like I guess some people must be interested in using it but I can't imagine finding it any more useful than like looking at someone's",ES2011d
+1819.4,1819.87,A,Yeah,ES2011d
+1819.56,1819.95,C,notes,ES2011d
+1819.87,1819.87,A,.,ES2011d
+1819.88,1820.11,B,Well,ES2011d
+1819.95,1820.16,C,", or",ES2011d
+1820.11,1820.18,B,the,ES2011d
+1820.16,1821.02,C,like,ES2011d
+1820.18,1821.05,B,thing is,ES2011d
+1821.02,1821.09,C,I,ES2011d
+1821.05,1821.21,B,", like",ES2011d
+1821.09,1821.4,C,dunno,ES2011d
+1821.21,1821.89,B,I actually,ES2011d
+1821.4,1821.4,C,.,ES2011d
+1821.89,1836.08,B,"worked in a company , and I had a role and I had to go to meetings . And like the last thing I would have wanted would be to have to watch a video 'cause I missed a meeting . Like usually I missed meetings deliberately . There's just there's really not that much information that actually goes through a real meeting",ES2011d
+1836.07,1836.41,A,Yeah,ES2011d
+1836.08,1836.44,B,", like when you're",ES2011d
+1836.41,1836.41,A,.,ES2011d
+1836.44,1838.71,B,actually at a real meeting in a real company,ES2011d
+1838.42,1838.64,C,Hm .,ES2011d
+1838.71,1843.11,B,. It's mostly like rehashing old stuff . And you're sort of going over general stuff that,ES2011d
+1842.85,1843.16,A,Yeah,ES2011d
+1843.11,1843.51,B,anybody,ES2011d
+1843.16,1843.16,A,.,ES2011d
+1843.51,1848.13,B,who's sort of on task should already know . It's like the there's just really not a lot of information,ES2011d
+1847.99,1848.34,A,Seems,ES2011d
+1848.13,1848.45,B,that goes,ES2011d
+1848.34,1848.49,A,kind,ES2011d
+1848.45,1848.63,B,through,ES2011d
+1848.49,1848.86,A,of like,ES2011d
+1848.63,1848.63,B,.,ES2011d
+1848.86,1849.56,A,an excessive,ES2011d
+1849.51,1849.7,B,It,ES2011d
+1849.56,1850.86,A,reiteration,ES2011d
+1849.7,1851.1,B,seems like way overkill,ES2011d
+1850.86,1851.26,A,. Yeah,ES2011d
+1851.1,1851.31,B,. Like if,ES2011d
+1851.26,1851.26,A,.,ES2011d
+1851.31,1855.03,B,I missed a meeting I could probably get it summed up in like one sentence,ES2011d
+1854.36,1854.85,A,Yeah .,ES2011d
+1855.03,1859.5,B,. I wouldn't need to have to watch like a t two hour video with the sound and the transcript and,ES2011d
+1859.64,1860.02,A,Yeah .,ES2011d
+1860.94,1883.66,C,"I guess it would be it's gotta be worth it to I 'cause I'm just mostly curious about like what kind of person or like company would would really find it useful , 'cause can't really imagine , dunno . How about a p a ? Um I dunno .",ES2011d
+1888.68,1895.1,A,Well does anyone wanna talk about fruit more while we still have time ? Any other,ES2011d
+1895.04,1895.33,D,What,ES2011d
+1895.1,1895.66,A,ideas,ES2011d
+1895.33,1895.7,D,what's,ES2011d
+1895.66,1896.07,A,for,ES2011d
+1895.7,1902.25,D,the end ? Are we are we supposed to um you supposed to write a report ? Or we ending,ES2011d
+1902.13,1904.05,A,Um,ES2011d
+1902.25,1902.99,D,? Is that the end ?,ES2011d
+1904.05,1929.17,A,"we still have time if there's any other input . I mean the I think we did really well personally , which is why we've you know , gone through this so quickly . 'Cause I mean we've all we all kind of agreed our product is satisfactory , it fits the budget , and it's trendy",ES2011d
+1927.1,1927.71,C,Yeah .,ES2011d
+1929.17,1932.57,A,. So . Um .,ES2011d
+1933.13,1935.03,D,"End of meeting . You have to tell her , she",ES2011d
+1936.22,1939.86,A,So I think that's all for today,ES2011d
+1939.85,1940.22,D,Okay,ES2011d
+1939.86,1939.86,A,.,ES2011d
+1940.22,1943.36,D,we have to fill in all this stuff . Stuff stuff,ES2011d
+1943.25,1943.46,C,M,ES2011d
+1943.36,1943.48,D,stuff,ES2011d
+1943.46,1943.83,C,meeting,ES2011d
+1943.48,1943.48,D,.,ES2011d
+1943.83,1944.9,C,adjourned,ES2011d
+1944.42,1945.3,A,Meeting adjourned,ES2011d
+1944.9,1945.62,D,Yeah,ES2011d
+1944.9,1944.9,C,.,ES2011d
+1945.3,1945.3,A,.,ES2011d
+1945.62,1945.62,D,.,ES2011d
+1946.98,1952.0,B,I think I've learned not to bring play-dough to meetings,ES2011d
+1949.38,1950.75,A,Yeah .,ES2011d
+1952.0,1952.0,B,.,ES2011d
+1952.42,1955.32,C,"I think it would be a good idea , I like it .",ES2011d
+1955.87,1960.38,B,It's hard enough to get people actually paying attention . Especially if you have food .,ES2011d
+1964.19,1968.61,A,So I guess we're supposed to write final reports . 'Cause,ES2011d
+1968.39,1969.02,B,All of us ?,ES2011d
+1969.87,1971.31,A,I don't know,ES2011d
+1970.52,1971.54,D,Well there's al eight,ES2011d
+1971.31,1971.51,A,. Hmm .,ES2011d
+1971.54,1974.41,D,", nine . Ooh . Oh ooh .",ES2011d
+1974.66,1977.02,A,Hmm . Or is that just me ?,ES2011d

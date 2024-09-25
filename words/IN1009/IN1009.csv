@@ -1,0 +1,716 @@
+Start,End,Speaker,Speech,meeting
+32.76,34.73,B,Okay .,IN1009.
+35.46,35.97,C,Okay,IN1009.
+35.67,36.12,D,So b,IN1009.
+35.97,35.97,C,.,IN1009.
+36.12,38.58,D,maybe I'll go back to your questions,IN1009.
+38.04,38.53,C,Yes,IN1009.
+38.34,38.59,B,Mm-hmm,IN1009.
+38.53,38.53,C,.,IN1009.
+38.58,39.15,D,. Um,IN1009.
+38.59,38.59,B,.,IN1009.
+40.6,44.22,C,So you were talking about the two first question,IN1009.
+42.8,43.08,D,Yeah .,IN1009.
+44.22,45.12,C,? Okay . And,IN1009.
+44.87,45.19,D,Um,IN1009.
+45.12,48.74,C,a little bit about same people moving,IN1009.
+47.98,48.3,D,Yeah .,IN1009.
+48.74,49.57,C,", with the clustering .",IN1009.
+50.26,55.08,D,And this also um allows you to separate people .,IN1009.
+55.96,56.37,C,Uh-huh .,IN1009.
+57.57,91.7,D,"Um and the questions I did not talk about was uh going from location to uh identity of the person . Um That is quite different , you you need to use a signal you have separated and uh do the type of analysis I mentioned . Um from the spectrum you can transform the the magnitude spectrum and um um build model of the person .",IN1009.
+93.46,93.67,A,Mm-hmm,IN1009.
+93.65,94.02,D,Um,IN1009.
+93.67,93.67,A,.,IN1009.
+94.09,94.66,B,Or actually,IN1009.
+94.42,94.82,C,So this,IN1009.
+94.66,94.99,B,look at,IN1009.
+94.82,95.11,C,one,IN1009.
+94.99,97.06,B,the pitch,IN1009.
+95.11,95.11,C,.,IN1009.
+96.04,98.1,D,"Yeah , pitch at least",IN1009.
+97.06,98.31,B,", no ? Don't ask",IN1009.
+98.1,98.33,D,. But,IN1009.
+98.31,98.4,B,me,IN1009.
+98.33,98.52,D,pitch,IN1009.
+98.4,98.58,B,how,IN1009.
+98.52,98.69,D,is,IN1009.
+98.58,100.73,B,it's done I,IN1009.
+100.55,100.77,D,Pitch,IN1009.
+100.73,100.84,B,I,IN1009.
+100.77,101.65,D,isn't,IN1009.
+100.84,102.15,B,know the theory,IN1009.
+101.65,103.14,D,is not enough,IN1009.
+102.15,103.29,B,", so",IN1009.
+103.14,103.77,D,sometimes,IN1009.
+103.29,103.74,B,", yeah",IN1009.
+103.42,103.82,A,Actually,IN1009.
+103.74,103.74,B,.,IN1009.
+103.77,103.77,D,.,IN1009.
+103.82,105.92,A,uh you can t perhaps,IN1009.
+105.82,106.05,B,Isn't,IN1009.
+105.92,106.3,A,just,IN1009.
+106.05,106.35,B,it the,IN1009.
+106.3,108.0,A,uh,IN1009.
+106.35,108.17,B,pitch and the frequency ? The base,IN1009.
+108.0,108.44,A,just,IN1009.
+108.17,109.97,B,frequency,IN1009.
+109.54,109.98,D,I it's,IN1009.
+109.97,110.2,B,of,IN1009.
+109.98,110.58,D,a frequency,IN1009.
+110.2,111.24,B,the,IN1009.
+110.58,115.89,D,", yeah , yeah . It's a frequency of your vibration here . Uh",IN1009.
+115.42,118.52,A,Th there is one frequency that is the base from,IN1009.
+118.34,119.12,D,Yeah,IN1009.
+118.52,119.03,A,for uh,IN1009.
+119.12,122.62,D,". And then it's transformed through the mouth , that's the usual model .",IN1009.
+123.01,123.18,B,And,IN1009.
+123.06,123.38,A,Okay,IN1009.
+123.18,123.4,B,if you,IN1009.
+123.38,123.38,A,.,IN1009.
+123.4,128.2,B,"have both you can um well , you can compare this to to one stored and so get out uh",IN1009.
+128.14,129.8,A,Both,IN1009.
+128.2,130.0,B,which person it is . Pardon,IN1009.
+129.8,130.11,A,. Mm the,IN1009.
+130.0,130.0,B,?,IN1009.
+130.11,131.85,A,pitch and uh,IN1009.
+131.42,131.63,C,What ?,IN1009.
+131.85,132.33,A,and the freque,IN1009.
+133.08,137.03,B,"And uh well , the things that make the sou",IN1009.
+136.61,137.24,A,Okay,IN1009.
+136.63,136.96,D,Yeah .,IN1009.
+137.03,137.55,B,the voice,IN1009.
+137.24,137.67,A,", s and",IN1009.
+137.55,137.55,B,.,IN1009.
+137.67,140.02,A,you can measure measure that ? Or,IN1009.
+139.7,140.36,D,I,IN1009.
+139.99,140.23,B,Yeah .,IN1009.
+140.36,152.68,D,"yeah , um it's not necessarily done explicitly , but it's equivalent to that , yeah . So again , F_F_T_ is useful to do this type of analysis",IN1009.
+152.63,152.81,C,I'm,IN1009.
+152.68,153.4,D,. Um,IN1009.
+152.81,158.0,C,"sorry , I didn't really get the point of comparing the pitch the pitch is the is the frequency that",IN1009.
+157.97,158.37,D,Yeah,IN1009.
+158.0,159.72,C,is,IN1009.
+158.37,160.48,D,", but it's quite personal",IN1009.
+159.72,161.06,C,okay,IN1009.
+160.48,161.09,D,. Uh,IN1009.
+161.06,164.81,C,. And the way you transform it uh v by the mouth,IN1009.
+163.99,164.23,D,Yeah .,IN1009.
+164.81,165.6,C,? You were comparing,IN1009.
+165.32,165.71,B,And,IN1009.
+165.6,165.86,C,what,IN1009.
+165.71,166.18,B,and,IN1009.
+165.86,166.22,C,with what,IN1009.
+166.18,167.38,B,the,IN1009.
+166.22,166.22,C,?,IN1009.
+167.38,169.81,B,"the holes in your head , everything , the the nose",IN1009.
+169.56,169.92,C,Uh-huh,IN1009.
+169.81,169.94,B,and,IN1009.
+169.92,170.3,C,", okay",IN1009.
+169.94,170.76,B,so on,IN1009.
+170.3,170.65,C,", okay",IN1009.
+170.45,170.63,D,Yeah .,IN1009.
+170.65,170.65,C,.,IN1009.
+170.76,172.68,B,", and that's that's really uh",IN1009.
+172.33,172.85,C,So,IN1009.
+172.68,173.1,B,unique,IN1009.
+172.85,172.93,C,uh,IN1009.
+173.1,175.5,B,for ev well almost unique for every person,IN1009.
+175.13,175.81,C,And you were,IN1009.
+175.5,175.81,B,", so .",IN1009.
+175.81,177.95,C,talking about comparing what with what ?,IN1009.
+178.1,184.47,B,"Well once you get this information , your frequency and uh your vocal contract",IN1009.
+183.89,184.53,D,Yeah,IN1009.
+184.47,184.66,B,or,IN1009.
+184.53,184.82,D,", yeah",IN1009.
+184.66,184.92,B,how it's,IN1009.
+184.82,184.82,D,.,IN1009.
+184.92,186.13,B,"called , uh",IN1009.
+185.94,186.16,C,Okay,IN1009.
+186.13,186.34,B,y,IN1009.
+186.16,186.16,C,.,IN1009.
+186.34,189.69,B,you can use this information to compare to to,IN1009.
+189.56,189.69,C,But,IN1009.
+189.69,189.83,B,to,IN1009.
+189.69,190.01,C,you want,IN1009.
+189.83,190.42,B,the frames,IN1009.
+190.01,191.12,C,to have the information,IN1009.
+190.42,190.61,B,here .,IN1009.
+191.12,193.99,C,"because the the mouth , you move it .",IN1009.
+194.8,195.0,D,It,IN1009.
+194.95,195.23,B,No,IN1009.
+195.0,195.3,D,it's an,IN1009.
+195.23,195.5,B,", but",IN1009.
+195.3,204.31,D,"information equivalent to that . It's maybe n you don't need to do the whole uh complicated modelling , but",IN1009.
+204.26,207.97,C,To scan t all the user,IN1009.
+206.18,207.32,B,No no no no,IN1009.
+207.18,207.36,D,No,IN1009.
+207.32,207.48,B,. That,IN1009.
+207.36,207.44,D,", no .",IN1009.
+207.48,208.54,B,that that everything,IN1009.
+207.97,207.97,C,.,IN1009.
+208.54,211.84,B,"is done through through the voice here , you take a voice of someone , and",IN1009.
+211.82,212.19,C,Okay,IN1009.
+211.84,212.38,B,then you can,IN1009.
+212.19,212.19,C,.,IN1009.
+212.38,219.68,B,"get out this information , it's it's not p it's clear it's not perfect , but s it's enough to to to use it for",IN1009.
+219.59,219.85,C,Okay,IN1009.
+219.68,219.86,B,for,IN1009.
+219.85,220.56,C,", so",IN1009.
+219.86,221.15,B,different purposes,IN1009.
+220.56,221.21,C,you have the,IN1009.
+221.15,221.35,B,and,IN1009.
+221.21,221.85,C,p the,IN1009.
+221.35,221.38,B,uh,IN1009.
+221.85,226.17,C,pitch and you have information about the voice dynamic or,IN1009.
+226.2,230.72,D,"Yeah , rate of speech is also possibility",IN1009.
+229.99,230.34,A,Okay .,IN1009.
+230.72,242.13,D,". Um how fast you speak , that's quite personal also . But it varies over time , um depending on emotion",IN1009.
+240.51,241.05,C,Mm mm mm .,IN1009.
+242.13,244.87,D,". That also might be interesting for you , detecting emotion .",IN1009.
+245.32,247.86,C,"Emotion , the involvement in a discussion",IN1009.
+247.35,247.97,D,"Yeah , yeah",IN1009.
+247.86,248.05,C,. If,IN1009.
+247.97,247.97,D,.,IN1009.
+248.05,250.45,C,you are saying oh yeah,IN1009.
+249.8,251.58,D,And us yeah,IN1009.
+250.45,251.37,C,yeah we should,IN1009.
+251.58,254.85,D,", yeah , so these measures are a way to quantify that .",IN1009.
+256.15,256.56,C,Okay,IN1009.
+256.23,257.1,A,And i,IN1009.
+256.56,256.56,C,.,IN1009.
+257.1,260.06,A,"is it uh expensive to do ,",IN1009.
+260.41,260.56,C,In,IN1009.
+260.56,260.83,B,Um,IN1009.
+260.56,261.77,D,Uh,IN1009.
+260.56,260.96,C,C_P_U_,IN1009.
+260.83,261.18,B,not,IN1009.
+260.96,261.38,C,you mean,IN1009.
+261.18,261.42,B,not,IN1009.
+261.38,261.38,C,?,IN1009.
+261.42,261.98,B,that,IN1009.
+261.77,262.23,D,p,IN1009.
+261.98,262.5,B,", well uh",IN1009.
+262.23,263.49,D,no,IN1009.
+262.5,264.96,B,as far as I know,IN1009.
+263.49,264.4,D,". No , no it's not .",IN1009.
+264.49,265.0,A,But in fact,IN1009.
+264.96,265.18,B,. Actual,IN1009.
+265.0,266.63,A,if y you speak of uh a lot,IN1009.
+266.48,267.24,D,What,IN1009.
+266.63,267.34,A,of things that,IN1009.
+267.24,267.64,D,w,IN1009.
+267.34,267.68,A,are not,IN1009.
+267.64,268.34,D,w,IN1009.
+267.68,268.45,A,expensive,IN1009.
+268.34,268.56,D,what,IN1009.
+268.45,268.57,A,", at",IN1009.
+268.56,268.75,D,is,IN1009.
+268.57,268.83,A,the end,IN1009.
+268.75,269.59,D,m,IN1009.
+268.83,269.68,A,you have uh something,IN1009.
+269.59,269.9,D,what,IN1009.
+269.68,269.91,A,that is,IN1009.
+269.9,270.05,D,is,IN1009.
+269.91,269.91,A,.,IN1009.
+270.05,307.63,D,"more expensive is to um take the decision finally . So your decision can be for example uh who is it , or if the person moved , which is probably the most complicated thing , like the person goes away , then comes back ten minutes later , sits at a different place . Uh you will need to build statistical models of um the person identity using these measures . So the ones um he mentioned um I don't know if you're familiar with that .",IN1009.
+307.79,313.12,B,Is it called P_C_M_ ? I thi um well it's it's not a technology s yeah . It's,IN1009.
+313.0,313.58,D,Yeah,IN1009.
+313.12,313.95,B,more or less used,IN1009.
+313.58,313.58,D,.,IN1009.
+313.95,316.31,B,this to compress audio,IN1009.
+315.85,316.15,D,Yeah .,IN1009.
+316.31,318.9,B,". I have to I want to check it , I can show it you afterwards .",IN1009.
+319.64,320.26,D,So um,IN1009.
+320.77,321.73,C,Not really familiar .,IN1009.
+323.03,323.74,B,well,IN1009.
+323.44,323.73,D,No .,IN1009.
+323.74,324.39,B,I did a course,IN1009.
+324.19,327.1,C,Hmm,IN1009.
+324.39,327.94,B,"about it , but uh",IN1009.
+325.98,326.14,A,Hmm .,IN1009.
+327.1,328.08,C,". Okay , so you are",IN1009.
+327.94,328.4,B,I shouldn't,IN1009.
+328.08,328.73,C,the expert,IN1009.
+328.4,328.82,B,say it,IN1009.
+328.73,328.73,C,.,IN1009.
+328.82,332.96,B,"too loud , because um the professor is working here at IDIAP",IN1009.
+332.56,339.91,D,Yeah,IN1009.
+332.96,341.42,B,. I,IN1009.
+336.09,340.41,C,"Careful , you are recorded . Okay",IN1009.
+339.91,339.91,D,.,IN1009.
+340.41,340.41,C,.,IN1009.
+341.42,342.14,B,should reread,IN1009.
+342.12,342.56,D,S,IN1009.
+342.14,343.25,B,what I signed there,IN1009.
+343.0,343.48,C,"Okay , so",IN1009.
+343.25,343.8,B,so,IN1009.
+343.48,343.81,C,all,IN1009.
+343.8,343.8,B,.,IN1009.
+343.81,345.85,C,this stuff is done from the F_F_T_ .,IN1009.
+346.18,346.47,D,Yeah .,IN1009.
+347.45,350.15,A,"So you have to do F_F_T_ , because otherwise",IN1009.
+350.2,354.26,C,Also location to identity . Uh,IN1009.
+355.13,358.13,D,All I was saying is that these different measures,IN1009.
+357.91,358.27,C,Mm-hmm,IN1009.
+358.13,358.42,D,are,IN1009.
+358.27,358.27,C,.,IN1009.
+358.42,362.76,D,a way to uh evaluate the identity of the person,IN1009.
+361.19,361.49,C,Okay .,IN1009.
+362.38,362.61,A,Mm-hmm .,IN1009.
+362.76,369.73,D,". So if with location all you can do is extract segments of speech , for example",IN1009.
+369.09,369.41,C,Mm-hmm .,IN1009.
+369.73,374.95,D,", but it will not tell you that these are the same person . It's just a location",IN1009.
+374.79,375.0,C,But to,IN1009.
+374.95,374.95,D,.,IN1009.
+375.0,377.62,C,get a cluster the location that is uh,IN1009.
+377.37,377.78,D,Yeah,IN1009.
+377.62,377.85,C,a,IN1009.
+377.78,377.78,D,.,IN1009.
+377.85,379.82,C,place where uh noise,IN1009.
+379.28,379.43,D,Yeah .,IN1009.
+379.82,381.47,C,is regularly coming from .,IN1009.
+381.6,385.91,D,"Yeah , so that might be good for example for ten minutes",IN1009.
+385.61,386.01,C,Mm-hmm,IN1009.
+385.91,386.13,D,", but",IN1009.
+386.01,386.01,C,.,IN1009.
+386.13,388.69,D,"then the person might move , or",IN1009.
+387.99,388.52,C,Mm mm mm .,IN1009.
+388.69,390.08,D,a different person might come .,IN1009.
+390.44,393.31,C,But for instance for a setting like uh here,IN1009.
+393.27,393.55,D,Yeah,IN1009.
+393.31,393.74,C,it,IN1009.
+393.55,393.55,D,.,IN1009.
+393.74,395.24,C,"would be enough , because we are not moving .",IN1009.
+395.27,399.6,D,"It is . Well , unless sometimes somebody goes there or",IN1009.
+399.52,399.71,C,Okay,IN1009.
+399.6,399.96,D,yeah,IN1009.
+399.71,401.2,C,", right",IN1009.
+399.96,399.96,D,.,IN1009.
+400.65,401.19,A,Yes .,IN1009.
+401.2,408.29,C,". But we are uh targeting a place where we don't know i where it will be more flexible , so",IN1009.
+407.79,408.14,D,Yeah .,IN1009.
+408.29,413.08,C,we need more than just uh location if we want to uh,IN1009.
+414.24,414.81,A,"Yes , but",IN1009.
+414.72,414.85,B,Well,IN1009.
+414.81,415.02,A,it,IN1009.
+414.85,416.37,B,uh it,IN1009.
+415.94,416.16,D,Mm-hmm .,IN1009.
+416.37,425.05,B,"I'm even not sure if it's that important to know which person is talking , because uh if uh if it I think about a table , or so something",IN1009.
+424.54,424.85,C,Mm-mm .,IN1009.
+425.05,426.47,B,uh physical,IN1009.
+426.28,426.47,D,Yeah,IN1009.
+426.47,426.97,B,", uh",IN1009.
+426.47,426.47,D,.,IN1009.
+426.97,431.49,B,you just want to know in in which corner of the table uh,IN1009.
+430.46,431.09,C,I agree,IN1009.
+430.8,431.23,A,I it,IN1009.
+431.09,431.52,C,. Maybe,IN1009.
+431.23,431.57,A,it is,IN1009.
+431.49,431.91,B,speech,IN1009.
+431.52,431.93,C,just,IN1009.
+431.57,431.89,A,im,IN1009.
+431.91,433.46,B,is coming and not uh which,IN1009.
+433.39,433.58,D,Yeah,IN1009.
+433.46,433.96,B,person,IN1009.
+433.58,433.58,D,.,IN1009.
+433.96,434.36,B,produced,IN1009.
+434.34,434.48,A,It,IN1009.
+434.36,434.79,B,the speech,IN1009.
+434.48,435.73,A,i it,IN1009.
+434.79,435.21,B,", so .",IN1009.
+435.73,441.26,A,"yes , it is important for detecting patterns . Because uh if you say",IN1009.
+440.91,441.28,D,Yeah,IN1009.
+441.26,441.82,A,uh,IN1009.
+441.28,441.28,D,.,IN1009.
+441.82,450.0,A,let's say uh w how much the person um have spoken over the the five last minutes,IN1009.
+449.76,450.04,B,"Yeah , but",IN1009.
+450.0,450.48,A,", uh",IN1009.
+450.04,452.57,B,it's not really related to the ah,IN1009.
+452.47,452.63,D,So,IN1009.
+452.57,452.75,B,", yeah",IN1009.
+452.63,453.75,D,it,IN1009.
+452.75,454.56,B,", I see it's uh",IN1009.
+453.75,454.0,D,hmm .,IN1009.
+454.36,454.74,A,Uh if,IN1009.
+454.56,454.84,B,you need,IN1009.
+454.74,455.49,A,someone,IN1009.
+454.84,455.41,B,a bit both uh,IN1009.
+455.49,456.31,A,come and yes .,IN1009.
+456.54,460.82,D,"But that you can do with location , if it's only on the short term .",IN1009.
+461.43,463.94,A,"Yes , yes",IN1009.
+462.89,464.12,C,I think it may,IN1009.
+463.94,464.08,A,. Y,IN1009.
+464.12,466.69,C,"it may be okay , but it depends",IN1009.
+466.1,467.25,D,On on the off-line,IN1009.
+466.69,467.28,C,how long,IN1009.
+467.25,484.24,D,yeah . I would say you might use these measures in a simple way if you do it uh on-line . Like um to give feedback . But uh you you mentioned that another side of your project is also to analyse off-line,IN1009.
+483.64,483.81,C,Hmm .,IN1009.
+484.24,486.05,D,. So there you might want to use a,IN1009.
+486.47,489.5,A,This is uh mm,IN1009.
+488.28,489.77,D,We had a student here,IN1009.
+489.5,489.5,A,.,IN1009.
+489.77,511.88,D,", he finished uh one or two years ago , but he left his software , and his software is precisely to do that to um cluster at uh another level , to cluster these small clusters of speech , uh group them by person automatically",IN1009.
+510.48,511.83,C,From th from the location .,IN1009.
+511.88,515.1,D,". Y no , from the these measures",IN1009.
+514.62,514.98,C,Oh .,IN1009.
+515.1,515.95,D,", pitch , etcetera .",IN1009.
+517.7,519.55,A,Okay,IN1009.
+517.79,518.64,D,So um,IN1009.
+518.87,519.36,B,Sound .,IN1009.
+519.55,526.22,A,. So i uh this is only based on uh you give uh the spectrum and uh,IN1009.
+525.67,527.55,D,"Yeah , exactly",IN1009.
+526.22,526.9,A,uh okay .,IN1009.
+527.55,534.18,D,. So I would say from location at the lower level you can get small parts of speech,IN1009.
+533.71,533.91,A,Mm-hmm .,IN1009.
+534.18,552.3,D,", and then at the next level , possibly off-line , you can uh group them into um a speech segment . I'm hoping to have enough time to try um doing that before I finish my thesis",IN1009.
+551.35,551.61,A,Yes .,IN1009.
+552.3,559.82,D,". Um so if I manage to do some um uh practically usable software , I'll tell you .",IN1009.
+560.14,562.23,C,Mm-hmm . When are you planning to finish your,IN1009.
+562.48,564.46,D,"Uh in five , six months , abou",IN1009.
+564.07,564.57,C,Okay,IN1009.
+564.46,565.09,D,approximately,IN1009.
+564.57,564.57,C,.,IN1009.
+565.09,565.09,D,.,IN1009.
+566.52,568.94,A,But uh the last ones are always the,IN1009.
+570.6,572.06,C,More extensible .,IN1009.
+572.85,574.33,A,Mm not really .,IN1009.
+575.72,576.66,D,More busy I would,IN1009.
+576.64,576.85,C,Mm,IN1009.
+576.66,577.29,D,say,IN1009.
+576.76,577.18,A,Mm yes,IN1009.
+576.85,576.85,C,.,IN1009.
+577.18,577.18,A,.,IN1009.
+577.29,588.52,D,". Yeah . So you said you want to do separation , um but",IN1009.
+587.72,588.74,C,I don't,IN1009.
+588.52,589.37,D,ex exactly,IN1009.
+588.74,589.5,C,know how mu maybe,IN1009.
+589.37,589.91,D,", yeah",IN1009.
+589.5,589.94,C,we would,IN1009.
+589.91,589.91,D,.,IN1009.
+589.94,593.44,C,"be more interested to know that it's not the same people , more",IN1009.
+593.24,593.45,D,Yeah,IN1009.
+593.44,593.64,C,than,IN1009.
+593.45,593.45,D,.,IN1009.
+593.64,595.5,C,knowing that it's the same people,IN1009.
+595.48,595.83,D,Okay,IN1009.
+595.5,595.9,C,. Or to,IN1009.
+595.83,595.83,D,.,IN1009.
+595.9,600.7,C,detect that someone is more that was not talking before is talking now .,IN1009.
+600.95,601.26,D,Okay .,IN1009.
+601.8,611.9,A,Hmm uh I I said uh we want t to know to um to do separation just because of the voice recognition,IN1009.
+611.88,611.98,D,Ah,IN1009.
+611.9,613.01,A,. I,IN1009.
+611.98,613.33,D,", you want to do voice recognition",IN1009.
+613.01,613.67,A,mm,IN1009.
+613.33,613.33,D,.,IN1009.
+613.67,616.83,A,this is not the,IN1009.
+615.35,617.24,D,You might want,IN1009.
+616.65,617.18,C,Yes,IN1009.
+616.83,619.79,A,yes,IN1009.
+617.18,617.18,C,.,IN1009.
+617.24,617.5,D,. Okay,IN1009.
+617.28,617.96,B,You might,IN1009.
+617.5,617.5,D,.,IN1009.
+617.96,621.24,B,might want to do,IN1009.
+619.79,621.34,A,". Yes , no , but but",IN1009.
+621.24,621.24,B,.,IN1009.
+621.34,633.73,A,"in fact we have uh yes , we are designing uh a noise sensitive table just f from your ring , but we are also designing uh a prototype um to analyse the conversations",IN1009.
+633.15,633.46,D,Okay .,IN1009.
+633.73,636.74,A,. So uh we might,IN1009.
+636.44,636.66,D,Yeah .,IN1009.
+636.74,638.57,A,add there a lot of uh features .,IN1009.
+640.0,645.61,D,"So yeah , once you have locations it's not a big problem",IN1009.
+644.81,645.92,A,Okay,IN1009.
+645.61,645.96,D,. Um,IN1009.
+645.92,656.07,A,". And uh I don't know , perhaps uh perhaps if you have two people speaking uh speaking uh at the same time",IN1009.
+655.33,655.55,D,Mm-hmm .,IN1009.
+656.07,661.89,A,", uh I don't know if uh voice recognition of an uh such a stream is uh",IN1009.
+661.33,662.06,D,"No no , you",IN1009.
+661.89,663.29,A,real,IN1009.
+662.06,663.47,D,should separate them first,IN1009.
+663.29,663.57,A,. Okay,IN1009.
+663.47,663.85,D,", yeah",IN1009.
+663.57,663.57,A,.,IN1009.
+663.85,666.17,D,", yeah . So",IN1009.
+666.61,669.53,A,"Yes , so that's fine .",IN1009.
+670.1,673.22,D,So the type of things I presented can,IN1009.
+672.69,672.92,A,Mm-hmm .,IN1009.
+673.22,674.67,D,lead to separation .,IN1009.
+675.08,675.36,A,Sure .,IN1009.
+676.39,679.61,D,Um it's only a very small step to add .,IN1009.
+682.12,686.07,A,"Yes , it's not um every important feature for now , but",IN1009.
+686.23,700.73,D,"Yeah , yeah . Although it might be , if you want to um ex extract these features like pitch and uh rate of speech , or energy simply , from each person . Um",IN1009.
+700.1,700.44,C,Mm .,IN1009.
+700.73,704.02,D,you might have to do some ba basic separation,IN1009.
+703.61,703.8,A,Mm-hmm .,IN1009.
+704.02,712.65,D,". 'Cause quite often people uh don't realise that they talk at the same time , um interrupt each other",IN1009.
+711.89,712.04,C,Mm .,IN1009.
+712.16,712.58,A,Yes .,IN1009.
+712.65,718.76,D,". So even if you don't want to recognise a speech fully , at least um",IN1009.
+717.79,718.86,B,You need to separate,IN1009.
+718.76,719.3,D,you need,IN1009.
+718.86,719.15,B,it .,IN1009.
+719.3,719.59,D,yeah .,IN1009.
+721.17,729.58,A,And uh uh another what uh . Um I don't remember .,IN1009.
+731.28,740.05,D,It's okay . You can email later . Yeah . Um So,IN1009.
+739.71,739.96,C,Okay .,IN1009.
+740.63,742.97,A,"Yes , also uh to to extract the context .",IN1009.
+743.89,744.33,D,Yeah .,IN1009.
+745.14,751.74,A,"Mm because if you know the words that are spoken , you can let's say uh someone say uh",IN1009.
+750.75,751.12,D,Uh,IN1009.
+751.74,753.41,A,he's angry uh about,IN1009.
+753.25,755.28,D,Okay,IN1009.
+753.41,756.39,A,the word he's seen,IN1009.
+755.28,756.57,D,. A semantic context,IN1009.
+756.39,756.75,A,. Yes,IN1009.
+756.57,758.15,D,", yeah",IN1009.
+756.75,756.75,A,.,IN1009.
+758.15,761.56,D,". Yeah . Yeah , then",IN1009.
+761.31,762.23,A,You mi,IN1009.
+761.56,761.82,D,mm .,IN1009.
+762.11,762.36,C,That,IN1009.
+762.23,762.58,A,you might,IN1009.
+762.36,763.46,C,are,IN1009.
+762.58,763.92,A,want to add uh this,IN1009.
+763.46,764.07,C,further,IN1009.
+763.92,764.16,A,kind,IN1009.
+764.07,764.84,C,directions,IN1009.
+764.16,765.6,A,of,IN1009.
+764.84,764.84,C,.,IN1009.
+765.6,767.73,A,"this is not in uh my project , but",IN1009.
+767.65,772.26,B,"No , but I think once you have the voice for a person , you can",IN1009.
+771.09,772.43,A,Yes,IN1009.
+771.61,771.78,D,Hmm .,IN1009.
+772.26,772.59,B,start,IN1009.
+772.43,772.76,A,. Um,IN1009.
+772.59,777.54,B,to do this and uh once uh people have speech recognition or,IN1009.
+777.42,778.49,C,Professor,IN1009.
+777.54,778.59,B,uh far enough,IN1009.
+778.49,778.76,C,was,IN1009.
+778.59,778.93,B,to,IN1009.
+778.76,779.4,C,interested,IN1009.
+778.93,779.32,B,t,IN1009.
+779.4,784.43,C,to know when people were talking about him,IN1009.
+782.31,782.81,B,Mm uh .,IN1009.
+784.43,785.72,C,. Ah,IN1009.
+785.01,786.04,D,So it's uh,IN1009.
+785.72,787.75,C,", someone is talking about me , let's listen .",IN1009.
+788.78,791.85,D,"Yeah , you could detect one word , yeah",IN1009.
+791.23,791.57,A,Yes .,IN1009.
+791.85,794.89,D,". Keyword spotting , yeah",IN1009.
+794.53,794.96,A,And have a,IN1009.
+794.89,794.89,D,.,IN1009.
+794.96,797.0,A,special events trigger if,IN1009.
+798.34,800.53,C,And lighting a on his office .,IN1009.
+802.17,803.33,D,So um,IN1009.
+803.83,809.7,C,"Okay , so are you done w with what you wanted to presented us uh",IN1009.
+809.67,811.74,D,Yeah,IN1009.
+809.7,811.34,C,in regards with these questions,IN1009.
+810.79,811.53,B,I think so,IN1009.
+811.34,811.34,C,?,IN1009.
+811.53,811.53,B,.,IN1009.
+811.74,821.4,D,". Yeah , I I'll just say uh if you want I can point to um three papers , um",IN1009.
+820.01,820.35,A,Sure .,IN1009.
+821.4,824.84,D,"but no , I think it's better if I just send you",IN1009.
+824.14,825.37,B,The link,IN1009.
+824.84,825.53,D,the link,IN1009.
+825.37,825.65,B,. Mm,IN1009.
+825.39,825.77,A,Sure,IN1009.
+825.53,825.75,D,", it's",IN1009.
+825.65,825.65,B,.,IN1009.
+825.75,826.03,D,probably,IN1009.
+825.77,825.77,A,.,IN1009.
+825.9,826.12,C,Mm,IN1009.
+826.03,826.46,D,simpler,IN1009.
+826.12,826.89,C,mm,IN1009.
+826.46,826.46,D,.,IN1009.
+826.89,828.35,C,. three papers about ?,IN1009.
+829.14,834.14,D,Uh one im is about this um sector based stuff,IN1009.
+834.04,834.5,C,Mm-hmm,IN1009.
+834.14,834.56,D,", like uh",IN1009.
+834.5,834.5,C,.,IN1009.
+834.56,836.13,D,the localisation and detection .,IN1009.
+838.42,838.8,C,Okay .,IN1009.
+839.01,852.93,D,"One is about how to take the decision , that somebody's active or not . Um it sounds simple at first , you think you just put the threshold and that's it , but um the problem is uh the",IN1009.
+853.03,853.97,A,"No , it's it",IN1009.
+853.96,854.15,C,It's,IN1009.
+853.97,854.25,A,doesn't,IN1009.
+854.15,854.28,C,n,IN1009.
+854.25,854.55,A,sound,IN1009.
+854.28,855.47,C,no problem,IN1009.
+854.55,856.85,A,"simple , but",IN1009.
+855.46,855.66,D,It,IN1009.
+855.47,855.82,C,. No,IN1009.
+855.66,855.88,D,"no , you",IN1009.
+855.82,856.11,C,more,IN1009.
+855.88,856.14,D,can do,IN1009.
+856.11,856.37,C,time,IN1009.
+856.14,856.81,D,that,IN1009.
+856.37,859.13,C,for problems,IN1009.
+856.81,857.37,D,. There's,IN1009.
+856.85,857.96,A,"yes , you can",IN1009.
+857.37,858.81,D,"no problem , but",IN1009.
+857.96,858.29,A,yes .,IN1009.
+858.81,859.35,D,i if,IN1009.
+859.13,859.44,C,. Okay,IN1009.
+859.35,859.48,D,you,IN1009.
+859.44,859.44,C,.,IN1009.
+859.48,863.25,D,want your your system to work in different conditions,IN1009.
+863.21,863.44,C,Uh,IN1009.
+863.25,863.5,D,", like",IN1009.
+863.44,863.6,C,uh,IN1009.
+863.5,864.11,D,cafeteria,IN1009.
+863.6,863.6,C,.,IN1009.
+864.11,869.36,D,", library , um the environment will be quite different",IN1009.
+868.34,868.6,A,Sure .,IN1009.
+869.36,874.07,D,", so a single fixed threshold value might be a problem",IN1009.
+874.03,874.26,A,Yes,IN1009.
+874.07,874.27,D,. S,IN1009.
+874.26,880.27,A,", in fact uh for now we are using uh a kind of calibration , but uh",IN1009.
+879.07,879.43,D,Yeah .,IN1009.
+880.27,881.37,A,it's still um,IN1009.
+882.01,888.04,D,"So you can do that automatically , this kind of things . Um",IN1009.
+886.18,886.56,A,Yes .,IN1009.
+886.86,887.36,B,Okay .,IN1009.
+888.04,890.66,D,"I don't know if you're doing that already , but uh",IN1009.
+891.06,899.01,A,"Yes , um uh but in fact you have to sit in front of the microphone , and it's uh yeah , people one speak and people two and people three and",IN1009.
+898.87,899.24,D,Okay,IN1009.
+899.01,899.53,A,you are just,IN1009.
+899.24,899.24,D,.,IN1009.
+899.53,904.24,A,uh subtracting the the level that you you kept in the other microphones .,IN1009.
+904.69,910.61,D,So uh I have another paper which might be interesting for that for,IN1009.
+910.45,910.89,A,Okay,IN1009.
+910.61,911.08,D,a single,IN1009.
+910.89,910.89,A,.,IN1009.
+911.08,916.44,D,channel uh calibration . And I've code on-line,IN1009.
+916.06,916.38,A,Okay .,IN1009.
+916.44,938.92,D,", so for this particular one . And the last one I would say is um the clustering um to um yeah , the clustering of the different locations over time , so that you can get small clusters of speech",IN1009.
+936.87,937.08,A,Mm-hmm .,IN1009.
+938.92,951.91,D,". Um there are other ways to do it , but uh I think it's it's important because um in spontaneous speech all these words are quite small",IN1009.
+950.65,950.85,A,Mm-hmm .,IN1009.
+951.91,955.29,D,. So you need to do that uh adequately,IN1009.
+954.68,955.27,C,Mm mm mm .,IN1009.
+955.29,958.64,D,", yeah . But otherwise yeah , I'm done .",IN1009.
+959.85,979.47,A,"Okay , just uh a last question , um when you mentioned it . Um if I'm speaking very uh , how do you say it , um yes , I'm just speaking one word every uh every one second",IN1009.
+978.99,979.18,D,Hmm .,IN1009.
+979.47,982.35,A,. Yes a . Uh,IN1009.
+980.46,981.15,C,Slowly .,IN1009.
+982.35,990.97,A,is the the event that is detected is um will be uh a sum of uh small parts,IN1009.
+989.94,991.91,D,"Yeah , yeah",IN1009.
+990.97,993.05,A,? There won't be uh,IN1009.
+991.91,993.72,D,. Many small events basically,IN1009.
+993.05,994.47,A,okay,IN1009.
+993.72,993.92,D,", yeah .",IN1009.
+994.47,1004.75,A,". So you yes , you have to to reprocess to uh to say let's say yes . There is a very small um interval . You have to consider it uh .",IN1009.
+1006.05,1010.41,D,"Yeah , basically uh I mean it depends uh",IN1009.
+1010.89,1015.96,A,"Because this is yes , this is one this can be considered as one interv intervention .",IN1009.
+1017.35,1024.65,D,"Yeah , even if somebody says just yes . I don't know if it's important for you or not . It might be .",IN1009.
+1025.08,1025.6,A,It might be .,IN1009.
+1026.78,1027.03,C,Might .,IN1009.
+1027.3,1030.14,A,This is not a very uh easy problem .,IN1009.
+1030.61,1036.96,C,"For the first application we will do with uh prototypes , it will be more about quantity uh of",IN1009.
+1036.66,1036.88,D,Yeah .,IN1009.
+1036.96,1039.62,C,"speech or how long , how much someone",IN1009.
+1039.3,1039.68,D,Yeah,IN1009.
+1039.62,1040.16,C,speak,IN1009.
+1039.68,1039.68,D,.,IN1009.
+1040.16,1043.11,C,", but when we will go to final uh",IN1009.
+1042.55,1042.73,D,Hmm .,IN1009.
+1043.11,1049.91,C,"details , if I'm talking and someone say yes yes yes from time to time , it show that he's participating",IN1009.
+1049.54,1049.71,D,Yeah .,IN1009.
+1049.91,1055.89,C,", and obviously it makes different that if someone is talking and one is replying never",IN1009.
+1055.18,1057.83,D,Y,IN1009.
+1055.89,1058.79,C,uh nor moving or,IN1009.
+1057.83,1058.02,D,Yeah .,IN1009.
+1058.79,1060.48,C,nor having eyes open,IN1009.
+1062.71,1068.71,D,Yes . Um So,IN1009.
+1068.47,1069.02,C,Okay,IN1009.
+1068.71,1069.12,D,I I'll send,IN1009.
+1069.02,1069.02,C,.,IN1009.
+1069.12,1075.09,D,"you links some of the papers are long , but you can just um briefly look",IN1009.
+1074.78,1075.27,C,Go through,IN1009.
+1075.09,1075.44,D,", yeah",IN1009.
+1075.27,1075.61,C,them,IN1009.
+1075.44,1075.44,D,.,IN1009.
+1075.61,1078.91,C,. Okay .,IN1009.
+1080.26,1085.26,D,"Um we can go and see Olivier , unless you want to talk about something else .",IN1009.
+1085.72,1086.01,C,"No , I",IN1009.
+1086.0,1086.34,B,No,IN1009.
+1086.01,1086.35,C,think,IN1009.
+1086.34,1086.45,B,", I",IN1009.
+1086.35,1086.84,C,uh,IN1009.
+1086.45,1086.87,B,think,IN1009.
+1086.71,1086.96,A,I'm,IN1009.
+1086.84,1088.33,C,I,IN1009.
+1086.87,1087.17,B,does,IN1009.
+1086.96,1087.21,A,done,IN1009.
+1087.17,1087.51,B,this,IN1009.
+1087.21,1087.21,A,.,IN1009.
+1087.51,1088.52,B,"work , email",IN1009.
+1088.33,1088.57,C,think,IN1009.
+1088.52,1088.52,B,?,IN1009.
+1088.57,1089.91,C,we has already have,IN1009.
+1089.7,1089.9,D,Huh ?,IN1009.
+1089.91,1090.84,C,plenty to read,IN1009.
+1090.58,1091.06,B,Does it,IN1009.
+1090.84,1090.84,C,.,IN1009.
+1091.06,1092.97,B,work if I put in my email and uh,IN1009.
+1094.37,1096.97,D,"Well , we can try",IN1009.
+1096.4,1096.76,C,Try .,IN1009.
+1096.97,1098.06,D,. But uh,IN1009.
+1098.49,1101.92,B,"No , if it's not uh I guess you would have to install it and so on .",IN1009.
+1101.99,1108.28,D,"We have yeah , we have O_C_R_ , but maybe not on this computer",IN1009.
+1108.22,1108.45,B,Uh,IN1009.
+1108.28,1108.48,D,. Yeah,IN1009.
+1108.45,1108.75,B,no,IN1009.
+1108.48,1108.48,D,.,IN1009.
+1108.75,1120.85,B,"no no , you see uh I thought you can put in here your email address and and just uh do this and then it mails me",IN1009.
+1118.53,1120.81,D,"That is good idea , yeah . It's a good idea .",IN1009.
+1120.85,1123.03,B,". Yeah , you see I want too much .",IN1009.
+1123.13,1129.2,C,"And the application you are using , all of them uh y every time you are using Matlab , or",IN1009.
+1129.17,1130.27,D,Yeah,IN1009.
+1129.2,1130.81,C,you are programming,IN1009.
+1130.27,1130.84,D,", yeah",IN1009.
+1130.81,1131.21,C,everything,IN1009.
+1130.84,1130.84,D,.,IN1009.
+1131.21,1132.69,C,is based based on Matlab ?,IN1009.
+1133.16,1145.46,D,Yeah . Once I I um coded the most expensive part in C_ just to see so you can have a mix of both . From Matlab you call C_ and back,IN1009.
+1145.05,1145.36,C,Mm,IN1009.
+1145.34,1145.72,A,Sure,IN1009.
+1145.36,1145.36,C,.,IN1009.
+1145.46,1145.46,D,.,IN1009.
+1145.72,1146.65,A,", yes",IN1009.
+1146.11,1146.69,B,And after all,IN1009.
+1146.65,1146.76,A,. And,IN1009.
+1146.69,1147.15,B,Matlab,IN1009.
+1146.76,1147.32,A,you can code,IN1009.
+1147.15,1147.62,B,is also,IN1009.
+1147.32,1147.69,A,Java,IN1009.
+1147.62,1148.46,B,programming,IN1009.
+1147.69,1147.69,A,.,IN1009.
+1148.46,1148.83,B,", so it",IN1009.
+1150.1,1155.98,D,But the day you want to do uh on-line real time stuff,IN1009.
+1154.94,1155.94,A,You can choose Matlab .,IN1009.
+1155.98,1158.53,D,"nah , I wouldn't wouldn't trust it .",IN1009.
+1158.99,1159.59,C,Mm mm mm .,IN1009.
+1161.61,1161.96,B,Mm-hmm .,IN1009.
+1162.89,1164.07,A,"Yes , sure",IN1009.
+1163.34,1163.84,C,Okay .,IN1009.
+1164.07,1164.3,A,. You have,IN1009.
+1164.24,1164.76,B,So,IN1009.
+1164.3,1164.86,A,to code it,IN1009.
+1164.76,1164.76,B,.,IN1009.
+1164.86,1167.0,A,uh,IN1009.
+1166.87,1167.17,B,Thank,IN1009.
+1167.0,1167.37,A,directly,IN1009.
+1167.17,1167.37,B,you,IN1009.
+1167.37,1167.49,A,to,IN1009.
+1167.37,1167.57,B,for,IN1009.
+1167.49,1168.14,A,the machine,IN1009.
+1167.57,1170.11,B,the information,IN1009.
+1168.14,1168.14,A,.,IN1009.
+1170.11,1170.11,B,.,IN1009.
+1173.59,1179.35,A,Hmm . My sheet is very uh filled up .,IN1009.
+1185.17,1186.07,A,I will take yours .,IN1009.
+1188.21,1200.77,C,I'm writing so only me can read . It's uh a kind of secret language . Okay .,IN1009.

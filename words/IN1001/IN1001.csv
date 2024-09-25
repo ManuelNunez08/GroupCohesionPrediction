@@ -1,0 +1,2852 @@
+Start,End,Speaker,Speech,meeting
+33.1,33.44,B,Oh yeah .,IN1001.
+41.58,47.05,B,You don't put your headset microphone ?,IN1001.
+78.01,87.89,A,"So we are here to just make the point . Well make the point , yeah . Make the status about the shot detection .",IN1001.
+88.81,89.29,B,Okay .,IN1001.
+89.64,95.08,A,"To so you have applied the shot detector to some of the CINETIS video , or",IN1001.
+94.94,95.23,B,Yeah,IN1001.
+95.08,95.44,A,at least,IN1001.
+95.23,95.23,B,.,IN1001.
+95.44,107.22,A,"one , and uh so we can basically maybe just comment on on this , maybe quickly remind what the shot detector is how the shot detector is working",IN1001.
+106.79,106.97,C,Hmm .,IN1001.
+107.22,115.23,A,", basically . Uh we might be able anyway to give you some reference . I mean your report",IN1001.
+115.14,115.49,B,Yeah,IN1001.
+115.23,115.53,A,it's,IN1001.
+115.49,115.49,B,.,IN1001.
+115.53,117.19,A,it should be described there or,IN1001.
+117.15,117.54,B,Yeah,IN1001.
+117.19,118.36,A,yeah,IN1001.
+117.54,118.44,B,", I have actually",IN1001.
+118.36,119.13,A,", yeah",IN1001.
+118.44,119.27,B,"yeah , the",IN1001.
+119.13,119.31,A,. You,IN1001.
+119.27,119.4,B,we,IN1001.
+119.31,119.44,A,have,IN1001.
+119.4,119.66,B,can,IN1001.
+119.44,120.49,A,the report,IN1001.
+119.66,120.52,B,see the report,IN1001.
+120.49,121.07,A,? Okay,IN1001.
+120.52,121.4,B,here,IN1001.
+121.07,121.07,A,.,IN1001.
+121.4,131.15,B,"and the demo , and the goal of uh this meeting is to present the video shot detector to",IN1001.
+130.67,131.75,A,To Olivier,IN1001.
+131.15,132.0,B,"Olivier , okay",IN1001.
+131.75,131.98,A,", yeah .",IN1001.
+132.0,132.0,B,.,IN1001.
+132.28,132.6,C,Yes .,IN1001.
+135.05,163.25,B,"Okay . So yeah , it was my project um during my internship at IDIAP under the supervision of Jean-Marc . And as you saw as you saw in the email I sent uh okay . I didn't send this video is the new one . I just um uh processed from your images",IN1001.
+162.55,163.31,A,"Ah , okay , yes , the",IN1001.
+163.25,163.62,B,. Yeah,IN1001.
+163.31,163.66,A,kayak,IN1001.
+163.62,163.91,B,. But,IN1001.
+163.66,164.02,A,wi,IN1001.
+163.91,164.23,B,uh,IN1001.
+164.02,164.28,A,I was,IN1001.
+164.23,164.57,B,let's,IN1001.
+164.28,164.63,A,not even,IN1001.
+164.57,164.81,B,let's,IN1001.
+164.63,166.62,A,with,IN1001.
+164.81,166.9,B,start by the video from,IN1001.
+166.62,166.93,A,the,IN1001.
+166.9,168.45,B,Friday,IN1001.
+166.93,168.06,A,"other one , okay .",IN1001.
+168.45,170.09,B,. CINETIS demo one .,IN1001.
+171.23,182.33,A,"By the way , I was uh going to ask , so I had seen the video , i you uh did um a downsampling of the video , right ? I mean For uh browsing I mean",IN1001.
+181.99,182.18,B,Yeah .,IN1001.
+182.33,182.84,A,". Okay , yeah .",IN1001.
+187.86,191.6,B,So this was uh Okay .,IN1001.
+191.92,195.97,A,"So this is hierarchical normally , so you have scenes and shots",IN1001.
+195.69,195.93,B,Yeah,IN1001.
+195.71,195.97,C,Mm,IN1001.
+195.93,196.19,B,", here",IN1001.
+195.97,196.29,C,'kay,IN1001.
+195.97,196.21,A,", but",IN1001.
+196.19,196.32,B,on,IN1001.
+196.29,196.29,C,.,IN1001.
+196.32,199.66,B,"the left you have different things , but uh",IN1001.
+198.45,199.77,C,"Okay , this",IN1001.
+199.66,199.88,B,as,IN1001.
+199.77,200.34,C,is,IN1001.
+199.88,200.57,B,applied,IN1001.
+199.96,200.38,A,Because for,IN1001.
+200.34,200.34,C,.,IN1001.
+200.38,207.86,A,"instance we could probably , you know , like group all the initial ones into one scene and maybe after , when there's some things inside , it s should",IN1001.
+207.62,208.17,C,Okay,IN1001.
+207.86,208.31,A,be another,IN1001.
+208.17,208.17,C,.,IN1001.
+208.31,209.04,A,"scene , so .",IN1001.
+209.61,219.52,B,"So this detector uh detected the thirty shots , and if you click on uh plus button you can expand",IN1001.
+219.14,219.48,C,Mm-hmm .,IN1001.
+219.52,227.69,B,it and see the key frames that are in fact uh five extracted frames from the shot,IN1001.
+225.93,226.41,C,Okay,IN1001.
+225.96,226.84,A,Which are extracted,IN1001.
+226.41,226.41,C,.,IN1001.
+226.84,228.36,A,I think,IN1001.
+227.69,228.58,B,. But I think,IN1001.
+228.36,228.43,A,uh,IN1001.
+228.58,234.98,B,"th uh as it is , it's t extracted uh without uh using sub-shots , uh it's simply uh",IN1001.
+234.81,235.76,A,Downsampling,IN1001.
+234.98,236.29,B,five down-sam,IN1001.
+235.76,235.76,A,.,IN1001.
+236.29,238.29,B,"yeah , down-sampling",IN1001.
+237.04,237.42,C,Okay .,IN1001.
+238.29,243.2,B,. Um so I we can see the video actually,IN1001.
+242.76,243.07,A,Yeah .,IN1001.
+243.2,248.45,B,", uh the entire video , can open with Real Player . I hope it will work .",IN1001.
+255.23,267.47,B,"So we don't have the the sound , and it won't be grabbed the video won't uh I don't know if uh Okay , it's not good quality .",IN1001.
+268.05,271.53,A,"Yeah , the quality is that's why I was asking that",IN1001.
+271.32,271.63,B,Oh yeah,IN1001.
+271.53,271.87,A,. It,IN1001.
+271.63,271.95,B,", yeah , yeah",IN1001.
+271.87,272.05,A,it's,IN1001.
+271.95,271.95,B,.,IN1001.
+272.05,273.37,A,not this that you processed,IN1001.
+273.29,273.4,B,No,IN1001.
+273.37,273.76,A,", right",IN1001.
+273.4,273.88,B,no no no no,IN1001.
+273.76,274.24,A,? Okay,IN1001.
+273.88,274.63,B,no,IN1001.
+274.24,274.6,A,", okay .",IN1001.
+274.63,277.23,B,". It's in Real Media , so it's very compressed .",IN1001.
+277.25,277.47,A,So,IN1001.
+277.44,277.97,C,Okay,IN1001.
+277.47,278.07,A,here we see,IN1001.
+277.97,277.97,C,.,IN1001.
+278.07,283.95,A,that we the shot at eighteenth and after twenty twos and after again . And uh,IN1001.
+283.64,283.92,C,'Kay .,IN1001.
+283.95,294.42,A,"if we go down , I mean maybe in terms of shot here , we can see that Right , I mean so now we see shot seven I suppose , yeah .",IN1001.
+300.02,300.54,C,Okay .,IN1001.
+303.05,303.76,A,"Uh yeah , okay",IN1001.
+303.65,305.11,B,Uh,IN1001.
+303.76,305.15,A,", shot nine currently",IN1001.
+305.11,305.74,B,okay,IN1001.
+305.15,306.52,A,", shot ten",IN1001.
+305.74,305.74,B,.,IN1001.
+306.52,312.52,A,"probably . Eleven or twelve . No , eleven",IN1001.
+312.48,312.97,B,Uh,IN1001.
+312.52,313.05,A,. Or,IN1001.
+312.97,314.03,B,ten,IN1001.
+313.05,314.27,A,no this is ten indeed,IN1001.
+314.03,315.29,B,yeah,IN1001.
+314.27,315.36,A,", okay",IN1001.
+315.29,315.6,B,. And,IN1001.
+315.36,315.57,A,. Yeah .,IN1001.
+315.6,316.89,B,then there's um,IN1001.
+317.03,317.92,A,"Yeah , this",IN1001.
+317.52,318.02,C,Mm-hmm,IN1001.
+317.92,318.75,A,one,IN1001.
+318.02,318.02,C,.,IN1001.
+318.75,320.35,A,", it's eleven",IN1001.
+319.95,320.27,B,Okay .,IN1001.
+320.35,323.81,A,", twelve or fourteen seconds .",IN1001.
+327.98,328.4,C,Okay .,IN1001.
+330.64,332.5,A,"Yeah , okay . Okay . Yeah , it's inside",IN1001.
+332.21,333.93,B,Yes,IN1001.
+332.5,334.64,A,and yeah,IN1001.
+333.93,334.81,B,". And this one , yeah",IN1001.
+334.64,335.72,A,. It's,IN1001.
+334.81,336.84,B,", it's a dissolve",IN1001.
+335.72,337.13,A,really a,IN1001.
+336.84,337.56,B,it's a dissolve,IN1001.
+337.13,337.67,A,dissolve,IN1001.
+337.56,337.81,B,", so",IN1001.
+337.67,337.86,A,or,IN1001.
+337.81,337.93,B,it,IN1001.
+337.86,337.96,A,is,IN1001.
+337.93,338.27,B,doesn't,IN1001.
+337.96,338.47,C,Okay,IN1001.
+337.96,338.28,A,it really,IN1001.
+338.27,339.53,B,detect,IN1001.
+338.28,338.57,A,like is,IN1001.
+338.47,338.47,C,.,IN1001.
+338.57,339.53,A,you have the,IN1001.
+339.53,340.23,B,yeah,IN1001.
+339.53,341.16,A,feeling that it's,IN1001.
+340.23,341.38,B,", when I saw the M_",IN1001.
+341.16,341.36,A,both,IN1001.
+341.38,343.66,B,"with M_ Player , it's a dissolve",IN1001.
+342.85,343.23,A,Okay .,IN1001.
+343.66,344.0,B,", yeah .",IN1001.
+347.38,354.59,A,"But it's it's it's not standard man-made movies , because I would say most of the time",IN1001.
+354.48,354.85,C,Hmm,IN1001.
+354.59,356.19,A,people,IN1001.
+354.85,354.85,C,.,IN1001.
+356.19,356.56,A,couldn,IN1001.
+356.45,356.7,C,Mm,IN1001.
+356.56,357.73,A,didn't,IN1001.
+356.7,356.7,C,.,IN1001.
+357.73,360.73,A,"do any dissolve . Yeah , I could see here",IN1001.
+360.7,361.9,B,Yeah,IN1001.
+360.73,362.37,A,", I mean , that it was like",IN1001.
+361.9,362.26,B,. Okay .,IN1001.
+362.37,364.08,A,horse it was only one single,IN1001.
+363.89,364.37,B,Yeah,IN1001.
+364.08,364.36,A,one .,IN1001.
+364.37,370.2,B,". I don't know if this one if we see was correctly uh , you see",IN1001.
+369.7,370.71,A,"N yeah , yeah",IN1001.
+370.2,370.81,B,? Yeah,IN1001.
+370.71,370.89,A,. This,IN1001.
+370.81,370.81,B,.,IN1001.
+370.89,373.11,A,"is the one I I had seen , yeah",IN1001.
+372.71,372.87,B,Yeah .,IN1001.
+373.11,379.11,A,". But as I said , I mean uh with even the motion detector , when it's black it's there is not s no structure , so",IN1001.
+378.98,379.16,B,But,IN1001.
+379.11,379.29,A,you,IN1001.
+379.16,379.33,B,there,IN1001.
+379.29,379.5,A,don't,IN1001.
+379.33,379.51,B,is,IN1001.
+379.5,380.44,A,esti,IN1001.
+379.51,380.86,B,a moon,IN1001.
+380.44,380.88,A,"yeah , but you",IN1001.
+380.86,382.19,B,. But,IN1001.
+380.88,382.34,A,don't really estimate motion,IN1001.
+382.19,382.44,B,okay,IN1001.
+382.34,382.34,A,.,IN1001.
+382.44,384.47,B,", because there is no motion in fact between",IN1001.
+384.46,384.62,A,Well,IN1001.
+384.47,384.76,B,the two,IN1001.
+384.62,384.8,A,", there is",IN1001.
+384.76,385.25,B,shots,IN1001.
+384.8,386.69,A,no structure,IN1001.
+385.25,385.25,B,.,IN1001.
+386.69,387.59,A,. There is no texture,IN1001.
+387.55,387.9,B,Yeah,IN1001.
+387.59,388.04,A,", if you want",IN1001.
+387.9,388.27,B,", okay",IN1001.
+388.04,388.27,A,to say,IN1001.
+388.27,388.71,B,", okay",IN1001.
+388.27,388.71,A,"so , and this",IN1001.
+388.71,388.71,B,.,IN1001.
+388.71,406.22,A,"is this is not so good for the motion . Uh but for instance of course between the horse and uh and um the c the c uh uh yeah . Uh the cows , yeah",IN1001.
+404.16,405.7,B,The cow ? Yeah .,IN1001.
+406.22,409.68,A,", maybe we could have detected things . But it's not even sure , because",IN1001.
+409.11,409.49,B,Mm-hmm .,IN1001.
+409.68,414.36,A,the background is quite similar and uh it's it's it's not that sure,IN1001.
+414.36,414.57,B,Yeah,IN1001.
+414.36,414.36,A,.,IN1001.
+414.57,423.87,B,", maybe to explain this method was using uh a simple uh uh distance between uh consecutive histograms",IN1001.
+423.51,423.86,C,Okay .,IN1001.
+423.87,426.81,B,", and we didn't use motion features at all",IN1001.
+426.19,426.46,C,Mm .,IN1001.
+426.81,428.13,B,"for that , that's why i we",IN1001.
+428.03,431.22,A,"So it's yeah . The histogram , so we have",IN1001.
+431.2,431.55,C,Yeah,IN1001.
+431.22,431.82,A,experience,IN1001.
+431.55,432.55,C,. Yeah,IN1001.
+431.66,432.28,B,Yeah,IN1001.
+431.82,432.43,A,with it,IN1001.
+432.28,432.47,B,", okay",IN1001.
+432.43,432.71,A,. So,IN1001.
+432.47,432.47,B,.,IN1001.
+432.55,432.55,C,.,IN1001.
+432.71,437.19,A,"it's it's scrambled , so you can scramble the image",IN1001.
+436.85,437.21,C,Okay,IN1001.
+437.19,437.49,A,and,IN1001.
+437.21,437.21,C,.,IN1001.
+437.49,439.3,A,you get the same histogram,IN1001.
+439.13,439.34,C,Yeah,IN1001.
+439.3,439.48,A,. So,IN1001.
+439.34,439.34,C,.,IN1001.
+439.48,441.64,A,there is no structure indeed,IN1001.
+440.96,441.39,C,Okay .,IN1001.
+441.64,453.81,A,", so of course when you look the horse and then you can see as a cow the cows , of course you have a black in the top and uh you have also uh maybe eighty percent of like green uh , which is even",IN1001.
+453.53,453.96,C,Mm-hmm,IN1001.
+453.81,454.04,A,not,IN1001.
+453.96,453.96,C,.,IN1001.
+454.04,467.85,A,"green there but uh uh grass . You have stones and uh so there of course are differences , because on the one hand you have horse , but it's black , so you have more sky , which is black on the right , so you",IN1001.
+467.82,468.11,C,Okay,IN1001.
+467.85,468.11,A,don't,IN1001.
+468.11,468.11,C,.,IN1001.
+468.11,473.02,A,"care about this . So it's a glo it's global it's a global histogram , so yeah .",IN1001.
+473.39,473.67,C,'Kay .,IN1001.
+475.89,480.95,A,But it's when for this I would for this application I could imagine that it would,IN1001.
+480.31,480.71,C,Hmm .,IN1001.
+480.81,481.28,B,Enough,IN1001.
+480.95,485.95,A,"were quite high . Uh and it's a threshold but still it's adaptive , right",IN1001.
+485.86,486.8,B,Yeah,IN1001.
+485.95,486.81,A,", if I remember",IN1001.
+486.8,487.69,B,. Yeah,IN1001.
+486.81,487.38,A,"well , yeah .",IN1001.
+487.69,489.27,B,. With a sliding window,IN1001.
+489.01,489.83,C,Yeah,IN1001.
+489.27,489.27,B,.,IN1001.
+489.83,490.21,C,. Okay .,IN1001.
+490.32,493.85,A,So . Because of course if you just compute,IN1001.
+493.76,493.88,B,I,IN1001.
+493.85,494.88,A,the,IN1001.
+493.88,494.97,B,can show you,IN1001.
+494.88,495.09,A,yeah,IN1001.
+494.97,495.3,B,uh,IN1001.
+495.09,502.17,A,", if you have the report because if you compute the um distance between the two histograms , I think this was Bhattacharya",IN1001.
+501.78,502.12,B,Yeah .,IN1001.
+502.17,503.03,A,? Right . So,IN1001.
+502.85,503.59,C,Hmm,IN1001.
+503.03,503.65,A,now we,IN1001.
+503.59,505.08,C,. Okay,IN1001.
+503.65,505.08,A,know,IN1001.
+505.08,505.08,C,.,IN1001.
+505.08,519.55,A,". And uh so if you take uh these two with the with the Bhattacharya uh then of course you should just do a threshold . When there is motion you will see a lot of things changing , so",IN1001.
+519.44,519.62,C,Okay,IN1001.
+519.55,519.7,A,by,IN1001.
+519.62,519.62,C,.,IN1001.
+519.7,529.43,A,"using an L_R_T_T_ threshold , if you see that there is a continuous change of the d distance , you don't do a threshold . It's only if you have an identified peak",IN1001.
+529.03,529.42,C,Okay .,IN1001.
+529.43,542.52,A,", which is m fifty percent or maybe uh two times higher than the the next second value in the window , then you say it's it's a shot",IN1001.
+541.41,542.8,B,Yeah,IN1001.
+542.52,542.81,A,. Right,IN1001.
+542.8,542.9,B,. I,IN1001.
+542.81,542.9,A,", I",IN1001.
+542.9,543.05,B,don't,IN1001.
+542.9,543.05,A,don't,IN1001.
+543.05,543.19,B,know,IN1001.
+543.05,543.47,A,know,IN1001.
+543.19,543.65,B,if we,IN1001.
+543.47,543.47,A,.,IN1001.
+543.65,554.1,B,c we want to make uh use the whiteboard or here it's uh it was uh to dis it's infra only the this,IN1001.
+553.69,554.3,A,"Yeah , yeah",IN1001.
+554.1,554.34,B,part,IN1001.
+554.3,554.3,A,.,IN1001.
+554.34,558.43,B,"about uh shot boundary detection is in French unfortunately , but uh",IN1001.
+557.94,558.15,A,Yeah .,IN1001.
+558.43,574.31,B,"the this image shows the results using motion when you s use the motion features , and here on the right is when using the histogram uh distance . And",IN1001.
+573.64,574.08,C,Okay .,IN1001.
+574.31,599.53,B,"the the motion features can better show what's going on when there is such a difficult uh transition , while with the histogram um , yeah , it just shows that there is a shot uh change at the end , but even for dissolves , I don't have examples here , but um there is not a strict uh transition",IN1001.
+598.72,599.03,C,Mm-hmm .,IN1001.
+599.53,600.66,B,. Uh,IN1001.
+599.79,600.87,A,It's continuous,IN1001.
+600.66,601.7,B,it's continuous,IN1001.
+600.87,601.72,A,for dissolve,IN1001.
+601.7,601.87,B,for,IN1001.
+601.72,603.42,A,", yeah",IN1001.
+601.81,602.98,C,Okay,IN1001.
+601.87,603.6,B,dissolves,IN1001.
+602.98,603.91,C,". Yeah , okay",IN1001.
+603.42,603.71,A,. But,IN1001.
+603.6,604.09,B,. Dissolves,IN1001.
+603.71,604.84,A,an,IN1001.
+603.91,604.88,C,". Yeah , I understand",IN1001.
+604.09,604.87,B,is uh yeah,IN1001.
+604.84,605.31,A,anyway,IN1001.
+604.87,604.87,B,.,IN1001.
+604.88,605.11,C,. Okay .,IN1001.
+605.31,615.81,A,"it's difficult , I mean in th in in in general , because sometimes you have some dissolve you could imagine they are part of of of a scene and uh",IN1001.
+615.2,615.42,C,Yeah .,IN1001.
+615.81,620.33,A,"so , but of course when you have cuts you can see they are easy to detect , right , I mean like something",IN1001.
+619.81,620.03,C,Yeah,IN1001.
+619.95,620.21,B,Yeah,IN1001.
+620.03,620.47,C,", okay",IN1001.
+620.21,620.21,B,.,IN1001.
+620.33,620.82,A,yeah,IN1001.
+620.47,620.47,C,.,IN1001.
+620.82,624.83,A,". So uh yeah , so with the motion",IN1001.
+624.45,624.98,C,Okay,IN1001.
+624.83,625.22,A,basically,IN1001.
+624.98,624.98,C,.,IN1001.
+625.22,629.56,A,"the motion tried to estimate well the motion between two frames , right , if",IN1001.
+629.24,629.61,C,Okay,IN1001.
+629.56,629.67,A,my,IN1001.
+629.61,629.61,C,.,IN1001.
+629.67,634.95,A,"image is there but after it's there , and it looks at how many points c are well matched",IN1001.
+634.78,635.17,C,Okay,IN1001.
+634.95,635.24,A,. So you,IN1001.
+635.17,635.17,C,.,IN1001.
+635.24,643.64,A,can see that like somebody speaking and so and so before the sh before the shot you can see that usually there are like ninety percent of the points at least,IN1001.
+643.64,643.98,C,Hmm,IN1001.
+643.64,643.99,A,", right , who",IN1001.
+643.98,643.98,C,.,IN1001.
+643.99,652.88,A,"have some motion , so uh But then after suddenly if you go from one frame and you try to match all the points here with like a translation",IN1001.
+652.6,652.92,C,Mm-hmm,IN1001.
+652.88,653.11,A,", plus",IN1001.
+652.92,652.92,C,.,IN1001.
+653.11,655.03,A,the zoom plus maybe some rotation,IN1001.
+654.51,654.88,C,Mm-hmm .,IN1001.
+655.03,657.04,A,", you c you can find anything well",IN1001.
+657.03,657.41,C,Hmm,IN1001.
+657.04,657.55,A,", right",IN1001.
+657.41,657.41,C,.,IN1001.
+657.55,662.88,A,", so basically you would see that the number of points maybe only ten percent of the points you can match well",IN1001.
+662.37,662.93,C,Okay,IN1001.
+662.88,663.0,A,", so",IN1001.
+662.93,662.93,C,.,IN1001.
+663.0,671.27,A,"it's easy to detect . And uh after you can see that indeed because it's a long shot and it's almost like a flat plane , you can do a",IN1001.
+671.25,671.44,C,Yeah,IN1001.
+671.27,671.66,A,very,IN1001.
+671.44,671.44,C,.,IN1001.
+671.66,674.76,A,good registration through the number of points,IN1001.
+674.29,675.64,C,Okay,IN1001.
+674.76,675.82,A,". Is very high , I mean",IN1001.
+675.64,676.28,C,. We'll see,IN1001.
+675.82,676.47,A,the number of points,IN1001.
+676.28,676.68,C,. Okay,IN1001.
+676.47,676.81,A,that are,IN1001.
+676.68,676.68,C,.,IN1001.
+676.81,688.5,A,"matching . Uh and here you basically here with a histogram uh you can see it very flat , but of course you should go from this histogram to this which is essentially green . You have this big",IN1001.
+688.27,688.55,C,see,IN1001.
+688.5,688.86,A,uh,IN1001.
+688.55,688.98,C,the cut,IN1001.
+688.86,689.27,A,measure,IN1001.
+688.98,688.98,C,.,IN1001.
+689.27,694.48,A,", which is here uh the chi two I don't know whether this is what you implement is used in",IN1001.
+694.44,694.9,B,No,IN1001.
+694.48,694.94,A,the,IN1001.
+694.9,694.97,B,no,IN1001.
+694.94,695.36,A,no,IN1001.
+694.97,695.67,B,", now it's",IN1001.
+695.36,695.67,A,it's,IN1001.
+695.67,699.73,B,uh well for the video you saw it wa it's Bhattacharya,IN1001.
+699.32,700.29,A,It's Bhattacharya,IN1001.
+699.73,699.73,B,.,IN1001.
+700.29,700.58,A,. Okay .,IN1001.
+701.03,701.44,C,Okay .,IN1001.
+702.4,708.87,A,"Yeah , so yeah , and you have maybe a one image with a um adaptive threshold , I think . You had something",IN1001.
+708.54,708.84,B,Yeah .,IN1001.
+708.87,711.91,A,"like this , right ? Just to explain uh how",IN1001.
+712.66,713.8,B,"Okay , set the beginning .",IN1001.
+713.97,718.91,A,"Yeah , uh Yeah , you see like here . Yeah .",IN1001.
+721.28,726.22,B,So there is the idea is having a sliding window,IN1001.
+725.87,726.21,C,Mm-hmm .,IN1001.
+726.22,732.19,B,. Um we have already all the data that is on the graph,IN1001.
+732.03,732.39,C,Okay,IN1001.
+732.19,732.82,B,. And then,IN1001.
+732.39,732.39,C,.,IN1001.
+732.82,763.16,B,"to detect uh the the the the changes , we we do a calculation um with points under this sliding window within this sliding window . And uh we calculate so what do we here ? Um In fa we want to detect that uh this points in the middle is higher than uh",IN1001.
+765.12,765.64,A,Alpha,IN1001.
+765.47,765.69,B,Th,IN1001.
+765.64,767.44,A,times the maximum of,IN1001.
+767.31,769.34,C,Okay,IN1001.
+767.44,768.97,A,the other ones,IN1001.
+768.57,769.02,B,Exactly,IN1001.
+768.97,769.15,A,. Of,IN1001.
+769.02,769.61,B,", yeah",IN1001.
+769.15,769.46,A,the other,IN1001.
+769.34,769.34,C,.,IN1001.
+769.46,769.88,A,ones,IN1001.
+769.61,770.14,B,. Alpha,IN1001.
+769.88,769.88,A,.,IN1001.
+770.14,770.65,B,. Alpha times,IN1001.
+770.6,771.27,C,Okay,IN1001.
+770.65,771.35,B,the maximum of the,IN1001.
+771.27,771.27,C,.,IN1001.
+771.35,771.91,B,other ones .,IN1001.
+772.17,781.22,A,"So the of course if it's you are not a maximum , you are not going i inside the window you are not the max , anyway you are not going to be",IN1001.
+781.22,781.64,B,The,IN1001.
+781.22,781.97,A,to be above,IN1001.
+781.64,781.95,B,c,IN1001.
+781.97,784.95,A,"uh alpha times the max of the others , right , uh",IN1001.
+784.58,784.99,C,Okay,IN1001.
+784.95,785.23,A,because,IN1001.
+784.99,784.99,C,.,IN1001.
+785.23,788.04,A,alpha is low lower than one . Uh,IN1001.
+787.71,788.12,B,But if,IN1001.
+788.04,788.04,A,.,IN1001.
+788.12,799.74,B,you are in the maximum already and at this point we check simply if uh this value is alpha times the the max of the other points,IN1001.
+799.66,799.76,A,Like,IN1001.
+799.74,799.96,B,", let's",IN1001.
+799.76,800.63,A,for instance,IN1001.
+799.96,800.68,B,say these points,IN1001.
+800.63,801.31,A,yeah,IN1001.
+800.68,800.9,B,here .,IN1001.
+801.31,801.81,A,. Like for instance,IN1001.
+801.79,802.59,C,Okay,IN1001.
+801.81,802.64,A,here I I see,IN1001.
+802.59,803.06,C,. Okay,IN1001.
+802.64,803.06,A,six,IN1001.
+803.06,803.06,C,.,IN1001.
+803.06,807.64,A,", but I don't know whether this was for Bhattacharya or for uh chi s",IN1001.
+807.44,808.45,B,Um,IN1001.
+807.64,807.96,A,chi two .,IN1001.
+808.45,809.88,B,i maybe for chi it's it,IN1001.
+809.8,810.28,A,Yeah,IN1001.
+809.88,810.57,B,six but,IN1001.
+810.28,810.28,A,.,IN1001.
+810.57,817.72,B,"uh , yeah , but uh for Bhattacharya it's for the tests I",IN1001.
+817.65,817.83,A,Yeah,IN1001.
+817.72,818.05,B,did,IN1001.
+817.83,819.12,A,", yeah , yeah",IN1001.
+818.05,819.69,B,it two point four,IN1001.
+819.12,819.73,A,. Two point four,IN1001.
+819.69,819.99,B,. Yeah,IN1001.
+819.73,820.02,A,", yeah",IN1001.
+819.99,819.99,B,.,IN1001.
+820.02,822.26,A,", so it's a bit less because the amplitude is much",IN1001.
+822.26,822.75,B,Yeah,IN1001.
+822.26,822.87,A,smaller,IN1001.
+822.75,822.75,B,.,IN1001.
+822.87,824.62,A,", yeah",IN1001.
+823.28,823.69,C,Hmm .,IN1001.
+824.62,825.34,A,. uh,IN1001.
+825.3,825.61,B,Okay,IN1001.
+825.34,825.89,A,yeah,IN1001.
+825.61,825.61,B,.,IN1001.
+825.89,829.43,A,. So you can uh it was not so just I mean because,IN1001.
+829.42,829.86,B,No,IN1001.
+829.43,838.12,A,"the motion I mean it was uh in the shot we've seen , f because f especially with chi two square it r the amplitude it's much bigger than with Bhattacharya",IN1001.
+837.79,838.13,C,Yeah,IN1001.
+838.12,838.46,A,", right",IN1001.
+838.13,838.53,C,", okay",IN1001.
+838.46,838.79,A,. Uh,IN1001.
+838.53,838.53,C,.,IN1001.
+838.79,841.49,A,"you can see that it could go to seven hundred , and",IN1001.
+841.35,841.72,B,Mm,IN1001.
+841.49,841.88,A,when it's,IN1001.
+841.72,841.72,B,.,IN1001.
+841.88,846.65,A,"there is nothing , it's can be zero . With Bhattacharya it's between zero and one , so you have not",IN1001.
+846.52,846.89,C,Okay,IN1001.
+846.65,847.07,A,so much,IN1001.
+846.89,846.89,C,.,IN1001.
+847.07,866.72,A,"amplitude . Um but uh still uh in some of the v these videos for instance even if we gon go now if we want to , but now for the kayak case , I don't know . Uh at some point targeting two kayaks and it's moving quite fast towards to other people . I don't know what happened there , if it was detected as a shot",IN1001.
+866.48,867.18,B,Uh,IN1001.
+866.72,867.33,A,transition,IN1001.
+867.18,867.8,B,i,IN1001.
+867.33,867.66,A,or,IN1001.
+867.8,869.7,B,in the the first shot,IN1001.
+869.35,869.86,A,"Yeah , yeah",IN1001.
+869.7,870.0,B,? Yeah,IN1001.
+869.86,869.86,A,.,IN1001.
+870.0,871.53,B,", I saw that it was detected",IN1001.
+871.5,871.64,A,It,IN1001.
+871.53,871.76,B,as,IN1001.
+871.64,871.79,A,was,IN1001.
+871.76,871.88,B,a,IN1001.
+871.79,872.2,A,it,IN1001.
+871.88,872.27,B,shot,IN1001.
+872.2,872.39,A,as,IN1001.
+872.27,873.92,B,", yeah",IN1001.
+872.39,874.19,A,"a shot , okay . I was uh wondering",IN1001.
+873.92,874.23,B,. You want,IN1001.
+874.19,875.21,A,yeah,IN1001.
+874.23,875.87,B,to see now ? Okay,IN1001.
+875.21,875.97,A,"yeah , maybe",IN1001.
+875.87,876.08,B,. But,IN1001.
+875.97,875.97,A,.,IN1001.
+876.08,877.96,B,he didn't okay,IN1001.
+877.52,878.0,A,But here for,IN1001.
+877.96,877.96,B,.,IN1001.
+878.0,882.38,A,instance you understand so we can show this tomorrow to uh to the people at,IN1001.
+882.13,882.49,C,Yeah,IN1001.
+882.38,882.75,A,the,IN1001.
+882.49,882.97,C,", okay",IN1001.
+882.75,883.27,A,ci CINETIS,IN1001.
+882.97,882.97,C,.,IN1001.
+883.27,884.37,A,"meeting , I mean to",IN1001.
+884.34,885.82,C,Okay . I will look to,IN1001.
+885.71,886.13,A,Right,IN1001.
+885.82,886.18,C,have a,IN1001.
+886.13,886.13,A,.,IN1001.
+886.18,888.53,C,connection,IN1001.
+887.6,888.64,A,"Yeah , okay , yeah , we need",IN1001.
+888.53,889.77,C,. Okay,IN1001.
+888.64,889.54,A,"a connection , that's true .",IN1001.
+889.77,891.16,C,. Yeah . And,IN1001.
+891.1,891.28,A,Yeah,IN1001.
+891.16,891.51,C,we need,IN1001.
+891.28,893.05,A,", that's true",IN1001.
+891.51,893.27,C,a laptop or you have yours,IN1001.
+893.05,893.35,A,. Yeah,IN1001.
+893.27,893.27,C,?,IN1001.
+893.35,895.36,A,", I can bring my laptop if necessary",IN1001.
+895.02,895.55,C,Okay,IN1001.
+895.36,895.57,A,", yeah",IN1001.
+895.55,895.55,C,.,IN1001.
+895.57,897.19,A,", yeah . I'll I'll bring it , okay , so",IN1001.
+897.07,897.49,C,Okay,IN1001.
+897.19,897.58,A,it's,IN1001.
+897.49,897.49,C,.,IN1001.
+897.58,898.5,A,it's done,IN1001.
+898.17,898.73,B,It is uh,IN1001.
+898.5,898.5,A,.,IN1001.
+898.73,902.57,B,"okay . This is IDIAP laptop , so you can u okay",IN1001.
+902.2,902.41,C,Yeah .,IN1001.
+902.57,911.14,B,. So here in fact after twelve um I don't know if it's I think it's twelve frames .,IN1001.
+911.18,912.55,A,"Well yeah , but normally there is",IN1001.
+912.48,912.89,C,Uh,IN1001.
+912.55,913.89,A,a a burning,IN1001.
+912.89,913.29,C,okay .,IN1001.
+913.89,916.09,A,if you c maybe you can play the shot or,IN1001.
+916.69,917.01,B,Yeah .,IN1001.
+917.91,918.52,A,It's strange I,IN1001.
+918.44,918.61,B,Oh,IN1001.
+918.52,920.19,A,mean,IN1001.
+918.61,919.85,B,"yeah , maybe you're burning , but",IN1001.
+920.19,926.97,A,", maybe you play yeah , if you play the the video well , insi at the beginning , I don't know what's happening",IN1001.
+926.66,927.09,B,"Oh , there",IN1001.
+926.97,926.97,A,.,IN1001.
+927.09,931.46,B,is no ha ha . I didn't uh,IN1001.
+931.05,931.53,A,"Ah , you",IN1001.
+931.46,931.57,B,ha I,IN1001.
+931.53,931.82,A,didn't,IN1001.
+931.57,931.83,B,didn't,IN1001.
+931.82,932.31,A,generate,IN1001.
+931.83,932.32,B,have time,IN1001.
+932.31,932.97,A,the,IN1001.
+932.32,933.22,B,to the,IN1001.
+932.97,933.29,A,okay,IN1001.
+933.22,933.32,B,the,IN1001.
+933.29,933.47,A,", the",IN1001.
+933.32,933.51,B,Real,IN1001.
+933.47,933.73,A,Real,IN1001.
+933.51,934.5,B,Media,IN1001.
+933.73,934.53,A,Media . Okay,IN1001.
+934.5,934.98,B,. But,IN1001.
+934.53,934.53,A,.,IN1001.
+934.98,937.77,B,"um yeah , it's complicated .",IN1001.
+938.02,943.91,A,"Well no , I mean here I can see that it was it was detected as a single shot",IN1001.
+942.5,944.17,B,"Yeah , here we can see that , yeah",IN1001.
+943.91,944.6,A,. Okay,IN1001.
+944.17,944.17,B,.,IN1001.
+944.6,946.06,A,. I was because here you can see,IN1001.
+945.95,946.15,B,At,IN1001.
+946.06,946.24,A,that,IN1001.
+946.15,946.52,B,two point,IN1001.
+946.24,946.76,A,the motion,IN1001.
+946.52,946.81,B,four,IN1001.
+946.76,947.03,A,uh,IN1001.
+946.81,946.81,B,.,IN1001.
+947.03,949.15,A,"here is uh , you know , he is uh",IN1001.
+948.81,949.37,B,Mm,IN1001.
+949.15,949.39,A,doing,IN1001.
+949.37,949.37,B,.,IN1001.
+949.39,950.94,A,a zoom on the two,IN1001.
+950.43,950.75,C,Yeah .,IN1001.
+950.94,951.6,A,kayaks,IN1001.
+951.24,951.61,B,And then,IN1001.
+951.6,952.18,A,here,IN1001.
+951.61,952.56,B,there is translation,IN1001.
+952.18,952.78,A,. Yeah,IN1001.
+952.56,953.1,B,on the right,IN1001.
+952.78,953.11,A,", and then",IN1001.
+953.1,953.65,B,", yeah",IN1001.
+953.11,953.9,A,he's doing quite,IN1001.
+953.65,953.65,B,.,IN1001.
+953.9,956.68,A,a fast transition from these to another,IN1001.
+956.6,956.81,B,Mm,IN1001.
+956.68,957.56,A,one,IN1001.
+956.81,957.13,B,mm,IN1001.
+956.89,957.15,C,Mm,IN1001.
+957.13,957.39,B,mm,IN1001.
+957.15,957.43,C,'kay,IN1001.
+957.39,957.39,B,.,IN1001.
+957.43,957.43,C,.,IN1001.
+957.56,969.02,A,", and I was wondering whether so if you well though of course it's true that it's mainly water , so maybe the colour is indeed uh quite but you know , as a kayak is entering quite fast , I mean you",IN1001.
+969.01,969.25,C,Hmm,IN1001.
+969.02,969.64,A,can have,IN1001.
+969.25,969.25,C,.,IN1001.
+969.64,970.91,A,quite maybe,IN1001.
+970.55,970.8,C,Hmm .,IN1001.
+970.91,971.39,A,good,IN1001.
+970.93,971.43,B,I can,IN1001.
+971.39,973.41,A,distance,IN1001.
+971.43,973.61,B,see uh there is another programme that,IN1001.
+973.41,973.65,A,. But,IN1001.
+973.61,973.84,B,can,IN1001.
+973.65,973.97,A,I see,IN1001.
+973.84,974.16,B,see,IN1001.
+973.97,977.49,A,that it seems to be how many shots do you have indeed,IN1001.
+977.05,977.63,B,Uh,IN1001.
+977.49,977.65,A,de,IN1001.
+977.63,977.85,B,the,IN1001.
+977.65,978.41,A,de detected,IN1001.
+977.85,978.7,B,N_ uh,IN1001.
+978.41,978.41,A,?,IN1001.
+980.31,982.4,B,It's I think it's f there there are,IN1001.
+982.37,983.14,A,Six,IN1001.
+982.4,983.2,B,five normally,IN1001.
+983.14,983.36,A,", yeah",IN1001.
+983.2,983.2,B,.,IN1001.
+983.36,984.49,A,", the one is uh",IN1001.
+984.45,984.64,B,If,IN1001.
+984.49,986.33,A,maybe,IN1001.
+984.64,986.1,B,we put expand all,IN1001.
+986.33,986.95,A,so you did it,IN1001.
+986.79,988.77,C,Okay,IN1001.
+986.95,989.25,A,with with what by the way,IN1001.
+988.77,988.77,C,.,IN1001.
+989.25,991.46,A,? It's with the images I gave you or,IN1001.
+990.98,991.35,B,Yeah .,IN1001.
+991.46,991.7,A,okay .,IN1001.
+992.82,1000.36,B,The other one I had problems converting uh uh the video into,IN1001.
+999.52,1000.47,C,Hmm,IN1001.
+1000.36,1001.01,B,D_V_X_,IN1001.
+1000.47,1001.02,C,. Yeah,IN1001.
+1001.01,1001.32,B,", and",IN1001.
+1001.02,1001.02,C,.,IN1001.
+1001.32,1006.96,B,"then uh so I used the programme from uh software from Sebastien , P_ P_A_P_M_",IN1001.
+1006.66,1006.96,A,Ah,IN1001.
+1006.96,1007.28,B,to,IN1001.
+1006.96,1007.76,A,", to regenerate",IN1001.
+1007.28,1009.8,B,A_V_I_,IN1001.
+1007.76,1009.11,A,"an A_V_I_ file , okay",IN1001.
+1009.08,1009.55,C,Hmm,IN1001.
+1009.11,1009.51,A,", yeah , yeah .",IN1001.
+1009.55,1009.55,C,.,IN1001.
+1009.8,1020.65,B,". Because yeah , one thing uh maybe we will talk about that is the library uh , it's uh it doesn't uh compile anymore on Debian",IN1001.
+1020.56,1020.97,A,Okay,IN1001.
+1020.65,1021.32,B,machines,IN1001.
+1020.97,1020.97,A,.,IN1001.
+1021.26,1021.61,C,Hmm,IN1001.
+1021.32,1021.87,B,and,IN1001.
+1021.61,1021.61,C,.,IN1001.
+1021.87,1041.97,B,", yeah , some maybe some work has to be done on this . I don't know why this uh image doesn't appear , this is the um um the frame that is uh uh extracted to be the shot key frame here . This one is this one , the middle one . So I don't know what why it doesn't appear , but it just uh",IN1001.
+1041.51,1041.98,A,"Okay , yeah",IN1001.
+1041.97,1042.02,B,a,IN1001.
+1041.98,1041.98,A,.,IN1001.
+1042.02,1043.93,B,simple problem in the get frame,IN1001.
+1043.19,1043.58,A,Yeah .,IN1001.
+1043.93,1056.11,B,. But what I can show you now is a little programme if we want to be um very precise about so it's ma get frames,IN1001.
+1064.96,1077.16,B,"Okay , C_G_I_ here . And we were interested in around what di do you want ? Around six , seven seconds ?",IN1001.
+1077.86,1081.31,A,"Yeah , I mean initially I don't know why there is a a shot detected .",IN1001.
+1081.59,1089.88,B,Okay . Uh if we do next . Oh . Yeah . There,IN1001.
+1088.83,1090.01,C,"Yeah , yeah",IN1001.
+1089.88,1090.09,B,is,IN1001.
+1090.01,1090.19,C,. Oh,IN1001.
+1090.09,1090.42,B,something,IN1001.
+1090.19,1090.52,C,yeah,IN1001.
+1090.42,1091.4,B,wrong,IN1001.
+1090.52,1090.52,C,.,IN1001.
+1091.4,1092.0,B,. So,IN1001.
+1091.61,1092.12,A,Ah okay,IN1001.
+1091.99,1092.16,C,There,IN1001.
+1092.0,1092.18,B,it,IN1001.
+1092.12,1092.32,A,", so",IN1001.
+1092.16,1092.33,C,was,IN1001.
+1092.18,1092.65,B,detects,IN1001.
+1092.32,1092.77,A,the,IN1001.
+1092.33,1093.05,C,some burning,IN1001.
+1092.77,1097.34,A,okay so the here is an image number,IN1001.
+1096.58,1097.38,B,"Yeah , in fact , yeah",IN1001.
+1097.34,1097.44,A,. In,IN1001.
+1097.38,1097.58,B,", that's",IN1001.
+1097.44,1097.67,A,your,IN1001.
+1097.58,1097.74,B,why,IN1001.
+1097.67,1099.31,A,programme,IN1001.
+1097.74,1099.35,B,I said it's it's a frame number,IN1001.
+1099.31,1099.72,A,. Ah,IN1001.
+1099.35,1099.87,B,. Uh w I don't,IN1001.
+1099.72,1100.1,A,okay,IN1001.
+1099.87,1100.27,B,know why,IN1001.
+1100.1,1100.56,A,", okay",IN1001.
+1100.27,1100.7,B,", yeah yeah",IN1001.
+1100.56,1101.1,A,", yeah",IN1001.
+1100.7,1101.18,B,yeah . It's,IN1001.
+1101.1,1101.96,A,. Okay,IN1001.
+1101.18,1102.52,B,a frame number,IN1001.
+1101.96,1102.58,A,", okay so then",IN1001.
+1102.52,1102.75,B,. This,IN1001.
+1102.58,1102.97,A,this,IN1001.
+1102.75,1106.61,B,"is a frame number , this is in second , but I I kept the frame number",IN1001.
+1106.35,1107.04,A,"So , but",IN1001.
+1106.61,1106.61,B,.,IN1001.
+1107.04,1109.53,A,it's in seconds or it's,IN1001.
+1109.61,1112.11,B,"It's twelve frames , zero",IN1001.
+1111.87,1113.76,A,Okay,IN1001.
+1112.11,1112.67,B,seconds .,IN1001.
+1113.76,1114.22,A,. Okay,IN1001.
+1113.78,1114.6,C,Okay,IN1001.
+1114.22,1114.87,A,", yeah , okay",IN1001.
+1114.6,1114.6,C,.,IN1001.
+1114.87,1117.99,A,", okay , seconds plus number",IN1001.
+1116.28,1116.54,C,And,IN1001.
+1116.29,1116.67,B,Yeah,IN1001.
+1116.54,1116.99,C,the next,IN1001.
+1116.67,1116.67,B,.,IN1001.
+1116.99,1118.01,C,is eleven seconds,IN1001.
+1117.99,1118.28,A,. Okay,IN1001.
+1118.01,1118.45,C,and,IN1001.
+1118.28,1118.54,A,", so",IN1001.
+1118.45,1118.71,C,twelve,IN1001.
+1118.54,1119.08,A,basically,IN1001.
+1118.71,1119.33,C,frames,IN1001.
+1119.08,1119.45,A,what has,IN1001.
+1119.33,1119.33,C,.,IN1001.
+1119.45,1122.55,A,"been uh yeah , extracted is yeah , this point rather than okay",IN1001.
+1122.47,1123.45,B,Yeah,IN1001.
+1122.55,1122.89,A,", so this",IN1001.
+1122.79,1122.98,C,Hmm,IN1001.
+1122.89,1123.37,A,is normal,IN1001.
+1122.98,1122.98,C,.,IN1001.
+1123.37,1123.66,A,", okay",IN1001.
+1123.45,1123.87,B,. Yeah,IN1001.
+1123.66,1123.66,A,.,IN1001.
+1123.87,1143.51,B,". So if we do every second uh I d the middle frame is uh this one thousand Okay . Do you thi it's another kind of browsing page , but uh to",IN1001.
+1143.44,1144.02,C,Okay,IN1001.
+1143.51,1144.45,B,be more precise,IN1001.
+1144.02,1144.02,C,.,IN1001.
+1144.45,1146.34,B,about uh,IN1001.
+1146.09,1146.53,A,Okay,IN1001.
+1146.34,1146.65,B,to to,IN1001.
+1146.53,1146.53,A,.,IN1001.
+1146.65,1150.1,B,check maybe the this,IN1001.
+1148.83,1150.54,A,"Okay , like transition , something",IN1001.
+1150.1,1150.77,B,"yeah , exactly",IN1001.
+1150.54,1150.79,A,that,IN1001.
+1150.77,1151.03,B,", yeah",IN1001.
+1150.79,1151.13,A,is,IN1001.
+1151.03,1151.65,B,", yeah",IN1001.
+1151.13,1151.55,A,okay .,IN1001.
+1151.65,1151.98,B,. Anyway,IN1001.
+1151.88,1152.27,C,Hmm,IN1001.
+1151.98,1152.28,B,", you",IN1001.
+1152.27,1152.27,C,.,IN1001.
+1152.28,1162.43,B,"go back to one frame around f one sixty for instance , I don't know . And and there is",IN1001.
+1161.88,1162.48,C,Okay,IN1001.
+1162.43,1162.76,B,yeah,IN1001.
+1162.48,1162.9,C,. Ah,IN1001.
+1162.76,1163.02,B,", that's",IN1001.
+1162.9,1163.84,C,", okay",IN1001.
+1163.02,1165.11,B,"it , you know",IN1001.
+1163.84,1164.24,C,. Understand .,IN1001.
+1165.11,1173.14,B,". Prev Okay . You see that there is uh okay , it's not a shot change , it's a motion actually here",IN1001.
+1172.29,1173.26,A,"Yeah , it's motion yeah",IN1001.
+1173.14,1173.47,B,. Yeah,IN1001.
+1173.26,1173.47,A,", it's",IN1001.
+1173.47,1173.76,B,", yeah",IN1001.
+1173.47,1174.29,A,not a cut,IN1001.
+1173.76,1174.55,B,", yeah , yeah , yeah",IN1001.
+1174.29,1174.72,A,". Yeah , but",IN1001.
+1174.55,1174.55,B,.,IN1001.
+1174.72,1176.85,A,I was thinking that maybe it could have been,IN1001.
+1176.46,1177.33,B,Yeah,IN1001.
+1176.85,1177.5,A,. But it's true that,IN1001.
+1177.33,1180.16,B,", I s",IN1001.
+1177.5,1180.21,A,"it's mainly water when we see things , so it's , yeah , it's",IN1001.
+1180.16,1180.41,B,yeah,IN1001.
+1180.21,1180.71,A,not such,IN1001.
+1180.41,1180.41,B,.,IN1001.
+1180.71,1187.67,A,"a big uh but yeah , sometimes I mean you can have various things hap I mean just think about more action movie and thing",IN1001.
+1187.53,1187.68,C,Mm,IN1001.
+1187.67,1187.82,A,like,IN1001.
+1187.68,1188.03,C,'kay,IN1001.
+1187.82,1188.53,A,this,IN1001.
+1188.03,1188.03,C,.,IN1001.
+1188.53,1195.98,A,". Well sometimes it's very difficult , so focus , usually there is no problem , people say this is a cut , this is not a cut , but like",IN1001.
+1195.84,1195.92,C,Mm .,IN1001.
+1195.98,1203.16,A,"for dissolve even sometimes , you know , people may it's people may have some trouble I mean this is a dissolve this",IN1001.
+1203.07,1203.6,C,Yeah,IN1001.
+1203.16,1203.84,A,is not,IN1001.
+1203.6,1203.99,C,. Mm-hmm,IN1001.
+1203.84,1203.99,A,this,IN1001.
+1203.99,1203.99,C,.,IN1001.
+1203.99,1218.27,A,"should this should be labelled as a transition or not . Some people will say yeah , but it's part of the thing , or uh for instance in like in um also in uh , come on , uh advertising usually . Because the shots are very short in",IN1001.
+1218.27,1218.69,B,Yeah,IN1001.
+1218.27,1218.83,C,Okay,IN1001.
+1218.27,1218.97,A,advertising,IN1001.
+1218.69,1218.69,B,.,IN1001.
+1218.83,1220.82,C,", mm-hmm",IN1001.
+1218.97,1221.99,A,", usually it's uh very fast and",IN1001.
+1220.82,1221.14,C,. Yeah .,IN1001.
+1221.99,1231.05,A,"so sometimes , yeah , when you have an incrustation like last time , what what should you say , it's it's , yeah , it's a change of But uh",IN1001.
+1231.13,1231.33,B,When,IN1001.
+1231.21,1231.54,C,Hmm,IN1001.
+1231.33,1231.77,B,you have,IN1001.
+1231.54,1231.54,C,.,IN1001.
+1231.77,1235.16,B,"yeah , the the goal results uh",IN1001.
+1234.6,1234.95,C,Yeah .,IN1001.
+1235.16,1242.05,B,"then yeah , in fact it's not a shot change",IN1001.
+1239.52,1240.7,A,"Yeah , I mean",IN1001.
+1240.63,1241.29,C,Yeah,IN1001.
+1240.7,1241.59,A,it's a,IN1001.
+1241.29,1241.29,C,.,IN1001.
+1241.59,1242.1,A,so sometimes,IN1001.
+1242.05,1242.33,B,. Yeah,IN1001.
+1242.1,1242.66,A,very difficult,IN1001.
+1242.33,1242.33,B,.,IN1001.
+1242.66,1251.67,A,. A at least what I can see that currently like for CINETIS uh for instance if it's to do colour correction or for instance if it's too black,IN1001.
+1251.58,1251.99,C,Hmm,IN1001.
+1251.67,1252.16,A,", too a bit",IN1001.
+1251.99,1251.99,C,.,IN1001.
+1252.16,1254.98,A,"whiter , I think this type of things should be fine",IN1001.
+1254.92,1255.27,C,Hmm,IN1001.
+1254.98,1254.98,A,.,IN1001.
+1255.27,1255.27,C,.,IN1001.
+1255.38,1259.78,A,"Because basically it's even if they are not real shots , they are not so interested if it's not",IN1001.
+1259.62,1260.09,B,Yeah,IN1001.
+1259.78,1260.6,A,real shot,IN1001.
+1260.09,1260.09,B,.,IN1001.
+1260.6,1281.55,A,". Maybe after they have this and they may say okay , just by looking at least the summary , so maybe for the summary we could do better uh key frame extraction for instance , but by just looking at the key frames and so on they may say okay , from this shot to this shot we apply like uh specific um colour enhancement algorithm",IN1001.
+1281.26,1281.49,C,Yeah .,IN1001.
+1281.55,1288.7,A,or restoration algorithm or uh to improve uh the brightness and something like this right . And uh,IN1001.
+1288.48,1288.7,C,Hmm .,IN1001.
+1288.7,1292.1,A,so I think for them this is fine um,IN1001.
+1292.01,1292.21,B,So,IN1001.
+1292.1,1292.34,A,after,IN1001.
+1292.21,1292.45,B,this,IN1001.
+1292.34,1292.56,A,i,IN1001.
+1292.45,1292.68,B,would,IN1001.
+1292.56,1293.16,A,yeah,IN1001.
+1292.68,1293.26,B,ma be,IN1001.
+1293.16,1293.16,A,.,IN1001.
+1293.26,1297.05,B,made uh manually actually . When you say from this shot to this shot,IN1001.
+1297.02,1297.43,C,Hmm,IN1001.
+1297.05,1297.57,B,is using,IN1001.
+1297.43,1297.43,C,.,IN1001.
+1297.57,1301.29,B,a graphical user interface someone who would do manually for each,IN1001.
+1301.27,1301.49,A,Well,IN1001.
+1301.29,1302.08,B,video,IN1001.
+1301.49,1302.31,A,", maybe after",IN1001.
+1302.08,1302.08,B,.,IN1001.
+1302.31,1310.6,A,"I mean they would sh okay , uh they would go directly and say select the shots from here to here , and they would say you apply this algorithm",IN1001.
+1309.82,1310.78,B,"Method , yeah",IN1001.
+1310.6,1310.81,A,", yeah",IN1001.
+1310.78,1310.78,B,.,IN1001.
+1310.81,1310.81,A,.,IN1001.
+1311.41,1311.68,C,Hmm .,IN1001.
+1313.41,1318.17,A,"So of course we could try to make scene clustering and so on , but I'm not even sure that this",IN1001.
+1318.06,1318.39,C,Hmm,IN1001.
+1318.17,1318.93,A,is necessary,IN1001.
+1318.39,1318.39,C,.,IN1001.
+1318.93,1323.57,A,"for them at this point , because uh if they have a six minute movie , if they have",IN1001.
+1323.49,1324.08,B,Yeah,IN1001.
+1323.57,1324.17,A,thirty shots,IN1001.
+1324.08,1324.39,B,", mm",IN1001.
+1324.17,1324.53,A,", for them",IN1001.
+1324.39,1324.39,B,.,IN1001.
+1324.53,1327.54,A,it might be easier to look at from here to here,IN1001.
+1327.43,1327.77,B,Yeah,IN1001.
+1327.54,1328.07,A,I apply,IN1001.
+1327.77,1327.77,B,.,IN1001.
+1328.07,1337.27,A,"this , and they can do it quite quickly . And they have to do it an to do it anyway , because what's going to take time might be uh to select the type of restoration algorithm",IN1001.
+1337.26,1337.89,B,Ah,IN1001.
+1337.27,1337.98,A,or the type of,IN1001.
+1337.89,1338.36,B,", okay",IN1001.
+1337.98,1338.45,A,things,IN1001.
+1338.06,1338.21,C,Hmm .,IN1001.
+1338.36,1338.36,B,.,IN1001.
+1338.45,1340.37,A,. So this might take more time,IN1001.
+1340.18,1340.52,B,"Yeah , yeah",IN1001.
+1340.37,1341.33,A,than,IN1001.
+1340.52,1341.69,B,", yeah . Mm",IN1001.
+1341.33,1341.69,A,having,IN1001.
+1341.69,1341.69,B,.,IN1001.
+1341.69,1343.82,A,to click two times on two shots rather,IN1001.
+1343.5,1343.87,B,Okay,IN1001.
+1343.82,1344.17,A,tha,IN1001.
+1343.87,1343.87,B,.,IN1001.
+1344.17,1354.8,A,"tha than uh having directly a scene , right ? So so I think for them uh this type of things is going to be useful uh , at least for this task .",IN1001.
+1355.76,1356.07,C,Okay .,IN1001.
+1356.26,1360.6,A,"If they want to do stabilisation , it may not be sure of that",IN1001.
+1359.46,1360.38,C,Hmm . Hmm .,IN1001.
+1360.6,1362.84,A,. Uh this is the right segmentation,IN1001.
+1361.97,1362.2,C,Hmm .,IN1001.
+1362.84,1379.15,A,"for some of these , but so but this is another point which for motion stabilisation , as I said several time , we are not we did not commit to provide anything , but of course if we can provide things , we'll do it , but",IN1001.
+1379.02,1380.12,C,Hmm,IN1001.
+1379.15,1381.34,A,uh yeah,IN1001.
+1380.12,1380.12,C,.,IN1001.
+1381.34,1383.51,A,. So do you have uh more question or uh,IN1001.
+1383.18,1384.99,C,No . Uh,IN1001.
+1383.51,1384.41,A,do you have a,IN1001.
+1384.99,1405.04,C,"I have look at the demo film , and it's about uh forty minutes and about uh hundred and seventy three different shots , so it's",IN1001.
+1403.34,1406.02,B,This is the one in the D_V_D_,IN1001.
+1405.04,1405.51,C,yeah .,IN1001.
+1406.02,1410.54,B,"? Maybe okay , we can uh see a little bit if you want , to play",IN1001.
+1410.35,1412.03,C,Yes,IN1001.
+1410.54,1410.87,B,the,IN1001.
+1412.03,1425.74,C,". And uh I don't know if this is a real sample D_V_D_ , because uh this will make about uh five seconds for each shot , so I think it's very short",IN1001.
+1424.66,1425.75,B,"Well no , it's okay",IN1001.
+1425.69,1425.99,A,Well,IN1001.
+1425.74,1425.98,C,. No,IN1001.
+1425.75,1425.75,B,.,IN1001.
+1425.98,1426.03,C,? I,IN1001.
+1425.99,1426.06,A,I,IN1001.
+1426.03,1426.12,C,if,IN1001.
+1426.06,1426.44,A,just,IN1001.
+1426.12,1427.43,C,this is,IN1001.
+1426.44,1427.63,A,i i i it's I think,IN1001.
+1427.43,1428.12,C,to,IN1001.
+1427.63,1428.42,A,this is,IN1001.
+1428.12,1435.95,C,"r to to to make a change in the colour , light and uh they have a lot of uh shots .",IN1001.
+1437.0,1443.74,A,"Yeah , but after I mean it may be more like a guy um i",IN1001.
+1441.69,1441.95,C,Hmm .,IN1001.
+1443.74,1446.35,A,"int i in an interface , a guy interface . I",IN1001.
+1446.34,1446.89,C,Yeah,IN1001.
+1446.35,1446.9,A,mean where I,IN1001.
+1446.89,1447.16,C,", okay",IN1001.
+1446.9,1447.24,A,mean if,IN1001.
+1447.16,1447.16,C,.,IN1001.
+1447.24,1450.18,A,second select from shot one to seven,IN1001.
+1448.87,1451.4,C,"Ah , okay . Yeah",IN1001.
+1450.18,1451.56,A,", uh this is a same",IN1001.
+1451.4,1452.18,C,", okay",IN1001.
+1451.56,1452.51,A,seg they may do,IN1001.
+1452.18,1452.18,C,.,IN1001.
+1452.51,1456.73,A,the grouping by themselves quite by looking at this it may take w w,IN1001.
+1456.57,1457.09,C,Okay,IN1001.
+1456.73,1457.3,A,less one,IN1001.
+1457.09,1457.87,C,", understand",IN1001.
+1457.3,1458.26,A,one minutes,IN1001.
+1457.87,1457.87,C,.,IN1001.
+1458.26,1468.67,A,". And I think it's anyway , if it's too summarised after they may want to go inside uh to see whether there is not special things I mean , so",IN1001.
+1467.68,1467.99,C,Yeah .,IN1001.
+1468.67,1469.85,A,. Uh because after,IN1001.
+1469.59,1469.94,C,Okay,IN1001.
+1469.85,1469.94,A,it,IN1001.
+1469.94,1469.94,C,.,IN1001.
+1469.94,1476.63,A,"depends , I mean if you give only one key frame per shot , after I mean it's one hundred seventy images , it's quite",IN1001.
+1476.48,1476.94,C,Hmm,IN1001.
+1476.63,1477.23,A,fast,IN1001.
+1476.94,1476.94,C,.,IN1001.
+1477.23,1483.52,A,", right , and so I think and the hierarchical thing is good , because still you can check if you have some ambiguities you are not sure , you",IN1001.
+1483.49,1483.82,B,Okay,IN1001.
+1483.52,1483.67,A,could,IN1001.
+1483.82,1484.18,B,", uh",IN1001.
+1483.83,1484.12,C,Okay .,IN1001.
+1484.18,1491.08,B,"in fact I didn't understand that , but now I understand better that CINETIS wants this kind of method to help them",IN1001.
+1490.93,1491.75,A,Yeah,IN1001.
+1491.08,1492.05,B,to restore,IN1001.
+1491.75,1493.31,A,. Yeah,IN1001.
+1492.05,1492.78,B,and to,IN1001.
+1492.76,1494.22,C,Yeah,IN1001.
+1492.78,1493.33,B,apply,IN1001.
+1493.31,1493.66,A,. Yeah,IN1001.
+1493.33,1494.3,B,the algori,IN1001.
+1493.66,1494.29,A,", at least",IN1001.
+1494.22,1494.99,C,", yes",IN1001.
+1494.29,1494.71,A,yeah,IN1001.
+1494.3,1495.52,B,some algorithms,IN1001.
+1494.71,1495.08,A,", yeah",IN1001.
+1494.99,1494.99,C,.,IN1001.
+1495.08,1495.32,A,", yeah .",IN1001.
+1495.52,1498.13,B,to to to make a better movie,IN1001.
+1498.11,1498.47,A,Yeah,IN1001.
+1498.13,1498.54,B,", okay",IN1001.
+1498.45,1498.67,C,Yeah,IN1001.
+1498.47,1498.82,A,", yeah",IN1001.
+1498.54,1498.72,B,. It's,IN1001.
+1498.67,1498.67,C,.,IN1001.
+1498.72,1498.86,B,not,IN1001.
+1498.82,1498.96,A,", yeah",IN1001.
+1498.86,1499.06,B,for,IN1001.
+1498.96,1498.96,A,.,IN1001.
+1499.06,1500.95,B,"the client , for the user",IN1001.
+1500.85,1501.66,C,Hmm,IN1001.
+1500.95,1502.03,B,who will uh,IN1001.
+1501.64,1501.96,A,Well,IN1001.
+1501.66,1503.89,C,. Oh . Maybe,IN1001.
+1501.96,1502.55,A,", ultim",IN1001.
+1502.03,1502.62,B,maybe,IN1001.
+1502.55,1503.26,A,ultimately,IN1001.
+1502.62,1504.69,B,okay,IN1001.
+1503.26,1503.89,A,I think this is,IN1001.
+1503.89,1504.45,C,they,IN1001.
+1503.89,1504.94,A,the type of things,IN1001.
+1504.45,1504.68,C,can,IN1001.
+1504.69,1505.37,B,. Okay,IN1001.
+1504.94,1505.46,A,", but at this",IN1001.
+1505.37,1506.28,B,. Also,IN1001.
+1505.46,1507.17,A,point we,IN1001.
+1506.28,1507.0,B,but okay .,IN1001.
+1507.17,1509.04,A,uh yeah . I I hope,IN1001.
+1508.92,1509.07,C,Hmm,IN1001.
+1509.04,1509.42,A,uh,IN1001.
+1509.07,1509.07,C,.,IN1001.
+1509.42,1516.92,A,that uh if it's a big success uh they will ask IDIAP to to provide something like this of course,IN1001.
+1516.81,1517.15,B,Okay,IN1001.
+1516.92,1517.47,A,with some,IN1001.
+1517.15,1517.15,B,.,IN1001.
+1517.47,1521.71,A,money or at least to pay a student or somebody for,IN1001.
+1521.5,1521.77,B,Mm-hmm,IN1001.
+1521.71,1521.97,A,doing,IN1001.
+1521.77,1521.77,B,.,IN1001.
+1521.97,1530.3,A,"it , but uh yeah , of course this was ultimately I think one way of uh if you could provide like chapters or something like this",IN1001.
+1529.96,1530.34,B,Mm-hmm,IN1001.
+1530.3,1530.61,A,", indeed",IN1001.
+1530.34,1530.34,B,.,IN1001.
+1530.61,1539.86,A,"you could provide like the A_V_I_ to the clients , and he may ask for special services or uh and even to just to watch the movie , to have direct access",IN1001.
+1539.67,1539.8,C,Hmm .,IN1001.
+1539.86,1541.18,A,to different parts and so,IN1001.
+1541.12,1541.82,B,Mm-hmm,IN1001.
+1541.18,1541.85,A,on . But,IN1001.
+1541.82,1542.19,B,. Yeah,IN1001.
+1541.85,1542.36,A,it's uh I,IN1001.
+1542.19,1542.52,B,", uh",IN1001.
+1542.36,1542.55,A,mean,IN1001.
+1542.52,1542.86,B,okay,IN1001.
+1542.55,1542.92,A,uh this,IN1001.
+1542.86,1542.86,B,.,IN1001.
+1542.92,1548.95,A,"labelling might be more easy to do for the client by the client , because he knows what they're I mean he",IN1001.
+1548.85,1550.66,B,Okay,IN1001.
+1548.95,1549.17,A,we,IN1001.
+1549.11,1549.53,C,Mm-hmm,IN1001.
+1549.17,1549.56,A,wants to,IN1001.
+1549.53,1549.53,C,.,IN1001.
+1549.56,1550.69,A,have this and this and,IN1001.
+1550.66,1551.11,B,. Ah,IN1001.
+1550.69,1551.54,A,uh,IN1001.
+1551.11,1551.63,B,", okay , yeah",IN1001.
+1551.45,1551.58,C,Mm,IN1001.
+1551.54,1552.08,A,right,IN1001.
+1551.58,1551.58,C,.,IN1001.
+1551.63,1552.33,B,yeah yeah,IN1001.
+1552.08,1552.43,A,", so",IN1001.
+1552.33,1552.55,B,. Because,IN1001.
+1552.43,1552.43,A,.,IN1001.
+1552.55,1554.81,B,"he did the movie , so he wants t okay",IN1001.
+1554.25,1555.0,A,"Yeah , yeah",IN1001.
+1554.81,1555.6,B,", to archive",IN1001.
+1555.0,1555.08,A,", he",IN1001.
+1555.08,1555.15,C,Mm,IN1001.
+1555.08,1555.23,A,may,IN1001.
+1555.15,1555.15,C,.,IN1001.
+1555.23,1556.21,A,want to organi,IN1001.
+1555.6,1556.32,B,", he wants to",IN1001.
+1556.21,1556.52,A,yeah,IN1001.
+1556.32,1556.63,B,okay,IN1001.
+1556.52,1556.82,A,", yeah",IN1001.
+1556.63,1556.63,B,.,IN1001.
+1556.82,1558.38,A,". Otherwise , I mean this but",IN1001.
+1558.33,1558.5,B,This,IN1001.
+1558.38,1559.23,A,of,IN1001.
+1558.5,1559.32,B,is yeah,IN1001.
+1559.23,1559.4,A,but,IN1001.
+1559.32,1559.93,B,", another",IN1001.
+1559.4,1560.1,A,of course it,IN1001.
+1559.93,1560.32,B,mm,IN1001.
+1560.1,1560.38,A,might be,IN1001.
+1560.32,1560.32,B,.,IN1001.
+1560.38,1568.07,A,"easy to do a very simple software , which would allow the user to select just the shots and give names , and",IN1001.
+1567.94,1568.28,C,Mm,IN1001.
+1568.07,1568.37,A,after,IN1001.
+1568.28,1568.28,C,.,IN1001.
+1568.37,1571.38,A,it would generate automatically some index,IN1001.
+1571.21,1571.88,B,Yeah,IN1001.
+1571.38,1571.91,A,and,IN1001.
+1571.88,1572.12,B,. Yeah,IN1001.
+1571.91,1572.34,A,uh,IN1001.
+1572.12,1572.12,B,.,IN1001.
+1572.34,1573.19,A,as a I suppose,IN1001.
+1573.07,1573.6,C,Mm,IN1001.
+1573.19,1573.75,A,the client,IN1001.
+1573.6,1573.6,C,.,IN1001.
+1573.75,1574.99,A,might be interested in,IN1001.
+1574.95,1576.21,B,Yeah,IN1001.
+1574.99,1575.78,A,such a such,IN1001.
+1575.77,1575.98,C,Mm,IN1001.
+1575.78,1576.19,A,a things,IN1001.
+1575.98,1575.98,C,.,IN1001.
+1576.19,1576.35,A,if,IN1001.
+1576.21,1576.76,B,. Okay,IN1001.
+1576.35,1576.8,A,he could,IN1001.
+1576.76,1576.76,B,.,IN1001.
+1576.8,1586.97,A,"uh generate automatically on the D_V_D_ . But for and you could imagine that before sending in the D_V_D_ , you could allow him to l to watch this type of interface , and",IN1001.
+1586.62,1586.96,B,Mm-hmm .,IN1001.
+1586.97,1590.22,A,"he would be able to do the selection , say this is this , this",IN1001.
+1590.04,1590.21,C,Mm .,IN1001.
+1590.22,1592.33,A,"is this , this is this , this is this , and when he would receive the",IN1001.
+1592.16,1592.85,C,Yeah,IN1001.
+1592.33,1593.19,A,D_V_D_,IN1001.
+1592.85,1593.23,C,. Yeah,IN1001.
+1593.19,1593.3,A,", he",IN1001.
+1593.23,1593.23,C,.,IN1001.
+1593.3,1597.75,A,would indeed uh get already the chapters that he decided to put there .,IN1001.
+1597.92,1600.47,B,And this could be done by through internet .,IN1001.
+1600.75,1603.13,A,"Yeah , yeah , yeah . And I think this may",IN1001.
+1602.5,1602.71,C,Mm-hmm .,IN1001.
+1603.13,1604.19,A,it it's good that this,IN1001.
+1604.19,1604.85,B,Mm,IN1001.
+1604.19,1604.87,A,is a demo like,IN1001.
+1604.85,1604.85,B,.,IN1001.
+1604.87,1606.17,A,"this , because I'm sure that",IN1001.
+1606.0,1606.31,C,Mm,IN1001.
+1606.17,1606.46,A,they might,IN1001.
+1606.31,1606.31,C,.,IN1001.
+1606.46,1607.99,A,be interested indeed,IN1001.
+1607.1,1607.53,B,Mm-hmm .,IN1001.
+1607.99,1608.31,A,", because",IN1001.
+1608.26,1608.76,C,Yes,IN1001.
+1608.31,1608.86,A,I imagine,IN1001.
+1608.76,1608.76,C,.,IN1001.
+1608.86,1609.06,A,that,IN1001.
+1609.02,1609.27,B,From,IN1001.
+1609.06,1609.69,A,some people,IN1001.
+1609.27,1612.44,B,the client point of view and from the preparation,IN1001.
+1611.89,1612.66,A,Yeah,IN1001.
+1612.44,1612.71,B,of,IN1001.
+1612.66,1613.04,A,. Yeah,IN1001.
+1612.71,1613.68,B,the movie,IN1001.
+1613.04,1613.71,A,", yeah , yeah",IN1001.
+1613.68,1614.34,B,D_V_D_,IN1001.
+1613.71,1613.71,A,.,IN1001.
+1614.34,1614.79,B,", mm .",IN1001.
+1615.85,1624.17,A,"Uh yeah , so I think this is uh this is a very good uh and a yeah . But uh",IN1001.
+1624.44,1625.7,B,"Okay , I will play , yeah .",IN1001.
+1629.05,1636.19,A,"So this is a kind of service , I don't know , either they give it for free and uh But",IN1001.
+1636.04,1636.35,B,We had,IN1001.
+1636.19,1636.46,A,uh,IN1001.
+1636.35,1637.43,B,an arrow here or what ? It's,IN1001.
+1637.99,1638.29,C,Sorry,IN1001.
+1638.25,1638.4,A,But,IN1001.
+1638.29,1638.29,C,?,IN1001.
+1638.4,1639.96,A,you see that sometimes even here it's,IN1001.
+1639.81,1640.11,B,Th,IN1001.
+1639.96,1647.15,A,"a bit like uh it's for instance if people would like to have like some motion compensation , uh",IN1001.
+1646.37,1647.24,C,Yeah,IN1001.
+1647.15,1647.63,A,you,IN1001.
+1647.24,1647.24,C,.,IN1001.
+1647.63,1648.45,A,i,IN1001.
+1648.37,1648.74,C,Mm-hmm,IN1001.
+1648.45,1648.8,A,it could,IN1001.
+1648.74,1648.74,C,.,IN1001.
+1648.8,1669.67,A,"be proposed . But for instance here it I wou it would be problematic to have motion . So i here it's fine to do motion compensation , but stabilisation rather than yeah . But For instance here it's it's it's it's",IN1001.
+1673.58,1679.44,C,"Mm . Yeah , uh I think I think they made some",IN1001.
+1679.26,1680.59,A,Effects,IN1001.
+1679.44,1680.71,C,uh special effect,IN1001.
+1680.59,1681.11,A,? Okay,IN1001.
+1680.71,1681.74,C,in this,IN1001.
+1681.11,1681.11,A,.,IN1001.
+1681.74,1686.02,C,D_V_D_ . Uh there is two or three time uh you,IN1001.
+1685.91,1686.05,B,If,IN1001.
+1686.02,1687.69,C,see,IN1001.
+1686.05,1687.57,B,I go to menu there is something ?,IN1001.
+1687.69,1692.97,C,"you see the same uh same kind of uh scene , uh just uh two or three",IN1001.
+1692.72,1693.21,A,Ah okay,IN1001.
+1692.97,1693.45,C,seconds,IN1001.
+1693.21,1696.46,A,", so maybe like here for instance it is a just",IN1001.
+1696.2,1696.61,C,Yeah,IN1001.
+1696.46,1697.02,A,reproduced,IN1001.
+1696.61,1696.61,C,.,IN1001.
+1697.02,1697.85,A,two times uh .,IN1001.
+1698.21,1698.52,C,Hmm .,IN1001.
+1699.23,1702.56,B,"Do you know what this is ? No , old menu uh there is no menu in the",IN1001.
+1702.53,1702.81,C,No,IN1001.
+1702.56,1703.1,B,D_V_D_,IN1001.
+1702.81,1703.25,C,", there's no",IN1001.
+1703.1,1704.43,B,? Okay,IN1001.
+1703.25,1703.66,C,menu .,IN1001.
+1704.43,1704.76,B,. Okay .,IN1001.
+1705.33,1708.21,C,There is just one uh one chapter and no menu .,IN1001.
+1709.1,1714.21,B,Okay . So this is the same video a the the A_V_I_ number,IN1001.
+1714.15,1714.49,C,Yeah,IN1001.
+1714.21,1714.93,B,one,IN1001.
+1714.49,1715.7,C,", yes",IN1001.
+1714.93,1714.93,B,?,IN1001.
+1715.59,1715.94,A,Yeah,IN1001.
+1715.7,1716.68,C,. Yes,IN1001.
+1715.94,1715.94,A,.,IN1001.
+1716.61,1716.76,B,And,IN1001.
+1716.68,1717.17,C,. Uh,IN1001.
+1716.76,1724.66,B,on the on the D_V_D_ I saw that there are some other stuff . I dunno . This one ?,IN1001.
+1726.03,1726.73,C,Uh I think,IN1001.
+1726.73,1726.88,B,The,IN1001.
+1726.73,1726.93,C,in,IN1001.
+1726.88,1727.2,B,same,IN1001.
+1726.93,1727.2,C,the,IN1001.
+1727.2,1727.2,B,.,IN1001.
+1727.2,1736.98,C,"video there's two there's two video , one is a real video and the other is a just uh introduction when you have the menu .",IN1001.
+1737.17,1741.13,B,Okay . Oops .,IN1001.
+1742.46,1746.38,A,"So this is vi okay . This video is about four minutes , five minutes , right ?",IN1001.
+1746.83,1748.78,C,"No , it's uh thirteen minutes .",IN1001.
+1749.35,1751.18,A,"Ah okay , so this is not the one that has been",IN1001.
+1751.13,1751.56,C,No,IN1001.
+1751.18,1751.82,A,uh,IN1001.
+1751.56,1760.93,C,", but yes , this is the same , but uh there was a problem when do the grab from the D_V_D_ to the files",IN1001.
+1760.19,1761.26,B,"Ah , okay",IN1001.
+1760.53,1760.94,A,Okay,IN1001.
+1760.93,1761.12,C,. So,IN1001.
+1760.94,1760.94,A,.,IN1001.
+1761.12,1761.31,C,this,IN1001.
+1761.26,1762.1,B,. Uh,IN1001.
+1761.31,1762.13,C,is why they have,IN1001.
+1762.1,1762.22,B,. There,IN1001.
+1762.13,1762.39,C,make,IN1001.
+1762.22,1763.1,B,are two,IN1001.
+1762.39,1763.12,C,two two,IN1001.
+1763.1,1763.67,B,files,IN1001.
+1763.12,1764.22,C,files,IN1001.
+1763.67,1764.46,B,". Okay , I understand",IN1001.
+1764.22,1765.87,C,. But,IN1001.
+1764.46,1764.46,B,.,IN1001.
+1765.87,1768.75,C,now I have one file also in the,IN1001.
+1768.61,1768.92,B,Okay,IN1001.
+1768.75,1768.98,C,so,IN1001.
+1768.92,1768.92,B,.,IN1001.
+1768.98,1771.02,C,you can,IN1001.
+1770.67,1772.55,B,Run the,IN1001.
+1771.02,1772.76,C,process again one time,IN1001.
+1772.46,1772.92,A,Okay,IN1001.
+1772.55,1773.03,B,okay,IN1001.
+1772.76,1772.76,C,.,IN1001.
+1772.92,1772.92,A,.,IN1001.
+1773.03,1773.03,B,.,IN1001.
+1774.33,1774.59,A,It's,IN1001.
+1774.38,1774.76,B,Um,IN1001.
+1774.59,1777.73,A,"it's it's real time , right ? I mean the",IN1001.
+1777.73,1778.3,C,Mm,IN1001.
+1777.73,1779.53,A,processing,IN1001.
+1778.3,1778.3,C,.,IN1001.
+1778.96,1779.61,B,Yeah,IN1001.
+1779.53,1779.78,A,. Yeah,IN1001.
+1779.61,1780.04,B,", almost",IN1001.
+1779.78,1779.78,A,.,IN1001.
+1780.04,1785.19,B,. I would maybe a less a little bit less than uh a bit more than real time maybe,IN1001.
+1784.82,1785.28,A,A bit more,IN1001.
+1785.19,1785.19,B,.,IN1001.
+1785.28,1786.64,A,than real time ? Well,IN1001.
+1786.61,1786.68,B,I,IN1001.
+1786.64,1787.87,A,anyway,IN1001.
+1786.68,1787.93,B,"will have to check , but if",IN1001.
+1787.87,1788.33,A,", yeah",IN1001.
+1787.93,1788.08,B,it's,IN1001.
+1788.04,1788.36,C,Yeah,IN1001.
+1788.08,1788.56,B,five minutes,IN1001.
+1788.33,1788.33,A,.,IN1001.
+1788.36,1788.36,C,.,IN1001.
+1788.56,1790.81,B,"videos , it's like done in yeah , quickly",IN1001.
+1790.61,1790.91,A,Yeah,IN1001.
+1790.81,1790.81,B,.,IN1001.
+1790.91,1798.81,A,", normally it could it could go faster . But i probably it's probable that even for the project you would do some of the",IN1001.
+1798.76,1799.09,C,Yeah,IN1001.
+1798.81,1799.81,A,reprogramming,IN1001.
+1799.09,1799.09,C,.,IN1001.
+1799.81,1800.57,A,", I mean",IN1001.
+1800.52,1800.9,C,Yes,IN1001.
+1800.57,1801.83,A,to,IN1001.
+1800.9,1800.9,C,.,IN1001.
+1801.23,1801.62,B,Okay .,IN1001.
+1801.83,1804.17,A,especially if uh we need to interface,IN1001.
+1804.05,1804.37,C,Hmm,IN1001.
+1804.17,1804.62,A,new,IN1001.
+1804.37,1804.37,C,.,IN1001.
+1804.62,1805.9,A,uh,IN1001.
+1805.3,1806.67,B,Components,IN1001.
+1805.9,1807.85,A,um,IN1001.
+1806.67,1807.65,B,open C_V_ .,IN1001.
+1807.85,1810.45,A,"yeah , or for just reading , I mean the",IN1001.
+1810.24,1811.03,B,Yeah,IN1001.
+1810.45,1811.13,A,the D_V_X_,IN1001.
+1811.03,1811.27,B,. Yeah,IN1001.
+1811.13,1811.51,A,and thing,IN1001.
+1811.27,1811.27,B,.,IN1001.
+1811.51,1811.95,A,like this,IN1001.
+1811.86,1812.44,C,Yeah,IN1001.
+1811.95,1813.27,A,", so it's uh",IN1001.
+1812.44,1812.44,C,.,IN1001.
+1813.27,1817.26,A,"uh so tomor anyway for this we don't know exactly yet , because",IN1001.
+1817.2,1817.58,B,Okay,IN1001.
+1817.26,1817.59,A,it's,IN1001.
+1817.58,1817.58,B,.,IN1001.
+1817.59,1817.73,A,not,IN1001.
+1817.72,1818.23,C,Yeah,IN1001.
+1817.73,1818.62,A,sure,IN1001.
+1818.23,1818.23,C,.,IN1001.
+1818.62,1822.29,A,what they want to what the user's tools for reading D_V_D_ and so,IN1001.
+1822.04,1822.43,C,Yes,IN1001.
+1822.29,1823.6,A,on,IN1001.
+1822.43,1822.43,C,.,IN1001.
+1823.6,1827.28,A,", so . And s because I don't think this is so difficult",IN1001.
+1826.85,1827.38,C,Hmm,IN1001.
+1827.28,1828.29,A,", now",IN1001.
+1827.38,1827.38,C,.,IN1001.
+1828.29,1833.75,A,you have um already looked at the histograms,IN1001.
+1832.9,1833.8,B,Open C_ yeah,IN1001.
+1833.75,1833.96,A,and,IN1001.
+1833.8,1833.8,B,.,IN1001.
+1833.96,1834.18,A,open,IN1001.
+1834.03,1834.84,C,Hmm,IN1001.
+1834.18,1834.96,A,C_V_ computing,IN1001.
+1834.84,1835.15,C,. Hmm,IN1001.
+1834.96,1835.55,A,distances,IN1001.
+1835.15,1835.15,C,.,IN1001.
+1835.55,1841.17,A,"and so on . So if we want to do a special thing that probably runs fast , it may be",IN1001.
+1841.11,1841.56,C,Yeah,IN1001.
+1841.17,1841.62,A,easier,IN1001.
+1841.56,1841.56,C,.,IN1001.
+1841.62,1844.76,A,to do it directly and uh yeah .,IN1001.
+1849.88,1856.42,A,"But uh but yeah , the interface is very so the interface uses the output of your programme . Essentially",IN1001.
+1855.59,1856.48,B,Yeah . So,IN1001.
+1856.42,1856.68,A,", okay",IN1001.
+1856.48,1856.88,B,that we'll,IN1001.
+1856.68,1856.68,A,.,IN1001.
+1856.88,1859.88,B,use the whiteboard,IN1001.
+1858.68,1860.04,A,Okay,IN1001.
+1859.88,1860.1,B,. So,IN1001.
+1860.04,1860.04,A,.,IN1001.
+1860.1,1917.27,B,"in fact , yeah , the interface is quite is quite simple to use . Um for instance you see um on the uh on the U_R_L_ I put okay , I I disco there is M_M_M_ dot IDIAP dot C_H_ slash V_C_G_I_ bin slash video browser . Okay , uh slash video browser three frames , three frames dot H_T_M_L_ . And then this C_G_I_ programme ask the mm parameter C_ video and M_ equals CINETIS okay , demo one . In fact um I just explain how to put the data on M_M_M_ , but",IN1001.
+1917.09,1917.41,A,Mm,IN1001.
+1917.27,1917.65,B,it's quite,IN1001.
+1917.41,1917.41,A,.,IN1001.
+1917.65,1934.91,B,"simple . When you log into M_M_M_ as with a C_ C_ S_S_H_ for instance , um so you just put it's working like this , M_M_M_ data video browser .",IN1001.
+1942.43,1978.71,B,"Uh okay , slash . And then This is the name of the new directory you will create . Demo one . And there stands there is couple of things well it's uh this name so I will say this is video name , so video name dot A_V_I_ , you just because we need the A_V_I_ so that we can uh",IN1001.
+1979.24,1980.69,A,You can do the get frame .,IN1001.
+1980.86,1983.17,B,"Yeah , we can do the the get frame",IN1001.
+1983.45,1985.88,A,But otherwise it's not necessary . Oh yeah,IN1001.
+1985.76,1986.26,B,Otherwise,IN1001.
+1985.88,1986.96,A,", no no no",IN1001.
+1986.26,1987.6,B,it's not necessary,IN1001.
+1986.96,1988.33,A,. Ye okay,IN1001.
+1987.6,1988.58,B,". Oh , uh f and",IN1001.
+1988.33,1988.72,A,. Oh no no,IN1001.
+1988.58,1989.13,B,also,IN1001.
+1988.72,1989.15,A,", you need",IN1001.
+1989.13,1989.59,B,for,IN1001.
+1989.15,1989.69,A,you need to,IN1001.
+1989.59,1990.33,B,the,IN1001.
+1989.69,1991.51,A,"generate these images , right ? Okay .",IN1001.
+1992.08,1995.85,B,"Yeah , and this is no no no , uh this is done on the fly . With",IN1001.
+1995.78,1996.53,A,Okay,IN1001.
+1995.85,1998.18,B,get frame,IN1001.
+1996.53,1997.15,A,". Okay , yeah .",IN1001.
+1997.4,1997.97,C,Mm .,IN1001.
+1998.18,2000.29,B,. So you need that,IN1001.
+2000.01,2000.4,C,Okay,IN1001.
+2000.29,2000.6,B,", you",IN1001.
+2000.4,2000.4,C,.,IN1001.
+2000.6,2018.24,B,"need uh the X_M_L_ v so it's video name And I could data dot X_M_L_ , but in fact it's just a simple convention , I w could have put nothing , but I just put data . The it's a convention",IN1001.
+2018.11,2018.76,C,Okay,IN1001.
+2018.24,2018.86,B,. Data,IN1001.
+2018.76,2018.76,C,.,IN1001.
+2018.86,2026.91,B,", and then video name . Okay , it's R_M_ nine dot R_M_",IN1001.
+2026.09,2027.65,C,Okay,IN1001.
+2026.91,2027.77,B,for other stuff . But,IN1001.
+2027.65,2029.43,C,. Okay,IN1001.
+2027.77,2029.48,B,"in fact , yeah , when I",IN1001.
+2029.43,2029.62,C,. Yeah,IN1001.
+2029.48,2029.81,B,think,IN1001.
+2029.62,2029.62,C,.,IN1001.
+2029.81,2033.64,B,"now , we could have uh Only with",IN1001.
+2033.37,2033.63,A,Yeah,IN1001.
+2033.6,2034.05,C,Yeah,IN1001.
+2033.63,2033.63,A,.,IN1001.
+2033.64,2034.39,B,uh extension,IN1001.
+2034.05,2035.27,C,", okay",IN1001.
+2034.39,2035.28,B,you can you can see,IN1001.
+2035.27,2035.78,C,. But,IN1001.
+2035.28,2035.28,B,.,IN1001.
+2035.78,2039.86,C,the the name of the video file is video name,IN1001.
+2038.74,2039.88,B,The name is no of in,IN1001.
+2039.86,2040.2,C,is,IN1001.
+2039.88,2040.38,B,fact,IN1001.
+2040.2,2040.43,C,uh it's,IN1001.
+2040.38,2040.53,B,yeah,IN1001.
+2040.43,2040.53,C,the,IN1001.
+2040.53,2040.76,B,", is",IN1001.
+2040.53,2040.85,C,same,IN1001.
+2040.76,2041.19,B,is,IN1001.
+2040.85,2041.56,C,as a,IN1001.
+2041.1,2041.42,A,As,IN1001.
+2041.19,2042.1,B,yeah,IN1001.
+2041.42,2042.36,A,a directory,IN1001.
+2041.56,2043.52,C,directory,IN1001.
+2042.1,2042.41,B,". Yeah , is",IN1001.
+2042.36,2042.76,A,", yeah",IN1001.
+2042.41,2042.84,B,the same as,IN1001.
+2042.76,2042.98,A,", yeah",IN1001.
+2042.84,2043.41,B,the directory,IN1001.
+2042.98,2042.98,A,.,IN1001.
+2043.41,2043.66,B,. It could,IN1001.
+2043.52,2045.07,C,. Okay,IN1001.
+2043.66,2045.77,B,have been video naming also,IN1001.
+2045.07,2045.51,C,. Okay,IN1001.
+2045.24,2045.52,A,Yeah,IN1001.
+2045.51,2045.51,C,.,IN1001.
+2045.52,2045.52,A,.,IN1001.
+2045.77,2056.31,B,", but it's the same as a directory . And that's it actually . When you you u you do that I did the same for kayak you say kayak in fact now",IN1001.
+2056.26,2056.39,A,Yeah,IN1001.
+2056.31,2056.52,B,it's,IN1001.
+2056.39,2057.14,A,", yeah",IN1001.
+2056.52,2057.06,B,kayak,IN1001.
+2056.61,2056.97,C,Okay .,IN1001.
+2057.06,2057.23,B,", and",IN1001.
+2057.14,2057.39,A,. Yeah,IN1001.
+2057.23,2057.56,B,then you,IN1001.
+2057.39,2057.39,A,.,IN1001.
+2057.56,2061.0,B,can see . And this output yeah,IN1001.
+2060.89,2061.71,A,X_M_L_,IN1001.
+2061.0,2062.62,B,", as your",IN1001.
+2061.71,2062.01,A,", yeah .",IN1001.
+2062.62,2070.74,B,"this output uh this file is an output from the mm the software , the",IN1001.
+2070.41,2071.7,A,On the shot,IN1001.
+2070.74,2072.02,B,shot boundary detection,IN1001.
+2071.7,2071.7,A,.,IN1001.
+2071.75,2072.8,C,Okay,IN1001.
+2072.02,2072.52,B,software .,IN1001.
+2072.8,2073.28,C,. Okay .,IN1001.
+2075.07,2079.67,A,"And it's a simple format I suppose , like uh",IN1001.
+2077.4,2080.8,B,It's a very simple format,IN1001.
+2079.67,2081.05,A,like you have scenes and,IN1001.
+2080.8,2081.71,B,", yeah",IN1001.
+2081.05,2082.4,A,shots,IN1001.
+2081.71,2082.53,B,. Yeah,IN1001.
+2082.4,2082.98,A,and,IN1001.
+2082.53,2082.88,B,", uh",IN1001.
+2082.68,2083.15,C,Yeah,IN1001.
+2082.88,2083.26,B,actually,IN1001.
+2082.98,2083.54,A,uh,IN1001.
+2083.15,2084.0,C,", okay",IN1001.
+2083.26,2083.76,B,we,IN1001.
+2083.54,2084.13,A,key,IN1001.
+2084.0,2084.43,C,. Okay,IN1001.
+2084.13,2084.47,A,s some,IN1001.
+2084.43,2084.43,C,.,IN1001.
+2084.47,2086.41,A,time stamps . Yeah .,IN1001.
+2086.53,2090.93,B,"Uh yeah , I don't",IN1001.
+2090.84,2091.3,C,Okay,IN1001.
+2090.93,2091.56,B,"yeah , we cannot",IN1001.
+2091.3,2091.77,C,", yes",IN1001.
+2091.56,2093.29,B,see,IN1001.
+2091.77,2092.19,C,", okay .",IN1001.
+2092.76,2093.34,A,So but you're,IN1001.
+2093.29,2093.67,B,. It's,IN1001.
+2093.34,2094.28,A,yeah,IN1001.
+2093.67,2094.56,B,", yeah , it's uh",IN1001.
+2094.28,2094.63,A,". Yeah , I mean",IN1001.
+2094.56,2094.97,B,tha,IN1001.
+2094.63,2095.05,A,it it,IN1001.
+2094.97,2095.55,B,video,IN1001.
+2095.05,2095.57,A,might be good,IN1001.
+2095.55,2096.57,B,", scene",IN1001.
+2095.57,2096.32,A,to,IN1001.
+2096.36,2096.95,C,Yeah,IN1001.
+2096.57,2098.17,B,", shot",IN1001.
+2096.95,2097.36,C,", okay .",IN1001.
+2098.17,2103.24,B,", it's hierarchical in X_M_L_ and key frame time stamp",IN1001.
+2102.8,2103.76,C,"Yeah , okay",IN1001.
+2103.24,2104.08,B,and the and from,IN1001.
+2103.76,2103.76,C,.,IN1001.
+2104.08,2109.78,B,the time stamp and the video location he knows how to get the frame . Each of,IN1001.
+2109.62,2110.56,C,Okay,IN1001.
+2109.78,2111.32,B,these frames,IN1001.
+2110.56,2110.9,C,. Mm .,IN1001.
+2111.32,2113.06,B,. And if we do in fact I don't,IN1001.
+2112.97,2113.66,C,Okay,IN1001.
+2113.06,2113.69,B,"know yeah , it's",IN1001.
+2113.66,2115.47,C,", okay",IN1001.
+2113.69,2117.11,B,Mozilla Firefox view page source,IN1001.
+2115.47,2117.53,C,. So every,IN1001.
+2117.11,2117.57,B,okay,IN1001.
+2117.53,2117.82,C,every,IN1001.
+2117.57,2118.08,B,", view frame",IN1001.
+2117.82,2118.19,C,frame,IN1001.
+2118.08,2118.49,B,source,IN1001.
+2118.19,2118.83,C,on the f,IN1001.
+2118.49,2118.49,B,.,IN1001.
+2118.83,2121.02,C,page is uh online .,IN1001.
+2122.4,2125.63,B,And every frame is stored into,IN1001.
+2125.4,2126.35,C,Is,IN1001.
+2125.63,2126.43,B,uh,IN1001.
+2126.35,2127.04,C,is,IN1001.
+2126.43,2128.21,B,a b a backup,IN1001.
+2127.04,2127.2,C,a,IN1001.
+2128.21,2136.19,B,in fact every frame um it's M_M_M_ who manage this automatically,IN1001.
+2135.79,2136.33,C,Okay,IN1001.
+2136.19,2136.39,B,", so",IN1001.
+2136.33,2136.33,C,.,IN1001.
+2136.39,2150.65,B,"that um when uh you ask for this frame , in fact we can okay , I just view frame source When I view image , when I say view image , when",IN1001.
+2150.48,2152.25,C,Yeah,IN1001.
+2150.65,2153.4,B,I say view image on this frame,IN1001.
+2152.25,2152.72,C,. Yes .,IN1001.
+2153.4,2155.37,B,", up we go there",IN1001.
+2155.31,2155.98,C,Okay,IN1001.
+2155.37,2156.0,B,and this is,IN1001.
+2155.98,2155.98,C,.,IN1001.
+2156.0,2159.78,B,um in fact it's a Perl programme that,IN1001.
+2159.48,2160.06,C,Okay,IN1001.
+2159.78,2160.68,B,outputs,IN1001.
+2160.06,2160.06,C,.,IN1001.
+2160.68,2162.83,B,in fa instead of outputting,IN1001.
+2162.13,2162.6,C,Okay .,IN1001.
+2162.83,2166.65,B,"H_T_M_L_ or text , it outputs uh J_ PEG .",IN1001.
+2167.09,2168.15,C,"Okay , understand .",IN1001.
+2168.46,2170.09,B,From the video,IN1001.
+2169.68,2170.34,C,"Yes , okay",IN1001.
+2170.09,2170.35,B,with a,IN1001.
+2170.34,2170.68,C,. Okay,IN1001.
+2170.35,2170.99,B,time stamp,IN1001.
+2170.68,2172.27,C,. But on,IN1001.
+2170.99,2172.71,B,it outputs a J_ PEG,IN1001.
+2172.27,2172.92,C,the,IN1001.
+2172.71,2173.06,B,. This is,IN1001.
+2172.92,2173.08,C,on,IN1001.
+2173.06,2173.46,B,quite,IN1001.
+2173.08,2174.23,C,the,IN1001.
+2173.46,2174.21,B,uh nice .,IN1001.
+2174.23,2176.69,C,on the server the,IN1001.
+2176.54,2177.0,B,And,IN1001.
+2176.69,2179.95,C,original is a f video film,IN1001.
+2179.5,2180.31,B,Yeah,IN1001.
+2179.95,2180.39,C,. Okay,IN1001.
+2180.31,2180.69,B,. And,IN1001.
+2180.39,2180.39,C,.,IN1001.
+2180.69,2184.24,B,this image is i this image is output uh,IN1001.
+2183.78,2184.7,C,So for example,IN1001.
+2184.24,2184.75,B,outputted,IN1001.
+2184.7,2184.83,C,you,IN1001.
+2184.75,2184.85,B,to,IN1001.
+2184.83,2185.12,C,can,IN1001.
+2184.85,2185.5,B,the client,IN1001.
+2185.12,2185.66,C,change,IN1001.
+2185.5,2185.5,B,.,IN1001.
+2185.66,2187.08,C,you can change a number,IN1001.
+2187.02,2187.22,B,Yeah,IN1001.
+2187.08,2187.73,C,to,IN1001.
+2187.22,2187.91,B,", exactly , yeah",IN1001.
+2187.73,2188.52,C,take,IN1001.
+2187.91,2188.67,B,", yeah . That's what",IN1001.
+2188.52,2188.88,C,which one,IN1001.
+2188.67,2189.17,B,I did,IN1001.
+2188.88,2190.63,C,", okay",IN1001.
+2189.17,2189.72,B,uh,IN1001.
+2190.63,2191.86,C,". Okay , understand",IN1001.
+2191.43,2192.57,B,here,IN1001.
+2191.86,2192.69,C,. In the other,IN1001.
+2192.57,2192.73,B,. In the,IN1001.
+2192.69,2194.1,C,yeah,IN1001.
+2192.73,2194.88,B,"other application , yeah",IN1001.
+2194.1,2195.24,C,yeah . Okay,IN1001.
+2194.88,2195.45,B,". Yeah , I dunno",IN1001.
+2195.24,2195.6,C,", perfect",IN1001.
+2195.45,2195.45,B,.,IN1001.
+2195.6,2195.6,C,.,IN1001.
+2197.05,2197.68,A,And who has,IN1001.
+2197.6,2197.76,B,Yeah,IN1001.
+2197.68,2197.82,A,a,IN1001.
+2197.76,2199.16,B,", here",IN1001.
+2197.82,2198.13,A,right,IN1001.
+2197.94,2198.27,C,In this,IN1001.
+2198.13,2198.29,A,to,IN1001.
+2198.27,2198.58,C,one,IN1001.
+2198.29,2199.57,A,put,IN1001.
+2198.58,2199.04,C,", okay .",IN1001.
+2199.16,2199.16,B,.,IN1001.
+2199.57,2202.42,A,who has a right to put data on the M_M_M_ ?,IN1001.
+2202.99,2208.52,B,"I f there are , yeah , the M_M_M_ developers , so I'm part of that",IN1001.
+2208.16,2208.85,A,Okay,IN1001.
+2208.52,2208.87,B,", but",IN1001.
+2208.85,2208.85,A,.,IN1001.
+2208.87,2210.97,B,uh we could we could,IN1001.
+2210.7,2211.4,C,Yeah,IN1001.
+2210.97,2212.93,B,uh,IN1001.
+2211.4,2212.96,C,", I think it's not well done",IN1001.
+2212.93,2213.18,B,yeah,IN1001.
+2212.93,2213.8,A,Okay,IN1001.
+2212.96,2213.2,C,", yeah",IN1001.
+2213.18,2213.35,B,", it's",IN1001.
+2213.2,2213.2,C,.,IN1001.
+2213.35,2216.37,B,not a problem,IN1001.
+2213.8,2214.01,A,", yeah .",IN1001.
+2215.91,2216.33,C,Yeah .,IN1001.
+2216.37,2224.35,B,. Um I wanted to saw to see to do s say something else . Um,IN1001.
+2222.95,2223.52,C,Okay .,IN1001.
+2224.35,2224.46,B,oh,IN1001.
+2224.37,2224.71,C,But,IN1001.
+2224.46,2224.75,B,yeah,IN1001.
+2224.71,2225.57,C,um,IN1001.
+2224.75,2225.71,B,", and the images are",IN1001.
+2225.57,2225.57,C,.,IN1001.
+2225.71,2227.96,B,"sent to your browser , the client , to",IN1001.
+2227.91,2228.2,C,Yeah,IN1001.
+2227.96,2228.53,B,this browser,IN1001.
+2228.2,2228.2,C,.,IN1001.
+2228.53,2233.06,B,", but also kept in uh a directory in uh on",IN1001.
+2232.85,2233.72,C,Okay,IN1001.
+2233.06,2233.58,B,M_M_M_ .,IN1001.
+2233.72,2236.49,C,", okay , there is li local cache",IN1001.
+2235.46,2236.64,B,"Exactly , a cache",IN1001.
+2236.49,2237.18,C,. Okay,IN1001.
+2236.64,2237.54,B,. I say backup,IN1001.
+2237.18,2238.21,C,", okay",IN1001.
+2237.54,2238.31,B,", but it's a cache",IN1001.
+2238.21,2238.69,C,. Okay,IN1001.
+2238.31,2238.31,B,.,IN1001.
+2238.69,2240.66,C,", okay",IN1001.
+2239.96,2242.26,B,Um,IN1001.
+2240.66,2241.07,C,. Okay .,IN1001.
+2242.26,2243.93,B,that's that's how it works,IN1001.
+2243.92,2244.1,C,So,IN1001.
+2243.93,2243.93,B,.,IN1001.
+2244.1,2258.5,C,"if we for example now we have the c the the case that this video is not correct , because uh I have make uh event grabbing . So uh we need to remove the cache for this video or this is",IN1001.
+2258.41,2258.64,B,No no,IN1001.
+2258.5,2259.1,C,automatic,IN1001.
+2258.64,2259.14,B,no,IN1001.
+2259.1,2259.1,C,?,IN1001.
+2259.14,2269.78,B,", it's okay . Um for the cache uh We have plenty of space on M_M_M_",IN1001.
+2269.37,2269.7,C,Yeah .,IN1001.
+2269.78,2273.0,B,", so the this is not a problem",IN1001.
+2271.3,2273.08,C,"Yeah , but what I mean is i",IN1001.
+2273.0,2273.38,B,ah,IN1001.
+2273.08,2273.43,C,i,IN1001.
+2273.38,2273.62,B,", yeah",IN1001.
+2273.43,2273.98,C,i,IN1001.
+2273.62,2274.05,B,for a new,IN1001.
+2273.98,2274.19,C,i,IN1001.
+2274.05,2274.46,B,window,IN1001.
+2274.19,2274.69,C,i if,IN1001.
+2274.46,2274.46,B,.,IN1001.
+2274.69,2277.04,C,I if I put the same video with the same,IN1001.
+2276.82,2277.42,B,Yeah,IN1001.
+2277.04,2278.39,C,name,IN1001.
+2277.42,2278.07,B,", exactly , yeah .",IN1001.
+2278.39,2281.0,C,instead of this one,IN1001.
+2280.05,2281.94,B,And it detects okay,IN1001.
+2281.0,2282.24,C,", they should uh",IN1001.
+2281.94,2282.76,B,. Yeah,IN1001.
+2282.24,2282.76,C,different,IN1001.
+2282.76,2287.49,B,". So you go inside the get frame function , you see where it",IN1001.
+2287.21,2288.1,C,"Ah , okay",IN1001.
+2287.49,2288.25,B,i it,IN1001.
+2288.1,2288.53,C,. We need,IN1001.
+2288.25,2288.67,B,saves,IN1001.
+2288.53,2288.67,C,to,IN1001.
+2288.67,2289.21,B,it,IN1001.
+2288.67,2289.28,C,remove them,IN1001.
+2289.21,2289.46,B,", and",IN1001.
+2289.28,2289.28,C,.,IN1001.
+2289.46,2291.83,B,then there is a special naming convention,IN1001.
+2291.77,2292.02,C,Yeah,IN1001.
+2291.83,2292.08,B,", and you",IN1001.
+2292.02,2293.03,C,", okay",IN1001.
+2292.08,2294.23,B,can remove the,IN1001.
+2293.03,2294.23,C,". Okay , understand",IN1001.
+2294.23,2294.51,B,but,IN1001.
+2294.23,2296.01,C,. Okay,IN1001.
+2294.51,2296.05,B,"i it's c yeah , it's",IN1001.
+2296.01,2296.41,C,. Yeah,IN1001.
+2296.05,2296.48,B,true,IN1001.
+2296.41,2296.62,C,", it's",IN1001.
+2296.48,2296.48,B,.,IN1001.
+2296.62,2299.42,C,not a real uh usi usage,IN1001.
+2298.71,2298.93,B,No .,IN1001.
+2299.42,2299.82,C,. Okay .,IN1001.
+2301.68,2302.44,B,Because there it's,IN1001.
+2302.18,2303.48,C,Okay,IN1001.
+2302.44,2304.18,B,in cache,IN1001.
+2303.47,2303.89,A,Yes,IN1001.
+2303.48,2304.7,C,". Yes , understand",IN1001.
+2303.89,2303.89,A,.,IN1001.
+2304.18,2305.05,B,", so that",IN1001.
+2304.7,2305.1,C,. Okay,IN1001.
+2305.05,2305.39,B,if,IN1001.
+2305.1,2305.1,C,.,IN1001.
+2305.39,2308.77,B,I put another video with the same name,IN1001.
+2307.65,2308.45,A,"Ah , okay , yeah .",IN1001.
+2308.77,2309.7,B,", they th they",IN1001.
+2309.56,2310.01,C,Yeah,IN1001.
+2309.7,2310.16,B,will happen,IN1001.
+2310.01,2310.01,C,.,IN1001.
+2310.16,2312.9,B,"again . They will uh appear , this",IN1001.
+2312.12,2312.69,C,Yes,IN1001.
+2312.54,2313.08,A,Yeah,IN1001.
+2312.69,2313.0,C,", bec",IN1001.
+2312.9,2313.28,B,frames,IN1001.
+2313.0,2313.33,C,because,IN1001.
+2313.08,2313.28,A,", if",IN1001.
+2313.28,2313.46,B,will,IN1001.
+2313.28,2313.37,A,yo,IN1001.
+2313.33,2313.56,C,this,IN1001.
+2313.46,2313.93,B,appear,IN1001.
+2313.56,2314.01,C,one i,IN1001.
+2313.93,2313.93,B,.,IN1001.
+2314.01,2314.77,C,was uh,IN1001.
+2314.94,2316.86,A,If you have the same uh decomposition,IN1001.
+2316.76,2316.96,C,Th,IN1001.
+2316.81,2317.25,B,Yeah,IN1001.
+2316.86,2317.97,A,right,IN1001.
+2316.96,2317.34,C,this one,IN1001.
+2317.25,2317.37,B,", yeah",IN1001.
+2317.34,2317.6,C,was,IN1001.
+2317.37,2318.04,B,ex if you have,IN1001.
+2317.97,2318.79,A,? Yeah,IN1001.
+2318.04,2319.19,B,the same decomposition,IN1001.
+2318.79,2319.38,A,". Yeah , but",IN1001.
+2319.19,2319.58,B,", but",IN1001.
+2319.2,2319.57,C,Yeah,IN1001.
+2319.38,2319.61,A,it may,IN1001.
+2319.57,2319.57,C,.,IN1001.
+2319.61,2326.57,A,"happen that uh for ninety fra ninety percent of the frame it's different , so you see it fine , but suddenly you have one other frame , they don't know what it is",IN1001.
+2326.52,2327.17,C,Right,IN1001.
+2326.57,2327.35,A,and where it comes,IN1001.
+2327.17,2328.06,C,", okay",IN1001.
+2327.35,2327.77,A,from .,IN1001.
+2328.06,2328.52,C,. Okay,IN1001.
+2328.17,2328.56,B,But uh yeah,IN1001.
+2328.52,2328.64,C,", but",IN1001.
+2328.56,2328.81,B,", on",IN1001.
+2328.64,2328.81,C,it's,IN1001.
+2328.81,2329.4,B,M_M_M_,IN1001.
+2328.81,2329.68,C,okay,IN1001.
+2329.4,2329.84,B,f now,IN1001.
+2329.68,2329.92,C,. It's,IN1001.
+2329.84,2330.02,B,we,IN1001.
+2329.92,2330.28,C,okay,IN1001.
+2330.02,2330.39,B,don't have,IN1001.
+2330.28,2330.28,C,.,IN1001.
+2330.39,2331.94,B,such many videos,IN1001.
+2331.92,2332.48,C,Okay,IN1001.
+2331.94,2333.27,B,", so",IN1001.
+2332.09,2332.55,A,"Yeah , yeah",IN1001.
+2332.48,2332.48,C,.,IN1001.
+2332.55,2332.89,A,". Yeah , yeah .",IN1001.
+2333.27,2337.15,B,". But if you put yeah , in another directory , uh then it would work",IN1001.
+2336.87,2337.23,C,Yeah,IN1001.
+2337.15,2338.19,B,or,IN1001.
+2337.23,2337.7,C,", yeah .",IN1001.
+2338.19,2340.87,B,or a new naming convention with uh,IN1001.
+2340.58,2341.84,C,Hmm,IN1001.
+2340.87,2341.89,B,special uh,IN1001.
+2341.84,2342.07,C,. Hmm,IN1001.
+2341.89,2342.31,B,", yeah",IN1001.
+2342.07,2342.07,C,.,IN1001.
+2342.31,2342.94,B,", code uh",IN1001.
+2342.9,2343.09,A,Oh,IN1001.
+2342.94,2342.94,B,.,IN1001.
+2343.09,2347.45,A,", you mean bac because it's it's it's the M_M_M_ cache",IN1001.
+2346.71,2347.82,B,"Yeah , M_M_M_",IN1001.
+2347.43,2347.61,C,Mm,IN1001.
+2347.45,2348.24,A,? Okay,IN1001.
+2347.61,2347.61,C,.,IN1001.
+2347.82,2348.22,B,cache .,IN1001.
+2348.24,2356.41,A,". So this means that when it's done , if I go on my computer and I do the same , it's not going to enter in my cache , but it's going to be already there",IN1001.
+2356.06,2356.4,B,Yeah .,IN1001.
+2356.41,2357.18,A,", in M_M_M_",IN1001.
+2356.78,2357.38,C,On the M_M_M_,IN1001.
+2357.18,2359.04,A,", okay",IN1001.
+2357.38,2357.82,C,", yeah .",IN1001.
+2358.53,2359.06,B,But it it,IN1001.
+2359.04,2359.17,A,. So,IN1001.
+2359.06,2359.37,B,can,IN1001.
+2359.17,2359.43,A,it's th,IN1001.
+2359.37,2359.58,B,go,IN1001.
+2359.43,2359.82,A,it's,IN1001.
+2359.58,2359.83,B,in,IN1001.
+2359.82,2359.92,A,so,IN1001.
+2359.83,2360.01,B,the,IN1001.
+2359.92,2360.17,A,it's,IN1001.
+2360.01,2360.44,B,browser,IN1001.
+2360.17,2360.56,A,not done,IN1001.
+2360.44,2360.78,B,cache,IN1001.
+2360.56,2361.05,A,on it's,IN1001.
+2360.78,2361.16,B,also,IN1001.
+2360.81,2360.97,C,Mm .,IN1001.
+2361.05,2361.2,A,so,IN1001.
+2361.16,2361.16,B,.,IN1001.
+2361.2,2362.53,A,it's not done online .,IN1001.
+2363.48,2364.51,B,The first time is done,IN1001.
+2364.31,2364.76,A,The first,IN1001.
+2364.51,2364.92,B,online,IN1001.
+2364.76,2365.01,A,time,IN1001.
+2364.92,2364.92,B,.,IN1001.
+2365.01,2365.46,A,", yeah , but",IN1001.
+2365.43,2366.29,C,Hmm,IN1001.
+2365.46,2366.66,A,after it's,IN1001.
+2366.29,2366.71,C,. Hmm,IN1001.
+2366.64,2366.89,B,Yeah,IN1001.
+2366.66,2366.86,A,it,IN1001.
+2366.71,2366.71,C,.,IN1001.
+2366.86,2367.05,A,take,IN1001.
+2366.89,2367.19,B,", you can",IN1001.
+2367.05,2368.17,A,okay,IN1001.
+2367.19,2368.38,B,"see here , yeah",IN1001.
+2368.17,2368.74,A,. Okay,IN1001.
+2368.38,2369.14,B,. Uh,IN1001.
+2368.74,2369.73,A,", okay",IN1001.
+2369.14,2369.75,B,the first time,IN1001.
+2369.73,2369.83,A,. I,IN1001.
+2369.75,2369.87,B,is,IN1001.
+2369.83,2370.06,A,thought,IN1001.
+2369.87,2370.37,B,done o,IN1001.
+2370.06,2372.64,A,it was everything was generated on the fly th so,IN1001.
+2372.17,2376.57,B,"You know , you see that . Well here it's it was cache , because I already",IN1001.
+2376.44,2376.87,C,Yeah,IN1001.
+2376.57,2376.97,B,pressed,IN1001.
+2376.87,2376.87,C,.,IN1001.
+2376.97,2380.42,B,"preview , but now it's on the fly",IN1001.
+2379.82,2380.14,C,Yeah,IN1001.
+2379.88,2380.34,A,Okay,IN1001.
+2380.14,2380.65,C,", okay",IN1001.
+2380.34,2380.34,A,.,IN1001.
+2380.42,2380.71,B,. So it's,IN1001.
+2380.65,2380.88,C,. Oh,IN1001.
+2380.71,2381.53,B,quite,IN1001.
+2380.88,2381.74,C,", it's Greek",IN1001.
+2381.53,2382.41,B,quick,IN1001.
+2381.74,2383.04,C,", but uh",IN1001.
+2382.41,2382.41,B,.,IN1001.
+2383.04,2383.46,C,okay .,IN1001.
+2384.82,2385.13,B,This,IN1001.
+2384.95,2385.32,C,Okay,IN1001.
+2385.13,2385.13,B,.,IN1001.
+2385.32,2387.47,C,", so i if you come back now , you",IN1001.
+2387.66,2390.02,B,And then if you come yeah,IN1001.
+2389.25,2390.39,C,"Yeah , yeah",IN1001.
+2390.02,2391.27,B,. Because,IN1001.
+2390.39,2391.36,C,". Okay , but now",IN1001.
+2391.27,2391.37,B,the,IN1001.
+2391.36,2391.47,C,you,IN1001.
+2391.37,2391.89,B,images,IN1001.
+2391.47,2392.18,C,have s,IN1001.
+2391.89,2392.6,B,are already,IN1001.
+2392.18,2392.74,C,you have both,IN1001.
+2392.6,2393.73,B,generated,IN1001.
+2392.74,2393.76,C,cache . Yeah,IN1001.
+2393.73,2393.91,B,. And,IN1001.
+2393.76,2394.06,C,", okay",IN1001.
+2393.91,2394.19,B,maybe,IN1001.
+2394.06,2394.06,C,.,IN1001.
+2394.19,2396.95,B,they are on the cache of this,IN1001.
+2396.27,2397.21,C,"Yes , computer",IN1001.
+2396.95,2397.47,B,browser,IN1001.
+2397.21,2397.57,C,too,IN1001.
+2397.47,2397.62,B,", this",IN1001.
+2397.57,2398.03,C,", yes",IN1001.
+2397.62,2399.04,B,computer,IN1001.
+2398.03,2399.04,C,to uh but,IN1001.
+2399.04,2399.33,B,. So,IN1001.
+2399.04,2400.48,C,okay,IN1001.
+2399.33,2400.67,B,okay,IN1001.
+2400.48,2400.67,C,. But,IN1001.
+2400.67,2400.87,B,. That's,IN1001.
+2400.67,2401.39,C,it's fast,IN1001.
+2400.87,2402.29,B,why it's,IN1001.
+2401.39,2401.39,C,.,IN1001.
+2402.29,2410.37,B,"yeah , it was uh used with uh yeah , Sebastien uh did the C_ function , and uh",IN1001.
+2410.35,2410.79,C,Okay,IN1001.
+2410.37,2411.46,B,", yeah",IN1001.
+2410.79,2410.79,C,.,IN1001.
+2411.46,2417.54,B,", and uh the the is calling this uh C_ uh executable",IN1001.
+2416.08,2416.99,C,"Yeah , understand .",IN1001.
+2417.54,2421.5,B,"and it was used with M_M_M_ server with Pierre , a and",IN1001.
+2421.24,2421.95,A,Okay,IN1001.
+2421.5,2422.37,B,the beginning when,IN1001.
+2421.95,2422.25,A,", yeah .",IN1001.
+2422.37,2422.5,B,", yeah .",IN1001.
+2422.95,2423.31,C,Okay .,IN1001.
+2424.45,2425.27,A,"Okay , so",IN1001.
+2425.87,2426.65,C,Okay . Uh i,IN1001.
+2426.53,2427.1,B,Um,IN1001.
+2426.65,2427.42,C,ju just,IN1001.
+2427.1,2427.65,B,yeah,IN1001.
+2427.42,2428.98,C,uh,IN1001.
+2427.65,2427.9,B,", yeah .",IN1001.
+2428.98,2450.36,C,a question on the the organisation of the M_M_M_ . So you don't have uh a part for specific uh project . Every for example if we make a lot of uh film uh for CINETIS uh all are,IN1001.
+2450.26,2450.63,A,Yeah,IN1001.
+2450.36,2450.65,C,on the,IN1001.
+2450.63,2450.63,A,.,IN1001.
+2450.65,2454.92,C,top I mean uh all the film are y,IN1001.
+2454.77,2455.03,B,"Oh , the",IN1001.
+2454.92,2455.15,C,you,IN1001.
+2455.03,2455.5,B,movies,IN1001.
+2455.15,2455.57,C,you don't,IN1001.
+2455.47,2455.66,A,Yeah,IN1001.
+2455.5,2456.31,B,or,IN1001.
+2455.57,2455.71,C,have,IN1001.
+2455.66,2455.83,A,", yeah",IN1001.
+2455.71,2456.34,C,a separation,IN1001.
+2455.83,2456.21,A,", yeah .",IN1001.
+2456.34,2459.18,C,for the film for CINETIS or for the project and s,IN1001.
+2462.35,2465.76,B,In fact uh,IN1001.
+2463.65,2466.89,C,Well you say video name equal,IN1001.
+2465.76,2467.53,B,"we we we could , you know",IN1001.
+2466.89,2467.6,C,", all are on the",IN1001.
+2467.53,2468.11,B,okay,IN1001.
+2467.6,2468.31,C,same level,IN1001.
+2468.11,2468.48,B,", you",IN1001.
+2468.31,2468.31,C,.,IN1001.
+2468.48,2472.69,B,know all these graphical user interface that you see uh,IN1001.
+2471.67,2472.86,A,So could you say uh,IN1001.
+2472.69,2473.72,B,okay,IN1001.
+2472.86,2474.45,A,video name CINETIS,IN1001.
+2473.72,2475.62,B,. In fact,IN1001.
+2474.45,2477.05,A,slash something,IN1001.
+2475.62,2478.31,B,okay . Mm yes,IN1001.
+2477.05,2477.51,A,? Or not ?,IN1001.
+2478.31,2479.08,B,. Yes,IN1001.
+2478.69,2480.13,C,Okay,IN1001.
+2479.08,2480.61,B,", we could do that",IN1001.
+2480.13,2480.59,C,. Okay .,IN1001.
+2480.61,2485.07,B,". We could put uh CINETIS slash here , and then a CINETIS slash",IN1001.
+2484.93,2486.63,C,Okay,IN1001.
+2485.07,2485.24,B,is,IN1001.
+2485.12,2485.36,A,You,IN1001.
+2485.24,2485.45,B,the sa,IN1001.
+2485.36,2485.64,A,th,IN1001.
+2485.45,2485.87,B,"yeah , it",IN1001.
+2485.64,2486.48,A,okay,IN1001.
+2485.87,2487.64,B,works,IN1001.
+2486.48,2486.79,A,. You think,IN1001.
+2486.63,2487.08,C,. Okay,IN1001.
+2486.79,2487.14,A,it would,IN1001.
+2487.08,2487.08,C,.,IN1001.
+2487.14,2487.81,A,"work , okay",IN1001.
+2487.64,2488.34,B,. But the,IN1001.
+2487.81,2487.81,A,.,IN1001.
+2488.34,2494.21,B,uh th the point is this interface is uh I think six or seven files only,IN1001.
+2494.1,2494.62,C,Yeah,IN1001.
+2494.21,2494.87,B,", X_M_L_",IN1001.
+2494.62,2495.15,C,", okay",IN1001.
+2494.87,2495.29,B,uh well,IN1001.
+2495.15,2495.15,C,.,IN1001.
+2495.29,2501.34,B,"it's per C_G_I_ , that output , X_M_L_ and X_S_L_ . So it's it's not a big deal to",IN1001.
+2500.8,2501.8,C,Ah . okay,IN1001.
+2501.34,2502.31,B,to,IN1001.
+2501.8,2502.27,C,. To make,IN1001.
+2502.31,2505.04,B,"to make a new , like a CINETIS browser or",IN1001.
+2504.92,2505.83,C,Okay,IN1001.
+2505.04,2506.14,B,", you know , video",IN1001.
+2505.83,2506.16,C,. If we,IN1001.
+2506.14,2507.99,B,browser,IN1001.
+2506.16,2508.06,C,need to make some special thing on the,IN1001.
+2507.99,2508.45,B,. Yeah,IN1001.
+2508.06,2508.58,C,browser,IN1001.
+2508.45,2508.64,B,", we",IN1001.
+2508.58,2508.85,C,", it's",IN1001.
+2508.64,2508.93,B,w,IN1001.
+2508.85,2509.09,C,t,IN1001.
+2508.93,2511.11,B,we copy all the files,IN1001.
+2511.01,2511.43,A,Hmm,IN1001.
+2511.11,2512.06,B,and,IN1001.
+2511.43,2511.43,A,.,IN1001.
+2512.06,2518.08,B,"there is uh just one um one parameter , one uh string",IN1001.
+2517.31,2517.9,C,Okay .,IN1001.
+2518.08,2525.97,B,", that we need to know where this data is , and we could pr create a M_M_M_ data video browser uh CINETIS",IN1001.
+2525.94,2526.33,C,Yeah,IN1001.
+2525.97,2526.62,B,or something,IN1001.
+2526.33,2526.87,C,", okay",IN1001.
+2526.62,2527.44,B,else,IN1001.
+2526.87,2527.51,C,", it's okay",IN1001.
+2527.44,2528.28,B,. Y,IN1001.
+2527.51,2527.51,C,.,IN1001.
+2528.28,2530.98,B,it's uh ex extensible and uh,IN1001.
+2530.35,2531.08,C,Okay,IN1001.
+2530.71,2531.1,A,Mm,IN1001.
+2530.98,2531.55,B,is,IN1001.
+2531.08,2531.53,C,", great",IN1001.
+2531.1,2531.59,A,even if,IN1001.
+2531.53,2531.53,C,.,IN1001.
+2531.59,2534.9,A,you would r change a C_G_I_ for instance . Let's,IN1001.
+2534.64,2535.01,B,Yeah,IN1001.
+2534.9,2535.24,A,assume,IN1001.
+2535.01,2535.01,B,.,IN1001.
+2535.24,2538.96,A,that we say we don't do any scene thing,IN1001.
+2538.9,2539.92,C,Okay,IN1001.
+2538.96,2539.43,A,", then we",IN1001.
+2539.41,2539.79,B,Yeah,IN1001.
+2539.43,2540.1,A,could remove,IN1001.
+2539.79,2540.25,B,", exactly",IN1001.
+2539.92,2539.96,C,. Mm .,IN1001.
+2540.1,2540.27,A,like,IN1001.
+2540.25,2541.3,B,", yeah",IN1001.
+2540.27,2541.31,A,for instance the scenes,IN1001.
+2541.3,2541.67,B,. Yeah,IN1001.
+2541.31,2542.11,A,", right",IN1001.
+2541.67,2541.67,B,.,IN1001.
+2541.76,2542.12,C,Okay,IN1001.
+2542.11,2542.15,A,? I,IN1001.
+2542.12,2542.12,C,.,IN1001.
+2542.15,2547.84,A,was thinking that here it says that you have online video structure correction . Uh which means,IN1001.
+2547.83,2548.17,B,Yeah,IN1001.
+2547.84,2548.15,A,that,IN1001.
+2548.17,2551.77,B,", but i it's not uh it was uh , you know",IN1001.
+2551.55,2552.08,A,Okay,IN1001.
+2551.77,2552.26,B,", thi this",IN1001.
+2552.08,2552.08,A,.,IN1001.
+2552.26,2554.37,B,"is working , the expand all",IN1001.
+2553.83,2554.13,A,Yeah .,IN1001.
+2554.37,2556.74,B,but uh this is uh,IN1001.
+2556.96,2558.48,A,Uh,IN1001.
+2557.66,2558.52,C,Work in progress,IN1001.
+2558.48,2558.68,A,. This,IN1001.
+2558.52,2558.52,C,.,IN1001.
+2558.68,2560.88,A,is wish wishable uh,IN1001.
+2560.43,2561.03,B,"Yeah , to do",IN1001.
+2560.88,2562.43,A,functions,IN1001.
+2561.03,2562.77,B,list or something,IN1001.
+2562.43,2562.91,A,". Okay , to",IN1001.
+2562.77,2562.99,B,. On,IN1001.
+2562.91,2563.12,A,do,IN1001.
+2562.99,2563.34,B,a video,IN1001.
+2563.12,2563.55,A,this,IN1001.
+2563.34,2563.89,B,annotation,IN1001.
+2563.55,2563.55,A,.,IN1001.
+2563.89,2566.77,B,", on a video structure co correction . But",IN1001.
+2566.33,2566.72,A,Okay .,IN1001.
+2566.77,2569.89,B,i it's not easy on the web,IN1001.
+2569.54,2569.84,C,Yeah .,IN1001.
+2569.89,2574.6,B,with H_ H_T_M_L_ pages to to do uh,IN1001.
+2574.47,2574.87,C,Input,IN1001.
+2574.6,2574.95,B,such,IN1001.
+2574.87,2574.87,C,.,IN1001.
+2574.95,2578.41,B,corrections like uh video structure corrections for instance,IN1001.
+2577.6,2578.0,A,Okay,IN1001.
+2577.89,2578.07,C,No,IN1001.
+2578.0,2578.0,A,.,IN1001.
+2578.07,2578.07,C,.,IN1001.
+2578.41,2587.28,B,". For that you need it's possible maybe uh on interfaces like Flash or Java , uh",IN1001.
+2587.26,2587.95,C,Yeah,IN1001.
+2587.28,2588.14,B,but still uh,IN1001.
+2587.95,2588.84,C,uh,IN1001.
+2588.14,2590.16,B,i i i,IN1001.
+2588.84,2589.18,C,. Mm .,IN1001.
+2589.71,2590.19,A,Okay,IN1001.
+2590.16,2590.4,B,there,IN1001.
+2590.19,2590.19,A,.,IN1001.
+2590.4,2591.07,B,is uh,IN1001.
+2590.79,2591.44,C,"Yeah , mainly",IN1001.
+2591.07,2591.7,B,it takes bas,IN1001.
+2591.44,2592.79,C,the,IN1001.
+2591.7,2592.28,B,more work,IN1001.
+2591.99,2592.87,A,Okay,IN1001.
+2592.28,2593.17,B,and,IN1001.
+2592.79,2592.91,C,t,IN1001.
+2592.87,2592.97,A,. No,IN1001.
+2592.91,2593.39,C,webpage,IN1001.
+2592.97,2593.87,A,", I was thinking",IN1001.
+2593.17,2594.16,B,but,IN1001.
+2593.39,2594.33,C,or for output,IN1001.
+2594.16,2594.65,B,i yeah,IN1001.
+2594.33,2594.33,C,.,IN1001.
+2594.65,2599.78,B,"yeah , I mean it's good good point",IN1001.
+2596.49,2600.08,A,"No , because I was thinking if it's there , I mean we could use it uh",IN1001.
+2599.41,2601.4,C,Yeah,IN1001.
+2599.78,2599.78,B,.,IN1001.
+2600.08,2601.49,A,uh we could uh you see,IN1001.
+2601.4,2601.89,C,. Okay,IN1001.
+2601.49,2602.6,A,but,IN1001.
+2601.89,2601.89,C,.,IN1001.
+2602.6,2603.03,A,uh yeah .,IN1001.
+2603.6,2613.69,C,And all these uh file are only uh internal . This mean uh if I go t on uh C CINTETIS CINETIS uh,IN1001.
+2615.35,2617.26,A,"No , no . Fro from outside we",IN1001.
+2617.19,2617.51,C,From,IN1001.
+2617.26,2617.75,A,can view,IN1001.
+2617.51,2618.06,C,outside,IN1001.
+2617.75,2618.39,A,them,IN1001.
+2618.06,2618.59,C,of IDIAP,IN1001.
+2618.39,2618.39,A,.,IN1001.
+2618.59,2619.59,C,we can access this .,IN1001.
+2620.63,2622.94,A,"Yeah , from home I was able to access them .",IN1001.
+2623.2,2624.5,C,With a password or,IN1001.
+2624.76,2625.04,A,No,IN1001.
+2624.86,2625.26,B,Well,IN1001.
+2625.04,2625.04,A,.,IN1001.
+2625.26,2630.92,B,uh you we can make for for instance for T_S_R_ T_S_R_,IN1001.
+2630.84,2631.24,C,Mm,IN1001.
+2630.92,2631.38,B,uh,IN1001.
+2631.24,2631.24,C,.,IN1001.
+2631.38,2633.34,B,videos . Alessandro,IN1001.
+2633.15,2633.34,C,Yeah,IN1001.
+2633.34,2633.4,B,uh,IN1001.
+2633.34,2633.34,C,.,IN1001.
+2633.4,2635.49,B,"asked me to do the same thing , and",IN1001.
+2635.15,2635.36,C,Yeah .,IN1001.
+2635.49,2641.61,B,we I put uh we had uh like a password convention,IN1001.
+2640.57,2641.15,C,Okay,IN1001.
+2641.12,2641.45,A,Okay,IN1001.
+2641.15,2641.53,C,", yes",IN1001.
+2641.45,2641.45,A,.,IN1001.
+2641.53,2643.02,C,", okay",IN1001.
+2641.61,2643.44,B,. So this is possible to make,IN1001.
+2643.02,2643.45,C,. Okay,IN1001.
+2643.44,2643.7,B,for,IN1001.
+2643.45,2643.45,C,.,IN1001.
+2643.7,2649.02,B,these videos,IN1001.
+2647.78,2649.41,A,Nobody,IN1001.
+2649.02,2649.56,B,. So it's not,IN1001.
+2649.41,2649.76,A,actually,IN1001.
+2649.56,2650.77,B,uh,IN1001.
+2649.76,2652.03,A,it has been downloaded several times and people,IN1001.
+2651.78,2652.18,C,Yeah,IN1001.
+2652.03,2652.5,A,there,IN1001.
+2652.18,2652.18,C,.,IN1001.
+2652.5,2653.36,A,are some lawyers that,IN1001.
+2653.35,2653.71,B,Well,IN1001.
+2653.36,2653.87,A,are putting,IN1001.
+2653.71,2653.96,B,if,IN1001.
+2653.87,2654.04,A,no,IN1001.
+2653.96,2654.23,B,yeah,IN1001.
+2654.04,2654.04,A,.,IN1001.
+2654.23,2656.72,B,", it is there is no possible productions for these videos",IN1001.
+2656.29,2656.92,A,But yeah,IN1001.
+2656.72,2657.01,B,. Maybe,IN1001.
+2656.92,2663.52,A,. Y,IN1001.
+2657.01,2659.02,B,what I say I'm very,IN1001.
+2658.55,2662.86,C,"Yeah , okay",IN1001.
+2659.02,2662.93,B,tired . But,IN1001.
+2662.86,2662.86,C,.,IN1001.
+2662.93,2667.2,B,"uh if po yeah , it's demo and uh",IN1001.
+2667.1,2667.31,C,Yeah,IN1001.
+2667.2,2667.49,B,one,IN1001.
+2667.31,2667.69,C,", okay",IN1001.
+2667.49,2667.71,B,can,IN1001.
+2667.69,2667.69,C,.,IN1001.
+2667.71,2670.35,B,say you have to guess the name,IN1001.
+2670.21,2670.87,C,Yeah,IN1001.
+2670.25,2670.4,A,Yeah,IN1001.
+2670.35,2670.94,B,to,IN1001.
+2670.4,2671.05,A,"yeah , yeah yeah",IN1001.
+2670.87,2671.48,C,", yes",IN1001.
+2670.94,2671.21,B,but,IN1001.
+2671.05,2671.23,A,", no",IN1001.
+2671.21,2671.67,B,uh,IN1001.
+2671.23,2671.92,A,"no , yeah",IN1001.
+2671.48,2671.73,C,", yeah",IN1001.
+2671.67,2672.21,B,yeah,IN1001.
+2671.73,2672.24,C,", okay",IN1001.
+2671.92,2671.92,A,.,IN1001.
+2672.21,2672.21,B,.,IN1001.
+2672.24,2673.89,C,. Okay,IN1001.
+2673.66,2674.01,A,No,IN1001.
+2673.89,2673.89,C,.,IN1001.
+2674.01,2675.31,A,". But yeah , it's good to",IN1001.
+2675.28,2677.38,B,"Bu y yeah , a good point uh about password",IN1001.
+2677.18,2677.44,C,Hmm,IN1001.
+2677.38,2677.88,B,protection,IN1001.
+2677.44,2677.44,C,.,IN1001.
+2677.88,2679.2,B,issues uh,IN1001.
+2678.74,2679.77,C,"Yeah , okay",IN1001.
+2679.03,2679.24,A,Yeah,IN1001.
+2679.2,2679.3,B,or,IN1001.
+2679.24,2679.47,A,", if",IN1001.
+2679.3,2679.93,B,the privacy,IN1001.
+2679.47,2681.4,A,we,IN1001.
+2679.77,2679.77,C,.,IN1001.
+2679.93,2680.59,B,issues uh,IN1001.
+2681.4,2687.06,A,i yeah . It might be good indeed if we start d building some experiments like this still to have a password,IN1001.
+2687.01,2688.24,B,Okay,IN1001.
+2687.06,2688.0,A,". Right , yeah , yeah .",IN1001.
+2688.24,2690.07,B,". Uh ha yeah , all the framework is",IN1001.
+2689.98,2690.14,C,Uh,IN1001.
+2690.07,2690.43,B,ready,IN1001.
+2690.14,2690.14,C,.,IN1001.
+2690.43,2693.16,B,with a T_R_S_ T_S_R_ videos,IN1001.
+2692.66,2693.23,C,"Yeah , yeah . Yeah",IN1001.
+2693.16,2693.64,B,", so",IN1001.
+2693.23,2693.97,C,", yeah , I understand",IN1001.
+2693.64,2693.64,B,.,IN1001.
+2693.97,2694.89,C,", yeah , yeah . Okay .",IN1001.
+2695.24,2704.89,B,"Usually what we do sometimes uh okay , just to say something about password protections . Sometimes",IN1001.
+2716.72,2731.35,B,Instead of having um a purely secure directory we p we we put a co code number like uh so that it's quite impossible to guess,IN1001.
+2730.53,2730.94,C,Yeah .,IN1001.
+2731.35,2739.08,B,instead of video m uh name equals kayak then we would have uh zero six seven uh five or,IN1001.
+2738.85,2739.58,C,Yeah,IN1001.
+2738.9,2739.41,A,Yeah yeah,IN1001.
+2739.08,2739.69,B,", you know",IN1001.
+2739.41,2739.64,A,", yeah",IN1001.
+2739.58,2740.02,C,", okay",IN1001.
+2739.64,2739.88,A,yeah,IN1001.
+2739.69,2740.18,B,", two",IN1001.
+2739.88,2739.88,A,.,IN1001.
+2740.02,2740.02,C,.,IN1001.
+2740.18,2767.45,B,". And then this directory from outside we have to take care that okay , not only the video name this U_R_L_ is not accessible , but also we should take care that in fact M_M_M_ it's in M_M_M_ data video browser and this is accessible from outside . We should take care that this directory or in fact this directory is not listable",IN1001.
+2767.2,2767.51,C,Right,IN1001.
+2767.45,2767.58,B,", you",IN1001.
+2767.51,2769.03,C,", okay",IN1001.
+2767.58,2767.77,B,know,IN1001.
+2767.64,2767.94,A,Hmm,IN1001.
+2767.77,2768.21,B,", you cannot",IN1001.
+2767.94,2768.97,A,. Yeah,IN1001.
+2768.21,2769.13,B,list from,IN1001.
+2768.97,2769.35,A,", yeah",IN1001.
+2769.03,2769.39,C,. Yeah,IN1001.
+2769.13,2769.57,B,outside,IN1001.
+2769.35,2769.84,A,what's,IN1001.
+2769.39,2769.39,C,.,IN1001.
+2769.57,2770.27,B,uh,IN1001.
+2769.84,2770.48,A,", yeah , yeah",IN1001.
+2770.27,2770.59,B,with uh,IN1001.
+2770.48,2770.48,A,.,IN1001.
+2770.59,2771.87,B,F_T_P_ or H_T_T_P_ .,IN1001.
+2772.01,2772.09,A,Hmm .,IN1001.
+2772.8,2773.14,C,Okay .,IN1001.
+2773.6,2780.33,B,"Yeah , simple things with privacy issues , but uh i there are some methods and everything",IN1001.
+2779.7,2779.99,C,Hmm .,IN1001.
+2780.33,2781.9,B,is possible,IN1001.
+2781.29,2781.69,C,Okay .,IN1001.
+2781.9,2807.19,B,"to make things private . I yeah , I don't know if you want to add anything , but I would say that for the C_ code uh , yeah , I I I just want would like to stress something , is that um , yeah , if you want want to use the new versions , etcetera , I think uh we need to go a little bit through the code and I would be happy to",IN1001.
+2806.0,2806.26,C,Yeah .,IN1001.
+2807.19,2807.91,B,to to help,IN1001.
+2807.84,2808.22,C,Yes,IN1001.
+2807.91,2809.32,B,to,IN1001.
+2808.22,2808.22,C,.,IN1001.
+2809.32,2811.72,B,to for instance the classes about video structure,IN1001.
+2811.48,2812.47,C,Hmm,IN1001.
+2811.72,2812.66,B,", etcetera , to put",IN1001.
+2812.47,2812.98,C,. Okay,IN1001.
+2812.66,2814.05,B,them yeah,IN1001.
+2812.98,2813.21,C,", yeah .",IN1001.
+2814.05,2814.76,B,. And,IN1001.
+2815.06,2819.44,A,"Yeah , it was done indeed f to be more general than just",IN1001.
+2819.14,2819.38,C,Hmm .,IN1001.
+2819.44,2821.17,A,"to do the shot detection , so that's",IN1001.
+2821.02,2821.41,C,Yes,IN1001.
+2821.17,2821.43,A,why,IN1001.
+2821.41,2821.41,C,.,IN1001.
+2821.43,2823.51,A,"the code is a bit more complex , I think",IN1001.
+2823.06,2823.89,C,Yeah,IN1001.
+2823.51,2824.79,A,", currently",IN1001.
+2823.89,2825.37,C,", okay",IN1001.
+2824.79,2826.14,A,. Uh,IN1001.
+2825.37,2826.31,C,. And the code is based,IN1001.
+2826.14,2826.68,A,but,IN1001.
+2826.31,2826.82,C,on,IN1001.
+2826.68,2827.27,A,uh,IN1001.
+2826.82,2828.18,C,open C_V_ .,IN1001.
+2829.12,2833.42,B,"Yeah , in fact it's not there is no tosh i it was called vision lib",IN1001.
+2833.33,2833.5,A,Yeah,IN1001.
+2833.42,2833.55,B,to,IN1001.
+2833.5,2833.5,A,.,IN1001.
+2833.55,2838.68,B,"read uh to to extract one frame each frame of a video , you",IN1001.
+2838.62,2838.69,C,Oh,IN1001.
+2838.68,2839.16,B,know,IN1001.
+2838.69,2839.18,C,okay,IN1001.
+2839.16,2839.27,B,. So,IN1001.
+2839.18,2839.18,C,.,IN1001.
+2839.27,2843.3,B,"it wa from Sebastien it was in the tosh library , but uh it's",IN1001.
+2843.27,2843.44,A,Yeah,IN1001.
+2843.3,2843.6,B,nothing,IN1001.
+2843.44,2843.81,A,", yeah",IN1001.
+2843.6,2843.86,B,w,IN1001.
+2843.81,2843.81,A,.,IN1001.
+2843.86,2845.03,B,to do with tosh,IN1001.
+2844.77,2845.24,C,Okay,IN1001.
+2845.03,2845.26,B,and,IN1001.
+2845.24,2845.24,C,.,IN1001.
+2845.26,2846.78,B,it's using uh,IN1001.
+2846.42,2846.77,A,Just,IN1001.
+2846.78,2847.65,B,uh,IN1001.
+2847.44,2847.87,C,Okay,IN1001.
+2847.65,2847.89,B,the,IN1001.
+2847.87,2847.87,C,.,IN1001.
+2847.89,2851.43,B,open C_V_ and uh some classes from uh Jean-Marc,IN1001.
+2851.06,2851.4,A,Yeah .,IN1001.
+2851.43,2853.86,B,"uh for , yeah , Bhattacharya",IN1001.
+2853.77,2854.29,C,Bhattacharya,IN1001.
+2853.86,2854.45,B,distance,IN1001.
+2854.29,2854.63,C,okay,IN1001.
+2854.45,2854.98,B,", etcetera",IN1001.
+2854.63,2855.31,C,", and so",IN1001.
+2854.98,2854.98,B,.,IN1001.
+2855.26,2855.49,A,Ah,IN1001.
+2855.31,2855.63,C,on,IN1001.
+2855.49,2855.81,A,okay,IN1001.
+2855.63,2856.1,C,", okay",IN1001.
+2855.81,2856.32,A,", yeah yeah",IN1001.
+2856.1,2856.48,C,. Okay,IN1001.
+2856.27,2856.62,B,Image,IN1001.
+2856.32,2856.6,A,. Yeah,IN1001.
+2856.48,2856.48,C,.,IN1001.
+2856.6,2856.68,A,", it",IN1001.
+2856.62,2857.21,B,processing,IN1001.
+2856.68,2857.38,A,was the same,IN1001.
+2857.21,2857.21,B,.,IN1001.
+2857.38,2857.99,A,the same ones,IN1001.
+2857.98,2858.94,C,Okay,IN1001.
+2857.99,2859.12,A,as the one you saw,IN1001.
+2858.94,2859.32,C,", okay",IN1001.
+2859.12,2859.47,A,uh,IN1001.
+2859.32,2859.32,C,.,IN1001.
+2859.44,2859.78,B,Image,IN1001.
+2859.47,2860.16,A,in my code,IN1001.
+2859.78,2860.18,B,processing,IN1001.
+2860.16,2860.36,A,", yeah",IN1001.
+2860.18,2860.53,B,and stuff,IN1001.
+2860.36,2860.36,A,.,IN1001.
+2860.45,2860.61,C,So,IN1001.
+2860.53,2860.53,B,.,IN1001.
+2860.61,2864.55,C,we can forget tosh and uh use uh,IN1001.
+2864.05,2864.68,A,Yeah,IN1001.
+2864.54,2864.77,B,We,IN1001.
+2864.55,2865.23,C,input,IN1001.
+2864.68,2865.38,A,", yeah",IN1001.
+2864.77,2865.92,B,can forget,IN1001.
+2865.23,2865.57,C,se,IN1001.
+2865.38,2865.62,A,. Yeah,IN1001.
+2865.57,2865.72,C,the,IN1001.
+2865.62,2865.62,A,.,IN1001.
+2865.72,2866.17,C,input,IN1001.
+2865.92,2867.16,B,tosh,IN1001.
+2866.17,2867.22,C,reader for the,IN1001.
+2867.16,2867.4,B,yeah,IN1001.
+2867.22,2867.45,C,the,IN1001.
+2867.4,2867.4,B,.,IN1001.
+2867.45,2870.26,C,M_ PEG we can re lo use uh,IN1001.
+2870.09,2870.58,B,Yeah,IN1001.
+2870.26,2871.21,C,open C_V_,IN1001.
+2870.58,2870.58,B,.,IN1001.
+2871.21,2871.21,C,.,IN1001.
+2871.81,2873.97,A,"Yeah , yeah , yeah , yeah , yeah , definitely",IN1001.
+2873.26,2873.6,C,Okay .,IN1001.
+2873.97,2874.14,A,", yeah .",IN1001.
+2874.84,2876.97,C,Okay . Hmm .,IN1001.
+2877.45,2883.19,A,Yeah,IN1001.
+2879.72,2883.65,B,"Um so it's four thirty , so",IN1001.
+2883.19,2883.94,A,", uh okay",IN1001.
+2883.65,2885.6,B,we need one,IN1001.
+2883.94,2883.94,A,.,IN1001.
+2885.6,2888.32,B,"hour , it's it's good . Just if you want",IN1001.
+2887.62,2888.33,A,"Yeah , I think it's",IN1001.
+2888.32,2889.84,B,yeah,IN1001.
+2888.33,2889.25,A,"it's good , yeah .",IN1001.
+2889.34,2889.67,C,It's good .,IN1001.
+2889.84,2892.37,B,. This is the,IN1001.
+2891.65,2892.05,C,Yeah .,IN1001.
+2892.37,2897.12,B,parameters of the of the C_ programme but uh,IN1001.
+2895.12,2895.39,C,Yeah .,IN1001.
+2897.12,2900.28,B,usage . Video in,IN1001.
+2899.97,2900.45,C,Yes,IN1001.
+2900.28,2900.88,B,", okay",IN1001.
+2900.45,2900.45,C,.,IN1001.
+2900.88,2902.55,B,. Uh the output,IN1001.
+2902.23,2903.05,C,Output,IN1001.
+2902.55,2903.5,B,file X_M_L_,IN1001.
+2903.05,2903.19,C,", hmm .",IN1001.
+2903.5,2909.48,B,". Output file dist , it's the distance um between each histogram",IN1001.
+2909.07,2909.68,C,Uh yeah,IN1001.
+2909.48,2910.34,B,", so that",IN1001.
+2909.68,2909.68,C,.,IN1001.
+2910.34,2921.54,B,"if the X_M_L_ uh you feel there is not enough um uh shots , you can instead of reprocessing the video , you you reprocess this file",IN1001.
+2920.19,2921.33,A,"Okay , that's good , yeah .",IN1001.
+2921.54,2921.93,B,. And,IN1001.
+2921.55,2922.24,C,Okay,IN1001.
+2921.93,2922.88,B,also,IN1001.
+2922.24,2922.24,C,.,IN1001.
+2922.88,2924.25,B,some other stuff s,IN1001.
+2924.09,2924.62,C,Okay,IN1001.
+2924.25,2924.86,B,for instance,IN1001.
+2924.62,2924.62,C,.,IN1001.
+2924.86,2929.34,B,alpha threshold we talked about is set to two point four,IN1001.
+2929.25,2930.51,C,Okay,IN1001.
+2929.34,2932.2,B,and uh,IN1001.
+2930.51,2930.65,C,. Yeah .,IN1001.
+2932.2,2932.8,B,"yeah , so",IN1001.
+2932.78,2933.43,C,Yeah,IN1001.
+2932.8,2933.87,B,the uh the the,IN1001.
+2933.43,2933.97,C,", yeah",IN1001.
+2933.87,2935.01,B,step,IN1001.
+2933.97,2935.05,C,", okay",IN1001.
+2935.01,2935.39,B,we,IN1001.
+2935.05,2935.05,C,.,IN1001.
+2935.39,2938.62,B,"always use one and it should be one , because otherwise",IN1001.
+2938.21,2938.76,C,"Ah , okay",IN1001.
+2938.62,2938.87,B,it's,IN1001.
+2938.76,2938.76,C,.,IN1001.
+2938.87,2940.67,B,stuck between consecutive,IN1001.
+2940.2,2941.47,C,Okay . We,IN1001.
+2940.67,2941.17,B,frames .,IN1001.
+2941.47,2943.1,C,can skip some frames,IN1001.
+2942.81,2943.18,A,Yeah,IN1001.
+2943.1,2944.57,C,. Okay,IN1001.
+2943.15,2943.55,B,Yeah,IN1001.
+2943.18,2943.18,A,.,IN1001.
+2943.55,2945.0,B,", but uh",IN1001.
+2944.57,2944.92,C,. Yeah .,IN1001.
+2945.0,2947.22,B,"it doesn't w yeah , it it's",IN1001.
+2947.21,2947.41,C,Okay,IN1001.
+2947.22,2947.47,B,better,IN1001.
+2947.41,2947.41,C,.,IN1001.
+2947.47,2953.58,B,to to keep it one,IN1001.
+2948.36,2953.14,A,"Yeah , but why is after , I mean if there is a shot you don't know between because you dropped one frame , you don't know where is the",IN1001.
+2953.06,2953.41,C,Yeah,IN1001.
+2953.14,2953.5,A,sh uh,IN1001.
+2953.41,2953.76,C,", yeah",IN1001.
+2953.5,2953.61,A,the,IN1001.
+2953.58,2954.79,B,. Yeah,IN1001.
+2953.61,2953.94,A,d,IN1001.
+2953.76,2954.19,C,", yeah",IN1001.
+2953.94,2955.22,A,the shot,IN1001.
+2954.19,2954.19,C,.,IN1001.
+2954.79,2955.42,B,. So detection,IN1001.
+2955.22,2955.22,A,.,IN1001.
+2955.42,2960.56,B,latency is about the um it's half of the windows,IN1001.
+2959.91,2960.62,A,Sliding window,IN1001.
+2960.56,2960.94,B,tha,IN1001.
+2960.62,2960.62,A,.,IN1001.
+2960.94,2962.75,B,"yeah , sliding window",IN1001.
+2962.68,2963.13,C,Mm-hmm,IN1001.
+2962.75,2962.75,B,", .",IN1001.
+2963.13,2963.13,C,.,IN1001.
+2965.59,2969.76,B,"Option for key frame extraction , okay . Uh sub-threshold , yeah",IN1001.
+2969.59,2969.9,A,Yeah,IN1001.
+2969.62,2970.61,C,Okay,IN1001.
+2969.76,2969.96,B,. Leave,IN1001.
+2969.9,2970.44,A,", right",IN1001.
+2969.96,2970.45,B,it to one,IN1001.
+2970.44,2970.44,A,.,IN1001.
+2970.45,2970.65,B,", yeah",IN1001.
+2970.61,2971.11,C,. Okay,IN1001.
+2970.65,2970.65,B,.,IN1001.
+2971.11,2971.65,C,", it's perfect .",IN1001.
+2973.8,2975.41,B,Uh,IN1001.
+2974.33,2974.58,C,Hmm .,IN1001.
+2975.41,2985.23,B,"yeah . Maybe , I I will uh I will give you this file in uh as a rhy it's a kind of rhythmia , yeah . I just",IN1001.
+2985.14,2985.51,C,Yes,IN1001.
+2985.23,2985.92,B,for preparing,IN1001.
+2985.51,2985.51,C,.,IN1001.
+2985.92,2989.44,B,this uh nice discussion .,IN1001.
+2989.77,2989.97,A,Yeah .,IN1001.
+2993.92,3001.79,B,M um I'm quite happy to to to do that i it's good when you do uh something that there is someone using,IN1001.
+3001.7,3004.57,A,I,IN1001.
+3001.79,3002.9,B,it,IN1001.
+3002.02,3003.8,C,Yes,IN1001.
+3002.9,3004.87,B,. But,IN1001.
+3003.8,3004.23,C,. Yes .,IN1001.
+3004.57,3005.16,A,don't know,IN1001.
+3004.87,3005.36,B,uh,IN1001.
+3005.16,3005.4,A,", I'm",IN1001.
+3005.36,3005.67,B,but,IN1001.
+3005.4,3005.61,A,I'm,IN1001.
+3005.6,3006.07,C,Yeah,IN1001.
+3005.61,3007.1,A,sure that,IN1001.
+3006.07,3006.07,C,.,IN1001.
+3007.1,3008.76,A,they will be,IN1001.
+3007.51,3008.03,C,Mm .,IN1001.
+3008.76,3010.85,A,well I hope they will be a of something like,IN1001.
+3010.74,3010.88,B,At,IN1001.
+3010.85,3011.3,A,this,IN1001.
+3010.88,3011.43,B,"least , yeah , with",IN1001.
+3011.3,3011.44,A,", yeah",IN1001.
+3011.43,3011.55,B,the,IN1001.
+3011.44,3011.44,A,.,IN1001.
+3011.55,3015.42,B,interface it's quite funny to to see um d,IN1001.
+3015.21,3015.96,A,The output,IN1001.
+3015.42,3016.18,B,that the q,IN1001.
+3015.96,3015.96,A,.,IN1001.
+3016.18,3022.33,B,"quickly you can do something in in , yeah , in thirty t if the video i ten is ten minutes , in thirty",IN1001.
+3022.03,3022.24,A,Yeah .,IN1001.
+3022.33,3024.15,B,minutes 'cause,IN1001.
+3023.97,3024.3,C,Yeah,IN1001.
+3024.15,3024.39,B,it's,IN1001.
+3024.3,3024.96,C,", the",IN1001.
+3024.39,3025.0,B,no,IN1001.
+3024.96,3025.05,C,the,IN1001.
+3025.0,3025.33,B,not,IN1001.
+3025.05,3026.94,C,browser,IN1001.
+3025.33,3027.02,B,a lot of things to change,IN1001.
+3026.94,3027.64,C,. Hmm,IN1001.
+3027.02,3027.73,B,. Or even it can,IN1001.
+3027.64,3028.56,C,. Hmm,IN1001.
+3027.73,3028.64,B,do it uh,IN1001.
+3028.56,3028.56,C,.,IN1001.
+3028.64,3030.92,B,it can we can do it,IN1001.
+3030.33,3031.68,C,Yes,IN1001.
+3030.92,3032.3,B,quite automatically,IN1001.
+3031.68,3032.75,C,. Yes,IN1001.
+3032.3,3033.09,B,. It can be done,IN1001.
+3032.75,3033.35,C,. Uh,IN1001.
+3033.09,3033.26,B,", yeah .",IN1001.
+3033.35,3035.94,C,so just uh last question maybe,IN1001.
+3035.41,3035.68,B,Yeah .,IN1001.
+3035.94,3040.19,C,", uh so this makes a X_M_L_ file . Okay . This",IN1001.
+3040.03,3040.33,A,This,IN1001.
+3040.19,3040.39,C,is,IN1001.
+3040.33,3041.15,A,generates,IN1001.
+3040.39,3041.4,C,the the programme to,IN1001.
+3041.15,3041.4,A,yeah,IN1001.
+3041.4,3041.62,C,to,IN1001.
+3041.4,3041.4,A,.,IN1001.
+3041.62,3043.05,C,generating the X_M_L_ file,IN1001.
+3042.99,3044.13,B,Yeah,IN1001.
+3043.05,3044.73,C,and the the shot,IN1001.
+3044.13,3044.36,B,. Yeah .,IN1001.
+3044.73,3051.95,C,". And uh with the kayak you have one problems , you don't have the Real Media , so this is another thing .",IN1001.
+3052.42,3052.58,B,Oh,IN1001.
+3052.43,3052.59,A,Ho,IN1001.
+3052.58,3052.71,B,yeah,IN1001.
+3052.59,3052.71,A,how,IN1001.
+3052.71,3052.91,B,", it",IN1001.
+3052.71,3054.48,A,"do you generate the Real Media , yeah .",IN1001.
+3054.52,3059.43,B,"So the Real Media is uh , yeah , a parallel thing that",IN1001.
+3059.36,3059.86,C,Okay,IN1001.
+3059.43,3059.95,B,from the,IN1001.
+3059.86,3059.86,C,.,IN1001.
+3059.95,3062.65,B,A_V_I_ you convert it into,IN1001.
+3062.5,3062.92,C,Okay,IN1001.
+3062.65,3062.95,B,Real,IN1001.
+3062.92,3062.92,C,.,IN1001.
+3062.95,3065.06,B,"Media , and it is done on Windows .",IN1001.
+3065.61,3066.2,C,Okay .,IN1001.
+3066.21,3066.57,A,Okay .,IN1001.
+3067.72,3067.91,C,So,IN1001.
+3067.83,3069.06,B,Uh,IN1001.
+3067.91,3071.94,C,you have some special tools from uh from Real Media,IN1001.
+3071.48,3073.0,B,Yeah,IN1001.
+3071.94,3072.31,C,. Okay .,IN1001.
+3073.0,3080.97,B,. Mm there is a a the free one is okay . You can use the free we have a license here at IDIAP,IN1001.
+3080.61,3080.98,C,Hmm,IN1001.
+3080.97,3081.26,B,", but",IN1001.
+3080.98,3080.98,C,.,IN1001.
+3081.26,3084.25,B,uh the,IN1001.
+3083.5,3084.02,C,Mm .,IN1001.
+3084.25,3089.53,B,"if you want to pay , you pay for options such as uh resize or",IN1001.
+3089.39,3090.39,C,Okay,IN1001.
+3089.53,3090.52,B,cropping,IN1001.
+3090.39,3090.97,C,. Hmm,IN1001.
+3090.52,3091.66,B,", but in fact",IN1001.
+3090.97,3090.97,C,.,IN1001.
+3091.66,3094.37,B,"maybe we don't need that , and uh",IN1001.
+3093.32,3094.58,C,"Hmm , okay",IN1001.
+3094.37,3095.42,B,it's,IN1001.
+3094.58,3094.85,C,", okay .",IN1001.
+3095.42,3097.71,B,called Elix producer .,IN1001.
+3098.52,3099.49,C,"Okay , I heard it .",IN1001.
+3103.55,3107.17,B,"Yeah , I forgot yeah , yeah uh , Elix producer and and that's it",IN1001.
+3106.89,3107.25,C,Okay,IN1001.
+3107.17,3107.27,B,. You,IN1001.
+3107.25,3107.25,C,.,IN1001.
+3107.27,3108.82,B,can you can i it,IN1001.
+3108.64,3108.89,C,But,IN1001.
+3108.82,3109.42,B,it,IN1001.
+3108.89,3109.5,C,uh anyway,IN1001.
+3109.42,3109.91,B,i,IN1001.
+3109.5,3111.66,C,you need you need to have Windows to make these .,IN1001.
+3112.7,3113.15,B,Yes .,IN1001.
+3113.57,3115.84,C,So I will ask you or someone,IN1001.
+3115.46,3119.15,B,Yeah,IN1001.
+3115.84,3118.89,C,"else , okay .",IN1001.
+3119.15,3121.1,B,. Uh yeah,IN1001.
+3121.04,3121.56,C,Okay,IN1001.
+3121.1,3121.1,B,.,IN1001.
+3121.56,3122.58,C,", okay , understand .",IN1001.
+3123.6,3124.49,B,And yeah,IN1001.
+3124.36,3125.05,C,Okay,IN1001.
+3124.49,3125.17,B,", with Real",IN1001.
+3125.05,3125.2,C,. But,IN1001.
+3125.17,3126.0,B,Media,IN1001.
+3125.2,3129.34,C,this is this is made by a programme done outside IDIAP . Okay .,IN1001.
+3130.55,3131.11,B,Well this,IN1001.
+3130.92,3131.13,C,This,IN1001.
+3131.11,3131.24,B,is,IN1001.
+3131.13,3132.57,C,is,IN1001.
+3131.24,3133.19,B,you can buy or you can order,IN1001.
+3132.57,3133.69,C,"yes , right",IN1001.
+3133.19,3134.02,B,for free,IN1001.
+3133.69,3134.39,C,", okay",IN1001.
+3134.02,3135.73,B,on internet,IN1001.
+3134.39,3136.12,C,. This not uh IDIAP programme,IN1001.
+3135.73,3136.16,B,. No,IN1001.
+3136.12,3136.64,C,. Okay,IN1001.
+3136.16,3136.79,B,", no no no , for",IN1001.
+3136.64,3136.93,C,", okay",IN1001.
+3136.79,3137.11,B,the Real,IN1001.
+3136.93,3136.93,C,.,IN1001.
+3137.11,3146.84,B,"Media . And um you didn't see , but the Re the Real Media um is called via a real server",IN1001.
+3146.21,3146.63,C,Hmm .,IN1001.
+3146.84,3149.02,B,", so it's R_T_S_P_ the connection , and i",IN1001.
+3148.87,3149.12,C,Yeah,IN1001.
+3149.02,3149.49,B,it's,IN1001.
+3149.12,3149.12,C,.,IN1001.
+3149.49,3151.16,B,streaming video streaming,IN1001.
+3150.44,3151.16,C,"Yeah , okay",IN1001.
+3151.16,3151.29,B,", so",IN1001.
+3151.16,3151.16,C,.,IN1001.
+3151.29,3152.93,B,it's not H_T_T_P_ . So,IN1001.
+3152.85,3154.15,C,Yeah,IN1001.
+3152.93,3154.37,B,that it can play uh,IN1001.
+3154.15,3154.51,C,. Mm,IN1001.
+3154.37,3154.95,B,smoothly,IN1001.
+3154.51,3154.51,C,.,IN1001.
+3154.95,3161.8,B,"and but we are still uh investigating for the video formats , because um",IN1001.
+3159.31,3159.76,C,Um .,IN1001.
+3161.8,3164.84,B,i it's not supported for instance uh,IN1001.
+3164.14,3164.31,C,Hmm .,IN1001.
+3164.84,3167.99,B,"uh in Java , in Java",IN1001.
+3167.27,3167.41,C,Hmm .,IN1001.
+3167.99,3169.53,B,applications uh etcetera .,IN1001.
+3170.16,3170.58,C,Hmm,IN1001.
+3170.57,3171.24,A,Oh,IN1001.
+3170.58,3170.58,C,.,IN1001.
+3171.24,3171.72,A,"o o , oh yeah , you",IN1001.
+3171.71,3172.06,B,Real,IN1001.
+3171.72,3172.08,A,mean,IN1001.
+3172.06,3172.34,B,Media,IN1001.
+3172.08,3172.58,A,the,IN1001.
+3172.34,3172.34,B,.,IN1001.
+3172.58,3175.84,A,"Java framework , uh what uh Mike presented",IN1001.
+3175.63,3177.15,B,Yeah,IN1001.
+3175.84,3177.19,A,. We cannot play uh,IN1001.
+3177.15,3177.32,B,. Real,IN1001.
+3177.19,3177.47,A,Real,IN1001.
+3177.32,3178.16,B,Media,IN1001.
+3177.47,3178.3,A,"Media , okay",IN1001.
+3178.16,3179.74,B,", so",IN1001.
+3178.3,3178.3,A,.,IN1001.
+3178.4,3178.69,C,Hmm .,IN1001.
+3179.74,3181.48,B,"there are many issues about that , but yeah .",IN1001.
+3181.91,3182.4,C,Okay,IN1001.
+3182.05,3182.43,A,Okay,IN1001.
+3182.4,3182.4,C,.,IN1001.
+3182.43,3182.43,A,.,IN1001.
+3183.69,3185.81,B,It's another problem,IN1001.
+3184.5,3185.82,A,"Formats , formats",IN1001.
+3185.81,3186.25,B,. Yeah,IN1001.
+3185.82,3185.94,A,", yeah .",IN1001.
+3186.25,3186.25,B,.,IN1001.
+3186.59,3186.81,C,Mm .,IN1001.
+3187.84,3190.23,A,"Okay , so I think this was good to",IN1001.
+3190.01,3191.64,C,Okay,IN1001.
+3190.23,3192.13,A,see the the tool,IN1001.
+3191.64,3192.15,C,. Thank you,IN1001.
+3192.13,3192.44,A,and,IN1001.
+3192.15,3192.15,C,.,IN1001.
+3192.44,3198.38,A,"uh tomorrow we are going to re-say most of the things , but shorter",IN1001.
+3198.09,3199.66,C,Okay,IN1001.
+3198.38,3199.76,A,"I f I believe , right , I mean",IN1001.
+3199.66,3200.07,C,. Yes,IN1001.
+3199.76,3200.16,A,it's bad,IN1001.
+3200.07,3200.07,C,.,IN1001.
+3200.16,3205.19,A,"to explain . And I think maybe later w yeah , we we can start doing",IN1001.
+3204.97,3205.3,C,I think,IN1001.
+3205.19,3205.7,A,simple,IN1001.
+3205.3,3208.62,C,for test I can take the real demo,IN1001.
+3208.02,3209.98,A,"Yeah , yeah , yeah",IN1001.
+3208.62,3211.06,C,and make the,IN1001.
+3209.98,3211.57,A,". Yeah , the full uh",IN1001.
+3211.06,3212.36,C,the full processing .,IN1001.
+3213.22,3214.08,A,"Yeah , mi this might",IN1001.
+3214.0,3214.14,C,So,IN1001.
+3214.08,3214.14,A,be,IN1001.
+3214.14,3214.2,C,I,IN1001.
+3214.14,3214.78,A,interesting,IN1001.
+3214.2,3214.63,C,will,IN1001.
+3214.78,3220.09,A,"to see tomorrow . Of course maybe there was the ah , one hundred seventy shots , or",IN1001.
+3219.81,3220.12,C,Yeah,IN1001.
+3220.09,3220.31,A,it's,IN1001.
+3220.12,3220.12,C,.,IN1001.
+3220.31,3224.31,A,"a lot , but uh after I mean at this point",IN1001.
+3224.28,3224.64,C,Yeah,IN1001.
+3224.31,3224.74,A,we,IN1001.
+3224.64,3224.64,C,.,IN1001.
+3224.74,3229.01,A,do we have nothing we can do unless they know what they want to do with it,IN1001.
+3228.76,3228.94,C,Yeah .,IN1001.
+3229.01,3229.12,A,", right ?",IN1001.
+3230.65,3230.88,C,Okay .,IN1001.
+3231.7,3237.05,B,"Yeah , that was a single video structuring , but it's uh other level uh it can",IN1001.
+3236.9,3237.74,A,Yeah,IN1001.
+3237.05,3238.14,B,uh it's quite,IN1001.
+3237.74,3239.22,A,", yeah",IN1001.
+3237.79,3238.12,C,Hmm .,IN1001.
+3238.14,3239.25,B,uh,IN1001.
+3239.22,3239.44,A,. Yeah,IN1001.
+3239.25,3239.48,B,it's,IN1001.
+3239.44,3239.64,A,", but",IN1001.
+3239.48,3240.04,B,researched,IN1001.
+3239.64,3240.23,A,I think,IN1001.
+3240.04,3240.58,B,", yeah",IN1001.
+3240.23,3240.58,A,I think,IN1001.
+3240.58,3240.58,B,.,IN1001.
+3240.58,3244.91,A,is it's too it's going very be very to be very good for them to visualise,IN1001.
+3244.78,3245.0,B,Yeah,IN1001.
+3244.91,3245.11,A,how,IN1001.
+3245.0,3245.0,B,.,IN1001.
+3245.11,3250.67,A,"you can organise things and maybe what they can do , how they and so this is important .",IN1001.
+3250.98,3259.72,B,"Yeah , last thing uh this is a kind of uh X_M_L_ that is outputted , so so it's uh the structure is such as",IN1001.
+3259.68,3260.15,C,Okay,IN1001.
+3259.72,3260.19,B,uh,IN1001.
+3260.15,3260.15,C,.,IN1001.
+3260.19,3264.32,B,vi video segmentation with uh videos in,IN1001.
+3264.23,3264.58,C,Mm,IN1001.
+3264.32,3265.42,B,begin,IN1001.
+3264.58,3265.23,C,okay .,IN1001.
+3265.42,3268.03,B,and then for each shot,IN1001.
+3267.72,3268.12,C,I have some,IN1001.
+3268.03,3268.17,B,you,IN1001.
+3268.12,3269.12,C,informations,IN1001.
+3268.17,3270.06,B,have an I_D_,IN1001.
+3269.12,3269.12,C,.,IN1001.
+3270.06,3282.22,B,"well this is the terms from M_ PEG seven convention , but anyway . Shot begin and end . Uh a sh the shot key frame that is the middle here",IN1001.
+3281.22,3282.22,C,Okay,IN1001.
+3282.22,3283.63,B,. Uh,IN1001.
+3282.22,3283.66,C,. And uh in,IN1001.
+3283.63,3284.15,B,sub-shot,IN1001.
+3283.66,3292.25,C,this in this the begin and end the number is the for example the end is zero dot twelve,IN1001.
+3291.84,3293.55,B,"Yeah , you're right",IN1001.
+3292.25,3294.72,C,twelve is uh,IN1001.
+3293.55,3294.43,B,. Twelve frames .,IN1001.
+3294.72,3296.49,C,"this frame too , yeah . Okay .",IN1001.
+3297.14,3300.97,B,And in fact that's what I output,IN1001.
+3299.89,3301.09,C,Okay,IN1001.
+3300.97,3301.4,B,in,IN1001.
+3301.09,3301.42,C,. Okay,IN1001.
+3301.4,3301.83,B,uh,IN1001.
+3301.42,3301.42,C,.,IN1001.
+3301.83,3305.24,B,"on the yeah , I think y on the interface",IN1001.
+3303.94,3304.54,A,"Mm-hmm , yeah .",IN1001.
+3305.23,3305.72,C,Okay,IN1001.
+3305.24,3305.83,B,. And there is,IN1001.
+3305.72,3305.72,C,.,IN1001.
+3305.83,3308.72,B,only one sub-shot because uh w yeah .,IN1001.
+3310.18,3310.5,C,Okay .,IN1001.
+3311.19,3312.13,A,"Yeah , initially",IN1001.
+3311.35,3312.55,B,There was there was problems,IN1001.
+3312.13,3312.46,A,yeah .,IN1001.
+3312.55,3315.12,B,"with detecting the sub-shots , etcetera",IN1001.
+3315.09,3315.52,C,What,IN1001.
+3315.1,3315.46,A,Well,IN1001.
+3315.12,3315.58,B,. But uh,IN1001.
+3315.46,3315.62,A,", we",IN1001.
+3315.52,3315.99,C,what,IN1001.
+3315.58,3315.77,B,yeah,IN1001.
+3315.62,3316.68,A,didn't,IN1001.
+3315.77,3317.51,B,well,IN1001.
+3316.68,3317.81,A,because you tried to do,IN1001.
+3317.51,3317.83,B,. Yeah,IN1001.
+3317.81,3318.16,A,something,IN1001.
+3317.83,3326.84,B,", I tr well uh not with this one , but yeah , I tried to code some stuff uh it but uh I'm not so confident in the way uh it is uh",IN1001.
+3326.38,3327.88,A,Okay,IN1001.
+3326.84,3327.2,B,coded .,IN1001.
+3327.88,3336.37,A,". Yeah , like for instance if we need to find sub-shots , usually it it for instance is better to have the whole shot to decide on how to build",IN1001.
+3336.29,3336.65,B,Yeah,IN1001.
+3336.37,3337.44,A,the sub-shots,IN1001.
+3336.65,3336.65,B,.,IN1001.
+3337.44,3341.14,A,. But it's true that maybe I if you store all the distance at that the,IN1001.
+3341.03,3341.46,B,Yeah,IN1001.
+3341.14,3341.97,A,distances,IN1001.
+3341.46,3341.46,B,.,IN1001.
+3341.97,3343.47,A,we could do some basic stuff .,IN1001.
+3343.85,3344.19,B,But,IN1001.
+3344.17,3344.59,C,Okay,IN1001.
+3344.19,3345.78,B,we,IN1001.
+3344.59,3344.59,C,.,IN1001.
+3345.78,3360.31,B,"yeah , even we should uh for instance for the videos uh for the spectral clustering , for the clustering . Here uh I store the consecutive the distance between consecutive histograms",IN1001.
+3360.02,3361.46,A,Okay,IN1001.
+3360.31,3361.62,B,", but we could uh store",IN1001.
+3361.46,3361.82,A,. Yeah yeah,IN1001.
+3361.62,3363.4,B,the matrix,IN1001.
+3361.82,3364.26,A,", yeah . Yeah yeah , yeah . Yeah , yeah",IN1001.
+3363.4,3364.58,B,that's yeah,IN1001.
+3364.26,3364.58,A,. That's the,IN1001.
+3364.58,3364.87,B,. And,IN1001.
+3364.58,3364.98,A,thing,IN1001.
+3364.87,3365.17,B,then,IN1001.
+3364.98,3365.12,A,", yeah",IN1001.
+3365.01,3366.69,C,Uh,IN1001.
+3365.12,3365.12,A,.,IN1001.
+3365.17,3367.0,B,uh yeah,IN1001.
+3366.69,3366.95,C,. Okay .,IN1001.
+3367.0,3368.79,B,. And I think i there are many possible,IN1001.
+3368.39,3368.79,C,Mm,IN1001.
+3368.79,3369.06,B,things,IN1001.
+3368.79,3368.79,C,.,IN1001.
+3369.06,3370.57,B,with uh spectral clustering,IN1001.
+3370.1,3371.25,C,Just what,IN1001.
+3370.57,3371.38,B,", but but",IN1001.
+3371.25,3371.44,C,what,IN1001.
+3371.38,3377.97,B,"the uh with um there is one parameter that is very c wha I can't remember , what is the parameter",IN1001.
+3377.95,3378.69,A,Ah,IN1001.
+3377.97,3378.37,B,uh,IN1001.
+3378.69,3382.11,A,", th the gap you mean or no",IN1001.
+3381.42,3381.67,B,Yeah .,IN1001.
+3382.11,3384.56,A,"? Oh no , you mean in the Bhattacharya distance",IN1001.
+3383.93,3384.76,B,"No no no no , the",IN1001.
+3384.56,3384.56,A,.,IN1001.
+3384.76,3387.31,B,in the the gap to find the the good,IN1001.
+3387.21,3387.93,A,Yeah,IN1001.
+3387.31,3388.38,B,number of clusters,IN1001.
+3387.93,3388.51,A,". Yeah , yeah",IN1001.
+3388.38,3388.56,B,is,IN1001.
+3388.51,3388.82,A,. Yeah,IN1001.
+3388.56,3390.42,B,so,IN1001.
+3388.82,3391.27,A,. Yeah,IN1001.
+3390.42,3391.48,B,sensitive uh,IN1001.
+3391.27,3391.46,A,. Yeah .,IN1001.
+3393.16,3393.54,C,Hmm,IN1001.
+3393.51,3393.84,B,Yeah,IN1001.
+3393.54,3393.54,C,.,IN1001.
+3393.84,3397.51,B,", anyway . It's it's a bit later in the in the report .",IN1001.
+3400.2,3400.61,A,Okay .,IN1001.
+3405.38,3408.37,B,"So anytimes , yeah , I would be happy to",IN1001.
+3407.98,3408.73,C,Yeah,IN1001.
+3408.37,3409.12,B,to,IN1001.
+3408.73,3410.33,C,", okay",IN1001.
+3409.12,3409.95,B,to help you with that .,IN1001.
+3410.33,3410.94,C,. Okay .,IN1001.
+3413.87,3414.03,A,So .,IN1001.
+3414.68,3415.12,C,It's okay .,IN1001.
+3415.36,3415.81,A,It's okay .,IN1001.
+3441.93,3442.98,B,"Yeah , yeah , you can we can go .",IN1001.

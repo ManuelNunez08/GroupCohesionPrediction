@@ -1,0 +1,2781 @@
+Start,End,Speaker,Speech,meeting
+0.08,0.34,C,More .,EN2004a
+0.48,1.4,B,"If not more , yeah .",EN2004a
+1.5,2.08,D,Mm .,EN2004a
+5.96,19.3,B,"Okay . Okay . So the three of you and let's see m um myself and Maarika , who's not here , and but I think so it it occasionally Melissa will all be doing checking",EN2004a
+19.24,19.49,A,Mm-hmm,EN2004a
+19.3,19.57,B,of,EN2004a
+19.49,19.49,A,.,EN2004a
+19.57,30.8,B,the transcriptions . So this is the second pass these transcriptions are receiving and that's pretty straight-forward . I think you all kn basically have an idea what's involved,EN2004a
+30.39,30.74,D,Okay .,EN2004a
+30.8,73.66,B,". Um but the extra step that we're asking you to do f in this case is to look at the silent regions and listen to them for each channel and um make sure that no back-channels were lost for example , um yeah , back-channels is what you n typically would find , although by and large these are gonna be silent . So So you can um start s checking by y well you you know , you can order it in any way you like , but um start with the first channel and go through it entirely . Um",EN2004a
+73.16,73.4,A,Mm-hmm .,EN2004a
+73.66,98.32,B,"I would recommend , I've found that it's easier when you're checking and you're trying to make sure the boundaries are right for a speech segment , I would recommend , like say this one , go down here to the uh trascription transcription tier and select that it so that uh when you play , you're certain that when it stops , you've caught the whole speech",EN2004a
+98.02,98.23,A,Mm .,EN2004a
+98.32,136.41,B,"signal for that utterance and haven't lost any signal information . Um otherwise it it's liable to keep on running , and you might not notice where it where it finishes . So it it takes a little time . But um Alternatively , I you you could just listen to the speech segments again and make sure everything is correct for those , and so you could just hit um And then Like that . And then go back and",EN2004a
+135.93,136.38,D,Mm-hmm .,EN2004a
+136.41,138.68,B,check the the silence regions,EN2004a
+138.61,138.69,D,In,EN2004a
+138.68,138.79,B,. How,EN2004a
+138.69,139.06,D,between,EN2004a
+138.79,139.29,B,it if,EN2004a
+139.06,139.06,D,.,EN2004a
+139.29,141.99,B,"if you wanna make your job a little more interesting , you",EN2004a
+141.55,142.15,D,Yeah,EN2004a
+141.99,142.21,B,can,EN2004a
+142.15,142.15,D,.,EN2004a
+142.21,147.35,B,d do it in m different ways on a different day . It doesn't matter . As long as it gets done,EN2004a
+147.27,147.42,D,So,EN2004a
+147.35,148.24,B,. So,EN2004a
+147.42,152.48,D,we so are we checking what's actually been transcribed already as well as the silences,EN2004a
+152.06,152.48,B,Yeah,EN2004a
+152.48,152.71,D,? Yeah,EN2004a
+152.48,152.79,B,", yeah , you're",EN2004a
+152.71,152.71,D,.,EN2004a
+152.79,156.3,B,doing so that's that's the role of the checker is to,EN2004a
+156.27,156.57,D,Mm-hmm,EN2004a
+156.3,156.57,B,check,EN2004a
+156.57,156.57,D,.,EN2004a
+156.57,161.92,B,what's said in the silent regions uh in the speech regions and then make sure nothing was lost in the,EN2004a
+161.56,162.06,D,Oh okay,EN2004a
+161.92,162.26,B,silent,EN2004a
+162.06,162.06,D,.,EN2004a
+162.26,170.69,B,regions . You're also um responsible for resolving any um uncertainties that were marked by the original transcriber,EN2004a
+169.58,169.92,A,Mm-hmm .,EN2004a
+170.69,198.83,B,". And and you know , of course there are gonna be m many situations where you like the first transcriber can't make any sense of it . And in that case , it will be up to you to use the at symbol . Um and that can be used uh to represent one um unintelligible word or multiple intelligible words , but just use one at symbol . Um",EN2004a
+198.382,198.382,D,.,EN2004a
+198.83,225.17,B,"yeah , mm-hmm , exactly . And so that um once you go through all the s um speech regions and all the um non-speech regions , an o you could make another step of doing a search using um going under the edit menu you can do a search for",EN2004a
+224.43,225.34,A,Find replace,EN2004a
+225.17,225.59,B,", yeah",EN2004a
+225.34,225.45,A,", yeah .",EN2004a
+225.59,239.04,B,", find replace for open parentheses and that'll take you to any that it any that the first transcriber might have marked out . So there's one . And then you can just resolve those all one by one",EN2004a
+238.6,238.87,A,Uh-huh .,EN2004a
+239.04,239.65,B,as,EN2004a
+239.09,239.7,D,"Oh , alright",EN2004a
+239.65,239.84,B,as,EN2004a
+239.7,239.96,D,'kay,EN2004a
+239.84,240.28,B,a,EN2004a
+239.96,239.96,D,.,EN2004a
+240.28,250.45,B,different set of um changes altogether . And and likewise for the double question marks . Just once you've gone,EN2004a
+250.38,250.49,A,Oh,EN2004a
+250.45,251.17,B,through,EN2004a
+250.49,250.63,A,yeah .,EN2004a
+251.17,271.0,B,"um and resolved all the open parentheses , you can do the same for op uh double question marks . And um and like I said , if you if you can't make any sense of it , then just use the at symbol . If you can um , just give it , you know , give it your best guess in these cases",EN2004a
+270.83,271.03,A,How,EN2004a
+271.0,271.25,B,. If,EN2004a
+271.03,277.52,A,"much should you want um I had a few times where I thought well , it could be this",EN2004a
+276.59,277.03,B,Mm-hmm .,EN2004a
+277.52,282.49,A,", but if you're not entirely sure that it could be , 'cause it c it could be a combination of something else",EN2004a
+282.47,283.03,B,Yeah,EN2004a
+282.49,283.03,A,", like put the",EN2004a
+283.03,283.03,B,.,EN2004a
+283.03,286.19,A,guess down or leave it as ambiguous in some way .,EN2004a
+286.41,296.13,B,"Yeah , it's I would uh if you're v if you're quite certain , then I would go ahead and um type what you think it",EN2004a
+296.12,296.32,A,Right,EN2004a
+296.13,296.63,B,was said,EN2004a
+296.32,296.32,A,.,EN2004a
+296.63,300.13,B,. If if you v think that n y there's,EN2004a
+299.68,300.5,A,There's a chance,EN2004a
+300.13,300.7,B,maybe,EN2004a
+300.5,300.71,A,they,EN2004a
+300.7,301.5,B,a,EN2004a
+300.71,301.04,A,could be .,EN2004a
+301.5,305.11,B,th thirty percent chance you're wrong or or more,EN2004a
+305.17,307.28,C,"It's usually a context problem , because I",EN2004a
+307.08,307.43,A,Yeah,EN2004a
+307.28,307.87,C,think,EN2004a
+307.37,307.85,B,Yeah,EN2004a
+307.43,307.43,A,.,EN2004a
+307.85,307.85,B,.,EN2004a
+307.87,313.84,C,sometimes if it's not intelligible you either tend to because you really want it to fit the context,EN2004a
+313.65,314.08,D,Mm yeah,EN2004a
+313.84,314.27,C,", um",EN2004a
+314.08,314.08,D,.,EN2004a
+314.27,327.95,C,"you tend to take the closest actual word that would fit the context , or if it sometimes it sounds very clear as a word itself , but then wouldn't make sense at all , and then you m question , you know , second-guess whether it's really what you heard .",EN2004a
+328.05,351.76,B,"Right . So maybe a good idea would be to listen to each channel one by one , do listen to the silent and non-silent regions and make all those corrections , leave the unknowns , the um ambiguities , the uncertainties uncertainties until later . So go through all the channels and do that , and then um then you should have the context",EN2004a
+351.21,351.69,D,Yeah .,EN2004a
+351.76,353.4,B,from all four speakers,EN2004a
+352.91,353.3,A,Mm-hmm .,EN2004a
+353.4,358.29,B,", and then go back and do those searches one by one for each channel . How would that be ? Does",EN2004a
+358.28,358.56,C,Mm,EN2004a
+358.29,358.67,B,that sound,EN2004a
+358.56,358.56,C,.,EN2004a
+358.67,358.88,B,good,EN2004a
+358.77,359.04,D,Yeah,EN2004a
+358.88,358.88,B,?,EN2004a
+358.93,359.17,A,Mm,EN2004a
+359.04,359.36,D,", it does",EN2004a
+359.17,359.37,A,", that's",EN2004a
+359.36,359.55,D,tend,EN2004a
+359.37,359.62,A,what I've been,EN2004a
+359.55,360.13,D,to help,EN2004a
+359.62,360.29,A,doing so far,EN2004a
+360.13,361.07,D,. Yeah,EN2004a
+360.29,360.29,A,.,EN2004a
+360.53,360.83,B,Okay .,EN2004a
+361.07,365.87,D,". Once you've been through the passage , you've worked out what they're talking about , you know",EN2004a
+363.76,365.5,B,You'll you'll know all too well what,EN2004a
+365.31,365.65,A,It took,EN2004a
+365.5,365.67,B,was,EN2004a
+365.65,367.19,A,li,EN2004a
+365.67,365.96,B,said in,EN2004a
+365.87,366.38,D,. Yeah,EN2004a
+365.96,366.72,B,this meeting,EN2004a
+366.38,366.38,D,.,EN2004a
+366.72,367.21,B,by the time,EN2004a
+367.19,367.32,A,it,EN2004a
+367.21,367.32,B,you,EN2004a
+367.32,372.51,A,"like the third time 'til I thought oh , you're saying F_ five",EN2004a
+370.39,372.36,B,"Yeah . Yeah , I",EN2004a
+370.75,370.88,C,Hmm .,EN2004a
+372.36,373.74,B,think that,EN2004a
+372.51,373.78,A,. It just came out,EN2004a
+373.74,373.93,B,would,EN2004a
+373.78,374.22,A,of nowhere,EN2004a
+373.93,374.42,B,be really,EN2004a
+374.22,374.22,A,.,EN2004a
+374.42,380.26,B,"helpful . That would help us um , you know , nab a good number of those uncertainties",EN2004a
+379.73,380.46,A,But if there's a chance,EN2004a
+380.26,380.26,B,.,EN2004a
+380.46,386.15,A,that it's equally likely that they could have said something or they could have said something like ice cream and I scream,EN2004a
+385.58,386.06,B,Mm .,EN2004a
+386.15,388.5,A,", then just choose one and leave it",EN2004a
+387.59,388.51,B,"Choose one , it c",EN2004a
+388.5,388.69,A,", right",EN2004a
+388.51,388.96,B,I mean,EN2004a
+388.69,388.69,A,.,EN2004a
+388.96,393.76,B,y think of it from a speech recognition point of view again . And always this should be,EN2004a
+393.73,393.95,C,Be,EN2004a
+393.76,393.96,B,this,EN2004a
+393.87,394.99,A,Mm-hmm,EN2004a
+393.95,395.19,C,robust,EN2004a
+393.96,395.14,B,should motivate you,EN2004a
+394.99,394.99,A,.,EN2004a
+395.14,395.62,B,. Yeah,EN2004a
+395.19,395.19,C,.,EN2004a
+395.62,400.02,B,. What is most robust for a speech recognition and and leave out,EN2004a
+399.48,400.13,A,We just started,EN2004a
+400.02,403.56,B,anything,EN2004a
+400.13,404.76,A,our speech recognition assignment just now,EN2004a
+403.56,405.02,B,So you're well geared towards,EN2004a
+404.76,404.76,A,.,EN2004a
+405.02,407.76,B,this task,EN2004a
+407.69,407.87,C,That's,EN2004a
+407.76,411.38,B,. Um,EN2004a
+407.87,410.05,C,always fun . I've done that too .,EN2004a
+411.38,412.54,B,So I've,EN2004a
+412.37,412.54,A,You're,EN2004a
+412.54,413.04,B,gone,EN2004a
+412.54,413.15,A,an S_L_P_,EN2004a
+413.04,414.45,B,through,EN2004a
+413.15,413.59,A,person .,EN2004a
+414.45,414.73,B,Sorry .,EN2004a
+415.22,416.91,C,"Oh , never I I don't wanna interrupt it",EN2004a
+416.83,416.97,B,Oh,EN2004a
+416.91,417.08,C,. Uh,EN2004a
+416.97,417.15,B,no,EN2004a
+417.08,417.77,C,uh,EN2004a
+417.15,417.78,B,no no . Go ahead,EN2004a
+417.77,417.96,C,when,EN2004a
+417.78,418.08,B,", go ahead",EN2004a
+417.96,418.26,C,I did,EN2004a
+418.08,418.08,B,.,EN2004a
+418.26,422.45,C,my masters um I took uh S_P_ one and S_P_ two with Simon King .,EN2004a
+422.58,424.63,A,You survived S_P_ one and S_P_,EN2004a
+424.63,424.79,C,Yes,EN2004a
+424.63,425.92,A,two,EN2004a
+424.79,426.06,C,. And,EN2004a
+425.92,425.92,A,.,EN2004a
+426.06,432.14,C,"actually I've done quite well in S_P_ one , I've done it a bit worse in S_P_ two because it was a l a lot more challenging .",EN2004a
+432.26,433.99,A,We have two new teachers for S_P_ two .,EN2004a
+434.28,434.67,C,Okay .,EN2004a
+434.87,436.76,B,Too many .,EN2004a
+437.01,439.49,A,And uh,EN2004a
+439.21,439.56,C,Yeah,EN2004a
+439.49,439.65,A,I'll,EN2004a
+439.56,439.56,C,.,EN2004a
+439.65,440.75,A,ask you later on like if you still,EN2004a
+440.65,443.22,C,Right,EN2004a
+440.75,444.45,A,have your notes,EN2004a
+443.22,444.51,C,. Okay,EN2004a
+444.45,444.45,A,.,EN2004a
+444.51,445.39,C,. Back to the topic .,EN2004a
+445.69,456.72,B,Okay okay . So um this is one I've gone through . I've just done one channel . And there were lots of lots and lots and lots of things as you can see . 'Cause I've got,EN2004a
+456.64,456.83,D,Mm-hmm,EN2004a
+456.72,457.08,B,square,EN2004a
+456.83,456.83,D,.,EN2004a
+457.08,472.05,B,brackets around all the things that need to be changed . Um so this person didn't ha um th obviously didn't know about capitalisation . So just about every utterance needs to be capitalised and and needs the end punctuation .,EN2004a
+472.16,479.96,D,"You know , when you get like um someone's talking and there's they sort of pause in the middle of a sentence that's long enough for it to put a break in",EN2004a
+479.63,479.91,B,Yeah .,EN2004a
+479.96,485.01,D,", but they're actually sort of carrying on the sentence , do you have to capitalise each time you transcribe a bit if",EN2004a
+484.96,485.25,B,Um,EN2004a
+485.01,485.38,D,it's mid,EN2004a
+485.25,487.07,B,", no no no . Whatever",EN2004a
+486.43,487.23,D,No no no no . Yeah,EN2004a
+487.07,487.7,B,um,EN2004a
+487.23,487.23,D,.,EN2004a
+487.7,489.5,B,makes sense to you,EN2004a
+489.2,489.56,D,Okay,EN2004a
+489.5,490.81,B,. Um,EN2004a
+489.56,489.56,D,.,EN2004a
+490.81,492.06,B,"but no , it it can",EN2004a
+491.87,493.01,D,Yeah,EN2004a
+492.06,493.13,B,continue into,EN2004a
+493.01,493.66,D,. Just,EN2004a
+493.13,493.68,B,the next,EN2004a
+493.51,493.92,C,Yeah,EN2004a
+493.66,494.37,D,okay,EN2004a
+493.68,494.28,B,segment,EN2004a
+493.92,493.92,C,.,EN2004a
+494.28,494.45,B,and,EN2004a
+494.37,494.6,D,. So,EN2004a
+494.45,494.7,B,that's,EN2004a
+494.6,494.9,D,it's,EN2004a
+494.7,495.11,B,perfectly,EN2004a
+494.9,495.06,D,put,EN2004a
+495.05,495.21,C,I,EN2004a
+495.06,495.15,D,the,EN2004a
+495.11,495.52,B,fine,EN2004a
+495.15,495.69,D,hyphen,EN2004a
+495.21,495.69,C,think,EN2004a
+495.52,495.52,B,.,EN2004a
+495.69,495.8,D,and,EN2004a
+495.69,496.01,C,that's,EN2004a
+495.8,496.14,D,then,EN2004a
+496.01,496.5,C,actually the,EN2004a
+496.46,496.51,A,Mm,EN2004a
+496.5,496.71,C,only,EN2004a
+496.51,496.91,A,the,EN2004a
+496.71,497.03,C,case,EN2004a
+496.91,497.22,A,hyph,EN2004a
+497.03,500.95,C,"where you don't or where you're not supposed to capitalise , right",EN2004a
+500.58,500.88,D,Right .,EN2004a
+500.95,501.3,C,? So,EN2004a
+501.08,501.61,B,Um,EN2004a
+501.3,510.57,C,"if it's quite clear that the sentence is being carried on , the p you know , the sentence from the previous segment is being carried on , then that's when you don't capitalise . Otherwise",EN2004a
+510.22,510.71,D,Okay,EN2004a
+510.38,510.65,A,And you,EN2004a
+510.57,510.69,C,you,EN2004a
+510.65,510.88,A,only,EN2004a
+510.69,510.92,C,do,EN2004a
+510.71,510.71,D,.,EN2004a
+510.88,511.1,A,use,EN2004a
+510.92,510.92,C,.,EN2004a
+511.1,514.41,A,the hyphen I think when the sentence is definitely not continuing,EN2004a
+514.31,514.74,C,Yes,EN2004a
+514.41,514.87,A,anywhere,EN2004a
+514.74,514.74,C,.,EN2004a
+514.8,515.23,D,Oh,EN2004a
+514.87,514.87,A,.,EN2004a
+515.23,515.54,D,right,EN2004a
+515.49,516.22,B,Yeah,EN2004a
+515.54,516.28,D,", okay . I've",EN2004a
+516.22,516.59,B,. Yeah,EN2004a
+516.25,516.41,A,As,EN2004a
+516.28,516.45,D,done,EN2004a
+516.41,516.51,A,in,EN2004a
+516.45,516.65,D,a few,EN2004a
+516.51,516.74,A,like,EN2004a
+516.59,516.59,B,.,EN2004a
+516.65,516.94,D,of those,EN2004a
+516.74,518.65,A,it's,EN2004a
+516.94,518.25,D,wrong then when someone,EN2004a
+518.12,518.39,C,Yeah,EN2004a
+518.25,518.49,D,comes,EN2004a
+518.39,518.39,C,.,EN2004a
+518.49,521.48,D,to check,EN2004a
+519.92,520.56,B,I'll review,EN2004a
+520.21,520.33,C,Yeah .,EN2004a
+520.56,521.71,B,some of these things,EN2004a
+521.48,521.77,D,it,EN2004a
+521.71,522.43,B,um,EN2004a
+521.77,521.77,D,.,EN2004a
+522.43,534.1,B,"after I go through this a bit um just to re-cap . Th these are things that I've after checking um t everybody's work um , these are things that were commonly left out",EN2004a
+533.79,534.08,A,Mm-hmm .,EN2004a
+534.1,534.56,B,or,EN2004a
+534.55,534.91,D,Okay,EN2004a
+534.56,534.99,B,", you",EN2004a
+534.91,534.91,D,.,EN2004a
+534.99,567.52,B,"know misc mis-transcribed , whatever . So I'll go over those t as an opportunity to use the white-board . Um um okay . So uh this person left out a lot of end punctuation and um here's a case where I think she was transcribing an out-breath um or possibly an in-breath uh t uh in and used the hash mark . In any case , I didn't hear anything and and you shouldn't be transcribing in-breaths or out-breaths",EN2004a
+567.17,567.46,D,Okay,EN2004a
+567.34,567.57,A,Right,EN2004a
+567.46,567.46,D,.,EN2004a
+567.52,568.19,B,. That's,EN2004a
+567.57,567.57,A,.,EN2004a
+568.19,569.8,B,n information we don't need .,EN2004a
+577.99,578.75,B,Oh,EN2004a
+578.55,578.79,A,It was,EN2004a
+578.75,578.87,B,", you",EN2004a
+578.79,579.23,A,the creaky,EN2004a
+578.87,579.47,B,know,EN2004a
+579.23,579.76,A,voice,EN2004a
+579.47,579.87,B,", this is the",EN2004a
+579.76,579.76,A,.,EN2004a
+579.87,584.07,B,"head-set mic and I heard something there . It was but it wa yeah , it was a bit",EN2004a
+583.94,584.26,A,Creaky,EN2004a
+584.07,584.63,B,of a,EN2004a
+584.26,585.69,A,voice,EN2004a
+584.63,587.69,B,"yeah , it was creaky , so",EN2004a
+585.44,585.83,C,Yeah,EN2004a
+585.69,585.86,A,. But it,EN2004a
+585.83,585.83,C,.,EN2004a
+585.86,587.6,A,is c really connected to the word . Can we hear,EN2004a
+587.43,588.25,D,Yeah,EN2004a
+587.6,587.97,A,it again,EN2004a
+587.69,588.29,B,yeah,EN2004a
+587.97,587.97,A,?,EN2004a
+588.25,588.25,D,.,EN2004a
+588.29,588.98,B,f,EN2004a
+588.56,589.11,C,And you,EN2004a
+588.98,589.17,B,uh,EN2004a
+589.11,593.29,C,sometimes you don't know really whether it's a mic noise or that person is making that noise,EN2004a
+593.04,593.51,B,Yeah,EN2004a
+593.29,593.29,C,.,EN2004a
+593.45,594.02,D,Yeah,EN2004a
+593.51,594.04,B,", well I didn't think",EN2004a
+594.02,594.02,D,.,EN2004a
+594.04,595.94,B,"it was im let's see , wait .",EN2004a
+609.92,610.52,B,Yeah,EN2004a
+610.22,610.86,A,From,EN2004a
+610.52,611.06,B,. S there's,EN2004a
+610.86,611.07,A,the,EN2004a
+611.06,613.72,B,there's actually quite a bit more in there than,EN2004a
+613.63,614.86,A,from,EN2004a
+613.72,615.0,B,than I heard before . This,EN2004a
+614.86,615.11,A,the,EN2004a
+615.0,628.43,B,"is so I w I heard a creaky voice , and it was audible of the level of the rest of the speech . So I would I would keep that . I think that's good . Oh , okay . I was adding that , that's what I was doing",EN2004a
+628.15,631.8,C,Yeah,EN2004a
+628.43,631.84,B,". That makes sense . Okay , there",EN2004a
+631.8,631.8,C,.,EN2004a
+631.84,638.46,B,you go . Um so there's things like that . Um sh there's a missing false start here um,EN2004a
+638.16,638.46,D,Okay .,EN2004a
+638.46,649.75,B,that didn't get caught . So I added that in . Um so that that's something that's quite common in,EN2004a
+649.72,650.26,C,Okay,EN2004a
+649.75,650.41,B,the transcriptions,EN2004a
+650.26,650.26,C,.,EN2004a
+650.41,655.67,B,"that I've looked at . Missed false starts , um missed",EN2004a
+654.98,656.3,C,And how,EN2004a
+655.67,656.22,B,m,EN2004a
+656.3,672.17,C,"exact do we have to be there ? Because um you know , some people tend to stutter more than others and then they would have a false start four or five times in a row . And how important is it to listen to it really until you've got the exact number of a things right",EN2004a
+671.28,672.43,B,Try to get it right,EN2004a
+672.17,672.45,C,? Yeah,EN2004a
+672.43,672.52,B,. I,EN2004a
+672.45,672.45,C,.,EN2004a
+672.52,676.11,B,mean the it I think syllables should be accounted,EN2004a
+675.95,676.54,C,Yeah,EN2004a
+676.11,676.62,B,for,EN2004a
+676.54,676.65,C,. Well,EN2004a
+676.62,676.89,B,for,EN2004a
+676.65,677.1,C,", 'cause sometimes",EN2004a
+676.89,677.0,B,th,EN2004a
+677.1,680.34,C,"they go you know , like that , and then you're",EN2004a
+680.32,680.9,B,Yeah,EN2004a
+680.34,681.1,C,not really sure whether,EN2004a
+680.9,681.24,B,", well",EN2004a
+681.1,681.37,C,it's,EN2004a
+681.24,681.45,B,don't,EN2004a
+681.37,681.56,C,three,EN2004a
+681.45,681.59,B,let,EN2004a
+681.56,681.88,C,times,EN2004a
+681.59,682.01,B,it drive,EN2004a
+681.88,683.39,C,or four,EN2004a
+682.01,683.78,B,"you crazy , 'cause there is one",EN2004a
+683.39,683.81,C,yeah,EN2004a
+683.78,684.27,B,speaker,EN2004a
+683.81,683.81,C,.,EN2004a
+684.27,691.88,B,"Melissa just played for me today and he stutters horribly . I mean I I I'd you know , it's unfortunate",EN2004a
+691.74,696.63,C,Yeah,EN2004a
+691.88,692.31,B,for,EN2004a
+691.91,693.32,D,Yeah,EN2004a
+692.31,694.41,B,him and for us 'cause,EN2004a
+693.32,694.77,D,. Yeah,EN2004a
+694.41,694.93,B,it's really,EN2004a
+694.77,694.77,D,.,EN2004a
+694.93,696.85,B,gonna be a nightmare to transcribe . So you will,EN2004a
+696.63,696.83,C,. Yeah .,EN2004a
+696.85,706.58,B,"have to draw the line somewhere . But if you c if it's say four repeated um if the word is repeated four times , uh then that's not too hard to count",EN2004a
+705.95,706.28,C,Mm-hmm .,EN2004a
+706.58,712.46,B,". I haven't come across something that's been I haven't come across anything exceeding four , I don't think",EN2004a
+712.32,713.88,C,Yeah,EN2004a
+712.46,712.83,B,. Have you ?,EN2004a
+713.88,718.73,C,". Well , it's not that the word is if the word were the whole word were being used four",EN2004a
+718.54,719.22,B,Mm-hmm,EN2004a
+718.73,719.44,C,times,EN2004a
+719.22,719.57,B,. Mm-hmm,EN2004a
+719.44,719.69,C,", that",EN2004a
+719.57,719.57,B,.,EN2004a
+719.69,726.76,C,"wouldn't have been that difficult , but sometimes it's just a false start , which is really just maybe one or one and a half phones",EN2004a
+726.54,726.93,B,Uh-huh,EN2004a
+726.76,726.97,C,and,EN2004a
+726.93,726.93,B,.,EN2004a
+726.97,732.22,C,then repeated and then you don't really know whether one is a long duration of one or whether it's actually two,EN2004a
+731.83,732.59,B,Yeah,EN2004a
+732.22,732.8,C,", and",EN2004a
+732.59,733.17,B,", yeah",EN2004a
+732.8,733.24,C,that kind of,EN2004a
+733.17,733.17,B,.,EN2004a
+733.24,739.62,C,"thing , so it's I think it was a word starting with D_ and the person was going or s you know",EN2004a
+738.01,740.06,B,Yeah . Yeah,EN2004a
+739.62,739.62,C,.,EN2004a
+740.06,741.78,B,. Make your best guess,EN2004a
+741.22,741.61,C,Yeah .,EN2004a
+741.78,749.27,B,". Try to listen to it carefully enough , but not not so that you're obsessing over it for too long . I would say .",EN2004a
+749.51,756.78,A,"And sometimes with the I would be thinking , are you anticipating a or you're you t trying to say the and you're just",EN2004a
+756.72,756.9,C,Hmm,EN2004a
+756.78,757.13,A,saying,EN2004a
+756.9,756.9,C,.,EN2004a
+757.13,758.72,A,the the the the,EN2004a
+758.28,759.92,B,Alright,EN2004a
+758.72,760.96,A,the,EN2004a
+759.92,761.4,B,". Well there again , f",EN2004a
+760.96,760.96,A,.,EN2004a
+761.4,763.51,B,uh think about robustness and,EN2004a
+763.34,763.69,C,Yeah,EN2004a
+763.51,764.34,B,speech,EN2004a
+763.69,763.69,C,.,EN2004a
+764.34,765.12,B,uh recognition,EN2004a
+764.61,764.88,A,Mm-hmm .,EN2004a
+765.05,765.38,D,Yeah,EN2004a
+765.12,765.53,B,and it really,EN2004a
+765.38,765.38,D,.,EN2004a
+765.53,768.76,B,"doesn't matter . If it's a word fragment , who cares",EN2004a
+767.62,769.07,A,Yeah,EN2004a
+768.26,768.81,C,"Well , speaking",EN2004a
+768.76,769.01,B,. It,EN2004a
+768.81,769.08,C,about,EN2004a
+769.01,769.18,B,you're,EN2004a
+769.07,769.07,A,.,EN2004a
+769.18,770.55,B,"marking it as a fragment , and that's",EN2004a
+770.4,771.15,A,Yeah,EN2004a
+770.55,771.25,B,what's important,EN2004a
+771.15,771.41,A,", yeah",EN2004a
+771.25,771.25,B,.,EN2004a
+771.41,771.41,A,.,EN2004a
+771.48,791.63,C,"Speaking about robustness , if if somebody has an accent that you can only really understand what they're saying due to world knowledge yeah , it what they say , it doesn't really actually sound at all , you know , what it is , then do you transcribe more phonetically or do you put uh uh a star of after every single one word",EN2004a
+791.42,792.89,B,Well um,EN2004a
+791.63,792.01,C,? Or,EN2004a
+792.89,797.8,B,I wouldn't de be using the star so liberally um,EN2004a
+797.33,797.9,C,"Yeah , that's what",EN2004a
+797.8,798.05,B,for,EN2004a
+797.9,798.32,C,I thought,EN2004a
+798.05,798.75,B,a non-native,EN2004a
+798.32,798.88,C,", that you're not",EN2004a
+798.75,799.65,B,speaker,EN2004a
+798.88,799.67,C,supposed to do,EN2004a
+799.65,799.65,B,.,EN2004a
+799.67,829.34,C,"it , but um the one there's one I'm transcribing right now , you know , a whole batch of dialogues where uh all four participants are non-native , and there's especially one there that um I think he's Eastern European and I think that's the only reason I can understand what he's saying at all , because I'm Eastern European and uh but if we would just play it I think to a recognizer , then what he says , you know , the way he realises words , sounds",EN2004a
+829.12,829.54,B,Mm-hmm,EN2004a
+829.34,829.66,C,nothing,EN2004a
+829.54,829.54,B,.,EN2004a
+829.66,831.53,C,at all like it it should be .,EN2004a
+832.17,838.42,B,"Well , right , right . Um I mean and and for that matter a lot of n native English speakers'",EN2004a
+837.36,837.92,C,Yeah .,EN2004a
+838.42,839.85,B,realisations aren't going to,EN2004a
+839.8,840.27,C,Yeah,EN2004a
+839.85,840.58,B,be,EN2004a
+840.27,840.27,C,.,EN2004a
+840.58,842.84,B,so true to,EN2004a
+842.82,842.89,A,I,EN2004a
+842.84,843.6,B,um,EN2004a
+842.89,846.73,A,"try to take consistency , if they always stress the wrong part of",EN2004a
+846.72,847.02,C,Yeah,EN2004a
+846.73,847.11,A,the,EN2004a
+847.02,847.02,C,.,EN2004a
+847.11,848.7,A,"word , then I think okay , I'll let that in",EN2004a
+848.66,849.19,B,Yeah,EN2004a
+848.7,849.28,A,", but if",EN2004a
+849.19,849.89,B,", yeah",EN2004a
+849.28,849.89,A,if it comes,EN2004a
+849.89,849.89,B,.,EN2004a
+849.89,851.61,A,out and like one word is,EN2004a
+851.67,860.03,C,"No , it's less of a s it's less of a stress . It's really like uh his uh , I don't know , just the phonemes sounding differently .",EN2004a
+860.4,864.71,B,"Yeah . Well , I wouldn't bother to mark all of those instances",EN2004a
+864.64,864.84,C,Well,EN2004a
+864.71,864.99,B,though,EN2004a
+864.84,865.07,C,", you",EN2004a
+864.99,864.99,B,.,EN2004a
+865.07,866.37,C,"can't really , because it",EN2004a
+866.33,866.65,B,No,EN2004a
+866.37,866.65,C,would be,EN2004a
+866.65,866.75,B,", I",EN2004a
+866.65,866.96,C,all,EN2004a
+866.75,867.83,B,mean,EN2004a
+866.96,867.18,C,of it .,EN2004a
+867.83,894.98,B,"yeah , they're they're uh you're gonna find that for any speaker , they have a set way of of realising these things . And and it's just like Fiona was saying , um that the the word that stands out is something really uh aberrant . Like um I'm thinking of I I've used this example before , there's a guy who says project instead of product",EN2004a
+894.25,894.51,C,Oh .,EN2004a
+894.85,895.19,A,Ah,EN2004a
+894.88,895.61,D,Oh,EN2004a
+894.98,895.56,B,and,EN2004a
+895.19,895.19,A,.,EN2004a
+895.56,895.69,B,uh,EN2004a
+895.61,895.61,D,.,EN2004a
+895.69,897.88,B,it's something like project,EN2004a
+897.68,898.07,C,Yeah,EN2004a
+897.76,898.25,D,Mm,EN2004a
+897.88,898.14,B,and it's,EN2004a
+898.07,898.07,C,.,EN2004a
+898.14,898.4,B,probably,EN2004a
+898.25,898.25,D,.,EN2004a
+898.4,900.21,B,just his his pronunciation,EN2004a
+900.06,900.26,C,Oh,EN2004a
+900.21,900.29,B,of,EN2004a
+900.26,900.33,C,", I",EN2004a
+900.29,900.72,B,of,EN2004a
+900.33,901.42,C,think I've transcribed him and,EN2004a
+901.32,901.32,B,.,EN2004a
+901.42,903.71,C,I had project at all,EN2004a
+902.75,903.88,B,Yeah,EN2004a
+903.71,904.46,C,um,EN2004a
+903.88,904.66,B,". Well , it",EN2004a
+904.46,905.08,C,evolution,EN2004a
+904.66,905.2,B,it they,EN2004a
+905.08,905.69,C,criteria,EN2004a
+905.2,905.88,B,were clearly talking,EN2004a
+905.69,905.69,C,.,EN2004a
+905.88,908.69,B,about a product . So so uh,EN2004a
+908.4,908.72,C,Yeah,EN2004a
+908.69,908.82,B,I,EN2004a
+908.72,908.72,C,.,EN2004a
+908.82,910.7,B,m I marked that as a m,EN2004a
+910.69,911.77,C,Mm,EN2004a
+910.7,911.87,B,uh mispronunciation or,EN2004a
+911.77,912.3,C,. Okay,EN2004a
+911.87,912.55,B,s or something,EN2004a
+912.3,912.3,C,.,EN2004a
+912.55,913.58,B,to flag,EN2004a
+913.5,914.46,C,Yeah,EN2004a
+913.58,914.02,B,anyway .,EN2004a
+914.46,917.32,C,. And one guy who was saying evolution each time he meant,EN2004a
+917.31,917.59,B,Oh,EN2004a
+917.32,917.95,C,evaluation,EN2004a
+917.59,918.64,B,", evaluation",EN2004a
+917.95,918.66,C,", and it",EN2004a
+918.64,919.15,B,. Yeah,EN2004a
+918.66,919.18,C,took me,EN2004a
+919.15,919.52,B,", I",EN2004a
+919.18,920.31,C,a whole dialogue,EN2004a
+919.52,920.38,B,I've I remember,EN2004a
+920.31,921.32,C,Yeah,EN2004a
+920.38,921.46,B,that . That one I would I,EN2004a
+921.32,922.21,C,", yeah",EN2004a
+921.46,922.26,B,"would flag , just like",EN2004a
+922.21,922.21,C,.,EN2004a
+922.26,925.2,B,you did . It that's something definitely to mark,EN2004a
+925.13,925.26,C,Yeah,EN2004a
+925.2,925.37,B,up,EN2004a
+925.26,925.65,C,", but that's",EN2004a
+925.37,925.37,B,.,EN2004a
+925.65,936.19,C,"really something I would always transcribe it , you know , for lack of better knowledge or lack of context , and then at the end of the dialogue it dawned on me that he actually meant evaluation",EN2004a
+934.86,935.12,D,Yeah .,EN2004a
+935.41,936.14,B,Mm yeah .,EN2004a
+936.19,940.42,C,", and then I went back and replaced I replaced it in the whole transcription .",EN2004a
+940.64,941.69,B,That's good . That's good .,EN2004a
+941.96,950.06,A,"Well , at the moment we have a lecturer that can I can never quite s tell if he's saying problem or programme . Programme",EN2004a
+949.18,949.44,C,Yeah .,EN2004a
+950.06,951.25,A,problem . And,EN2004a
+951.15,951.56,C,Yeah,EN2004a
+951.25,951.6,A,it,EN2004a
+951.56,951.56,C,.,EN2004a
+951.6,955.84,A,"I can't actually say but when I'm listening to , I'm thinking",EN2004a
+955.44,955.85,B,Alright,EN2004a
+955.84,956.03,A,And,EN2004a
+955.85,959.58,B,". Yeah , I",EN2004a
+956.03,956.71,A,I,EN2004a
+956.23,956.44,C,Yeah .,EN2004a
+956.71,957.49,A,can't tell .,EN2004a
+959.58,964.88,B,kn I don't know what to s tell you about n um certain speakers,EN2004a
+964.48,965.55,C,"Yeah , basically",EN2004a
+964.88,965.65,B,. I it's,EN2004a
+965.55,966.02,C,th,EN2004a
+965.65,966.04,B,just,EN2004a
+966.02,966.11,C,I,EN2004a
+966.04,966.49,B,something,EN2004a
+966.11,966.65,C,think just,EN2004a
+966.49,966.71,B,we have,EN2004a
+966.65,966.77,C,do,EN2004a
+966.71,966.83,B,to,EN2004a
+966.77,966.92,C,your,EN2004a
+966.83,967.04,B,deal,EN2004a
+966.92,967.41,C,best,EN2004a
+967.04,967.23,B,with .,EN2004a
+967.41,967.65,C,and,EN2004a
+967.57,967.74,A,Hope,EN2004a
+967.65,967.85,C,hope,EN2004a
+967.74,967.85,A,he's,EN2004a
+967.85,967.99,C,for,EN2004a
+967.85,968.34,A,not involved,EN2004a
+967.99,968.8,C,the best,EN2004a
+968.34,968.67,A,with these,EN2004a
+968.62,969.96,B,Yeah,EN2004a
+968.67,969.15,A,actually,EN2004a
+968.8,968.8,C,.,EN2004a
+969.15,970.03,A,. I hope,EN2004a
+969.96,970.27,B,. Yeah,EN2004a
+970.03,970.28,A,he's not,EN2004a
+970.27,970.27,B,.,EN2004a
+970.28,972.0,A,involved with this,EN2004a
+971.81,972.21,D,Yeah,EN2004a
+972.0,972.0,A,.,EN2004a
+972.21,972.21,D,.,EN2004a
+972.47,976.53,B,"Okay . So oop , I lost my lapel lapel mic .",EN2004a
+976.8,979.71,A,That'll give some transcriber a headache,EN2004a
+978.45,980.35,B,Yeah,EN2004a
+979.7,979.85,C,Well,EN2004a
+979.71,979.71,A,.,EN2004a
+979.85,980.58,C,", we have both",EN2004a
+980.35,980.62,B,. Wait,EN2004a
+980.58,980.93,C,head-set,EN2004a
+980.62,980.62,B,.,EN2004a
+980.93,983.34,C,and lapel transcription . So it's not too bad .,EN2004a
+983.65,992.51,B,Oops . Least I won't be transcribing the What do I care ?,EN2004a
+994.55,997.46,C,"Yeah , let's have Maarika transcribe that .",EN2004a
+997.89,1009.72,B,"Okay , so um there've there've been lots of missed filled pauses . Everybody seems to miss those , some more than others . So just really keep an ear out for those",EN2004a
+1009.43,1009.96,A,It's easy,EN2004a
+1009.72,1010.1,B,. Um,EN2004a
+1009.96,1013.34,A,"to , 'cause you're so used to t t tuning them out",EN2004a
+1013.31,1013.86,D,Mm,EN2004a
+1013.34,1013.53,A,", and you",EN2004a
+1013.49,1014.38,B,Mm-hmm,EN2004a
+1013.53,1013.98,A,know it's easy,EN2004a
+1013.86,1013.86,D,.,EN2004a
+1013.98,1014.42,A,when I go,EN2004a
+1014.38,1014.38,B,.,EN2004a
+1014.42,1017.65,A,"back over I normally g like go back to the beginning , do a quick pass of the main",EN2004a
+1017.44,1017.73,C,Mm-hmm,EN2004a
+1017.65,1018.11,A,sections,EN2004a
+1017.73,1017.73,C,.,EN2004a
+1018.11,1021.73,A,again and think ah yeah,EN2004a
+1020.58,1022.22,B,Yeah,EN2004a
+1021.73,1021.73,A,.,EN2004a
+1022.22,1029.36,B,". Yeah . I I'm not sure , I miss them plenty myself . But um this this second pass we should really",EN2004a
+1029.35,1030.52,C,Um,EN2004a
+1029.36,1030.92,B,try to catch,EN2004a
+1030.16,1030.48,A,Mm-hmm .,EN2004a
+1030.52,1030.93,C,"sorry , I'm",EN2004a
+1030.92,1031.12,B,all,EN2004a
+1030.93,1031.21,C,just,EN2004a
+1031.12,1031.22,B,of,EN2004a
+1031.21,1031.52,C,seeing,EN2004a
+1031.22,1031.62,B,them or at,EN2004a
+1031.52,1031.77,C,this,EN2004a
+1031.62,1031.88,B,least,EN2004a
+1031.77,1031.93,C,with,EN2004a
+1031.88,1032.16,B,most,EN2004a
+1031.93,1032.21,C,the,EN2004a
+1032.16,1032.28,B,of,EN2004a
+1032.21,1032.95,C,T_V_,EN2004a
+1032.28,1033.2,B,th,EN2004a
+1032.95,1033.38,C,", there is",EN2004a
+1033.2,1033.42,B,yeah,EN2004a
+1033.38,1033.66,C,T_,EN2004a
+1033.42,1033.42,B,.,EN2004a
+1033.66,1038.33,C,underscore V_ underscore . I thought we're just supposed to use the underscore between,EN2004a
+1038.2,1038.91,B,No,EN2004a
+1038.33,1039.11,C,letters,EN2004a
+1038.91,1039.56,B,", no",EN2004a
+1039.11,1039.36,C,? No ?,EN2004a
+1039.56,1040.08,B,. After,EN2004a
+1039.69,1040.12,A,That's what I,EN2004a
+1040.08,1040.08,B,.,EN2004a
+1040.12,1041.09,A,thought the first,EN2004a
+1040.86,1041.33,C,Okay,EN2004a
+1041.09,1041.43,A,day as,EN2004a
+1041.33,1041.75,C,", sorry",EN2004a
+1041.43,1041.76,A,well,EN2004a
+1041.75,1041.92,C,", then",EN2004a
+1041.76,1041.76,A,.,EN2004a
+1041.92,1043.16,C,I've done it wrong so far,EN2004a
+1043.14,1044.24,B,Okay,EN2004a
+1043.16,1043.16,C,.,EN2004a
+1044.24,1046.04,B,". Yeah , it should be after every",EN2004a
+1045.45,1045.87,C,Okay .,EN2004a
+1046.04,1047.96,B,um acronym,EN2004a
+1047.81,1048.45,D,You know,EN2004a
+1047.96,1048.46,B,letter,EN2004a
+1048.45,1048.98,D,", um",EN2004a
+1048.46,1048.46,B,.,EN2004a
+1048.98,1058.59,D,"you standardised all the the filled pauses , the uh and do we need to go through and change ones that people did differently . Like if I where I've written E_R_ for uh , change it all to U_ H_ , that",EN2004a
+1058.55,1059.13,B,Yeah,EN2004a
+1058.59,1059.06,D,sort of thing ?,EN2004a
+1059.13,1067.1,B,", yeah . So at this point the um the only file that's been checked is Melissa one that Melissa did , and",EN2004a
+1067.06,1067.37,D,Mm-hmm,EN2004a
+1067.1,1067.52,B,that was,EN2004a
+1067.32,1067.54,A,Mm-hmm,EN2004a
+1067.37,1067.37,D,.,EN2004a
+1067.52,1067.75,B,checked,EN2004a
+1067.54,1067.54,A,.,EN2004a
+1067.75,1072.46,B,"by me . Um so w we we're starting fresh with these and , you know",EN2004a
+1072.24,1072.47,A,Right,EN2004a
+1072.46,1072.85,B,", changes",EN2004a
+1072.47,1072.47,A,.,EN2004a
+1072.85,1076.89,B,like that that were just announced we'll we'll be able to catch for,EN2004a
+1076.48,1076.99,D,Yeah,EN2004a
+1076.89,1077.12,B,these,EN2004a
+1076.99,1076.99,D,.,EN2004a
+1077.12,1078.63,B,first passes,EN2004a
+1078.14,1078.63,D,Okay .,EN2004a
+1078.63,1086.13,B,". So yeah , y if you do see um something like um U_H_M_ for um",EN2004a
+1085.99,1086.65,D,Yeah,EN2004a
+1086.13,1086.7,B,", you you would",EN2004a
+1086.65,1086.89,D,", just",EN2004a
+1086.7,1087.04,B,change,EN2004a
+1086.83,1087.12,A,Mm-hmm,EN2004a
+1086.89,1087.1,D,change,EN2004a
+1087.04,1087.36,B,that,EN2004a
+1087.1,1087.19,D,it,EN2004a
+1087.12,1087.12,A,.,EN2004a
+1087.19,1087.56,D,to,EN2004a
+1087.36,1087.74,B,to,EN2004a
+1087.56,1087.85,D,um,EN2004a
+1087.74,1087.87,B,the,EN2004a
+1087.85,1087.85,D,.,EN2004a
+1087.87,1089.83,B,regularised v version,EN2004a
+1089.13,1089.48,D,Okay .,EN2004a
+1089.83,1094.91,B,". Um and we just ch you know , this is arbitrary , but we had to choose something and not",EN2004a
+1094.62,1094.88,A,Yeah,EN2004a
+1094.87,1095.3,D,Yeah,EN2004a
+1094.88,1094.88,A,.,EN2004a
+1094.91,1095.42,B,let it get,EN2004a
+1095.3,1095.3,D,.,EN2004a
+1095.42,1104.56,B,too convoluted with um with choice . Here's,EN2004a
+1104.07,1108.23,A,"So if they pause , just where you've got it highlighted at the moment",EN2004a
+1108.37,1108.64,B,Uh-huh .,EN2004a
+1109.84,1111.14,A,That wor the hyphen .,EN2004a
+1111.73,1112.98,B,"Mm-hmm , there .",EN2004a
+1113.01,1130.39,A,"So I have to re-do the meetings from the minutes from the last meeting . Was she was that a like w r real definite I'm starting a new sentence here , 'cause I'd sometime if it sounds like he could carry on saying the whole sentence , I sometimes don't have a hyphen there",EN2004a
+1130.16,1130.47,B,Um,EN2004a
+1130.39,1130.5,A,. But,EN2004a
+1130.47,1130.81,B,I,EN2004a
+1130.5,1132.5,A,is it a t any,EN2004a
+1132.04,1132.51,C,But it is a,EN2004a
+1132.5,1133.75,A,hesitation,EN2004a
+1132.51,1133.16,C,back-track .,EN2004a
+1133.38,1133.91,D,Yeah,EN2004a
+1133.75,1134.46,A,? Okay,EN2004a
+1133.8,1134.27,B,Yeah,EN2004a
+1133.91,1133.91,D,.,EN2004a
+1134.27,1134.6,B,", yeah",EN2004a
+1134.46,1134.78,A,. Okay,EN2004a
+1134.6,1134.85,B,. So it's,EN2004a
+1134.78,1134.78,A,.,EN2004a
+1134.85,1135.03,B,not,EN2004a
+1134.93,1135.05,D,We,EN2004a
+1135.03,1135.6,B,necessarily,EN2004a
+1135.05,1135.88,D,do the meeting,EN2004a
+1135.6,1136.02,B,restarting,EN2004a
+1135.88,1136.92,D,. The minutes,EN2004a
+1136.02,1137.18,B,the sentence,EN2004a
+1136.92,1137.44,D,", yeah",EN2004a
+1137.08,1137.28,A,Right,EN2004a
+1137.18,1137.59,B,", but",EN2004a
+1137.28,1137.28,A,.,EN2004a
+1137.44,1137.44,D,.,EN2004a
+1137.59,1137.92,B,just a,EN2004a
+1137.88,1138.24,C,Yeah,EN2004a
+1137.92,1138.36,B,restart,EN2004a
+1138.24,1138.64,C,", I think",EN2004a
+1138.36,1138.68,B,of any,EN2004a
+1138.64,1138.76,C,of,EN2004a
+1138.68,1139.84,B,type,EN2004a
+1138.76,1140.21,C,"it in terms of , you know",EN2004a
+1139.84,1140.62,B,. A phrase,EN2004a
+1140.21,1140.86,C,", not even",EN2004a
+1140.62,1140.62,B,.,EN2004a
+1140.86,1144.43,C,"maybe to well , if I th if you think of it in terms of a syntactic tree",EN2004a
+1144.21,1144.44,A,Yeah,EN2004a
+1144.43,1144.74,C,", it",EN2004a
+1144.44,1144.44,A,.,EN2004a
+1144.74,1148.11,C,"n doesn't have to go back all the way to the S_ node , but it just m",EN2004a
+1148.05,1148.31,A,Yeah,EN2004a
+1148.11,1148.34,C,it,EN2004a
+1148.31,1148.31,A,.,EN2004a
+1148.34,1149.66,C,might go back to the last,EN2004a
+1149.55,1149.86,A,Just,EN2004a
+1149.66,1149.87,C,node,EN2004a
+1149.86,1150.21,A,one,EN2004a
+1149.87,1150.34,C,or something,EN2004a
+1149.96,1150.36,D,Mm-hmm,EN2004a
+1150.21,1150.39,A,to the,EN2004a
+1150.34,1150.64,C,like,EN2004a
+1150.36,1150.36,D,.,EN2004a
+1150.39,1150.64,A,next,EN2004a
+1150.64,1151.35,C,that,EN2004a
+1150.64,1156.39,A,"door , yeah",EN2004a
+1151.35,1158.04,C,. Yeah,EN2004a
+1151.38,1158.08,B,"Yeah . Thank you for that description , Beata",EN2004a
+1156.39,1158.04,A,". Oh goodness , who would know what that was",EN2004a
+1158.04,1158.04,C,.,EN2004a
+1158.04,1158.15,A,uh,EN2004a
+1158.08,1158.08,B,.,EN2004a
+1158.15,1161.24,A,if somebody that didn't know about linguistics were trying to transcribe S_,EN2004a
+1161.01,1161.26,C,Well,EN2004a
+1161.24,1162.48,A,node,EN2004a
+1161.26,1162.75,C,it's just my way of of knowing,EN2004a
+1162.48,1164.59,A,. Yeah,EN2004a
+1162.75,1164.85,C,"if it w sorry , 'cause linguistics is all I've ever",EN2004a
+1164.59,1165.75,A,. Yeah,EN2004a
+1164.85,1166.38,C,known,EN2004a
+1165.75,1166.73,A,. Yeah,EN2004a
+1166.38,1166.38,C,.,EN2004a
+1166.73,1166.73,A,.,EN2004a
+1168.52,1171.28,B,Here's a uh so that answers your question,EN2004a
+1171.27,1172.16,A,Sorry,EN2004a
+1171.28,1172.33,B,about that answers,EN2004a
+1172.16,1172.57,A,? Yes,EN2004a
+1172.33,1172.72,B,your question,EN2004a
+1172.57,1172.78,A,", yeah",EN2004a
+1172.72,1172.86,B,about,EN2004a
+1172.78,1172.78,A,.,EN2004a
+1172.86,1188.27,B,"this one up here ? Okay . Here's where I've I heard a another sound , another false start . Um or a stutter , I would say . Let me see . Oh yeah .",EN2004a
+1193.45,1196.42,B,I'm not seeing where this is .,EN2004a
+1197.08,1198.47,A,You're three lines in .,EN2004a
+1199.07,1203.56,B,"Okay . Okay , okay . Okay .",EN2004a
+1212.13,1213.15,B,So,EN2004a
+1212.77,1213.09,D,Mm-hmm .,EN2004a
+1213.15,1213.26,B,", that",EN2004a
+1213.23,1213.59,C,Mm-hmm,EN2004a
+1213.26,1213.66,B,kind of thing,EN2004a
+1213.59,1213.59,C,.,EN2004a
+1213.66,1218.85,B,". And there was a vowel in there , but you noticed that she just used the and that's fine",EN2004a
+1218.68,1219.29,A,What's,EN2004a
+1218.83,1219.08,D,Okay,EN2004a
+1218.85,1219.33,B,. The,EN2004a
+1219.08,1219.08,D,.,EN2004a
+1219.18,1219.61,C,Yeah,EN2004a
+1219.29,1219.36,A,the,EN2004a
+1219.33,1219.67,B,the letter,EN2004a
+1219.61,1219.61,C,.,EN2004a
+1219.67,1219.98,B,D_ .,EN2004a
+1220.37,1222.57,A,What's the C_ ? Is,EN2004a
+1222.46,1222.79,B,That's,EN2004a
+1222.57,1223.1,A,that a,EN2004a
+1222.79,1225.83,B,she would like see . She,EN2004a
+1225.35,1227.04,A,There's a d judgment is that that,EN2004a
+1234.42,1237.03,B,"Oh , sorry . I didn't go f back far enough .",EN2004a
+1237.91,1238.95,A,"Oh , I've not used that button yet .",EN2004a
+1239.54,1243.3,D,"Where you've written at et cetera , is that how we're supposed to be writing it",EN2004a
+1242.82,1243.88,B,Yes,EN2004a
+1243.3,1243.65,D,? Okay .,EN2004a
+1243.88,1247.62,B,". Um where is that . Yes , she's",EN2004a
+1247.52,1247.81,D,Yeah,EN2004a
+1247.62,1247.82,B,so,EN2004a
+1247.81,1247.81,D,.,EN2004a
+1247.82,1249.1,B,she spelled it wrong,EN2004a
+1249.08,1249.42,C,Where,EN2004a
+1249.1,1249.93,B,. Um,EN2004a
+1249.42,1249.42,C,?,EN2004a
+1249.93,1251.02,B,uh up here .,EN2004a
+1251.8,1252.73,C,"Oh , et cetera .",EN2004a
+1252.92,1254.99,B,"Yeah , so I d I mentioned that because of spelling",EN2004a
+1254.86,1254.86,C,.,EN2004a
+1254.99,1256.45,B,". And yes , any g",EN2004a
+1256.42,1256.84,C,Is it one,EN2004a
+1256.83,1256.86,B,I,EN2004a
+1256.84,1257.9,C,word or is it two words ?,EN2004a
+1258.19,1259.22,B,It's one word,EN2004a
+1258.96,1259.3,C,Okay,EN2004a
+1259.22,1259.5,B,. So,EN2004a
+1259.3,1259.3,C,.,EN2004a
+1259.5,1263.64,B,I d I just said spelling,EN2004a
+1262.69,1263.66,C,Because I thought it would,EN2004a
+1263.64,1263.79,B,. It's,EN2004a
+1263.66,1264.15,C,be like,EN2004a
+1263.79,1265.59,B,an admonishment,EN2004a
+1264.15,1264.96,C,et alii .,EN2004a
+1265.59,1265.89,B,. Sorry ?,EN2004a
+1266.37,1267.7,C,But in sh it isn't it,EN2004a
+1267.6,1267.82,D,Et,EN2004a
+1267.7,1267.85,C,in,EN2004a
+1267.82,1268.35,D,cetera,EN2004a
+1267.85,1268.55,C,Latin like et,EN2004a
+1268.35,1268.35,D,.,EN2004a
+1268.55,1270.56,C,"cetera , like et alii or",EN2004a
+1271.01,1274.62,B,Uh like A_T_ is,EN2004a
+1274.12,1274.79,C,"No no no , like",EN2004a
+1274.62,1274.98,B,uh,EN2004a
+1274.79,1279.09,C,"et w you know , when you have uh when you have a citation and you say et al",EN2004a
+1279.06,1279.33,B,Mm-hmm,EN2004a
+1279.09,1279.66,C,", it means",EN2004a
+1279.33,1279.33,B,.,EN2004a
+1279.66,1286.35,C,"and others , et et al et alii is the full word , and et cetera means and following . So",EN2004a
+1286.8,1287.72,A,In the dictionary here,EN2004a
+1287.53,1288.63,C,Yeah,EN2004a
+1287.72,1288.42,A,it's one word .,EN2004a
+1288.63,1289.39,C,. Oh in it is,EN2004a
+1289.25,1289.73,B,Yeah,EN2004a
+1289.39,1289.87,C,", okay",EN2004a
+1289.73,1290.13,B,", yeah",EN2004a
+1289.87,1290.52,C,", yeah",EN2004a
+1290.13,1291.35,B,", yeah",EN2004a
+1290.52,1290.52,C,.,EN2004a
+1291.35,1298.55,B,". If you have any questions about spellings , I i I think I m might have sent an email to this effect , just check the Oxford English Dictionary",EN2004a
+1298.16,1298.37,C,Mm-hmm .,EN2004a
+1298.55,1299.56,B,online,EN2004a
+1298.68,1299.21,D,Okay .,EN2004a
+1299.56,1308.34,B,". Uh and that's that will be our guide . Um , so a as far as I know , this is just missing an E_ cetera",EN2004a
+1307.32,1308.18,C,"Mm-hmm , yeah .",EN2004a
+1308.34,1318.03,B,. Um but anyway . You can We've considered experimenting with running this through a spell check . You,EN2004a
+1317.93,1318.53,D,Mm,EN2004a
+1318.03,1318.84,B,could take this,EN2004a
+1318.53,1318.53,D,.,EN2004a
+1318.84,1321.94,B,as an Emacs file and run a spell check on,EN2004a
+1321.93,1322.28,C,Mm-hmm,EN2004a
+1321.94,1322.57,B,it . But,EN2004a
+1322.28,1322.28,C,.,EN2004a
+1322.57,1325.66,B,I think it would slow things down too much,EN2004a
+1324.75,1325.25,C,Yeah,EN2004a
+1325.0,1327.21,A,Yeah,EN2004a
+1325.25,1325.25,C,.,EN2004a
+1325.66,1326.26,B,. So just,EN2004a
+1326.03,1326.3,C,I think,EN2004a
+1326.26,1327.36,B,hopefully i in,EN2004a
+1327.21,1327.5,A,. Would give,EN2004a
+1327.36,1327.72,B,going,EN2004a
+1327.5,1327.92,A,Emacs,EN2004a
+1327.72,1327.96,B,through,EN2004a
+1327.92,1327.96,A,a,EN2004a
+1327.96,1328.16,B,this,EN2004a
+1327.96,1328.3,A,headache,EN2004a
+1328.16,1328.37,B,very,EN2004a
+1328.3,1328.42,A,as,EN2004a
+1328.37,1329.24,B,carefully,EN2004a
+1328.42,1329.4,A,well,EN2004a
+1329.24,1329.64,B,you're going,EN2004a
+1329.4,1329.4,A,.,EN2004a
+1329.64,1331.62,B,to notice these misspellings,EN2004a
+1331.14,1331.39,C,Yeah,EN2004a
+1331.36,1331.54,A,Yeah,EN2004a
+1331.39,1332.12,C,", I think",EN2004a
+1331.54,1331.54,A,.,EN2004a
+1331.62,1331.62,B,.,EN2004a
+1332.12,1341.88,C,"i if somebody could write I don't know how difficult it would be in practice to write a script that would ignore um all the word fragments , anything with a hyphen . Then a spell-check",EN2004a
+1341.51,1342.65,B,Mm-hmm,EN2004a
+1341.88,1342.8,C,might make make,EN2004a
+1342.65,1342.65,B,.,EN2004a
+1342.8,1350.92,C,"sense . But uh to just use simple Emacs , it will uh basically mark um all the word fragments for you",EN2004a
+1350.84,1351.37,B,Mm-hmm,EN2004a
+1350.92,1351.5,C,", and",EN2004a
+1351.37,1351.37,B,.,EN2004a
+1351.5,1357.98,C,"uh , you know , and I know from experience , at some point you also get negligent , you just click okay okay okay , you know , that's not",EN2004a
+1357.95,1358.33,B,Yeah,EN2004a
+1357.98,1358.44,C,"a mistake , and",EN2004a
+1358.33,1358.66,B,", yeah",EN2004a
+1358.44,1358.67,C,then you,EN2004a
+1358.66,1358.66,B,.,EN2004a
+1358.67,1360.43,C,might miss a real error,EN2004a
+1359.75,1361.33,B,Right,EN2004a
+1360.43,1361.71,C,. So it doesn't make any sense,EN2004a
+1361.33,1361.86,B,". Yeah , I",EN2004a
+1361.71,1361.71,C,.,EN2004a
+1361.86,1367.93,B,th I think you're right . So we'll we will just hope that you catch it . Um,EN2004a
+1365.56,1367.22,C,Mm-hmm .,EN2004a
+1367.93,1369.05,B,That's what we'll do .,EN2004a
+1369.68,1371.43,A,"Yeah , the C_ . Um",EN2004a
+1371.4,1375.11,B,Okay . So Sorry .,EN2004a
+1375.456,1375.456,D,.,EN2004a
+1381.54,1383.28,B,So I think she just she didn't,EN2004a
+1383.04,1383.39,D,Okay,EN2004a
+1383.28,1383.66,B,catch,EN2004a
+1383.39,1383.39,D,.,EN2004a
+1383.44,1383.8,A,She was,EN2004a
+1383.66,1384.05,B,the full,EN2004a
+1383.8,1384.45,A,cutting,EN2004a
+1384.05,1384.56,B,form,EN2004a
+1384.45,1384.68,A,off,EN2004a
+1384.49,1384.72,C,Yeah,EN2004a
+1384.56,1384.56,B,.,EN2004a
+1384.68,1384.95,A,rather,EN2004a
+1384.72,1384.72,C,.,EN2004a
+1384.95,1387.81,A,than saying she would like s to have see,EN2004a
+1387.41,1387.91,B,Right,EN2004a
+1387.81,1388.36,A,something,EN2004a
+1387.91,1388.6,B,", right",EN2004a
+1388.36,1388.36,A,.,EN2004a
+1388.43,1388.61,C,Yeah,EN2004a
+1388.6,1389.65,B,. Yeah,EN2004a
+1388.61,1388.61,C,.,EN2004a
+1389.65,1392.61,B,". She I think she meant to use the infinitive , but she just left off the",EN2004a
+1392.52,1393.05,C,But,EN2004a
+1392.61,1392.83,B,to .,EN2004a
+1393.05,1393.86,C,see is a,EN2004a
+1393.8,1393.91,A,Is,EN2004a
+1393.86,1394.23,C,actual,EN2004a
+1393.91,1394.23,A,a whole,EN2004a
+1394.23,1394.55,C,full,EN2004a
+1394.23,1394.74,A,word,EN2004a
+1394.55,1394.91,C,word,EN2004a
+1394.74,1394.74,A,.,EN2004a
+1394.91,1398.01,C,", shouldn't it there b shouldn't there be a space between see and the hyphen ?",EN2004a
+1399.11,1399.69,B,A space,EN2004a
+1399.46,1399.71,C,You know,EN2004a
+1399.69,1400.48,B,between,EN2004a
+1399.71,1400.75,C,", not to be",EN2004a
+1400.48,1400.69,B,She,EN2004a
+1400.62,1400.96,A,Yeah,EN2004a
+1400.69,1400.88,B,would,EN2004a
+1400.75,1401.01,C,not,EN2004a
+1400.88,1401.17,B,like,EN2004a
+1400.96,1400.96,A,.,EN2004a
+1401.01,1401.28,C,to be,EN2004a
+1401.17,1403.17,B,see,EN2004a
+1401.28,1402.13,C,pedantic .,EN2004a
+1403.17,1404.78,B,. She would like see,EN2004a
+1404.32,1404.79,C,After the,EN2004a
+1404.78,1404.78,B,.,EN2004a
+1404.79,1407.2,C,"no , the the C_ and the hyphen , shouldn't there be a space",EN2004a
+1406.96,1407.6,B,Yes,EN2004a
+1407.2,1407.2,C,?,EN2004a
+1407.6,1409.88,B,"yes yes , you're right . Yeah .",EN2004a
+1410.21,1410.49,C,Okay .,EN2004a
+1410.85,1411.39,A,'Kay .,EN2004a
+1411.67,1413.25,B,Exactly,EN2004a
+1412.3,1413.57,A,"Thanks , that's what I was asking",EN2004a
+1413.25,1413.93,B,. Uh,EN2004a
+1413.57,1414.01,A,. I should've just,EN2004a
+1413.93,1414.08,B,that,EN2004a
+1414.01,1414.13,A,said,EN2004a
+1414.08,1414.31,B,was,EN2004a
+1414.13,1414.4,A,it that,EN2004a
+1414.31,1414.5,B,what,EN2004a
+1414.4,1414.54,A,way,EN2004a
+1414.5,1414.61,B,you,EN2004a
+1414.54,1417.47,A,. Yeah,EN2004a
+1414.61,1416.87,B,were m remarking about . Okay,EN2004a
+1416.05,1416.35,C,Yeah .,EN2004a
+1416.87,1418.02,B,. There we go,EN2004a
+1417.47,1417.47,A,.,EN2004a
+1418.02,1430.0,B,. Let me save that . Okay . What else ? Um be careful about um finding mis-transcriptions . So um,EN2004a
+1431.92,1433.16,C,Um the would and w,EN2004a
+1444.03,1447.03,B,So she t she transcribed that as would . And,EN2004a
+1446.19,1446.64,D,Okay,EN2004a
+1446.33,1446.68,A,Uh-huh,EN2004a
+1446.56,1447.66,C,No,EN2004a
+1446.64,1446.64,D,.,EN2004a
+1446.68,1446.68,A,.,EN2004a
+1447.03,1447.29,B,so,EN2004a
+1447.66,1451.35,C,". But sometimes it's really difficult , sometimes you really don't know whether they're saying will or would .",EN2004a
+1451.83,1452.82,B,"Well , I think it's quite clear",EN2004a
+1452.77,1452.88,D,That,EN2004a
+1452.78,1452.97,C,Yeah,EN2004a
+1452.82,1454.24,B,there,EN2004a
+1452.88,1453.01,D,one,EN2004a
+1452.97,1453.12,C,", he",EN2004a
+1453.01,1453.15,D,was,EN2004a
+1453.12,1453.26,C,it,EN2004a
+1453.15,1453.42,D,clear,EN2004a
+1453.26,1453.47,C,it's,EN2004a
+1453.42,1453.42,D,.,EN2004a
+1453.47,1454.07,C,his yeah .,EN2004a
+1454.24,1455.51,B,. I mean obviously there are gonna,EN2004a
+1455.27,1455.57,C,But if,EN2004a
+1455.51,1455.9,B,be,EN2004a
+1455.57,1455.94,C,if it's,EN2004a
+1455.9,1456.08,B,ca,EN2004a
+1455.94,1460.01,C,"not clear , do I just pick uh do you just pick the more grammatic alternative ? Or",EN2004a
+1459.92,1462.14,B,"No , you try to keep",EN2004a
+1462.07,1462.44,C,B,EN2004a
+1462.14,1462.69,B,it as,EN2004a
+1462.44,1462.97,C,yeah,EN2004a
+1462.69,1463.01,B,true to,EN2004a
+1462.97,1463.1,C,. But,EN2004a
+1463.01,1463.34,B,what's,EN2004a
+1463.1,1463.45,C,if it,EN2004a
+1463.34,1463.54,B,being,EN2004a
+1463.45,1463.62,C,but,EN2004a
+1463.54,1463.95,B,said,EN2004a
+1463.62,1464.2,C,if it's really,EN2004a
+1463.95,1463.95,B,.,EN2004a
+1464.2,1465.76,C,"not absolutely not clear ,",EN2004a
+1466.29,1467.48,B,Then use,EN2004a
+1466.92,1467.79,C,when they say,EN2004a
+1467.48,1467.92,B,um,EN2004a
+1467.79,1471.87,C,"instea you know , some people when they swallow up the the last bit .",EN2004a
+1472.42,1474.19,B,Mm-hmm,EN2004a
+1473.27,1475.37,C,Or do we just then transcribe,EN2004a
+1474.19,1476.08,B,". I'd have to hear it , because",EN2004a
+1475.37,1475.65,C,? Yeah .,EN2004a
+1476.08,1479.27,B,it m sounds like it could be a fragment,EN2004a
+1477.91,1479.4,C,Yeah . Yeah,EN2004a
+1479.27,1479.56,B,. Uh it,EN2004a
+1479.4,1479.4,C,.,EN2004a
+1479.56,1486.3,B,ju I'd just have to hear it . Um M I'd you don't want to b um be prescriptive and,EN2004a
+1485.83,1486.85,C,Mm-hmm,EN2004a
+1486.3,1487.09,B,and type,EN2004a
+1486.85,1487.15,C,. Yeah,EN2004a
+1487.09,1487.22,B,what,EN2004a
+1487.15,1487.15,C,.,EN2004a
+1487.22,1489.14,B,you think they should've said,EN2004a
+1488.45,1488.86,C,Yeah .,EN2004a
+1489.14,1496.86,B,. But but I I I do know the type of scenario you're describing . I just it's just hard to,EN2004a
+1496.45,1496.81,C,Mm-hmm .,EN2004a
+1496.86,1500.67,B,answer that without hearing something . Mm .,EN2004a
+1502.44,1503.45,C,The um should be capitalised .,EN2004a
+1504.62,1505.95,B,"Yeah , they should all I",EN2004a
+1505.85,1506.03,C,Yeah,EN2004a
+1505.95,1506.06,B,I,EN2004a
+1506.03,1506.03,C,.,EN2004a
+1506.06,1506.91,B,stopped marking,EN2004a
+1506.9,1507.24,C,Okay,EN2004a
+1506.91,1507.34,B,"them , 'cause",EN2004a
+1507.24,1507.24,C,.,EN2004a
+1507.34,1508.54,B,there are just too many . But,EN2004a
+1508.5,1510.58,A,Should it ? 'Cause the loose uh is,EN2004a
+1510.49,1510.82,B,Uh,EN2004a
+1510.58,1511.19,A,continuing,EN2004a
+1510.82,1511.67,B,let's see,EN2004a
+1511.19,1512.03,A,from one sentence,EN2004a
+1511.67,1511.91,B,. Oh,EN2004a
+1511.71,1512.17,C,Oh,EN2004a
+1511.91,1512.19,B,yeah,EN2004a
+1512.03,1512.28,A,", isn't",EN2004a
+1512.17,1513.03,C,", okay",EN2004a
+1512.19,1512.35,B,", y",EN2004a
+1512.28,1512.39,A,it,EN2004a
+1512.35,1512.52,B,you're,EN2004a
+1512.39,1512.39,A,?,EN2004a
+1512.52,1513.44,B,right . Right,EN2004a
+1513.03,1513.83,C,. No,EN2004a
+1513.44,1514.19,B,. That's right,EN2004a
+1513.83,1514.15,C,. Yeah .,EN2004a
+1514.19,1520.43,B,. Okay . There was a yes in there . Um,EN2004a
+1520.37,1520.52,D,Okay,EN2004a
+1520.43,1520.84,B,and,EN2004a
+1520.52,1520.52,D,.,EN2004a
+1521.68,1521.87,A,Was,EN2004a
+1521.86,1522.09,B,Yes,EN2004a
+1521.87,1522.58,A,there,EN2004a
+1522.09,1522.09,B,.,EN2004a
+1522.58,1523.32,A,? Okay .,EN2004a
+1526.16,1526.78,D,Yeah,EN2004a
+1526.21,1526.55,A,Oh yeah .,EN2004a
+1526.78,1526.78,D,.,EN2004a
+1529.87,1543.47,B,So another missed false start . Um There was creakiness on the she . But you don't need to mark that as a separate sound . Um,EN2004a
+1543.23,1551.26,A,"Sometimes I've made buts after la like words after laughter , I've made them capitalised , 'cause I've not been sure if there's an if the laughter's been cutting everything off .",EN2004a
+1551.38,1559.52,B,Mm . If it sounds like um the laughter is just um interrupting a an utterance that continues,EN2004a
+1559.31,1559.65,C,Yeah,EN2004a
+1559.52,1559.8,B,after,EN2004a
+1559.65,1559.65,C,.,EN2004a
+1559.69,1559.95,A,Mm-hmm,EN2004a
+1559.8,1560.47,B,the laughter,EN2004a
+1559.95,1559.95,A,.,EN2004a
+1560.47,1561.52,B,", I wouldn't",EN2004a
+1560.94,1561.66,C,Um,EN2004a
+1561.52,1562.06,B,worry,EN2004a
+1561.66,1562.45,C,okay,EN2004a
+1562.06,1562.88,B,about capitalising,EN2004a
+1562.45,1563.4,C,", so what about",EN2004a
+1562.88,1562.88,B,.,EN2004a
+1563.4,1571.4,C,if a whole utterance is uttered while laughing ? Do you put the laughter in front ? Or in what I usu when that,EN2004a
+1571.25,1571.8,A,During,EN2004a
+1571.4,1571.83,C,happens what,EN2004a
+1571.8,1571.8,A,.,EN2004a
+1571.83,1577.67,C,"I do is I put laughter in front , then the whole sentence and laughter in , you know , at the end as well",EN2004a
+1577.22,1578.21,B,If you hear,EN2004a
+1577.67,1577.94,C,. So,EN2004a
+1578.21,1580.7,B,"just laughter on either side , yeah",EN2004a
+1580.61,1581.04,C,Yeah,EN2004a
+1580.7,1581.48,B,", do that",EN2004a
+1581.04,1581.57,C,". No , but it's",EN2004a
+1581.48,1581.48,B,.,EN2004a
+1581.57,1582.98,C,it's laughter th throughout .,EN2004a
+1583.17,1586.23,B,"Yeah , yeah , mm I don't know , we'll have",EN2004a
+1586.14,1586.76,C,Yeah,EN2004a
+1586.23,1586.66,B,to I'll,EN2004a
+1586.76,1592.8,C,. There's some people laughing themselves silly at absolutely nothing while while they speak,EN2004a
+1592.78,1593.35,B,Okay,EN2004a
+1592.8,1592.8,C,.,EN2004a
+1593.35,1597.43,B,", so laughter during speech",EN2004a
+1596.5,1596.75,C,Mm-hmm .,EN2004a
+1597.43,1599.61,B,. I'll f I'll talk to Melissa and,EN2004a
+1599.41,1599.81,C,Because,EN2004a
+1599.61,1600.24,B,Jean,EN2004a
+1599.81,1600.42,C,in the ICSI,EN2004a
+1600.24,1600.46,B,. S,EN2004a
+1600.42,1605.31,C,"dialogues um they always say , you know , while laughing , and we don't do that",EN2004a
+1604.82,1605.28,B,Mm-hmm .,EN2004a
+1605.31,1609.38,C,. So They say either so there it's really not ambiguous whether,EN2004a
+1609.28,1609.58,B,Mm-hmm,EN2004a
+1609.38,1609.84,C,it's just,EN2004a
+1609.58,1609.58,B,.,EN2004a
+1609.84,1616.72,C,laugh followed by an a normally spoken utterance or whether it's an utterance spoken while laughing . I,EN2004a
+1616.67,1617.12,B,Mm-hmm,EN2004a
+1616.72,1617.21,C,think there is,EN2004a
+1617.12,1617.12,B,.,EN2004a
+1617.21,1618.73,C,a distinction there and we don't have that .,EN2004a
+1619.04,1620.0,B,"No , we don't have any",EN2004a
+1619.82,1620.13,C,Yeah,EN2004a
+1620.0,1620.41,B,qual,EN2004a
+1620.13,1620.13,C,.,EN2004a
+1620.41,1628.17,B,tags like they use . But um I'll f I'll I'll figure that one out and,EN2004a
+1627.84,1628.0,C,'Kay .,EN2004a
+1628.17,1636.75,B,"put it up on the wiki or email you . Good question . I've come across that as well . Mm , see .",EN2004a
+1644.57,1656.93,B,"Oh yeah , I don't know what that that noise was indicating . Um we can skip on . There are other types of things I wanna point out . Um let's see .",EN2004a
+1665.81,1667.1,C,Morse code .,EN2004a
+1682.2,1683.11,A,Was that circuit,EN2004a
+1682.5,1684.51,B,Okay,EN2004a
+1683.11,1683.11,A,?,EN2004a
+1684.51,1684.51,B,.,EN2004a
+1684.56,1685.81,A,I figure if,EN2004a
+1685.69,1685.86,B,Did,EN2004a
+1685.78,1686.07,C,Morse,EN2004a
+1685.81,1685.93,A,she,EN2004a
+1685.86,1685.99,B,you,EN2004a
+1685.93,1686.12,A,is a,EN2004a
+1686.07,1686.07,C,.,EN2004a
+1686.12,1687.82,A,person that calls circuit circuit,EN2004a
+1688.08,1690.13,B,Did she say circuit ? I didn't really hear that,EN2004a
+1690.02,1690.19,D,How do,EN2004a
+1690.13,1690.13,B,.,EN2004a
+1690.19,1690.76,D,you know it's that,EN2004a
+1690.69,1691.01,A,I'm,EN2004a
+1690.76,1690.76,D,?,EN2004a
+1691.01,1691.54,A,not sure,EN2004a
+1691.36,1691.69,B,So,EN2004a
+1691.54,1691.84,A,if she,EN2004a
+1691.69,1691.88,B,would,EN2004a
+1691.84,1693.22,A,did,EN2004a
+1691.88,1693.23,B,would you have been tempted,EN2004a
+1693.22,1694.33,A,. Just,EN2004a
+1693.23,1694.54,B,to put an asterisk after,EN2004a
+1694.33,1695.05,A,um,EN2004a
+1694.54,1694.74,B,that ?,EN2004a
+1695.05,1697.06,A,"if it's her , I just caught the end of it and",EN2004a
+1700.53,1701.65,B,Uh,EN2004a
+1700.55,1700.88,A,"No , not",EN2004a
+1700.83,1701.45,D,Cir,EN2004a
+1700.88,1701.54,A,for that one,EN2004a
+1701.45,1701.95,D,circuit,EN2004a
+1701.54,1701.88,A,. But,EN2004a
+1701.65,1702.17,B,yeah,EN2004a
+1701.88,1701.95,A,I,EN2004a
+1701.94,1702.37,C,Yeah,EN2004a
+1701.95,1701.95,D,.,EN2004a
+1701.95,1702.33,A,had one,EN2004a
+1702.17,1702.17,B,.,EN2004a
+1702.33,1702.67,A,person,EN2004a
+1702.37,1702.37,C,.,EN2004a
+1702.67,1704.04,A,who said circuit,EN2004a
+1703.9,1704.05,B,Oh,EN2004a
+1703.98,1704.13,C,But,EN2004a
+1704.04,1704.45,A,. The,EN2004a
+1704.05,1704.75,B,", okay",EN2004a
+1704.13,1704.89,C,then I w,EN2004a
+1704.45,1704.45,A,.,EN2004a
+1704.75,1704.75,B,.,EN2004a
+1704.89,1715.47,C,"but then I wouldn't put an asterisk on it . I thought asterisk is something where um it's c it's pronounced as a totally different word , like evaluation and evolution",EN2004a
+1714.84,1716.1,B,"No , not necessarily",EN2004a
+1715.47,1716.26,C,. No,EN2004a
+1716.1,1716.35,B,. No,EN2004a
+1716.26,1716.71,C,? Okay,EN2004a
+1716.35,1716.83,B,", it's just",EN2004a
+1716.71,1716.71,C,.,EN2004a
+1716.83,1719.59,B,something that the speech recognizer is liable to,EN2004a
+1719.46,1720.42,C,Oh,EN2004a
+1719.59,1720.44,B,trip up on,EN2004a
+1720.42,1720.9,C,. Yeah,EN2004a
+1720.44,1720.86,B,", I think .",EN2004a
+1720.9,1724.75,C,", cause I this is a very frequent mistake that no native speakers make",EN2004a
+1724.05,1724.4,A,Mm-hmm .,EN2004a
+1724.75,1726.5,C,", to say circuit instead of circuit",EN2004a
+1726.44,1726.91,B,Mm-hmm,EN2004a
+1726.5,1726.5,C,.,EN2004a
+1726.91,1736.21,B,", mm-hmm . Um y that may be , but I probably would flag it . I depending on how how different the vowel sound was",EN2004a
+1735.08,1735.36,C,Mm .,EN2004a
+1736.21,1736.71,B,. It's gonna,EN2004a
+1736.53,1736.83,D,Oops,EN2004a
+1736.71,1736.95,B,be your,EN2004a
+1736.83,1736.83,D,.,EN2004a
+1736.95,1737.78,B,call in,EN2004a
+1737.6,1738.18,A,Yeah,EN2004a
+1737.78,1738.25,B,a lot of these,EN2004a
+1738.18,1738.53,A,", something",EN2004a
+1738.25,1738.81,B,cases,EN2004a
+1738.53,1739.65,A,like if,EN2004a
+1738.81,1738.81,B,.,EN2004a
+1739.65,1748.98,A,"ha I did that one 'cause it is well , a language teacher wouldn't low allow that to mo move on to the next stage . That wouldn't they wouldn't let that pass",EN2004a
+1746.55,1751.27,B,Mm,EN2004a
+1746.63,1750.16,C,Mm,EN2004a
+1748.98,1749.83,A,. Sort of .,EN2004a
+1750.16,1750.16,C,.,EN2004a
+1751.27,1751.71,B,. Okay,EN2004a
+1751.69,1751.87,A,Or,EN2004a
+1751.71,1752.09,B,", here",EN2004a
+1751.87,1753.76,A,"I wouldn't . If somebody that , I'd point it out to them .",EN2004a
+1755.8,1778.52,B,"Here's a case of um where I found it n uh found a case of discontinuity . But you know , because she's a non-native English speaker , I don't I don't know . Maybe that was grammatically n uh unmarked for her . If",EN2004a
+1778.39,1778.8,D,Yeah,EN2004a
+1778.52,1778.81,B,you know,EN2004a
+1778.8,1778.8,D,.,EN2004a
+1778.81,1781.97,B,"what I mean . Maybe that wasn't uh her re-starting , maybe sh that",EN2004a
+1781.91,1782.11,A,Yeah,EN2004a
+1781.97,1782.23,B,was,EN2004a
+1782.11,1786.36,A,", 'cause otherwise you could end up putting a hyphen after every hesitation mark",EN2004a
+1785.98,1786.27,D,Yeah .,EN2004a
+1786.32,1786.58,B,Mm,EN2004a
+1786.36,1787.01,A,that you have,EN2004a
+1786.58,1787.7,B,"mm-hmm , mm-hmm",EN2004a
+1787.01,1787.01,A,.,EN2004a
+1787.7,1790.01,B,. So again I don't know . That w that was,EN2004a
+1789.9,1790.13,A,Just,EN2004a
+1790.01,1790.32,B,my,EN2004a
+1790.13,1790.24,A,if,EN2004a
+1790.32,1792.99,B,reflex at the time to put that there . But,EN2004a
+1792.9,1796.62,A,Just a prosodic marker rather than an actual hesitation .,EN2004a
+1796.83,1798.43,B,Yeah . Well,EN2004a
+1798.05,1800.37,A,Uh as in a whole s like back-channel .,EN2004a
+1802.29,1804.31,B,Unless you kinda get Right .,EN2004a
+1809.65,1812.9,A,"Oh yeah , sorry . I th I just read the rest of the sentence",EN2004a
+1812.48,1813.15,C,Is push buttons,EN2004a
+1812.9,1812.9,A,.,EN2004a
+1813.15,1813.68,C,two words ?,EN2004a
+1814.85,1816.84,B,"Uh yeah , yeah",EN2004a
+1816.68,1817.01,C,I used,EN2004a
+1816.84,1817.44,B,. Yeah,EN2004a
+1817.01,1817.45,C,one word,EN2004a
+1817.44,1817.55,B,", I",EN2004a
+1817.45,1817.45,C,.,EN2004a
+1817.55,1820.54,B,would type it as two,EN2004a
+1818.87,1819.27,C,Okay .,EN2004a
+1820.54,1825.86,B,". Mm okay , I'm gonna skip ahead . Oh , let's see , there was a c",EN2004a
+1833.91,1835.94,B,So I I hear she would quite clearly,EN2004a
+1835.68,1836.03,A,Yeah,EN2004a
+1835.94,1836.35,B,there,EN2004a
+1836.03,1836.03,A,.,EN2004a
+1836.29,1836.84,D,Yeah,EN2004a
+1836.35,1836.99,B,and I,EN2004a
+1836.84,1836.84,D,.,EN2004a
+1836.99,1840.37,B,think a good number of them you'll be able to resolve,EN2004a
+1840.04,1840.43,D,Okay,EN2004a
+1840.37,1840.8,B,just,EN2004a
+1840.43,1840.43,D,.,EN2004a
+1840.8,1843.42,B,just helps to have the context and be able,EN2004a
+1843.34,1843.43,C,Well,EN2004a
+1843.42,1843.48,B,to,EN2004a
+1843.43,1843.51,C,it,EN2004a
+1843.48,1843.69,B,listen,EN2004a
+1843.51,1843.78,C,could be,EN2004a
+1843.69,1843.81,B,to,EN2004a
+1843.78,1843.95,C,she,EN2004a
+1843.81,1844.13,B,it again,EN2004a
+1843.95,1844.24,C,would,EN2004a
+1844.13,1844.13,B,.,EN2004a
+1844.24,1846.22,C,or should as well,EN2004a
+1845.65,1846.3,B,Well,EN2004a
+1846.22,1846.45,C,. Yeah,EN2004a
+1846.3,1847.8,B,. Okay,EN2004a
+1846.45,1846.45,C,.,EN2004a
+1847.8,1850.74,B,". Yes , it could be a lot of things . Um",EN2004a
+1858.9,1862.72,B,So there is there is another case where there wasn't a space between,EN2004a
+1862.44,1862.71,D,Right .,EN2004a
+1862.72,1866.56,B,uh a non-word fragment,EN2004a
+1866.05,1866.37,C,Mm .,EN2004a
+1866.56,1901.83,B,"and um a re-start . Okay . What else . There is an extra little symbol in here , and that was just kinda carelessness . Um So d even if it's something as brief as mm-hmm , we're we're gonna go ahead and capitalise that . And Maarika asked me what to do in the case of an utterance just consisting of laughter , do we do we use punctuation in these cases , and I don't know . I haven't been",EN2004a
+1901.2,1901.95,C,I haven't,EN2004a
+1901.83,1902.09,B,. I,EN2004a
+1901.95,1902.81,C,either,EN2004a
+1902.09,1902.58,B,don't,EN2004a
+1902.27,1904.35,A,No,EN2004a
+1902.58,1902.97,B,think it's,EN2004a
+1902.81,1903.1,C,. It's just,EN2004a
+1902.97,1904.19,B,necessary,EN2004a
+1903.1,1903.67,C,too silly .,EN2004a
+1904.19,1905.22,B,. Yeah,EN2004a
+1904.35,1904.35,A,.,EN2004a
+1905.22,1907.48,B,. Uh,EN2004a
+1905.61,1907.91,A,'Cause it's not linguistic,EN2004a
+1907.48,1908.61,B,no,EN2004a
+1907.91,1907.91,A,.,EN2004a
+1908.61,1909.86,B,. Um,EN2004a
+1909.24,1911.87,A,"Well , not yeah . I know , I yeah , you could think of",EN2004a
+1911.79,1912.01,C,I'm,EN2004a
+1911.87,1912.43,A,an argu,EN2004a
+1912.01,1928.94,C,"just thinking of uh you know an utterance consisting entirely of laughter and then putting like punctuation in , like",EN2004a
+1920.09,1928.97,A,Or,EN2004a
+1923.13,1927.11,D,Someone's gonna have fun transcribing that now .,EN2004a
+1928.31,1929.31,B,Delete and collapse,EN2004a
+1928.94,1932.64,C,. Sorry,EN2004a
+1928.97,1929.56,A,should we start,EN2004a
+1929.31,1929.31,B,.,EN2004a
+1929.56,1933.05,A,"it if we start the conversation in the common room , like is laughter linguistic",EN2004a
+1932.64,1932.64,C,.,EN2004a
+1933.05,1934.44,A,", then they could come up with a theory",EN2004a
+1934.21,1934.47,D,Yeah,EN2004a
+1934.44,1934.73,A,. But,EN2004a
+1934.47,1934.47,D,.,EN2004a
+1935.82,1941.5,B,"I'm trying to underst I'm trying to interpret my note here . Delete and collapse the surrounding segments . Okay , I",EN2004a
+1941.42,1941.68,A,Oh,EN2004a
+1941.5,1941.85,B,guess,EN2004a
+1941.68,1941.88,A,", d",EN2004a
+1941.85,1946.16,B,there there just really wasn't enough to transcribe there . Yeah,EN2004a
+1945.76,1946.22,C,"Yeah , because it",EN2004a
+1946.16,1946.16,B,.,EN2004a
+1946.22,1950.23,C,was it was really just silence and you're asking the person to just get rid of .,EN2004a
+1950.27,1954.33,B,"Yeah . So like I said , click down here just to if you haven't learned",EN2004a
+1954.12,1954.45,C,Yeah,EN2004a
+1954.33,1954.47,B,that,EN2004a
+1954.45,1954.45,C,.,EN2004a
+1954.47,1955.95,B,trick already . And that won't,EN2004a
+1955.78,1956.11,D,Mm-hmm,EN2004a
+1955.95,1956.27,B,play,EN2004a
+1956.11,1956.11,D,.,EN2004a
+1956.27,1960.47,B,any surrounding segments . So there's nothing there worth,EN2004a
+1960.25,1960.52,D,Okay,EN2004a
+1960.47,1962.06,B,transcribing,EN2004a
+1960.52,1960.52,D,.,EN2004a
+1962.06,1970.55,B,. Um Uh,EN2004a
+1972.62,1981.76,A,"Oh , I just noticed the the random yeahs , like with having the hyphen before they're s Uh if you scroll up a little way .",EN2004a
+1981.93,1982.33,B,Uh-huh .,EN2004a
+1986.61,1989.34,A,"Yeah , that ha um the second one from the top",EN2004a
+1989.34,1989.52,B,This,EN2004a
+1989.34,1989.54,A,. Thinking,EN2004a
+1989.52,1989.74,B,one,EN2004a
+1989.54,1989.81,A,I'm gonna,EN2004a
+1989.74,1989.74,B,?,EN2004a
+1989.81,1998.75,A,have to go back and find my places where I've had someone pausing and then saying yeah yeah and then this that I've not had I need to go back and find,EN2004a
+1998.74,1999.0,B,Oh,EN2004a
+1998.75,1999.49,A,uh p,EN2004a
+1999.0,1999.82,B,so you haven't,EN2004a
+1999.49,2000.11,A,put hyphens,EN2004a
+1999.82,2000.32,B,put a hyphen,EN2004a
+2000.11,2000.43,A,in,EN2004a
+2000.32,2000.44,B,there,EN2004a
+2000.43,2000.43,A,.,EN2004a
+2000.44,2000.85,B,. I see,EN2004a
+2000.66,2000.86,C,Mm,EN2004a
+2000.85,2000.92,B,", I",EN2004a
+2000.86,2000.86,C,.,EN2004a
+2000.92,2003.83,B,see . Yeah . Okay .,EN2004a
+2004.44,2005.41,A,Hyphens or commas ?,EN2004a
+2006.82,2009.32,B,Commas . Commas did,EN2004a
+2009.24,2009.74,A,Yeah,EN2004a
+2009.32,2010.55,B,you say,EN2004a
+2009.74,2009.74,A,.,EN2004a
+2010.55,2014.32,B,? Oh For g for,EN2004a
+2014.23,2014.48,A,No,EN2004a
+2014.32,2014.56,B,that,EN2004a
+2014.48,2014.64,A,", s",EN2004a
+2014.56,2014.97,B,s,EN2004a
+2014.64,2015.07,A,alright,EN2004a
+2014.97,2015.17,B,type,EN2004a
+2015.07,2015.18,A,. No,EN2004a
+2015.17,2015.27,B,of,EN2004a
+2015.18,2015.45,A,", I've",EN2004a
+2015.27,2015.73,B,situation,EN2004a
+2015.45,2015.83,A,I've,EN2004a
+2015.73,2015.73,B,?,EN2004a
+2015.83,2016.46,A,th I've sort it,EN2004a
+2016.45,2016.77,C,Yeah,EN2004a
+2016.46,2017.73,A,out,EN2004a
+2016.77,2016.77,C,.,EN2004a
+2017.2,2017.62,B,"Yeah , okay .",EN2004a
+2017.73,2017.73,A,.,EN2004a
+2017.88,2024.44,D,"Actually , um a couple of times where they've repeated a word , I've put a comma between them . Should that be no comma",EN2004a
+2024.37,2024.68,B,Commas,EN2004a
+2024.44,2025.43,D,? Oh,EN2004a
+2024.68,2025.5,B,are fine . I mean,EN2004a
+2025.43,2025.55,D,", r",EN2004a
+2025.5,2025.75,B,they're,EN2004a
+2025.55,2025.83,D,okay,EN2004a
+2025.75,2026.27,B,eventually,EN2004a
+2025.83,2025.83,D,.,EN2004a
+2026.27,2028.05,B,they're going to be extracted,EN2004a
+2027.85,2028.12,D,Right,EN2004a
+2028.05,2028.66,B,globally,EN2004a
+2028.12,2028.12,D,.,EN2004a
+2028.66,2029.48,B,", so it doesn't matter",EN2004a
+2029.28,2029.55,D,Oh,EN2004a
+2029.48,2029.67,B,how,EN2004a
+2029.55,2029.81,D,right,EN2004a
+2029.67,2029.89,B,you,EN2004a
+2029.77,2030.26,A,Alright,EN2004a
+2029.81,2030.22,D,", okay",EN2004a
+2029.89,2031.1,B,use the comma,EN2004a
+2030.22,2030.22,D,.,EN2004a
+2030.24,2030.91,C,Oh,EN2004a
+2030.26,2030.46,A,", okay .",EN2004a
+2030.91,2031.36,C,. Okay,EN2004a
+2031.1,2031.43,B,". Yeah , we",EN2004a
+2031.36,2031.36,C,.,EN2004a
+2031.43,2033.34,B,can just wipe them out in,EN2004a
+2033.27,2033.44,A,So,EN2004a
+2033.34,2033.51,B,one,EN2004a
+2033.44,2033.5,A,we,EN2004a
+2033.46,2034.98,D,Okay,EN2004a
+2033.5,2033.65,A,don't,EN2004a
+2033.51,2033.69,B,fell,EN2004a
+2033.65,2033.82,A,have,EN2004a
+2033.69,2035.85,B,swoop,EN2004a
+2033.82,2034.87,A,to worry about commas,EN2004a
+2034.49,2034.68,C,Yeah .,EN2004a
+2034.87,2035.58,A,. Okay,EN2004a
+2034.98,2035.7,D,. 'Cause I get I get,EN2004a
+2035.58,2035.58,A,.,EN2004a
+2035.7,2035.97,D,quite,EN2004a
+2035.85,2035.85,B,.,EN2004a
+2035.97,2037.65,D,prolific with my commas at times,EN2004a
+2037.46,2037.79,B,I,EN2004a
+2037.65,2039.63,D,. So,EN2004a
+2037.79,2039.71,B,I am too . I I like commas,EN2004a
+2039.63,2039.77,D,um,EN2004a
+2039.71,2042.07,B,"and then uh Steve Renals , who's",EN2004a
+2041.89,2042.2,A,Yeah,EN2004a
+2042.07,2042.47,B,project,EN2004a
+2042.2,2042.2,A,.,EN2004a
+2042.47,2045.84,B,"manager , had a look at m I think it was my transcriptions . What",EN2004a
+2045.65,2046.06,D,Okay,EN2004a
+2045.84,2046.26,B,are,EN2004a
+2046.06,2046.06,D,.,EN2004a
+2046.26,2053.26,B,all these commas doing in here ? But he didn't he ultimately he said it wasn't a problem,EN2004a
+2051.3,2052.05,D,"Okay , cool .",EN2004a
+2053.26,2060.02,B,". They will I th they'll help in the case of discourse marking , but his point was that they're really subjective , I mean something",EN2004a
+2059.66,2060.37,D,Yeah,EN2004a
+2060.02,2061.12,B,that,EN2004a
+2060.37,2060.37,D,.,EN2004a
+2061.12,2064.9,B,you the transcriber here,EN2004a
+2062.62,2064.98,C,Yeah . Just to make sense of a sentence,EN2004a
+2064.9,2065.55,B,Yeah,EN2004a
+2064.98,2064.98,C,.,EN2004a
+2065.31,2065.75,D,Yeah,EN2004a
+2065.55,2066.2,B,", yeah",EN2004a
+2065.75,2065.75,D,.,EN2004a
+2066.2,2071.68,B,. I really like using commas . Oh,EN2004a
+2070.94,2072.18,A,I I read somebody's,EN2004a
+2071.68,2071.68,B,.,EN2004a
+2072.18,2078.18,A,"P_H_D_ proposals yesterday and s and it's saying , well , you could have a comma in here and one there and",EN2004a
+2077.87,2079.45,C,What does cutest spelling,EN2004a
+2079.26,2079.6,B,Sh,EN2004a
+2079.45,2082.24,C,mean,EN2004a
+2079.6,2082.67,B,"oh , she spelled cutest um with an I_ , so",EN2004a
+2082.24,2084.9,C,"? Oh , okay",EN2004a
+2082.67,2083.63,B,that that's,EN2004a
+2083.46,2084.1,D,Oh,EN2004a
+2083.63,2084.15,B,just something I,EN2004a
+2084.1,2084.25,D,yeah,EN2004a
+2084.15,2084.74,B,pointed,EN2004a
+2084.25,2084.25,D,.,EN2004a
+2084.74,2085.82,B,out,EN2004a
+2084.9,2085.66,C,. Okay .,EN2004a
+2085.82,2088.98,B,". Okay , what else ? Um",EN2004a
+2088.29,2088.83,A,Cutest ?,EN2004a
+2089.56,2090.31,D,E_ S_ T_ .,EN2004a
+2090.63,2096.67,A,Thank you,EN2004a
+2092.95,2095.96,B,So here's let's see . Now this was our,EN2004a
+2096.67,2098.12,A,. That one step behind .,EN2004a
+2100.65,2103.09,B,So she typed uh our,EN2004a
+2102.8,2103.2,D,Oh,EN2004a
+2103.09,2103.34,B,and,EN2004a
+2103.2,2103.36,D,okay,EN2004a
+2103.34,2103.95,B,I,EN2004a
+2103.36,2103.36,D,.,EN2004a
+2103.95,2109.53,B,I didn't quite hear that . But But,EN2004a
+2108.43,2108.68,C,Oh,EN2004a
+2108.63,2109.02,A,Oh,EN2004a
+2108.68,2108.68,C,.,EN2004a
+2109.02,2109.02,A,.,EN2004a
+2109.53,2109.81,B,I,EN2004a
+2109.61,2110.47,D,Yeah,EN2004a
+2109.81,2110.72,B,you can see how it could've,EN2004a
+2110.47,2110.47,D,.,EN2004a
+2110.72,2111.34,B,"been , I",EN2004a
+2111.25,2111.46,C,Well,EN2004a
+2111.34,2111.54,B,don't,EN2004a
+2111.46,2111.62,C,", if",EN2004a
+2111.54,2111.71,B,know,EN2004a
+2111.62,2111.72,C,you,EN2004a
+2111.71,2111.71,B,.,EN2004a
+2111.72,2114.38,C,"were Cockney , then Sorry .",EN2004a
+2116.41,2116.81,B,"Yeah , I don't",EN2004a
+2116.71,2117.16,D,Sometimes,EN2004a
+2116.81,2117.01,B,know .,EN2004a
+2117.16,2121.38,D,"you get like an uh and it g you're not sure if it's an , an",EN2004a
+2120.84,2121.69,C,A_ or,EN2004a
+2121.38,2122.26,D,"A_ , yeah , or",EN2004a
+2122.07,2122.73,B,Right,EN2004a
+2122.26,2122.91,D,an,EN2004a
+2122.73,2123.85,B,". And you can never know , but",EN2004a
+2123.74,2124.37,D,m it Yeah,EN2004a
+2123.85,2124.41,B,if it,EN2004a
+2124.37,2124.37,D,.,EN2004a
+2124.41,2126.3,B,fits well enough as a as,EN2004a
+2126.2,2126.72,D,As an,EN2004a
+2126.3,2126.88,B,an,EN2004a
+2126.72,2126.72,D,.,EN2004a
+2126.88,2129.02,B,"indefinite article , then",EN2004a
+2128.2,2129.9,D,"Yeah , do it as",EN2004a
+2129.02,2129.62,B,you might as well .,EN2004a
+2129.78,2129.94,A,So,EN2004a
+2129.9,2130.31,D,Okay,EN2004a
+2129.94,2130.38,A,which did,EN2004a
+2130.31,2130.31,D,.,EN2004a
+2130.38,2131.82,A,you dec uh did,EN2004a
+2131.64,2136.33,B,"Oh , I was s I was suggesting that sh it be uh instead of our .",EN2004a
+2142.1,2142.43,B,But,EN2004a
+2142.47,2144.16,A,Evaluation,EN2004a
+2144.13,2144.45,C,Yeah,EN2004a
+2144.16,2144.67,A,. The z,EN2004a
+2144.45,2144.45,C,.,EN2004a
+2144.67,2147.44,A,z,EN2004a
+2145.64,2147.34,D,Several vowels in there,EN2004a
+2146.87,2147.39,B,Yeah,EN2004a
+2147.34,2147.34,D,.,EN2004a
+2147.39,2149.89,B,", I it's tricky , it",EN2004a
+2149.5,2150.47,A,Evaluala,EN2004a
+2149.89,2151.6,B,gets ambiguous,EN2004a
+2150.47,2150.47,A,?,EN2004a
+2151.6,2164.38,B,". Um I don't know . Uh what's this ? Well oh , she's I hear the well there",EN2004a
+2164.2,2164.54,C,Yeah,EN2004a
+2164.24,2164.49,A,Yeah,EN2004a
+2164.27,2164.68,D,Yeah,EN2004a
+2164.38,2164.56,B,. The,EN2004a
+2164.49,2164.49,A,.,EN2004a
+2164.54,2164.54,C,.,EN2004a
+2164.56,2164.71,B,but,EN2004a
+2164.68,2164.68,D,.,EN2004a
+2164.71,2168.45,B,this being a head-set mic channel m may make it,EN2004a
+2168.12,2168.57,C,Yeah,EN2004a
+2168.45,2168.87,B,easier,EN2004a
+2168.57,2168.57,C,.,EN2004a
+2168.87,2172.18,B,to hear . She transcribed from the lapel mic,EN2004a
+2171.76,2172.27,A,I've had one,EN2004a
+2172.18,2172.34,B,. Uh,EN2004a
+2172.27,2174.93,A,person with a dodgy headphone with with,EN2004a
+2174.55,2175.91,B,Oh,EN2004a
+2174.93,2176.55,A,dodgy something where,EN2004a
+2175.91,2176.48,B,. Oh .,EN2004a
+2176.55,2180.85,A,most of the time it's it's as if they've got their hand over something .,EN2004a
+2180.87,2181.79,B,Oh God,EN2004a
+2181.69,2182.1,D,That's,EN2004a
+2181.79,2182.13,B,. And you,EN2004a
+2182.1,2182.33,D,harsh,EN2004a
+2182.13,2182.69,B,transcribed,EN2004a
+2182.33,2182.33,D,.,EN2004a
+2182.69,2186.26,B,that speaker entirely,EN2004a
+2183.62,2186.55,A,"Yes , the uh",EN2004a
+2186.26,2186.75,B,? If that comes,EN2004a
+2186.55,2186.91,A,yeah,EN2004a
+2186.75,2187.26,B,up again,EN2004a
+2186.91,2187.34,A,", it w it's",EN2004a
+2187.26,2187.46,B,", we've",EN2004a
+2187.34,2187.46,A,for,EN2004a
+2187.46,2190.71,B,got um headset mic files now . In fact,EN2004a
+2190.38,2190.71,A,Right,EN2004a
+2190.71,2190.85,B,", they",EN2004a
+2190.71,2190.71,A,.,EN2004a
+2190.85,2195.86,B,replaced all the lapel mic files on the M_M_M_ server with head-set mic files,EN2004a
+2195.17,2195.43,C,Mm-hmm .,EN2004a
+2195.69,2195.96,A,Hmm,EN2004a
+2195.8,2196.32,D,Oh okay,EN2004a
+2195.86,2196.23,B,", which",EN2004a
+2195.96,2195.96,A,.,EN2004a
+2196.23,2196.48,B,we,EN2004a
+2196.32,2196.32,D,.,EN2004a
+2196.48,2206.82,B,"weren't asking them to do , but anyway they did it . And so now we don't have the lapel mic files . Apparently the headset mic files are are just a bit louder . And",EN2004a
+2206.78,2207.01,A,Right,EN2004a
+2206.82,2207.12,D,Right,EN2004a
+2206.82,2207.13,B,so you'll,EN2004a
+2207.01,2207.01,A,.,EN2004a
+2207.12,2207.12,D,.,EN2004a
+2207.13,2211.77,B,f probably find yourself turning the volume down considerably . But but apparently,EN2004a
+2211.04,2212.31,A,Thank you for the warning,EN2004a
+2211.77,2212.44,B,other than that,EN2004a
+2212.31,2212.31,A,.,EN2004a
+2212.44,2213.68,B,they're just as good,EN2004a
+2213.49,2213.69,A,Right,EN2004a
+2213.68,2213.85,B,. But,EN2004a
+2213.69,2213.69,A,.,EN2004a
+2213.85,2217.88,B,"let us know , because we can retrieve the",EN2004a
+2217.43,2217.95,C,"Yeah , with some",EN2004a
+2217.88,2217.97,B,the,EN2004a
+2217.95,2218.35,C,people,EN2004a
+2217.97,2218.59,B,other files,EN2004a
+2218.35,2219.19,C,it actually,EN2004a
+2218.59,2218.59,B,.,EN2004a
+2219.19,2235.26,C,"leads to some really screeching noises , because they're so loud or probably the mic is so close . I had this one um in one of the first dialogues I did , the g this guy called Ed , you could uh always see the waveform actually , you know , being just hitting",EN2004a
+2235.21,2236.21,B,Yeah,EN2004a
+2235.26,2236.31,C,um the,EN2004a
+2236.21,2236.21,B,.,EN2004a
+2236.31,2248.33,C,"b the boundaries on on both ends and just being at some points just black segments . And when he was talking there was this whole , like you know when you speak to close to a microphone , and that was really horrible .",EN2004a
+2248.85,2252.96,A,Lot of people that say is this on and they hit it a few times . No .,EN2004a
+2253.53,2257.5,B,Oh . Okay . I don't think I'm gonna go through,EN2004a
+2257.43,2257.53,C,The,EN2004a
+2257.5,2258.0,B,uh,EN2004a
+2257.53,2257.83,C,rest .,EN2004a
+2258.0,2261.86,B,"any more of these , because I I think I've gotten",EN2004a
+2261.4,2261.72,C,Hmm .,EN2004a
+2261.86,2264.23,B,through most of the types that I meant to point out .,EN2004a
+2264.36,2266.94,A,How about names that somebody says,EN2004a
+2266.65,2267.15,D,Mm,EN2004a
+2266.94,2267.24,A,the name,EN2004a
+2267.15,2267.15,D,.,EN2004a
+2267.24,2269.78,A,"of somebody and you think , who",EN2004a
+2269.63,2271.75,B,Uh,EN2004a
+2269.78,2272.2,A,? And you don't know how to spell the name or,EN2004a
+2271.75,2273.19,B,right,EN2004a
+2272.2,2273.26,A,if you heard the right name,EN2004a
+2273.19,2274.09,B,", right",EN2004a
+2273.26,2273.26,A,.,EN2004a
+2274.09,2276.77,B,. Um what are we going to do,EN2004a
+2276.57,2277.14,C,Mister,EN2004a
+2276.77,2277.01,B,for that .,EN2004a
+2277.14,2277.29,C,Ed .,EN2004a
+2278.02,2278.36,A,Sorry ?,EN2004a
+2278.73,2288.69,C,"Oh , I had one guy , one of the project managers was um he had a really weird accent and he was calling um one guy Mister Ed",EN2004a
+2288.6,2288.96,A,Mister,EN2004a
+2288.63,2289.0,D,Mister,EN2004a
+2288.69,2289.01,C,. His name,EN2004a
+2288.96,2289.22,A,Ed,EN2004a
+2289.0,2289.3,D,Ed,EN2004a
+2289.01,2289.88,C,was Ed,EN2004a
+2289.22,2289.22,A,.,EN2004a
+2289.3,2289.3,D,?,EN2004a
+2289.88,2295.48,C,", and it took me a whole time to , you find out that it was actually Mister Ed",EN2004a
+2294.63,2295.93,D,Yeah . Or myst,EN2004a
+2295.48,2295.83,C,. Or,EN2004a
+2295.93,2297.07,D,mystery Ed,EN2004a
+2296.95,2298.32,C,Yeah,EN2004a
+2297.07,2298.67,D,or something,EN2004a
+2297.98,2298.3,A,Oh it,EN2004a
+2298.32,2298.67,C,". No , but",EN2004a
+2298.67,2298.67,D,.,EN2004a
+2298.67,2301.53,C,"that it wasn't one word , that it wasn't like some",EN2004a
+2301.27,2301.77,D,Yeah,EN2004a
+2301.53,2301.81,C,proper,EN2004a
+2301.77,2301.77,D,.,EN2004a
+2301.81,2302.89,C,name starting with M_ .,EN2004a
+2303.09,2305.01,D,Mm-hmm,EN2004a
+2303.1,2303.73,A,Mister Ed .,EN2004a
+2305.01,2305.01,D,.,EN2004a
+2305.7,2312.53,B,"I d I did see s I've been looking at some guidelines for another corpus and I did see something about proper names , so I'll I'll",EN2004a
+2312.47,2313.85,C,Yeah,EN2004a
+2312.53,2313.19,B,have a look at that,EN2004a
+2313.16,2313.51,A,Right,EN2004a
+2313.19,2314.22,B,and see,EN2004a
+2313.51,2313.51,A,.,EN2004a
+2313.85,2314.78,C,. Well,EN2004a
+2314.22,2314.96,B,how we can handle,EN2004a
+2314.78,2315.03,C,", but",EN2004a
+2314.96,2315.32,B,that,EN2004a
+2315.03,2315.39,C,don't you,EN2004a
+2315.32,2315.64,B,here,EN2004a
+2315.39,2315.67,C,guys,EN2004a
+2315.64,2315.64,B,.,EN2004a
+2315.67,2318.79,C,have um have this data,EN2004a
+2318.69,2318.87,B,What,EN2004a
+2318.79,2321.2,C,"? Know the people na people's names , like when you",EN2004a
+2321.79,2322.97,B,Uh,EN2004a
+2322.65,2323.07,C,Collect,EN2004a
+2322.97,2323.39,B,yeah,EN2004a
+2323.07,2323.87,C,the data,EN2004a
+2323.39,2324.03,B,", quite possibly",EN2004a
+2323.87,2324.25,C,", th aren't",EN2004a
+2324.03,2324.28,B,", but",EN2004a
+2324.25,2324.56,C,people,EN2004a
+2324.28,2324.68,B,since it's,EN2004a
+2324.56,2324.88,C,filling,EN2004a
+2324.68,2325.04,B,coming,EN2004a
+2324.88,2325.07,C,out,EN2004a
+2325.04,2325.91,B,from,EN2004a
+2325.07,2326.27,C,a form or something,EN2004a
+2325.91,2326.65,B,ICSI,EN2004a
+2326.27,2326.27,C,?,EN2004a
+2326.65,2335.67,B,"uh it's coming from IDIAP in Switzerland , yeah , it w it should be easy enough to get , but it's it's one other step , you know , emailing somebody to find out who knows",EN2004a
+2335.3,2336.39,C,Okay,EN2004a
+2335.67,2336.78,B,this information,EN2004a
+2336.39,2336.81,C,. Yeah,EN2004a
+2336.78,2337.28,B,. Anyway,EN2004a
+2336.81,2336.81,C,.,EN2004a
+2337.28,2338.91,B,", it's",EN2004a
+2338.77,2341.62,C,"No , but it's information that we theoretically have .",EN2004a
+2342.19,2343.57,B,"Yeah , yeah , because everyone",EN2004a
+2343.48,2343.65,C,Mm,EN2004a
+2343.57,2343.84,B,signs,EN2004a
+2343.65,2343.65,C,.,EN2004a
+2343.84,2347.68,B,a consent form when they participate in the experiment . So we ought to be able to get,EN2004a
+2347.6,2347.72,C,We,EN2004a
+2347.68,2348.91,B,that,EN2004a
+2347.72,2350.98,C,didn't sign one,EN2004a
+2348.91,2351.21,B,. But but there shou we should also have a,EN2004a
+2350.98,2350.98,C,.,EN2004a
+2351.21,2357.73,B,w a means of dealing with proper names when we don't know what it is or how it might be spelled,EN2004a
+2357.63,2357.94,A,Mm-hmm,EN2004a
+2357.73,2358.12,B,at all,EN2004a
+2357.94,2357.94,A,.,EN2004a
+2358.12,2364.57,B,and and flagging that in in some way . So I'll th I'll I'll try to address both things,EN2004a
+2364.26,2364.52,C,Mm-hmm .,EN2004a
+2364.57,2364.57,B,.,EN2004a
+2364.59,2368.95,A,Okay . What was Mister again ? I can't remember seeing how to transcribe,EN2004a
+2368.39,2369.1,C,Mister,EN2004a
+2368.95,2370.39,A,Mister,EN2004a
+2369.1,2369.68,C,just to,EN2004a
+2369.48,2370.4,B,"Oh , just just",EN2004a
+2370.39,2371.36,A,. M_,EN2004a
+2370.4,2372.47,B,type Mister fully,EN2004a
+2371.36,2373.16,A,M_R_,EN2004a
+2371.8,2372.48,C,Yeah,EN2004a
+2372.43,2372.65,D,M_,EN2004a
+2372.47,2372.74,B,. I,EN2004a
+2372.48,2372.7,C,. No,EN2004a
+2372.65,2372.84,D,I_,EN2004a
+2372.7,2372.91,C,", M_",EN2004a
+2372.74,2373.94,B,M_I_S_T_E_R_,EN2004a
+2372.84,2373.2,D,S_,EN2004a
+2373.16,2374.31,A,Mister,EN2004a
+2373.2,2373.99,D,T_ E_ R_,EN2004a
+2373.94,2374.42,B,", yeah",EN2004a
+2373.99,2373.99,D,.,EN2004a
+2374.42,2377.18,B,". And same with missus , M_I_S_S_U_S_",EN2004a
+2376.45,2377.59,C,Mi U_S_,EN2004a
+2377.18,2378.08,B,", I believe",EN2004a
+2377.53,2378.0,D,Okay,EN2004a
+2377.59,2378.0,C,Mi,EN2004a
+2378.0,2381.91,D,", Missus",EN2004a
+2378.0,2378.4,C,Missus,EN2004a
+2378.08,2378.17,B,. Is,EN2004a
+2378.11,2378.44,A,Sorry,EN2004a
+2378.17,2379.23,B,it I believe,EN2004a
+2378.4,2378.58,C,", the",EN2004a
+2378.44,2378.44,A,?,EN2004a
+2378.58,2381.56,C,Missus,EN2004a
+2379.23,2381.87,B,I believe check check the dictionary,EN2004a
+2381.56,2381.56,C,.,EN2004a
+2381.87,2382.85,B,. That,EN2004a
+2381.91,2382.45,D,. Missus .,EN2004a
+2382.61,2383.23,A,Missus,EN2004a
+2382.85,2383.3,B,"yeah , but",EN2004a
+2383.23,2384.04,A,? Um,EN2004a
+2383.3,2383.43,B,you,EN2004a
+2383.38,2383.72,D,Yeah,EN2004a
+2383.43,2384.02,B,would never,EN2004a
+2383.72,2383.72,D,.,EN2004a
+2384.02,2386.92,B,um type the abbreviated spelling for,EN2004a
+2386.63,2386.89,C,What if,EN2004a
+2386.83,2387.05,A,Right,EN2004a
+2386.89,2387.18,C,somebody,EN2004a
+2386.92,2387.37,B,anything,EN2004a
+2387.05,2387.05,A,.,EN2004a
+2387.18,2387.47,C,calls,EN2004a
+2387.37,2387.37,B,.,EN2004a
+2387.47,2388.37,C,themselves Ms ?,EN2004a
+2389.24,2390.54,B,Um,EN2004a
+2389.98,2390.07,C,I,EN2004a
+2390.0,2390.29,D,M_,EN2004a
+2390.07,2390.36,C,mean it's,EN2004a
+2390.29,2390.38,D,I_,EN2004a
+2390.36,2390.53,C,not,EN2004a
+2390.38,2391.27,D,Z_,EN2004a
+2390.53,2390.75,C,not,EN2004a
+2390.54,2391.52,B,well,EN2004a
+2390.75,2391.68,C,that it ever happened,EN2004a
+2391.27,2391.27,D,?,EN2004a
+2391.52,2391.83,B,", I'm sure",EN2004a
+2391.68,2392.56,C,", but",EN2004a
+2391.83,2392.64,B,there's a spelling in,EN2004a
+2392.56,2392.89,C,yeah,EN2004a
+2392.64,2393.25,B,the O_E_D_,EN2004a
+2392.89,2392.89,C,.,EN2004a
+2392.9,2394.21,D,Yeah,EN2004a
+2393.25,2393.82,B,", yeah .",EN2004a
+2394.21,2397.23,D,. So um about um foreign words,EN2004a
+2396.81,2397.17,B,Uh-huh .,EN2004a
+2397.23,2401.06,D,", what do we when we're checking um if we come up something",EN2004a
+2400.06,2401.48,B,Oh right . So,EN2004a
+2401.06,2401.7,D,so we just leave,EN2004a
+2401.48,2401.66,B,the,EN2004a
+2401.52,2401.82,A,Is that,EN2004a
+2401.66,2402.73,B,transcriber's,EN2004a
+2401.7,2402.05,D,it as,EN2004a
+2402.73,2405.05,B,enclosing everything in carets,EN2004a
+2404.71,2405.17,D,Yeah,EN2004a
+2404.76,2406.16,A,Yeah,EN2004a
+2405.05,2405.88,B,", and",EN2004a
+2405.17,2405.17,D,.,EN2004a
+2405.88,2406.39,B,what,EN2004a
+2406.16,2406.44,A,. Not come,EN2004a
+2406.39,2406.68,B,you,EN2004a
+2406.44,2406.74,A,across,EN2004a
+2406.68,2407.04,B,would,EN2004a
+2406.74,2407.09,A,any yet,EN2004a
+2407.04,2407.79,B,do,EN2004a
+2407.09,2407.09,A,.,EN2004a
+2407.4,2407.82,D,I got,EN2004a
+2407.79,2408.61,B,is,EN2004a
+2407.82,2409.36,D,"one , which I",EN2004a
+2409.2,2409.42,A,Oh,EN2004a
+2409.36,2409.44,D,it,EN2004a
+2409.42,2409.42,A,.,EN2004a
+2409.44,2411.59,D,"was French , so I knew how to ex spell",EN2004a
+2411.25,2411.63,C,Yeah,EN2004a
+2411.59,2412.48,D,it,EN2004a
+2411.63,2411.63,C,.,EN2004a
+2411.89,2412.78,B,That's a good question,EN2004a
+2412.48,2412.48,D,.,EN2004a
+2412.78,2415.25,B,", because you will be leaving question marks there",EN2004a
+2415.21,2415.7,D,Yeah,EN2004a
+2415.25,2417.67,B,. Um,EN2004a
+2415.7,2415.7,D,.,EN2004a
+2417.67,2419.61,B,okay,EN2004a
+2417.8,2419.79,D,I mean if it's in carets and they know,EN2004a
+2419.61,2421.9,B,. Right,EN2004a
+2419.79,2420.85,D,"it's foreign , does that matter ?",EN2004a
+2421.9,2428.95,B,". Um it shouldn't , because things are going to be left like the asterisk will be left for the",EN2004a
+2428.41,2429.08,D,Yeah,EN2004a
+2428.95,2429.76,B,proc,EN2004a
+2429.08,2430.13,D,", and the at symbol",EN2004a
+2429.76,2430.41,B,the,EN2004a
+2430.13,2430.13,D,.,EN2004a
+2430.3,2430.67,C,Yeah,EN2004a
+2430.41,2430.83,B,subsequent,EN2004a
+2430.67,2430.67,C,.,EN2004a
+2430.83,2437.35,B,processing . But carets with question marks in-between would have to be resolved in some way .,EN2004a
+2437.52,2440.6,D,Or could we just change it to an at between the carets,EN2004a
+2440.14,2441.14,B,Yeah,EN2004a
+2440.6,2441.24,D,? 'Cause it's only,EN2004a
+2441.14,2442.03,B,. Yeah,EN2004a
+2441.24,2442.71,D,intelligible theoretically,EN2004a
+2442.03,2442.54,B,. Yeah,EN2004a
+2442.29,2442.64,C,Yeah,EN2004a
+2442.54,2442.9,B,. I,EN2004a
+2442.64,2442.64,C,.,EN2004a
+2442.71,2442.71,D,.,EN2004a
+2442.9,2445.08,B,I suppose that's all we can do really,EN2004a
+2445.01,2445.51,D,Yeah,EN2004a
+2445.08,2445.75,B,. You're not supposed,EN2004a
+2445.51,2445.51,D,.,EN2004a
+2445.75,2450.17,B,to be polyglot transcribers,EN2004a
+2448.63,2449.34,D,Yeah .,EN2004a
+2449.53,2450.28,C,"Oh , so even if",EN2004a
+2450.17,2450.42,B,here,EN2004a
+2450.28,2450.58,C,we know,EN2004a
+2450.42,2450.42,B,.,EN2004a
+2450.58,2452.79,C,what that word means we're not supposed to,EN2004a
+2452.45,2452.98,B,Oh yeah,EN2004a
+2452.79,2452.99,C,right,EN2004a
+2452.98,2453.26,B,yeah,EN2004a
+2452.99,2452.99,C,.,EN2004a
+2453.26,2457.36,B,". If you if if f it's a foreign word and you know what it is , just enclose",EN2004a
+2457.17,2458.47,C,Yeah,EN2004a
+2457.36,2458.37,B,it in carets .,EN2004a
+2458.47,2469.46,C,". Yeah , 'cause I have there is one dialogue where I think two speakers are French , like one is definitely French , and I know she is saying and then somebody s saying something to her and she goes comment",EN2004a
+2469.27,2469.59,D,Mm-hmm,EN2004a
+2469.46,2470.25,C,and,EN2004a
+2469.59,2469.59,D,.,EN2004a
+2470.25,2470.63,C,then,EN2004a
+2470.26,2471.66,B,Yeah,EN2004a
+2470.63,2472.96,C,"you know you know that , so",EN2004a
+2471.66,2473.81,B,". Yeah , yeah . If you if you're confident",EN2004a
+2472.96,2473.28,C,yeah .,EN2004a
+2473.81,2474.81,B,that you've,EN2004a
+2474.4,2474.7,D,Okay .,EN2004a
+2474.81,2476.19,B,got a fair grasp on French for,EN2004a
+2476.014,2476.014,C,.,EN2004a
+2476.19,2478.19,B,"example , why not",EN2004a
+2477.19,2477.31,A,And,EN2004a
+2477.21,2477.32,C,Oh,EN2004a
+2477.31,2477.45,A,not,EN2004a
+2477.32,2477.5,C,", not",EN2004a
+2477.45,2478.01,A,accidentally,EN2004a
+2477.5,2478.51,C,"really , but",EN2004a
+2478.01,2478.71,A,translating,EN2004a
+2478.19,2478.19,B,.,EN2004a
+2478.51,2478.85,C,on,EN2004a
+2478.71,2478.85,A,in the,EN2004a
+2478.85,2479.67,C,comment,EN2004a
+2478.85,2481.65,A,process,EN2004a
+2479.67,2479.87,C,", yeah .",EN2004a
+2480.61,2482.6,B,Yeah,EN2004a
+2481.65,2481.65,A,.,EN2004a
+2482.6,2490.82,B,". Okay . Um there is there is just one other thing , she she typed okay um in caps",EN2004a
+2489.3,2490.12,A,"Oh yeah , I saw it there .",EN2004a
+2490.82,2492.22,B,. O_ c c O_ capital,EN2004a
+2491.98,2492.25,C,Ok,EN2004a
+2492.22,2494.58,B,O_ capital K_ and,EN2004a
+2494.35,2495.65,C,No,EN2004a
+2494.58,2495.66,B,"huge no-no , I don't know",EN2004a
+2495.65,2495.65,C,.,EN2004a
+2495.66,2496.51,B,why she missed,EN2004a
+2496.26,2496.72,D,Yeah,EN2004a
+2496.51,2496.74,B,that,EN2004a
+2496.72,2496.72,D,.,EN2004a
+2496.74,2497.98,B,in the,EN2004a
+2497.84,2497.99,A,There,EN2004a
+2497.98,2498.09,B,in,EN2004a
+2497.99,2498.09,A,it,EN2004a
+2498.09,2498.16,B,the,EN2004a
+2498.09,2498.34,A,was,EN2004a
+2498.16,2499.45,B,guidelines,EN2004a
+2498.34,2498.34,A,.,EN2004a
+2498.98,2499.74,D,Are we doing okay,EN2004a
+2499.45,2499.73,B,. Yeah .,EN2004a
+2499.74,2501.45,D,just as O_,EN2004a
+2501.32,2501.98,C,Okay,EN2004a
+2501.45,2502.16,D,"K_ , not",EN2004a
+2501.98,2501.98,C,.,EN2004a
+2502.16,2503.82,D,as a O_K_A_Y_ ?,EN2004a
+2503.99,2504.29,C,No,EN2004a
+2504.05,2504.31,B,It is,EN2004a
+2504.29,2504.29,C,.,EN2004a
+2504.31,2506.1,B,O_K_A_Y_,EN2004a
+2505.53,2506.55,D,"A_ Y_ , alright",EN2004a
+2506.1,2506.82,B,. Yeah,EN2004a
+2506.55,2511.73,D,", oops",EN2004a
+2506.82,2511.99,B,", yeah . Okay . Okay . Well",EN2004a
+2511.73,2511.73,D,.,EN2004a
+2511.99,2514.77,B,", it will be your jobs to catch",EN2004a
+2514.65,2514.91,D,Someone's,EN2004a
+2514.77,2514.93,B,all,EN2004a
+2514.91,2515.12,D,gonna,EN2004a
+2514.93,2515.15,B,of these,EN2004a
+2515.12,2515.4,D,find,EN2004a
+2515.15,2516.07,B,things,EN2004a
+2515.4,2516.49,D,some of those,EN2004a
+2516.07,2516.49,B,. So,EN2004a
+2516.49,2516.49,D,.,EN2004a
+2516.49,2518.39,B,no um,EN2004a
+2517.47,2518.55,A,"Okay , oops",EN2004a
+2518.39,2518.93,B,n,EN2004a
+2518.55,2518.55,A,.,EN2004a
+2518.68,2519.11,D,Yeah,EN2004a
+2518.93,2519.21,B,no,EN2004a
+2519.11,2519.11,D,.,EN2004a
+2519.21,2522.43,B,transcriber will be checking no,EN2004a
+2522.39,2522.58,C,Their,EN2004a
+2522.43,2522.84,B,checker,EN2004a
+2522.58,2522.86,C,own,EN2004a
+2522.84,2523.24,B,will,EN2004a
+2522.86,2522.86,C,.,EN2004a
+2523.24,2524.1,B,be checking,EN2004a
+2523.71,2524.0,D,Checking,EN2004a
+2523.89,2524.18,A,Checking,EN2004a
+2524.0,2524.27,D,their,EN2004a
+2524.1,2524.27,B,their,EN2004a
+2524.18,2524.36,A,their,EN2004a
+2524.27,2524.96,D,own,EN2004a
+2524.27,2524.86,B,t,EN2004a
+2524.36,2525.29,A,own transcription,EN2004a
+2524.86,2525.02,B,own,EN2004a
+2524.96,2525.05,D,work,EN2004a
+2525.02,2525.59,B,transcription,EN2004a
+2525.05,2525.05,D,.,EN2004a
+2525.29,2525.29,A,.,EN2004a
+2525.59,2526.23,B,. Yes,EN2004a
+2526.04,2526.18,D,Right .,EN2004a
+2526.23,2527.98,B,. Yes . So,EN2004a
+2526.9,2528.27,A,No transcriber will be checking,EN2004a
+2527.98,2528.89,B,we will,EN2004a
+2528.27,2529.33,A,their own transcriptions,EN2004a
+2528.89,2529.35,B,catch these,EN2004a
+2529.33,2529.33,A,.,EN2004a
+2529.35,2530.17,B,things,EN2004a
+2530.76,2531.99,D,Have to remember that one now .,EN2004a
+2532.05,2538.85,B,"more efficiently , I think . And on so I'll just go up to the board do I have to keep this stuff on ?",EN2004a
+2540.38,2540.52,A,Guess,EN2004a
+2540.4,2540.97,C,Probably,EN2004a
+2540.52,2541.0,A,it depends how,EN2004a
+2540.97,2540.97,C,.,EN2004a
+2541.0,2541.2,A,far,EN2004a
+2541.1,2541.26,B,Oh,EN2004a
+2541.2,2541.3,A,you,EN2004a
+2541.26,2541.51,B,yeah,EN2004a
+2541.3,2542.97,A,can stretch,EN2004a
+2541.51,2542.62,B,", they've got clips .",EN2004a
+2542.97,2543.92,A,". Oh yeah , 'cause every time",EN2004a
+2543.68,2544.51,B,Right,EN2004a
+2543.92,2544.71,A,somebody'd be going,EN2004a
+2544.51,2548.13,B,", I'm mobile",EN2004a
+2544.71,2545.43,A,over there you'd,EN2004a
+2545.37,2545.45,D,D,EN2004a
+2545.43,2545.79,A,hear,EN2004a
+2545.45,2547.0,D,Yeah,EN2004a
+2545.79,2548.49,A,all this sound of,EN2004a
+2547.0,2548.42,D,. Wrestling to the white-board,EN2004a
+2548.1,2548.38,C,Yeah,EN2004a
+2548.13,2548.55,B,. Alright,EN2004a
+2548.38,2548.45,C,", I",EN2004a
+2548.42,2548.42,D,.,EN2004a
+2548.45,2548.61,C,can,EN2004a
+2548.55,2548.55,B,.,EN2004a
+2548.61,2551.14,C,hear the chairs moving and the,EN2004a
+2550.69,2554.41,A,And about five or six breaks in the between is the making,EN2004a
+2554.39,2554.75,C,Yeah,EN2004a
+2554.41,2554.73,A,it a .,EN2004a
+2554.75,2554.75,C,.,EN2004a
+2555.69,2569.38,B,"Okay . So I guess just for the sake of using the white-board and killing a little more time I'll just write down the things that are most common to be checked . So let's see . So oh , okay . Now",EN2004a
+2569.32,2569.47,C,Oh,EN2004a
+2569.38,2569.38,B,.,EN2004a
+2569.47,2571.37,C,", the white-board marker has a camera as well .",EN2004a
+2572.55,2573.85,A,looks like some,EN2004a
+2573.31,2573.87,D,Wow,EN2004a
+2573.85,2574.06,A,piece,EN2004a
+2573.87,2573.87,D,.,EN2004a
+2574.06,2575.08,A,of,EN2004a
+2574.66,2575.12,B,"Okay , s",EN2004a
+2575.08,2575.5,A,medical,EN2004a
+2575.12,2578.03,B,alright,EN2004a
+2575.5,2575.94,A,equipment .,EN2004a
+2578.03,2584.3,B,. Rather this is a list of things to do as the checker . So you wanna listen to the silent regions .,EN2004a
+2585.52,2585.78,A,Mm-hmm .,EN2004a
+2586.61,2598.77,B,Then check the speech regions . And as part of that you want to um check the boundaries .,EN2004a
+2603.91,2616.0,B,"And oh , by the way , this should be um Um transcribe any missed speech .",EN2004a
+2621.06,2663.8,B,"And just let's see what else . Okay . And within this checking the speech segments , you want to listen for or look for missed um Look for missed punctuation , filled pauses , words in stuttering . And if you have um if you have a stuttered word , you don't need to use the hyphen to mark discontinuity . It's just",EN2004a
+2663.64,2664.03,D,Okay,EN2004a
+2663.8,2664.25,B,so,EN2004a
+2664.03,2664.03,D,.,EN2004a
+2664.25,2669.21,B,"if somebody says the the , then it's just the the",EN2004a
+2669.14,2669.34,A,Oh,EN2004a
+2669.21,2670.37,B,. Um,EN2004a
+2669.34,2669.47,A,yeah .,EN2004a
+2670.37,2672.05,B,words in st uh,EN2004a
+2677.34,2681.89,B,And what else . Try to get f false starts .,EN2004a
+2686.98,2701.98,B,"Short words , make sure with little words like the and uh , little articles and that kind of thing don't get omitted . Um short words and word fragments . Those are the commonly missed things .",EN2004a
+2707.57,2742.74,B,"And then um look for cases of mis-transcription Seems so silly to be writing this all . But anyway , Mis-transcription , so make sure if the speaker said will , you type will not would or um if they say we , even though it might be more grammatically correct to type we're , um that kind of thing . Um tha cases of ellipsis , where um maybe the transcriber typed them , but really what was said was 'em",EN2004a
+2741.71,2742.02,C,M_ .,EN2004a
+2742.74,2743.36,B,", so where",EN2004a
+2743.22,2743.52,A,Mm-hmm,EN2004a
+2743.36,2743.63,B,you use,EN2004a
+2743.52,2743.52,A,.,EN2004a
+2743.63,2749.18,B,the apostrophe . And look for capitalisation I'm not gonna,EN2004a
+2749.0,2749.29,A,Oh,EN2004a
+2749.18,2749.44,B,gonna,EN2004a
+2749.29,2749.29,A,.,EN2004a
+2749.44,2760.95,B,"do any more of this . Capitalisation . Spelling . Um , use the O_E_D_ to check on things you don't know about . Um refer to the wiki for all regularised",EN2004a
+2760.63,2760.92,A,Mm-hmm .,EN2004a
+2760.95,2767.15,B,spellings and f for things like filled pauses,EN2004a
+2765.92,2766.76,A,I just remembered one .,EN2004a
+2767.15,2767.66,B,". Oh , was that",EN2004a
+2768.6,2773.86,A,"Okay , when it's just as 'kay , but it's at the beginning of a sentence , should the K_ be capitalised",EN2004a
+2773.71,2774.4,C,No,EN2004a
+2773.86,2773.86,A,?,EN2004a
+2774.4,2775.4,C,well apostrophe,EN2004a
+2774.76,2775.04,B,W,EN2004a
+2774.89,2775.06,D,W,EN2004a
+2775.4,2776.94,C,and then K_ A_ Y_,EN2004a
+2776.92,2777.13,B,And,EN2004a
+2776.94,2776.94,C,.,EN2004a
+2777.13,2778.4,B,"then , yeah , capitalise the K_",EN2004a
+2778.34,2781.75,A,Good,EN2004a
+2778.4,2781.98,B,. Yeah . And,EN2004a
+2781.5,2782.08,C,That marker,EN2004a
+2781.75,2781.75,A,.,EN2004a
+2782.08,2783.24,C,smells really bad .,EN2004a
+2783.31,2789.1,B,I think smells really good . I,EN2004a
+2786.07,2787.97,A,You've been doing this too long .,EN2004a
+2789.1,2795.52,B,used to always love smelling markers,EN2004a
+2790.78,2794.69,C,It probably became addicted to the fumes .,EN2004a
+2794.87,2795.86,A,Grease paint,EN2004a
+2795.52,2796.32,B,. What else,EN2004a
+2795.86,2795.86,A,.,EN2004a
+2796.32,2813.93,B,"did I find . Um the so make sure the da the dash , the hyphen , whatever you call it , is being used appropriately in cases of discontinuity , um but not in stuttering , like I said . And and don't use it when the utterance is clearly continued",EN2004a
+2813.24,2813.53,A,Mm-hmm .,EN2004a
+2813.93,2814.24,B,in the,EN2004a
+2814.18,2814.78,D,Okay,EN2004a
+2814.24,2815.14,B,next segment,EN2004a
+2814.78,2814.78,D,.,EN2004a
+2815.14,2835.69,B,"or whatever . Um don't transcribe in-breaths or out-breaths . And okay should never be um two capital letters , it should be O_K_A_Y_ . Um and one other thing is to break break up long segments",EN2004a
+2835.52,2835.82,A,Mm-hmm,EN2004a
+2835.69,2835.89,B,if,EN2004a
+2835.82,2835.82,A,.,EN2004a
+2835.89,2837.47,B,you find any . So,EN2004a
+2837.25,2837.9,C,Over a minute .,EN2004a
+2838.8,2843.12,B,"Yeah , but that's a kind of crude guideline . I'd",EN2004a
+2842.88,2843.16,C,Mm-hmm,EN2004a
+2843.12,2843.31,B,I'd,EN2004a
+2843.16,2843.16,C,.,EN2004a
+2843.31,2845.82,B,say just anything that seems,EN2004a
+2845.3,2846.53,C,Okay,EN2004a
+2845.82,2846.66,B,unmanageable,EN2004a
+2846.53,2846.68,C,. So,EN2004a
+2846.66,2846.66,B,.,EN2004a
+2846.68,2849.46,C,if something is a minute and three seconds I can still have,EN2004a
+2849.38,2849.82,B,Ah,EN2004a
+2849.46,2849.89,C,"it , right",EN2004a
+2849.82,2850.19,B,. Yeah,EN2004a
+2849.89,2849.89,C,?,EN2004a
+2850.19,2852.98,B,", yeah . Really uh it it means nothing",EN2004a
+2852.95,2853.2,C,Mm-hmm,EN2004a
+2852.98,2853.29,B,to say,EN2004a
+2853.2,2853.2,C,.,EN2004a
+2853.29,2864.12,B,"a minute , it's just a g a really crude guideline . I would just try to keep segments very manageable um and a but u you know , use these wave-forms to help you",EN2004a
+2864.04,2864.33,D,Yeah,EN2004a
+2864.12,2864.36,B,. And,EN2004a
+2864.33,2864.52,D,", b",EN2004a
+2864.36,2876.14,B,"you can adjust the resolution so that Oh . That didn't help me too much , but you can use this little slide bar to adjust the resolution . Actually",EN2004a
+2875.96,2876.36,C,Um,EN2004a
+2876.14,2876.49,B,that doesn't,EN2004a
+2876.36,2876.49,C,if,EN2004a
+2876.49,2876.66,B,seem,EN2004a
+2876.49,2876.83,C,you just,EN2004a
+2876.66,2876.86,B,to be,EN2004a
+2876.83,2877.16,C,click,EN2004a
+2876.86,2877.24,B,working,EN2004a
+2877.16,2877.29,C,on,EN2004a
+2877.24,2877.24,B,.,EN2004a
+2877.29,2878.14,C,one of the arrows .,EN2004a
+2880.31,2880.77,B,Which o,EN2004a
+2880.93,2881.37,C,Um,EN2004a
+2881.31,2881.5,A,The,EN2004a
+2881.37,2881.68,C,in in,EN2004a
+2881.5,2881.88,A,arrows,EN2004a
+2881.68,2882.43,C,the resolution,EN2004a
+2881.88,2882.74,A,by the resolution,EN2004a
+2882.43,2883.84,C,thingy,EN2004a
+2882.74,2882.74,A,.,EN2004a
+2883.84,2887.53,C,", um it will Yeah , on this one",EN2004a
+2887.17,2887.58,B,Yeah,EN2004a
+2887.53,2887.79,C,. No,EN2004a
+2887.58,2887.58,B,.,EN2004a
+2887.63,2887.89,A,Not,EN2004a
+2887.79,2888.38,C,", not",EN2004a
+2887.89,2888.39,A,that one,EN2004a
+2888.38,2888.64,C,not,EN2004a
+2888.39,2888.76,A,. The other,EN2004a
+2888.64,2888.89,C,the other,EN2004a
+2888.76,2888.97,A,arrow,EN2004a
+2888.89,2889.78,C,one,EN2004a
+2888.97,2889.44,A,next to it .,EN2004a
+2889.78,2890.72,C,", this one",EN2004a
+2890.53,2890.73,A,Yeah,EN2004a
+2890.72,2890.98,C,. Yeah,EN2004a
+2890.73,2890.73,A,.,EN2004a
+2890.98,2890.98,C,.,EN2004a
+2891.17,2891.53,B,Right,EN2004a
+2891.3,2892.53,D,Oh,EN2004a
+2891.53,2892.57,B,", okay , okay",EN2004a
+2892.53,2892.59,D,. Is,EN2004a
+2892.57,2894.44,B,. So,EN2004a
+2892.59,2893.34,D,that zoom in ?,EN2004a
+2893.49,2893.7,A,Yeah .,EN2004a
+2893.75,2894.84,C,Yeah,EN2004a
+2894.44,2895.13,B,yeah,EN2004a
+2894.84,2895.17,C,". Oh , and",EN2004a
+2895.13,2895.13,B,.,EN2004a
+2895.17,2897.59,C,you can also if you go to signal,EN2004a
+2897.04,2897.39,D,Wow .,EN2004a
+2897.59,2904.47,C,"and Um that's it's something under signal , where you can adjust the amplitude as well , on resolution .",EN2004a
+2904.95,2906.01,B,Mm-hmm .,EN2004a
+2907.06,2907.47,C,Um,EN2004a
+2908.4,2909.56,B,"Oh okay , right",EN2004a
+2909.43,2909.6,C,Then,EN2004a
+2909.56,2909.56,B,.,EN2004a
+2909.6,2909.69,C,you,EN2004a
+2909.66,2909.95,A,Oh,EN2004a
+2909.69,2910.83,C,can also,EN2004a
+2909.95,2909.95,A,.,EN2004a
+2910.83,2914.34,C,"wait . No , I think that's not if you go to control panel .",EN2004a
+2914.5,2915.17,B,Uh-huh .,EN2004a
+2915.72,2918.27,C,"Signal control panel . No no , signal , control pan",EN2004a
+2919.36,2919.69,B,Hmm ?,EN2004a
+2920.6,2924.48,C,"Um the vertical zoom , you can adjust that as well , so if it seems too flat",EN2004a
+2924.31,2925.76,A,Ooh,EN2004a
+2924.48,2925.33,C,for you or you can't,EN2004a
+2925.25,2925.59,B,Ah,EN2004a
+2925.33,2925.74,C,really,EN2004a
+2925.59,2926.36,B,right,EN2004a
+2925.76,2927.55,A,. Ah,EN2004a
+2926.36,2929.09,B,", that's good . Okay",EN2004a
+2927.55,2927.82,A,. That might,EN2004a
+2927.75,2927.97,C,Yeah,EN2004a
+2927.82,2929.47,A,have,EN2004a
+2927.97,2927.97,C,.,EN2004a
+2929.09,2930.03,B,. That's excellent,EN2004a
+2929.47,2930.07,A,made it s,EN2004a
+2930.03,2932.34,B,. Alright,EN2004a
+2930.07,2932.39,A,'cause I I appear to have nothing . But,EN2004a
+2932.34,2932.34,B,.,EN2004a
+2932.39,2933.05,A,I was hearing,EN2004a
+2933.0,2933.27,C,Yeah,EN2004a
+2933.05,2933.33,A,stuff,EN2004a
+2933.27,2933.27,C,.,EN2004a
+2933.33,2937.23,A,", but I g there was nothing on my wave-form . It's kinda hard to find where everything was",EN2004a
+2936.9,2937.3,C,Yeah,EN2004a
+2937.23,2937.23,A,.,EN2004a
+2937.24,2937.42,B,Oh,EN2004a
+2937.3,2937.3,C,.,EN2004a
+2937.42,2939.26,B,that's that's good to know,EN2004a
+2939.1,2939.48,A,Control,EN2004a
+2939.26,2940.81,B,. Okay,EN2004a
+2939.48,2939.91,A,panel .,EN2004a
+2940.81,2954.86,B,". Yeah , so to help you make cuts , just look look f you know , use this wave-form and make sure you're not l losing any signal information . But um cutting segments down is a l a low priority , but it it",EN2004a
+2954.84,2955.1,A,Right,EN2004a
+2954.86,2956.7,B,will help,EN2004a
+2955.1,2955.1,A,.,EN2004a
+2956.7,2959.97,B,"ultimately , I think , post-processing wise . I",EN2004a
+2959.94,2959.97,A,I,EN2004a
+2959.97,2960.19,B,don't,EN2004a
+2959.97,2963.6,A,think I've gone a bit far in cutting mine down at the moment,EN2004a
+2963.57,2963.73,B,Yeah,EN2004a
+2963.6,2963.6,A,.,EN2004a
+2963.73,2968.95,B,", you don't don't get excessive about it . 'Cause that just ends up taking too much time",EN2004a
+2967.44,2967.7,A,Mm-hmm .,EN2004a
+2968.95,2974.26,B,. But I d I think from a speech recognition point of view it shouldn't matter,EN2004a
+2973.97,2974.44,A,No,EN2004a
+2974.26,2974.92,B,", these",EN2004a
+2974.44,2974.87,A,", probably not .",EN2004a
+2974.92,2976.82,B,segments being whatever length that they,EN2004a
+2976.79,2977.09,C,Mm,EN2004a
+2976.82,2977.12,B,happen to,EN2004a
+2977.09,2977.09,C,.,EN2004a
+2977.12,2977.49,B,be,EN2004a
+2977.4,2977.7,A,No,EN2004a
+2977.49,2978.22,B,. I've seen,EN2004a
+2977.7,2977.7,A,.,EN2004a
+2978.22,2987.9,B,other p people's transcription guidelines like f for the um ICSI project at Berkeley and elsewhere say indicating that it really doesn't matter and,EN2004a
+2987.4,2987.69,C,Mm-hmm .,EN2004a
+2987.9,2989.78,B,it's the point is just to get 'em into manageable,EN2004a
+2989.75,2990.09,C,Okay,EN2004a
+2989.78,2991.02,B,units,EN2004a
+2990.09,2990.09,C,.,EN2004a
+2990.28,2990.53,A,Mm-hmm .,EN2004a
+2991.02,2992.02,B,. And,EN2004a
+2991.69,2993.39,A,"Easy for checking at any rate , rather than having",EN2004a
+2993.36,2993.8,C,Yeah,EN2004a
+2993.39,2993.94,A,to listen to,EN2004a
+2993.8,2993.8,C,.,EN2004a
+2993.94,2996.47,A,a whole,EN2004a
+2996.18,2997.06,B,Yeah,EN2004a
+2996.47,2997.15,A,Anything,EN2004a
+2997.06,2997.69,B,. Yeah,EN2004a
+2997.15,2997.15,A,.,EN2004a
+2997.69,3005.57,B,", yeah . Yeah , that's true actually , that's the best reason for cutting them down , but hopefully the that'll be done during the first pass , because",EN2004a
+3005.03,3005.3,A,Mm-hmm .,EN2004a
+3005.57,3036.66,B,"that's the whole point . Making the checkers' job a little easier . Um and then , yeah , just m um be sure after you've gone through the four channels to um do a search on all the unknowns , all the um cases of ambiguity or whatever . And what else was I gonna say ? The way we'll be allocating this is is the same as before , th it's gonna be on the th the same",EN2004a
+3035.97,3036.71,A,The work allocation,EN2004a
+3036.66,3036.77,B,the,EN2004a
+3036.71,3037.04,A,page,EN2004a
+3036.77,3037.42,B,same page,EN2004a
+3037.04,3037.04,A,.,EN2004a
+3037.42,3042.4,B,", just further down . Scroll down , you'll see w all the files",EN2004a
+3040.67,3040.94,C,Mm .,EN2004a
+3042.4,3042.94,B,. And,EN2004a
+3042.71,3043.1,D,I turned,EN2004a
+3042.94,3043.32,B,uh I've,EN2004a
+3043.1,3044.35,D,the page,EN2004a
+3043.32,3044.49,B,already allocated,EN2004a
+3044.35,3044.35,D,.,EN2004a
+3044.49,3047.36,B,some some things to be checked . So if you run out,EN2004a
+3047.25,3047.71,D,Okay,EN2004a
+3047.36,3054.59,B,"of work , go ahead and start checking , because this is something that's um considerably um bottle-necked at the",EN2004a
+3054.58,3054.87,A,Right,EN2004a
+3054.59,3054.97,B,moment,EN2004a
+3054.87,3054.87,A,.,EN2004a
+3054.97,3054.97,B,.,EN2004a
+3055.19,3056.62,D,So is this the priority then ?,EN2004a
+3056.92,3064.49,B,"Yeah , I'd say for now um w we don't even have uh much new stuff to be uh",EN2004a
+3064.26,3066.04,D,Transcri,EN2004a
+3064.49,3066.59,B,to be gone over for a first pass . So,EN2004a
+3066.04,3066.42,D,yeah .,EN2004a
+3066.59,3074.24,B,it's important that we d um do this second pass . And I've indicated in a column whether something is priority,EN2004a
+3073.44,3073.67,C,Mm-hmm .,EN2004a
+3074.24,3077.83,B,. M I think I high typed high,EN2004a
+3077.16,3077.37,C,Mm-hmm .,EN2004a
+3077.83,3093.66,B,"if it's high priority . Um so d those would be the ones you would focus on first , obviously . And when it come you don't want to change the file-name in any way . Just keep it the same . Um there there is going to be a checking in procedure . I don't",EN2004a
+3093.64,3094.01,D,Mm-hmm,EN2004a
+3093.66,3094.13,B,know,EN2004a
+3094.01,3094.01,D,.,EN2004a
+3094.13,3099.99,B,"if anybody's mentioned this before , but you'll you'll know about this with the C_V_S_ server",EN2004a
+3099.17,3100.3,C,Mm yeah,EN2004a
+3099.99,3100.34,B,. So,EN2004a
+3100.3,3100.46,C,. Well,EN2004a
+3100.34,3100.63,B,th,EN2004a
+3100.46,3105.02,C,", I don't know about I know about this for the summarisation , I haven't done this with",EN2004a
+3104.76,3105.06,D,Turn the,EN2004a
+3105.02,3105.42,C,uh,EN2004a
+3105.06,3105.84,D,page,EN2004a
+3105.42,3105.97,C,transcription,EN2004a
+3105.84,3106.51,D,. Did,EN2004a
+3105.9,3106.25,B,Right,EN2004a
+3105.97,3107.26,C,yet,EN2004a
+3106.25,3106.39,B,", but",EN2004a
+3106.32,3106.49,A,It,EN2004a
+3106.39,3106.56,B,it's,EN2004a
+3106.49,3107.05,A,do,EN2004a
+3106.51,3106.58,D,you,EN2004a
+3106.56,3106.84,B,be,EN2004a
+3106.58,3107.11,D,get the little,EN2004a
+3106.84,3107.26,B,s,EN2004a
+3107.05,3107.76,A,yes,EN2004a
+3107.11,3107.31,D,buzz,EN2004a
+3107.26,3107.63,B,y,EN2004a
+3107.26,3107.59,C,. Yeah,EN2004a
+3107.31,3109.27,D,buzz,EN2004a
+3107.59,3107.59,C,.,EN2004a
+3107.63,3108.27,B,similar,EN2004a
+3107.76,3107.76,A,.,EN2004a
+3108.27,3109.31,B,. But they're they're,EN2004a
+3109.27,3109.27,D,?,EN2004a
+3109.31,3113.46,B,creating a their a guy Jonathan is creating a web form,EN2004a
+3112.74,3113.01,C,Mm-hmm .,EN2004a
+3113.46,3114.68,B,for you to do this all very,EN2004a
+3114.49,3114.77,C,Yeah,EN2004a
+3114.68,3115.12,B,simply,EN2004a
+3114.77,3114.77,C,.,EN2004a
+3115.12,3118.75,B,and like just um upload everything that you've uh up upload,EN2004a
+3118.54,3118.87,A,Checking,EN2004a
+3118.75,3119.13,B,the file,EN2004a
+3118.87,3119.71,A,in page,EN2004a
+3119.13,3120.11,B,that you've transcribed,EN2004a
+3119.71,3120.37,A,. Oh right,EN2004a
+3120.11,3120.77,B,and,EN2004a
+3120.37,3120.37,A,.,EN2004a
+3120.77,3126.83,B,and you'll be noting whether it's the first pass or the second pass and y your name,EN2004a
+3126.5,3126.74,A,Mm-hmm .,EN2004a
+3126.83,3132.16,B,um as the person who did that particular pass . And that will happen soon . I'll let you know .,EN2004a
+3132.2,3136.1,D,"So do we just open the file as we open the files for the first pass , like open",EN2004a
+3135.96,3136.38,B,Yeah,EN2004a
+3136.1,3136.52,D,up the sound,EN2004a
+3136.38,3136.38,B,.,EN2004a
+3136.52,3137.96,D,file and then,EN2004a
+3137.57,3138.02,B,"Yeah , you'll",EN2004a
+3137.96,3138.11,D,it,EN2004a
+3138.02,3138.27,B,have,EN2004a
+3138.11,3138.5,D,sh,EN2004a
+3138.27,3146.2,B,to I would suggest creating a f folder um called files to be checked or something like that,EN2004a
+3145.3,3146.41,D,In your home directory,EN2004a
+3146.2,3146.79,B,. Yeah,EN2004a
+3146.41,3146.41,D,.,EN2004a
+3146.79,3151.01,B,", and then within that create a s create sub-folders for the",EN2004a
+3150.75,3151.22,D,Okay,EN2004a
+3151.01,3152.11,B,the given,EN2004a
+3151.22,3151.22,D,.,EN2004a
+3152.11,3153.13,B,meeting,EN2004a
+3152.23,3152.58,D,Yep .,EN2004a
+3153.13,3177.04,B,"and you'll have to get all the sound files unfortunately from the M_M_M_ server on your own , because the the AMI server's not very reliable for getting these sound files uncorrupted . So you'll have to get all the sound files from the M_M_M_ server and the person's transcription file should be in that folder where you're putting yours . Um",EN2004a
+3176.0,3176.62,D,Okay .,EN2004a
+3177.04,3184.84,B,"and then you'll just uh yeah d you'll copy that over , you won't don't move it over , because we wanna have",EN2004a
+3184.79,3184.92,D,Then,EN2004a
+3184.84,3185.41,B,multiple,EN2004a
+3184.92,3185.44,D,you'll lose it,EN2004a
+3185.41,3186.77,B,versions,EN2004a
+3185.44,3186.08,D,", yeah .",EN2004a
+3186.77,3203.64,B,"of these things , but yeah , copy it into your directory and keep the same name . And then when you check it in , it will automatically be registered even though the the first pass was checked in when we're doing this checking in business , um it will know",EN2004a
+3203.24,3203.59,D,Okay .,EN2004a
+3203.64,3208.18,B,"which pass it is , but I think you'll also be indicating that as well .",EN2004a
+3208.44,3211.03,A,Uh it's vaguely connected question,EN2004a
+3210.74,3211.06,B,Uh-huh,EN2004a
+3211.03,3212.11,A,. Um,EN2004a
+3211.06,3211.06,B,.,EN2004a
+3212.11,3219.62,A,", you You'll know . Um originally the like when we first like replied , say yes if you're interested in doing this , it said six weeks , and",EN2004a
+3219.52,3219.79,B,Mm-hmm,EN2004a
+3219.62,3220.25,A,the contracts,EN2004a
+3219.79,3219.79,B,.,EN2004a
+3220.25,3227.02,A,"say eighth of May , which is longer in advance than which is a greater amount of time than six weeks",EN2004a
+3225.51,3227.5,B,"Yeah , it's it' actually six",EN2004a
+3227.02,3227.02,A,.,EN2004a
+3227.5,3229.04,B,what is it ? Is it three months,EN2004a
+3228.98,3229.06,D,Sh,EN2004a
+3229.04,3229.12,B,", I",EN2004a
+3229.06,3229.75,D,Yeah,EN2004a
+3229.12,3230.03,B,think,EN2004a
+3229.31,3229.73,C,Um,EN2004a
+3229.56,3229.84,A,That's,EN2004a
+3229.73,3229.94,C,I've,EN2004a
+3229.75,3230.01,D,", someone",EN2004a
+3229.94,3230.14,C,got,EN2004a
+3230.01,3230.19,D,said,EN2004a
+3230.03,3231.33,B,? Yeah,EN2004a
+3230.14,3230.39,C,a three,EN2004a
+3230.19,3230.41,D,three,EN2004a
+3230.39,3230.66,C,month,EN2004a
+3230.41,3232.07,D,months,EN2004a
+3230.66,3231.59,C,"contract , yeah",EN2004a
+3231.33,3232.04,B,. Yeah,EN2004a
+3231.59,3231.59,C,.,EN2004a
+3232.04,3232.25,B,. They're,EN2004a
+3232.07,3232.46,D,. Yeah,EN2004a
+3232.25,3232.8,B,they're three-month,EN2004a
+3232.46,3232.46,D,.,EN2004a
+3232.8,3237.1,B,"contracts and now , if you can't keep that , that's fine . But",EN2004a
+3236.95,3237.22,A,Okay,EN2004a
+3237.1,3237.41,B,it's,EN2004a
+3237.22,3237.22,A,.,EN2004a
+3237.41,3239.94,B,just a logistic thing with personnel,EN2004a
+3238.9,3239.14,A,Right .,EN2004a
+3239.94,3242.26,B,where where we ha that was the minimum we were,EN2004a
+3242.2,3243.2,A,Okay,EN2004a
+3242.26,3242.87,B,able to,EN2004a
+3242.83,3243.43,D,Oh,EN2004a
+3242.87,3243.63,B,offer a contract,EN2004a
+3243.2,3244.01,A,", that's",EN2004a
+3243.43,3244.12,D,", okay",EN2004a
+3243.63,3244.03,B,for . So,EN2004a
+3244.01,3244.22,A,. Cool,EN2004a
+3244.03,3244.25,B,if,EN2004a
+3244.12,3244.12,D,.,EN2004a
+3244.22,3244.22,A,.,EN2004a
+3244.25,3247.42,B,"you have to bow out , let us know as soon as you know",EN2004a
+3247.08,3247.39,A,Right .,EN2004a
+3247.42,3249.27,B,when you you're gonna,EN2004a
+3249.02,3249.48,A,When it gets,EN2004a
+3249.27,3249.57,B,have to,EN2004a
+3249.48,3249.69,A,into,EN2004a
+3249.57,3251.0,B,stop,EN2004a
+3249.69,3251.1,A,the holidays and,EN2004a
+3250.81,3251.25,D,Mm,EN2004a
+3251.0,3251.82,B,. Yeah,EN2004a
+3251.1,3251.39,A,we're not,EN2004a
+3251.25,3251.25,D,.,EN2004a
+3251.39,3252.02,A,necessarily,EN2004a
+3251.82,3252.53,B,", yeah",EN2004a
+3252.02,3252.8,A,around in the holidays,EN2004a
+3252.53,3253.27,B,", obviously",EN2004a
+3252.8,3253.99,A,and,EN2004a
+3253.27,3254.12,B,those kinds of things,EN2004a
+3253.99,3254.28,A,and,EN2004a
+3254.12,3257.41,B,"are things we'll have to work around , but um yeah",EN2004a
+3257.27,3257.49,A,Right,EN2004a
+3257.41,3257.68,B,", it's",EN2004a
+3257.49,3257.49,A,.,EN2004a
+3257.68,3261.03,B,just one of those details,EN2004a
+3259.67,3260.6,A,Just checking,EN2004a
+3260.42,3260.96,D,Okay,EN2004a
+3260.6,3260.6,A,.,EN2004a
+3260.96,3261.22,D,. Once,EN2004a
+3261.03,3261.03,B,.,EN2004a
+3261.22,3266.19,D,"we actually get into the like um Easter holidays , 'cause we're at having lectures at the moment",EN2004a
+3265.87,3266.19,B,Mm-hmm,EN2004a
+3266.19,3266.33,D,", can",EN2004a
+3266.19,3266.19,B,.,EN2004a
+3266.33,3269.48,D,we be more flexible with our hours if we wanna sort of,EN2004a
+3268.44,3269.64,B,I should think so . I mean,EN2004a
+3269.48,3269.69,D,I mean,EN2004a
+3269.64,3269.71,B,the,EN2004a
+3269.69,3270.05,D,depending,EN2004a
+3269.71,3270.23,B,whole point,EN2004a
+3270.05,3270.4,D,on who's,EN2004a
+3270.23,3270.86,B,w of,EN2004a
+3270.4,3271.53,D,using the computers,EN2004a
+3270.86,3271.53,B,keeping,EN2004a
+3271.53,3271.53,D,.,EN2004a
+3271.53,3277.01,B,"well , as long as you're able to , yeah , work out use of your computer with the other person",EN2004a
+3276.23,3276.83,D,Yeah .,EN2004a
+3277.01,3278.46,B,", that's fine , yeah",EN2004a
+3278.0,3278.48,D,Okay,EN2004a
+3278.46,3278.73,B,. The,EN2004a
+3278.48,3278.48,D,.,EN2004a
+3278.73,3283.64,B,the whole point of having m regular hours was to make sure that somebody was here to answer your,EN2004a
+3283.62,3284.3,D,Yeah,EN2004a
+3283.64,3284.99,B,questions,EN2004a
+3284.3,3284.71,D,", sure .",EN2004a
+3284.97,3285.04,A,Or,EN2004a
+3284.99,3285.09,B,. But,EN2004a
+3285.04,3285.24,A,else,EN2004a
+3285.09,3285.4,B,you've got,EN2004a
+3285.24,3285.44,A,you can,EN2004a
+3285.4,3286.82,B,keys,EN2004a
+3285.44,3286.5,A,like p yes,EN2004a
+3286.35,3287.1,D,Yes,EN2004a
+3286.5,3286.5,A,.,EN2004a
+3286.82,3287.4,B,", so",EN2004a
+3287.1,3287.22,D,. Yep .,EN2004a
+3287.4,3290.77,B,so you should be able to get in during odd hours if if,EN2004a
+3290.72,3291.06,D,If,EN2004a
+3290.77,3291.09,B,you wanted,EN2004a
+3291.06,3291.23,D,want,EN2004a
+3291.09,3291.17,B,to,EN2004a
+3291.11,3291.25,A,And,EN2004a
+3291.17,3291.64,B,work,EN2004a
+3291.25,3291.78,A,if you can plug,EN2004a
+3291.64,3291.64,B,.,EN2004a
+3291.78,3294.87,A,"microphones into Apple Appleton Tower computers , I can do it there as",EN2004a
+3294.72,3295.33,B,Yeah,EN2004a
+3294.87,3295.49,A,well if you wanted,EN2004a
+3295.33,3295.83,B,", yeah",EN2004a
+3295.49,3295.61,A,me,EN2004a
+3295.83,3296.26,B,". Yeah , I don't",EN2004a
+3296.17,3296.65,D,Okay,EN2004a
+3296.26,3297.06,B,see why not,EN2004a
+3296.65,3296.65,D,.,EN2004a
+3297.06,3298.82,B,", as long as you're , you know",EN2004a
+3298.49,3298.85,D,Know what you're,EN2004a
+3298.82,3299.11,B,", doing",EN2004a
+3298.85,3299.27,D,doing,EN2004a
+3299.11,3300.47,B,your,EN2004a
+3299.27,3299.27,D,.,EN2004a
+3300.32,3300.53,A,We could,EN2004a
+3300.47,3300.82,B,given,EN2004a
+3300.53,3300.87,A,meet up,EN2004a
+3300.82,3300.99,B,set,EN2004a
+3300.87,3301.0,A,and,EN2004a
+3300.99,3301.07,B,of,EN2004a
+3301.0,3301.15,A,have,EN2004a
+3301.07,3301.4,B,hours,EN2004a
+3301.15,3303.02,A,a session,EN2004a
+3301.4,3303.51,B,for the week,EN2004a
+3303.02,3303.02,A,.,EN2004a
+3303.51,3311.76,B,. Yeah . And um yeah . Paym I I think you'll all be paid,EN2004a
+3311.13,3312.08,D,Phew,EN2004a
+3311.7,3311.89,A,That's,EN2004a
+3311.76,3313.13,B,. I,EN2004a
+3311.89,3312.25,A,a nice,EN2004a
+3312.08,3312.08,D,.,EN2004a
+3312.25,3313.34,A,way to put it,EN2004a
+3313.13,3313.53,B,think,EN2004a
+3313.34,3313.34,A,.,EN2004a
+3313.53,3314.91,B,you'll all be,EN2004a
+3314.57,3315.01,A,I'm having,EN2004a
+3314.91,3315.04,B,paid,EN2004a
+3315.01,3315.23,A,sort,EN2004a
+3315.04,3315.25,B,"uh well , have",EN2004a
+3315.23,3315.37,A,some,EN2004a
+3315.25,3315.4,B,you,EN2004a
+3315.37,3315.86,A,s,EN2004a
+3315.4,3315.64,B,not,EN2004a
+3315.86,3318.66,A,I'm having to sort some tax stuff out before I can even,EN2004a
+3318.36,3319.63,B,Mm,EN2004a
+3318.6,3319.26,D,Oh,EN2004a
+3318.66,3319.35,A,send my stuff,EN2004a
+3319.26,3319.26,D,.,EN2004a
+3319.35,3319.72,A,"in , 'cause",EN2004a
+3319.63,3320.15,B,. Okay,EN2004a
+3319.72,3320.16,A,I need to,EN2004a
+3320.15,3320.15,B,.,EN2004a
+3320.16,3320.36,A,make,EN2004a
+3320.17,3320.54,C,Mm-hmm,EN2004a
+3320.36,3320.55,A,sure,EN2004a
+3320.54,3320.54,C,.,EN2004a
+3320.55,3322.03,A,I'm sending them the right form,EN2004a
+3321.73,3322.14,B,Okay,EN2004a
+3321.97,3322.45,D,Yeah,EN2004a
+3322.03,3322.19,A,. But they,EN2004a
+3322.14,3322.14,B,.,EN2004a
+3322.19,3322.45,A,won't,EN2004a
+3322.45,3322.45,D,.,EN2004a
+3322.45,3326.44,A,even know what examining board I got my A_ levels in,EN2004a
+3325.57,3331.15,B,Really,EN2004a
+3326.44,3331.41,A,". Yeah , for human resources . I thought , surely you don't need that information , 'cause it took me",EN2004a
+3331.15,3331.15,B,?,EN2004a
+3331.41,3341.36,A,"it was about to take me half an hour well it did when I was like just going through the forms and filling in all the details , I thought I'm not going to spend w A couple of hours getting photo-copies",EN2004a
+3341.29,3341.46,C,Yeah,EN2004a
+3341.36,3341.52,A,of,EN2004a
+3341.46,3341.46,C,.,EN2004a
+3341.52,3344.39,A,degree certificates to give you for your files,EN2004a
+3344.35,3345.48,B,No,EN2004a
+3344.39,3346.03,A,if I'm just gonna be here a good,EN2004a
+3345.48,3346.16,B,", that's",EN2004a
+3346.03,3346.2,A,th they,EN2004a
+3346.16,3346.54,B,certainly,EN2004a
+3346.2,3346.66,A,won't,EN2004a
+3346.54,3346.73,B,not,EN2004a
+3346.66,3346.77,A,I,EN2004a
+3346.73,3347.42,B,necessary,EN2004a
+3346.77,3347.55,A,think it th at one,EN2004a
+3347.42,3347.42,B,.,EN2004a
+3347.55,3349.32,A,place it said give us copies of degrees,EN2004a
+3349.23,3349.78,B,Mm,EN2004a
+3349.32,3349.85,A,"? Oh , maybe",EN2004a
+3349.78,3350.27,B,no,EN2004a
+3349.85,3350.32,A,I'm getting mixed,EN2004a
+3350.27,3350.27,B,.,EN2004a
+3350.32,3351.54,A,"up with something else , but it wanted a",EN2004a
+3353.37,3353.67,B,Well,EN2004a
+3353.65,3353.77,A,A_,EN2004a
+3353.67,3353.83,B,it,EN2004a
+3353.77,3354.21,A,level like,EN2004a
+3354.067,3354.067,D,.,EN2004a
+3354.21,3356.3,A,"examining board , which seemed a bit ridiculous .",EN2004a
+3356.68,3362.31,B,"If you have any th problems like that , mm um see Caroline Hastings . I mean if it's",EN2004a
+3362.23,3363.3,A,Right,EN2004a
+3362.31,3363.38,B,for this job and,EN2004a
+3363.27,3363.53,C,Mm,EN2004a
+3363.3,3364.49,A,. Mm-hmm,EN2004a
+3363.34,3363.84,D,Yeah,EN2004a
+3363.38,3363.59,B,and,EN2004a
+3363.53,3363.53,C,.,EN2004a
+3363.59,3364.57,B,getting paid,EN2004a
+3363.84,3363.84,D,.,EN2004a
+3364.49,3364.67,A,. Yeah,EN2004a
+3364.57,3364.78,B,", that",EN2004a
+3364.67,3364.67,A,.,EN2004a
+3364.78,3366.89,B,that's not necessary and Caroline Hastings,EN2004a
+3366.75,3366.97,A,Didn't,EN2004a
+3366.89,3367.05,B,ought,EN2004a
+3366.97,3367.13,A,think,EN2004a
+3367.05,3367.17,B,to be,EN2004a
+3367.13,3367.39,A,so,EN2004a
+3367.17,3368.3,B,able to,EN2004a
+3367.39,3367.39,A,.,EN2004a
+3368.3,3368.8,B,help you sort,EN2004a
+3368.58,3368.97,C,Excuse,EN2004a
+3368.8,3369.15,B,that out,EN2004a
+3368.97,3369.1,C,me .,EN2004a
+3369.15,3376.25,B,. But j also if if pay is a matter um like if it's a matter that you haven't gotten paid for some reason,EN2004a
+3375.48,3375.97,D,Yeah .,EN2004a
+3376.25,3377.54,B,", um I hope that's not",EN2004a
+3377.48,3377.68,C,Yeah,EN2004a
+3377.54,3377.71,B,not,EN2004a
+3377.68,3377.78,C,", I",EN2004a
+3377.71,3377.79,B,the,EN2004a
+3377.78,3377.99,C,haven't,EN2004a
+3377.79,3378.27,B,case,EN2004a
+3377.99,3378.4,C,gotten paid,EN2004a
+3378.27,3378.27,B,.,EN2004a
+3378.4,3383.39,C,"for the first two weeks , 'cause um I w I only have a three month contract starting February",EN2004a
+3383.14,3383.59,B,Mm-hmm,EN2004a
+3383.39,3383.64,C,", but I",EN2004a
+3383.59,3383.59,B,.,EN2004a
+3383.64,3384.76,C,started mid-January .,EN2004a
+3385.6,3387.4,B,Talk to Caroline,EN2004a
+3386.04,3386.36,C,Yeah .,EN2004a
+3387.08,3387.43,D,Oh,EN2004a
+3387.4,3387.63,B,. Yeah,EN2004a
+3387.43,3387.43,D,.,EN2004a
+3387.63,3392.76,B,", 'cause I've I really don't know um why that would be . I'm here",EN2004a
+3392.29,3392.47,A,Mm .,EN2004a
+3392.76,3394.19,B,"full-time now , so",EN2004a
+3393.96,3394.18,A,Alright,EN2004a
+3394.02,3394.24,C,Okay,EN2004a
+3394.18,3394.18,A,.,EN2004a
+3394.19,3394.44,B,I'll,EN2004a
+3394.24,3394.24,C,.,EN2004a
+3394.44,3400.16,B,"I'll be here m Monday through Friday and I l I leave at four now , so",EN2004a
+3399.2,3400.42,C,Mm-hmm . Okay,EN2004a
+3400.16,3400.44,B,you won't,EN2004a
+3400.42,3400.42,C,.,EN2004a
+3400.44,3402.57,B,find me anytime after,EN2004a
+3401.86,3402.22,C,Alright .,EN2004a
+3402.57,3404.2,B,that . But,EN2004a
+3403.68,3406.08,C,Is your husband now a stay-at-home-dad,EN2004a
+3405.54,3406.29,B,Yeah,EN2004a
+3406.08,3406.08,C,?,EN2004a
+3406.29,3409.22,B,", my husband's at home with the",EN2004a
+3408.76,3409.24,D,Wow,EN2004a
+3409.19,3409.47,A,Oh,EN2004a
+3409.22,3410.52,B,baby,EN2004a
+3409.24,3409.24,D,.,EN2004a
+3409.47,3410.59,A,", so it is your baby then on the",EN2004a
+3410.52,3411.18,B,. Yeah,EN2004a
+3410.59,3412.92,A,photos,EN2004a
+3411.18,3416.11,B,", yeah",EN2004a
+3412.92,3416.12,A,. One assumes this . How old now,EN2004a
+3416.11,3416.59,B,. He's,EN2004a
+3416.12,3416.12,A,?,EN2004a
+3416.59,3417.86,B,uh four and half months .,EN2004a
+3418.11,3418.68,A,Oh .,EN2004a
+3419.25,3421.67,B,It's very lovely . A nice jolly little,EN2004a
+3421.59,3421.83,C,He's,EN2004a
+3421.67,3422.0,B,baby,EN2004a
+3421.83,3422.25,C,sleeping,EN2004a
+3422.0,3422.0,B,.,EN2004a
+3422.25,3422.6,C,through,EN2004a
+3422.5,3422.76,A,Yeah,EN2004a
+3422.6,3422.6,C,.,EN2004a
+3422.76,3425.04,A,", that's the question I was just gonna ask , does he sleep ?",EN2004a
+3425.21,3429.98,B,"Yeah , well um only as of Friday actually",EN2004a
+3429.33,3429.71,A,Wow .,EN2004a
+3429.98,3434.46,B,". So he was uh I was just telling Melissa this do you want us to stop ? Yeah , yeah",EN2004a
+3434.15,3435.46,C,Yeah,EN2004a
+3434.46,3434.46,B,.,EN2004a
+3435.46,3435.46,C,.,EN2004a
+3436.35,3436.81,B,Yeah,EN2004a
+3436.63,3436.9,A,Alright,EN2004a
+3436.78,3437.13,D,Okay,EN2004a
+3436.81,3437.03,B,yeah,EN2004a
+3436.9,3436.9,A,.,EN2004a
+3437.03,3437.22,B,. Oh,EN2004a
+3437.13,3437.13,D,.,EN2004a
+3437.22,3439.18,B,"good , that worked out well .",EN2004a
+3441.25,3442.9,A,"Oh , do we have to tick our note thing again when",EN2004a
+3442.88,3443.06,D,Oh,EN2004a
+3442.9,3443.34,A,we finish,EN2004a
+3443.06,3443.84,D,yeah,EN2004a
+3443.34,3443.6,A,this ?,EN2004a
+3443.84,3444.44,D,. Absolutely .,EN2004a
+3444.93,3445.63,A,To say that we've,EN2004a

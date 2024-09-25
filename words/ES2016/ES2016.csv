@@ -1,0 +1,2385 @@
+Start,End,Speaker,Speech,meeting
+10.93,13.98,A,"Okay . Oh , that's not gonna work .",ES2016a
+28.01,29.25,A,"Oh , alright .",ES2016a
+35.55,35.88,A,Okay .,ES2016a
+60.49,64.32,A,Okay . Um,ES2016a
+63.8,64.54,D,"Uh , uh , um",ES2016a
+64.32,64.88,A,alright,ES2016a
+64.54,64.54,D,.,ES2016a
+64.88,94.21,A,". I'll just put that there . Uh as you all know we're here to create a brand new fantastic remote . Uh I'm Nick Debusk , I'm the Project Manager . Uh we'll just get started with everyone kind of letting each other know who they are and what you're doing , what your what your role is um . Go ahead .",ES2016a
+94.29,138.13,D,"Okay . I am Corinne Whiting and I will be the Marketing Expert and in each of the three phases I will have a different role . In the function design phase I will be talking about user requirement specification , and this means what needs and desires are to be fulfilled , and I'll be doing research to figure this out . In the conceptual design phase I will be dealing with trend watching and I'll be doing marketing research on the web . And then finally in the um detailed design phase I will be doing product evaluation and so I will be collecting the requirements and ranking all the requirements to see how we did .",ES2016a
+138.82,139.22,A,'Kay .,ES2016a
+139.55,172.24,C,"Hiya , I'm Ryan . Um I'm the User Interface Designer . Um likewise I've three different roles for each stage of design . Um the functional design is looking at the tex technical functions of a remote control . Um in the concept design , the user interface , how the user reacts with the the product . And the detailed design um sort of like the user interface design , what they might be looking for , uh things like fashions , what makes wha how we're gonna make it special . That's about it .",ES2016a
+172.56,202.74,B,"Right . I'm Manuel and I'm the Industrial Designer in in this project um . In the functional design phase I'm I'll be dealing mostly with the requirements , um we'll discuss what the prog what functions the the product has to fulfil and so and so on . Um I suppose we'll work pretty much together on that one . Um um in the conceptual design um I'll be pro mostly dealing with properties and materials um",ES2016a
+202.18,202.58,C,Yeah .,ES2016a
+202.74,222.37,B,"of our product . And uh the detailed design in the detailed design I'll be concerned with the look and feel of the product itself , um so we're pretty much working together obviously on the design front here . Okay",ES2016a
+221.21,221.77,A,Okay .,ES2016a
+222.37,222.37,B,.,ES2016a
+224.06,326.54,A,"Um so we've got our opening , our our agenda is the opening , uh acquaintance which we've kinda done . Uh tool training , project plan discussion and then closing . Uh grand total of twenty five minutes we have here . Um so we are putting together a new remote control . Um we want it to be something original . Um of course we're a not only a electronics company but a fashion um conscious electronics company , so we want it to be trendy um and we want it to be easy to use . Um we've got the functional design , conceptual design and detailed design um which basically is is the three of you um . And w uh well um functional design um . Um do we have um any ideas of of maybe d let's just throw out some ideas of what kind of remote control we want to have , and then we can go into how we're gonna design it and and how we're gonna do the detailing on it .",ES2016a
+326.84,333.32,C,"Yeah . Well uh s function of remote control is just just you know , change channels is its main function .",ES2016a
+333.56,343.05,A,So we want it to be um a T_V_ remote or I I mean do we want it to to do other things besides just be a a television remote ?,ES2016a
+343.25,348.89,C,Oh right . I suppose you c try make it a universal remote,ES2016a
+348.59,348.81,A,'Kay .,ES2016a
+348.89,356.43,C,for could work on all sort of electrical products in in one person's house,ES2016a
+356.11,356.32,D,Mm .,ES2016a
+356.43,361.57,C,". But , you know , they all sorta have the same role changing channels , volumes and then programming .",ES2016a
+361.79,362.91,A,Mm-hmm . 'Kay .,ES2016a
+365.94,366.33,C,I think,ES2016a
+366.2,366.45,B,Mm,ES2016a
+366.33,366.52,C,they all,ES2016a
+366.45,366.45,B,.,ES2016a
+366.52,372.02,C,work on the same prin principle as well sorta like I don't actually know . But is it just infra-red ? Is that standard ?,ES2016a
+372.74,372.97,A,I,ES2016a
+372.9,373.76,C,Ye,ES2016a
+372.97,374.19,A,I think yeah,ES2016a
+373.76,374.04,C,yeah .,ES2016a
+374.19,379.44,A,", yeah , r universal remote . Um this is my first uh go-round",ES2016a
+379.04,379.13,D,Huh .,ES2016a
+379.44,384.9,A,"with creating a remote control , so",ES2016a
+383.1,386.44,D,Ours too,ES2016a
+384.9,386.42,A,I think we're all in the same boat here .,ES2016a
+386.44,386.44,D,.,ES2016a
+388.17,388.87,A,Um,ES2016a
+391.44,395.01,C,Um one thing I thought of with the remote control is you always lose 'em .,ES2016a
+395.64,396.18,A,Okay .,ES2016a
+396.23,396.52,D,Mm .,ES2016a
+396.55,398.13,C,So if there's a g a way,ES2016a
+397.95,398.29,D,Ch,ES2016a
+398.13,400.2,C,of finding it quite easily,ES2016a
+400.16,400.46,A,So,ES2016a
+400.2,400.55,C,", I thought that'd",ES2016a
+400.46,400.6,A,we,ES2016a
+400.55,400.61,C,be,ES2016a
+400.6,400.93,A,should,ES2016a
+400.61,401.01,C,quite good,ES2016a
+400.93,401.12,A,we,ES2016a
+401.01,401.16,C,quite,ES2016a
+401.12,401.88,A,should,ES2016a
+401.16,401.79,C,a good feature .,ES2016a
+401.88,404.45,A,set our remote control up to where it has a uh,ES2016a
+406.68,408.41,D,Like a tracking device,ES2016a
+407.43,408.83,A,like a tracking device,ES2016a
+408.41,408.41,D,?,ES2016a
+408.76,408.86,C,Oh,ES2016a
+408.83,409.8,A,or,ES2016a
+408.86,410.75,C,you can get those key,ES2016a
+409.8,410.97,A,or like a a,ES2016a
+410.75,412.49,C,well you could whistle or make a noise,ES2016a
+412.37,412.5,A,It,ES2016a
+412.49,412.7,C,and,ES2016a
+412.5,412.76,A,makes,ES2016a
+412.7,412.93,C,it'd,ES2016a
+412.76,413.34,A,a noise,ES2016a
+412.93,413.26,C,beep .,ES2016a
+413.34,413.97,A,", there's a button",ES2016a
+413.81,413.98,B,"Mm , mm",ES2016a
+413.97,414.1,A,on,ES2016a
+413.98,413.98,B,.,ES2016a
+414.1,415.55,A,the T_V_ that you press,ES2016a
+415.22,415.4,D,Mm .,ES2016a
+415.52,415.78,C,Yeah,ES2016a
+415.55,415.86,A,and,ES2016a
+415.78,415.78,C,.,ES2016a
+416.39,416.78,B,Right .,ES2016a
+417.58,417.85,A,'Kay .,ES2016a
+417.92,418.4,D,Be good .,ES2016a
+419.41,420.01,B,So,ES2016a
+422.66,428.32,C,"Generally , all remotes are sort of quite similar in their appearance .",ES2016a
+428.68,429.79,A,Yeah,ES2016a
+429.52,430.34,C,Just long,ES2016a
+429.79,430.67,A,. Do we want,ES2016a
+430.34,430.34,C,.,ES2016a
+430.67,433.48,A,so they're kinda like long and rectangular,ES2016a
+432.79,433.49,C,Yeah,ES2016a
+433.48,433.55,A,. Do,ES2016a
+433.49,433.84,C,. Black,ES2016a
+433.55,433.9,A,we want,ES2016a
+433.84,434.18,C,usually,ES2016a
+433.9,434.33,A,something,ES2016a
+434.18,434.18,C,.,ES2016a
+434.33,435.75,A,crazy ? You know,ES2016a
+435.67,436.14,C,Yeah,ES2016a
+435.75,436.43,A,", we want something",ES2016a
+436.14,436.14,C,.,ES2016a
+436.43,437.04,A,new that's gonna,ES2016a
+436.86,437.17,D,Lot more,ES2016a
+437.04,437.4,A,stand,ES2016a
+437.17,438.18,D,modern,ES2016a
+437.4,438.63,A,out,ES2016a
+438.18,438.18,D,.,ES2016a
+438.56,438.73,C,I,ES2016a
+438.63,438.75,A,. A,ES2016a
+438.73,438.93,C,think,ES2016a
+438.75,438.99,A,m a,ES2016a
+438.93,439.17,C,so,ES2016a
+438.99,440.58,A,modern,ES2016a
+439.17,439.17,C,.,ES2016a
+440.58,441.51,A,so our remote should,ES2016a
+441.45,441.62,C,Maybe,ES2016a
+441.51,441.84,A,be,ES2016a
+441.62,443.98,C,sorta spherical or something . A ball .,ES2016a
+444.77,446.62,D,"Maybe like user-friendly , like a little",ES2016a
+447.13,447.54,C,Yeah .,ES2016a
+447.99,450.45,D,"you know , where you can use both hands , like a little keyboard type",ES2016a
+450.25,451.05,C,People,ES2016a
+450.45,450.73,D,thing .,ES2016a
+450.95,451.35,B,Mm,ES2016a
+451.05,451.47,C,I thought,ES2016a
+451.35,451.35,B,.,ES2016a
+451.47,458.87,C,"maybe , because people always tend to throw a remote control about the place to one another if it was in a ball , and",ES2016a
+458.87,459.58,A,'Kay,ES2016a
+458.87,459.63,C,maybe the actual,ES2016a
+459.58,459.58,A,.,ES2016a
+459.63,460.79,C,controls are inside or something .,ES2016a
+461.61,461.77,D,Mm .,ES2016a
+462.17,462.45,A,Um .,ES2016a
+462.5,468.92,B,"Well there are of course certain restrictions , you can't have it be any form and fulfil all functions at the",ES2016a
+468.84,469.12,C,Yeah,ES2016a
+468.92,469.19,B,same,ES2016a
+469.12,469.12,C,.,ES2016a
+469.19,483.02,B,"time , so there are always the some restrictions we have to apply here . Um however um one question is how stable is that thing supposed to be , that refers to the material , pretty much um",ES2016a
+482.58,482.89,D,Mm .,ES2016a
+483.02,495.5,B,. What are we gonna build that thing out of ? How sturdy is it gonna be ? Do we want it to last longer or rather have people whatever,ES2016a
+495.44,495.68,A,Okay,ES2016a
+495.5,495.75,B,", have",ES2016a
+495.68,496.72,A,so,ES2016a
+495.75,496.94,B,to buy one,ES2016a
+496.72,497.0,A,yeah,ES2016a
+496.94,497.3,B,every,ES2016a
+497.0,497.2,A,", so",ES2016a
+497.15,497.42,C,Yeah,ES2016a
+497.2,497.32,A,we,ES2016a
+497.3,497.51,B,half,ES2016a
+497.32,497.52,A,want,ES2016a
+497.42,497.42,C,.,ES2016a
+497.51,497.55,B,a,ES2016a
+497.52,497.59,A,it,ES2016a
+497.55,497.94,B,year,ES2016a
+497.59,498.24,A,to be sturdy,ES2016a
+497.94,497.94,B,?,ES2016a
+498.24,506.79,A,", we want it to to hold up to somebody's child , you know , throwing it across the room or , as you said , people kinda throw it , so",ES2016a
+506.33,506.64,C,Yeah .,ES2016a
+506.79,511.26,A,"ball-shaped , uh you know , if it were ball-shaped maybe",ES2016a
+511.16,511.34,C,It could,ES2016a
+511.26,511.37,A,", then",ES2016a
+511.34,511.43,C,be,ES2016a
+511.37,511.47,A,it,ES2016a
+511.43,514.33,C,cased on the outside and t everything could be inside .,ES2016a
+514.46,539.18,A,"'Kay . Um so we want it to be modern , fun , sturdy , um So our form and our function . Um we want it to be um easy to find .",ES2016a
+553.47,591.13,A,"Um What else it what else do we want it to to do ? So we want it to be universal . It's something that we're supposed to sell for about twenty five Euros um and you know , goals for profits are I think somewhere around uh fifty million Euros , what they wanna make on it , so .",ES2016a
+591.24,603.73,D,"Mm . Also since we're partners of the International Remote Control Association , maybe we wanna make it something that would globally appeal .",ES2016a
+604.37,604.73,A,'Kay .,ES2016a
+605.43,608.23,D,"That's more on the research end , but the marketing .",ES2016a
+609.92,625.62,A,"So marketing , you know , how maybe uh marketing , you could s find out what is the most universally um appealing remote control out there .",ES2016a
+625.67,633.95,D,"Yeah . And maybe as far as design goes , maybe we could have different ones for different target audiences",ES2016a
+633.83,634.23,A,'Kay,ES2016a
+633.95,634.49,D,", 'cause maybe",ES2016a
+634.23,634.23,A,.,ES2016a
+634.46,634.57,C,Ye,ES2016a
+634.49,636.51,D,one won't apply to,ES2016a
+636.06,636.48,C,Small .,ES2016a
+636.51,638.4,D,all of the countries we're targeting .,ES2016a
+640.04,640.57,B,Right .,ES2016a
+650.33,651.27,A,Um,ES2016a
+665.12,678.65,A,Do you guys have any ideas for what it should look like ? Maybe we could draw it up on the on the board over there . Some ideas ? We want it to be a b a ball,ES2016a
+677.74,679.1,C,I'd I could draw,ES2016a
+678.65,679.12,A,", you know",ES2016a
+679.1,679.26,C,sorta,ES2016a
+679.12,679.27,A,", we'll",ES2016a
+679.26,679.34,C,the,ES2016a
+679.27,679.58,A,draw,ES2016a
+679.34,679.6,C,ball,ES2016a
+679.58,679.71,A,up,ES2016a
+679.6,679.97,C,idea,ES2016a
+679.71,680.07,A,we'll draw,ES2016a
+679.97,679.97,C,.,ES2016a
+680.07,684.14,A,up the ball and maybe th um where the buttons are located .,ES2016a
+689.07,746.73,C,"My original idea was just simply sort of a sphere , where maybe you this is where it's connected together , and then when you open it out , it could fol it could be maybe flip , like a flip phone , and then when you fold it out the middle Maybe a hinge that'll have to be the strongest part of it . If that if we did use a hinge , or if it was just two parts , and then you'd have just sorta you you you know , your buttons . Thing is inside I think , sometimes remotes have too many buttons , so maybe as simple as possible , um as few buttons inside as possible . Um , I dunno , what's the idea for . Just something maybe if you ha if it had like if some kind of like light or something or lights around it . It's looking a bit like something out of Star Wars at the moment though , to be fair . But yeah",ES2016a
+746.51,747.6,D,Futuristic,ES2016a
+746.73,746.73,C,.,ES2016a
+747.6,747.6,D,.,ES2016a
+748.76,750.76,C,That was that was a sorta simple idea I had,ES2016a
+750.15,750.52,A,Uh-huh .,ES2016a
+750.76,760.86,C,"and then you know you could about Right , it would almost be like a ball . So that was just just an idea I had . I don't know whether anybody else has other ideas ?",ES2016a
+761.55,767.1,B,Right . One problem you'd get with this design is um the ball is a nice idea because of it's stability,ES2016a
+767.04,767.26,C,Yeah,ES2016a
+767.1,767.68,B,really,ES2016a
+767.26,767.26,C,.,ES2016a
+767.68,771.08,B,", but of course , since it's a ball , it'll roll , so",ES2016a
+770.95,771.19,C,Yeah,ES2016a
+771.08,771.24,B,we'd,ES2016a
+771.19,771.19,C,.,ES2016a
+771.24,772.92,B,have to have it flat on one,ES2016a
+772.76,772.96,C,Maybe,ES2016a
+772.92,773.23,B,side,ES2016a
+772.96,773.46,C,f yeah,ES2016a
+773.23,773.84,B,at least,ES2016a
+773.46,773.46,C,.,ES2016a
+773.84,778.81,B,", down here somewhere , take away that part . That's one of the big issues",ES2016a
+778.62,778.81,C,Yeah,ES2016a
+778.81,779.66,B,. Also,ES2016a
+778.81,779.76,C,", that's g that's a good idea",ES2016a
+779.66,780.01,B,also,ES2016a
+779.76,779.76,C,.,ES2016a
+780.01,781.58,B,you risk the hinges here,ES2016a
+781.43,782.42,C,Yeah,ES2016a
+781.58,782.56,B,. That's that's um,ES2016a
+782.42,782.56,C,. The,ES2016a
+782.56,782.66,B,a,ES2016a
+782.56,782.78,C,idea,ES2016a
+782.66,783.08,B,problem,ES2016a
+782.78,783.14,C,it didn't have,ES2016a
+783.08,783.08,B,.,ES2016a
+783.14,785.4,C,"to necessarily be f a hinge , that",ES2016a
+785.31,787.44,B,That's,ES2016a
+785.4,786.44,C,was just one idea though .,ES2016a
+787.44,792.19,B,"that's interesting of course , but that's of course a weak point , yeah",ES2016a
+791.98,792.37,C,Yeah,ES2016a
+792.19,792.19,B,.,ES2016a
+792.37,792.37,C,.,ES2016a
+803.64,818.91,A,How would we go about um making you know getting rid of our weak points ? What I mean would we just have a flat spot on the bottom of the ball ? Not to put you on the spot,ES2016a
+818.26,818.91,B,E No,ES2016a
+818.91,819.5,A,", but",ES2016a
+818.91,820.33,B,"no , uh uh .",ES2016a
+822.44,823.11,A,What did you say your,ES2016a
+823.08,823.25,B,N,ES2016a
+823.11,823.4,A,title,ES2016a
+823.25,823.81,B,n,ES2016a
+823.4,824.1,A,was again ?,ES2016a
+825.03,825.74,B,"Uh , I'm your",ES2016a
+825.41,826.3,A,You're the,ES2016a
+825.74,827.69,B,Industrial Designer,ES2016a
+826.3,828.19,A,the Industrial Designer,ES2016a
+827.69,829.69,B,", so",ES2016a
+828.19,828.19,A,.,ES2016a
+829.69,845.65,B,"i b well , the point is that well maybe I dunno . The shape is perhaps not the most ideal",ES2016a
+845.28,845.6,A,Okay .,ES2016a
+845.65,851.46,B,". As as stable as it is , there must be a compromise between um",ES2016a
+850.47,852.19,C,Well I I suppose that things become,ES2016a
+851.46,852.37,B,stability,ES2016a
+852.19,853.56,C,design,ES2016a
+852.37,853.23,B,and design,ES2016a
+853.14,853.45,D,Mm-hmm,ES2016a
+853.23,853.8,B,here,ES2016a
+853.45,853.45,D,.,ES2016a
+853.56,853.8,C,. But I,ES2016a
+853.8,854.05,B,", so",ES2016a
+853.8,854.08,C,mean i,ES2016a
+854.05,854.05,B,.,ES2016a
+855.0,863.12,C,"I was trying to think of like the design of others . I can't think of anything other than a long rectangle for remote , maybe small , sort of fatter ones , but",ES2016a
+862.99,863.4,A,Yeah,ES2016a
+863.12,863.55,C,there's nothing,ES2016a
+863.4,863.4,A,.,ES2016a
+863.55,866.14,C,being done sort of out of left,ES2016a
+865.98,866.15,A,It's,ES2016a
+866.14,867.02,C,field,ES2016a
+866.15,867.06,A,"not new , it's not",ES2016a
+867.02,867.29,C,", yeah",ES2016a
+867.06,867.59,A,innovative,ES2016a
+867.29,867.29,C,.,ES2016a
+867.59,870.43,A,", it's you know , everybody does long remote because it's",ES2016a
+870.25,870.56,C,Yeah,ES2016a
+870.43,871.34,A,easy,ES2016a
+870.56,870.56,C,.,ES2016a
+871.34,873.88,A,", it's it's stable um .",ES2016a
+876.06,878.34,D,"'Kay , I'll draw something",ES2016a
+877.3,879.29,A,So if,ES2016a
+878.34,882.14,D,. What,ES2016a
+879.29,880.25,A,"no , go ahead .",ES2016a
+882.14,890.5,D,"? My idea was just to have it be kind of like a keyboard type shape , you know , like video",ES2016a
+890.26,890.54,C,Yeah,ES2016a
+890.5,890.89,D,games,ES2016a
+890.54,890.54,C,.,ES2016a
+890.89,904.63,D,"l so . But maybe I mean that would be kinda big and bulky . We could also try to do the hinge thing , so it could like flip out that way . I don't know . That's my idea .",ES2016a
+905.45,907.44,C,I think definitely doing something different,ES2016a
+907.7,908.09,D,Yeah .,ES2016a
+908.7,909.49,C,is a good idea .,ES2016a
+921.04,921.22,B,Mm .,ES2016a
+922.18,933.34,C,"I mean maybe design something , that's sort of like uh I suppose not everybody's everybody's hand's the same , but something that would maybe fit in the hand easier .",ES2016a
+933.48,933.77,A,Something,ES2016a
+933.59,934.62,D,Mm,ES2016a
+933.77,934.57,A,with a grip,ES2016a
+934.55,934.76,C,Yeah,ES2016a
+934.57,934.57,A,.,ES2016a
+934.62,934.96,D,. Yeah,ES2016a
+934.76,935.44,C,", with a grip",ES2016a
+934.96,934.96,D,.,ES2016a
+935.44,935.44,C,.,ES2016a
+940.14,943.73,A,Yeah . Because even I suppose even with the ball,ES2016a
+944.44,945.52,C,It still might be hard to,ES2016a
+945.49,946.02,A,it's,ES2016a
+945.52,946.11,C,it still not,ES2016a
+946.02,946.31,A,it might,ES2016a
+946.11,946.9,C,the ho,ES2016a
+946.31,947.02,A,not be the easiest,ES2016a
+946.9,947.22,C,easiest,ES2016a
+947.02,947.33,A,to hold,ES2016a
+947.22,947.37,C,thing,ES2016a
+947.33,948.75,A,onto,ES2016a
+947.37,947.97,C,"to hold , yeah .",ES2016a
+948.75,949.35,A,um,ES2016a
+948.85,948.89,B,Mm .,ES2016a
+949.35,955.79,A,. So perhaps the the joystick,ES2016a
+955.34,956.05,C,Like,ES2016a
+955.79,956.33,A,the,ES2016a
+956.05,956.33,C,yeah,ES2016a
+956.33,956.44,A,the,ES2016a
+956.33,956.33,C,.,ES2016a
+956.44,964.84,A,"keyboard idea might work better . But then again , people like to use one hand to flip and one hand to hold their soda",ES2016a
+964.79,965.03,C,Yeah,ES2016a
+964.84,965.07,A,", so",ES2016a
+965.03,965.03,C,.,ES2016a
+965.07,966.7,A,maybe,ES2016a
+965.44,965.63,D,True .,ES2016a
+966.7,967.07,A,maybe,ES2016a
+967.01,967.15,C,It's,ES2016a
+967.07,967.25,A,we,ES2016a
+967.15,970.76,C,d yeah . I think it's definitely got to be a a one-handed,ES2016a
+970.28,970.69,D,Mm .,ES2016a
+970.76,971.52,C,a one-handed job .,ES2016a
+974.38,977.89,A,I feel like I'm just shooting everything down here . Uh,ES2016a
+977.19,978.61,D,That's fine,ES2016a
+977.89,978.39,A,um,ES2016a
+978.61,980.51,D,". You're the boss , you're allowed to .",ES2016a
+982.89,990.31,B,"Well with the one-handed design you also have the the problem of the size w 'cause you know from cell phones , they can be too small . So",ES2016a
+989.92,990.3,D,Yeah .,ES2016a
+990.31,990.5,B,if the,ES2016a
+990.47,990.81,A,Yeah,ES2016a
+990.5,990.86,B,remote,ES2016a
+990.81,990.81,A,.,ES2016a
+990.86,1000.46,B,"is too small it if it's small it probably looks better , but may not be th as functional . So for that there's",ES2016a
+1003.23,1006.41,A,"Okay , so",ES2016a
+1004.94,1005.04,B,So,ES2016a
+1006.41,1031.92,A,unfortunately we've got about five minutes here to come up with our um remote control idea and start rolling with it . Um we've talked about our experiences with remote control and um we've got a couple ideas um . Let's see here .,ES2016a
+1040.52,1071.99,A,"What if we had what if we had not only um say we went with the ball the ball function um , but maybe we give it sort of grips along the side s um to make it easier to hold on to . So you know um s so",ES2016a
+1071.81,1072.2,C,Yeah,ES2016a
+1071.99,1072.22,A,it's,ES2016a
+1072.2,1072.2,C,.,ES2016a
+1072.22,1118.53,A,"easier to hold onto that way . Course that'll then remove some of our our ball . Unless this unless this part were raised , so say the cover flips over and covers that part . So the grip is No , that wouldn't work either um . But if we're gonna make it flat on the bottom , then that eliminates our ball anyways . So if it were flat on the bottom and then had the sorta grips on the side here I guess , um and then flat uh",ES2016a
+1125.06,1131.21,A,"And then we have the problem with the hinge . So if we're flat on the bottom , it's not gonna roll away , it'll stay where we want .",ES2016a
+1132.32,1138.04,B,"The question is also , I dunno , d do you really always want to open that thing when you have to use it ?",ES2016a
+1138.79,1140.16,A,"Mm , that's true",ES2016a
+1139.9,1140.27,B,It's,ES2016a
+1140.16,1140.16,A,.,ES2016a
+1140.27,1163.9,B,"probably going to lie around opened all the time anyway , so I don't know if a lid is a good idea . From stabil stability point of view uh it certainly is , but also you have to face it and take into account the more of these things break by accident , uh the more we sell . So it's don't make it too",ES2016a
+1163.72,1164.0,A,So,ES2016a
+1163.9,1165.54,B,stable,ES2016a
+1164.0,1165.77,A,we don't have it flip open,ES2016a
+1165.54,1165.83,B,uh,ES2016a
+1165.77,1165.77,A,.,ES2016a
+1165.83,1165.83,B,.,ES2016a
+1167.09,1169.13,A,We just have a ball,ES2016a
+1170.12,1173.8,C,But then maybe to go back to the to th s,ES2016a
+1173.79,1173.89,B,To,ES2016a
+1173.8,1174.01,C,something,ES2016a
+1173.89,1174.17,B,the other,ES2016a
+1174.01,1174.21,C,along,ES2016a
+1174.17,1174.58,B,design,ES2016a
+1174.21,1174.72,C,those things,ES2016a
+1174.58,1174.58,B,.,ES2016a
+1174.72,1174.84,C,then .,ES2016a
+1175.2,1180.95,A,"Okay , so then we forget the ball",ES2016a
+1179.37,1181.29,B,It,ES2016a
+1179.56,1181.55,D,Looks cool though,ES2016a
+1180.95,1181.6,A,. It looks cool,ES2016a
+1181.29,1181.59,B,looks,ES2016a
+1181.55,1182.59,D,. Yeah,ES2016a
+1181.59,1181.88,B,cool,ES2016a
+1181.6,1181.95,A,", but it's",ES2016a
+1181.88,1181.88,B,.,ES2016a
+1181.95,1183.1,A,really not,ES2016a
+1182.59,1182.59,D,.,ES2016a
+1183.1,1183.53,A,it's not,ES2016a
+1183.4,1183.74,B,Uh,ES2016a
+1183.53,1184.83,A,functional,ES2016a
+1183.74,1184.13,B,functional .,ES2016a
+1184.83,1205.94,A,"um . So we've got our sort of keyboard kind . What if we flipped it around here , so that it were um Sorry , that doesn't look anything like what you had there . Um so it's up and down , you hold it this way . Course",ES2016a
+1205.65,1205.96,C,Yeah,ES2016a
+1205.94,1206.09,A,then,ES2016a
+1205.96,1205.96,C,.,ES2016a
+1206.09,1212.19,A,"it's it's like the rectangular again , only with a couple of jutting out points",ES2016a
+1210.15,1212.07,B,Right . Right .,ES2016a
+1212.19,1215.4,A,. But it's one-handed um .,ES2016a
+1216.1,1226.85,B,Question is what makes those game pads functional ? W I think that's pretty much the form for full hand . So it's a round shape underneath that makes it comfy,ES2016a
+1226.64,1226.98,D,Mm,ES2016a
+1226.7,1227.07,A,Yeah,ES2016a
+1226.85,1227.73,B,", right",ES2016a
+1226.98,1226.98,D,.,ES2016a
+1227.07,1227.07,A,.,ES2016a
+1227.73,1231.1,B,", makes it nice , so that's the essential part . Except for that I think",ES2016a
+1230.92,1231.33,A,Yeah,ES2016a
+1231.1,1231.68,B,we'll not,ES2016a
+1231.33,1231.33,A,.,ES2016a
+1231.68,1235.16,B,probably not get a get away from some longer design .,ES2016a
+1235.36,1235.64,D,Right .,ES2016a
+1237.3,1241.3,B,'Cause you also have to know which way around to point this thing .,ES2016a
+1243.07,1243.82,A,Yeah,ES2016a
+1243.14,1243.92,B,"You know , all that dif",ES2016a
+1243.82,1244.09,A,", because",ES2016a
+1243.92,1245.46,B,batteries,ES2016a
+1244.09,1245.75,A,it doesn't have a cord,ES2016a
+1245.46,1245.82,B,right,ES2016a
+1245.75,1246.02,A,", like",ES2016a
+1245.82,1245.97,B,", and",ES2016a
+1246.02,1246.95,A,joysticks do .,ES2016a
+1247.01,1261.06,B,"Batteries go weak as well , so um after a while you have to point it towards the uh towards the equipment you wanna control with it , right ? So , have to m show which is the front , which is the back .",ES2016a
+1261.8,1268.7,A,Is it possible to have it to where it would work with a like a sensor on either side ? So that,ES2016a
+1268.36,1268.76,B,I suppose,ES2016a
+1268.7,1268.95,A,either,ES2016a
+1268.76,1268.97,B,you could,ES2016a
+1268.95,1269.08,A,way,ES2016a
+1268.97,1269.11,B,do,ES2016a
+1269.08,1269.25,A,you're,ES2016a
+1269.11,1269.91,B,that,ES2016a
+1269.25,1269.96,A,pointing it it would,ES2016a
+1269.91,1270.11,B,. O,ES2016a
+1269.96,1270.29,A,work,ES2016a
+1270.11,1270.29,B,of,ES2016a
+1270.29,1270.29,A,.,ES2016a
+1270.29,1273.59,B,"course the more technology you stick in that , the more",ES2016a
+1273.43,1273.6,A,More,ES2016a
+1273.59,1273.79,B,it'll,ES2016a
+1273.6,1274.14,A,expensive,ES2016a
+1273.79,1274.33,B,cost,ES2016a
+1274.14,1274.46,A,and,ES2016a
+1274.33,1274.73,B,", so",ES2016a
+1274.46,1274.96,A,yeah,ES2016a
+1274.73,1274.73,B,.,ES2016a
+1274.96,1274.96,A,.,ES2016a
+1275.85,1277.54,B,Course you can do that .,ES2016a
+1278.86,1281.93,A,'Kay . Um,ES2016a
+1286.36,1294.74,B,"I mean of course it'll be evident after a while or if you look at it , it'll it'll be evident which way around to point it , since you have the the numbers and the and the",ES2016a
+1294.52,1295.14,A,True,ES2016a
+1294.74,1295.14,B,the buttons,ES2016a
+1295.14,1295.14,A,.,ES2016a
+1295.14,1297.79,B,"and stuff , but um it's rather about",ES2016a
+1297.74,1297.91,C,Put,ES2016a
+1297.79,1297.94,B,an,ES2016a
+1297.91,1297.99,C,it,ES2016a
+1297.94,1311.15,B,"instinctual thing , like you just grab it , you don't have to s look at it , you know , which way around to point it . Otherwise the design of or the the point of putting two sensors on both sides um would probably work .",ES2016a
+1311.56,1321.1,C,"Even if you designed it in some in a way that you know , isn't a rectangle , but still pointed in a direction that had definite points . So if that's your thing and you",ES2016a
+1321.05,1322.12,D,Yeah,ES2016a
+1321.1,1322.76,C,got something like that instead,ES2016a
+1322.12,1322.12,D,.,ES2016a
+1322.76,1325.41,C,", and there's your s you kn you know which way you're gonna pointing it .",ES2016a
+1325.73,1326.21,A,'Kay .,ES2016a
+1326.29,1326.61,D,Sorry,ES2016a
+1326.4,1326.63,C,Um,ES2016a
+1326.61,1328.01,D,"to interrupt , but we have a warning",ES2016a
+1327.88,1328.07,A,Are we,ES2016a
+1328.01,1328.11,D,to,ES2016a
+1328.07,1328.19,A,out,ES2016a
+1328.11,1328.64,D,finish,ES2016a
+1328.19,1331.26,A,of time,ES2016a
+1328.64,1329.25,D,. Yeah,ES2016a
+1328.8,1329.06,B,Mm .,ES2016a
+1329.25,1329.25,D,.,ES2016a
+1331.26,1338.46,A,"? Okay , well , just to finish up , should we s go with this plan , start making some",ES2016a
+1349.28,1350.6,A,"Are good ideas , what are not .",ES2016a
+1351.04,1351.66,B,Let's,ES2016a
+1351.09,1351.74,C,Does it say what does,ES2016a
+1351.66,1352.25,B,. Obviously,ES2016a
+1351.74,1354.44,C,"it say for n it says on there what we need to do for the next meeting , I think .",ES2016a
+1354.59,1358.07,A,Uh . Must,ES2016a
+1357.93,1358.1,C,T,ES2016a
+1358.07,1364.88,A,"finish now , so . And then marketing will look and see what uh what people want",ES2016a
+1364.45,1364.62,D,Mm .,ES2016a
+1364.88,1364.88,A,.,ES2016a
+1366.11,1366.34,B,Alright .,ES2016a
+1367.52,1368.08,D,Great .,ES2016a
+1369.66,1381.7,A,"Okay . And Project Manager will design a better meeting for next time around , be a little bit more prepared . And uh alright , good meeting .",ES2016a
+16.41,16.82,A,Oh .,ES2016b
+25.54,25.96,C,Du,ES2016b
+46.21,50.67,A,Okay . Thanks,ES2016b
+50.65,51.02,D,Hm,ES2016b
+50.67,51.12,A,for coming,ES2016b
+51.02,51.02,D,.,ES2016b
+51.12,62.56,A,to this meeting . S how we doing on our remote ? We have some we have some ideas and some uh ideas for what people want .,ES2016b
+64.21,69.28,C,Uh we yes s I've lo I've done the role that I was asked to do anyway,ES2016b
+68.61,72.4,A,Yeah,ES2016b
+69.28,70.43,C,. I think .,ES2016b
+72.4,209.66,A,". Alright let's just go over the agenda real quick for this meeting . See if I can't get things uh moving along here a little bit better . Um I'll go over what we went over last time , which shouldn't take long . Then I believe each of you have a presentation . Um I've was sent a a couple more requirements for our remote , what they want . Um then we can come to a conclusion on uh what we want the remote to do , um and how it's going to do it hopefully . And uh then we'll have the closing . Um which we'll have forty minutes for . Uh let's see , the last meeting we went over um who was responsible for what . I'm responsible for leading the meetings , keeping the notes , uh and coming up with the final presentation . Um Corinne is our Marketing Expert . She's gonna figure out what what um the consumer wants . Um Ryan is our User Interface Designer . And Manuel is the Industrial Designer . So you're gonna come up with the ideas Ryan , and you're gonna pick 'em apart . Um we decided our remote , uh we want it to be a universal remote uh that everyone would want . Um we want to be modern , um fun , different . Uh it needs to be sturdy , um easy to find , so we gonna have that locator function . Um and we want to be different . Um and then we went over a couple of different ideas . Ball-shaped phone . The keyboard shape . Um we decided that it should probably be one-handed . Something we could use with one hand . Um and that was our last meeting . So um why don't um Do each of you have a presentation ?",ES2016b
+209.7,210.24,D,Yep .,ES2016b
+211.18,219.25,A,Okay . I'll hand it off to you and um Does anyone do you wanna go first,ES2016b
+218.64,219.06,D,Sure .,ES2016b
+219.25,223.12,A,? So we can maybe see what uh what the people want .,ES2016b
+229.35,230.5,D,What was it ? Function ?,ES2016b
+231.26,231.86,B,Eight,ES2016b
+231.83,232.03,D,F_,ES2016b
+231.86,232.32,B,. F_ eight,ES2016b
+232.03,232.5,D,eight,ES2016b
+232.32,232.32,B,.,ES2016b
+232.5,232.5,D,?,ES2016b
+254.67,254.94,D,Well .,ES2016b
+261.21,262.23,D,How do I get it,ES2016b
+263.93,264.65,C,Slide show,ES2016b
+264.6,264.69,A,To,ES2016b
+264.65,264.65,C,.,ES2016b
+264.69,265.14,A,go to the,ES2016b
+265.07,265.33,D,Oh,ES2016b
+265.14,265.38,A,next,ES2016b
+265.33,265.62,D,right,ES2016b
+265.38,266.22,A,one,ES2016b
+265.62,266.24,D,right right,ES2016b
+266.22,266.54,A,? Yeah,ES2016b
+266.24,266.24,D,.,ES2016b
+266.54,267.63,A,you click on that,ES2016b
+267.45,267.68,D,That,ES2016b
+267.63,268.18,A,guy,ES2016b
+267.68,268.19,D,one,ES2016b
+268.18,268.37,A,. Yeah,ES2016b
+268.19,268.96,D,? Okay,ES2016b
+268.37,268.37,A,.,ES2016b
+268.96,286.1,D,". Alright . Well , this is my report , which is going to be based pretty much on a survey that I was sent . Oh gosh , I've no idea . G",ES2016b
+287.73,289.29,C,Just press the arrow keys I think . Usually,ES2016b
+289.18,290.15,D,Okay,ES2016b
+289.29,289.81,C,goes to it .,ES2016b
+290.15,294.86,D,. Sorry I actually need to see something else on my screen .,ES2016b
+299.34,300.14,A,Hit F_ eight again .,ES2016b
+300.55,300.88,D,Yeah .,ES2016b
+301.33,301.81,A,I think .,ES2016b
+302.12,303.85,D,And then ? Again ?,ES2016b
+304.82,309.05,A,"Yeah . You want it to be on both screens , or",ES2016b
+309.04,309.29,D,No,ES2016b
+309.05,309.72,A,just,ES2016b
+309.29,309.88,D,I want,ES2016b
+309.72,309.92,A,just,ES2016b
+309.88,310.22,D,something,ES2016b
+309.92,310.5,A,yours,ES2016b
+310.22,310.5,D,else,ES2016b
+310.5,310.5,A,?,ES2016b
+310.5,313.49,D,on mine . Is that possible ?,ES2016b
+313.95,322.77,A,Yeah but I think you have to hit escape . And then you can Yeah,ES2016b
+322.66,322.88,D,Okay,ES2016b
+322.77,322.77,A,.,ES2016b
+322.88,324.15,D,but now you don't have that,ES2016b
+324.01,324.24,A,Oh,ES2016b
+324.15,324.15,D,.,ES2016b
+324.24,324.91,A,hit F_ eight again .,ES2016b
+325.9,326.59,D,Sorry guys,ES2016b
+326.55,326.62,A,I,ES2016b
+326.59,326.59,D,.,ES2016b
+326.62,334.9,A,know . I did the same thing . And then it should come up here shortly . 'Kay .,ES2016b
+344.77,346.83,D,So is there no way I can give you the slideshow,ES2016b
+346.65,347.96,A,I think,ES2016b
+346.83,347.17,D,and,ES2016b
+347.96,348.4,A,oh give,ES2016b
+348.23,348.42,D,have,ES2016b
+348.4,348.53,A,us,ES2016b
+348.42,349.11,D,something,ES2016b
+348.53,349.36,A,the slideshow and,ES2016b
+349.11,350.3,D,yeah,ES2016b
+349.36,351.65,A,something on your screen,ES2016b
+350.3,351.66,D,. Yeah . Oh,ES2016b
+351.65,352.32,A,? Mm,ES2016b
+351.66,351.96,D,well .,ES2016b
+352.32,354.89,A,. I'm not sure . You could maybe minimise that screen and then,ES2016b
+356.42,356.71,D,Yeah,ES2016b
+356.51,356.73,A,have,ES2016b
+356.71,356.71,D,.,ES2016b
+356.73,357.98,A,them both up at the same,ES2016b
+357.94,358.13,D,It's,ES2016b
+357.98,358.27,A,time,ES2016b
+358.13,359.6,D,okay,ES2016b
+358.27,358.72,A,I think .,ES2016b
+359.6,433.0,D,". Okay . Um so first of all , the method that I used was by doing some marketing research , by um doing research on some interviews that were conducted . And then some internet research . And I was sent a report that was I think there were a hundred remote users that they interviewed . And so I will show you some of the results from that , which I think will be helpful . Um okay here are some of the findings . They said that the users dislike the look and feel of their current remote controls . And seventy five percent of the users find their remote controls to be ugly . Which is a fairly significant number I would say . And eighty percent of the users would be willing to spend more money if they could get a remote that would look fancy . So I think that earlier we were onto something when we were talking about having it be a modern cool look , I think that's definitely important . Um they say that current remote controls do not match well the operating behaviour of the user . Seventy five percent of users said they zap a lot . And if anyone could clarify what that means ? Zap",ES2016b
+432.68,433.03,C,Is,ES2016b
+433.0,433.13,D,", does",ES2016b
+433.03,433.26,C,is it,ES2016b
+433.13,433.33,D,that,ES2016b
+433.26,433.81,C,j,ES2016b
+433.33,433.67,D,just mean,ES2016b
+433.59,434.92,B,Just,ES2016b
+433.67,434.19,D,like changing,ES2016b
+433.81,434.23,C,just,ES2016b
+434.19,434.31,D,the,ES2016b
+434.23,434.57,C,just,ES2016b
+434.31,435.38,D,channel,ES2016b
+434.57,435.1,C,just using,ES2016b
+434.92,435.65,B,jus,ES2016b
+435.1,435.61,C,it yeah,ES2016b
+435.38,436.59,D,? Okay,ES2016b
+435.61,435.61,C,.,ES2016b
+435.65,436.09,B,yeah .,ES2016b
+436.59,507.61,D,". Um and fifty percent of the users say that they're only using ten percent of the buttons on their remote control . And there was something else , they kept track of the frequency per hour in using certain buttons . And some of them it looks like barely need to be included at all . Of course channel selection is used the most frequently . And then teletext was the next . Volume and then power . And then audio settings and screen settings and channel settings were practically never used . So I think we could definitely eliminate or somehow combine a lot of the functions into one button . Um the biggest user frustrations , as we said fifty percent of people find that their remotes are lost somewhere , and so I think a tracking device of some sort would be a good idea . They said it take thirty four percent said it takes too much time to learn how to use a new remote . And twenty six percent said that the controls are bad for R_S_I_ .",ES2016b
+509.94,511.31,C,A repetitive strain injury .,ES2016b
+511.77,512.51,D,What is it,ES2016b
+512.46,512.65,C,Just,ES2016b
+512.51,512.51,D,?,ES2016b
+512.65,514.49,C,repetitive strain injury . I think,ES2016b
+514.1,515.26,D,Okay,ES2016b
+514.49,515.21,C,. That's what I guess .,ES2016b
+515.26,591.89,D,". Okay . And so bas okay . Um as far as speech recognition goes , um the younger group looks like they're all for it . From the fifteen to twenty five age group over ninety percent said they would pay more . And it kind of just went down incrementally . The groups at the older they get it looks like the less willing they are to pay , so maybe we could discuss this and think and decide if we think it's worth investing in this . At least if we're targeting the younger groups . And so in conclusion . Some things that I drew from this are that I think we were correct . We definitely need to focus on a new modern appearance , since so many people seem to be concerned about the ugliness of their remote control . Um a multifunctional remote could be a good thing to explore . So you only have one rather than five different remotes sitting all over your room . Uh we need to simplify the remote and reduce the number of buttons , get rid of the ones that don't seem to be serving much purpose . And then lastly I thought that maybe we could discuss the idea of speech recognition . And that's it .",ES2016b
+601.23,613.0,A,"'Kay . Very nice . Now we actually have some ideas of what what people want , what we should focus on . Uh",ES2016b
+623.15,625.85,A,Wait can I look at that real quick,ES2016b
+624.36,624.69,D,Oh yeah .,ES2016b
+625.85,625.85,A,? .,ES2016b
+625.98,629.05,D,Sorry did you guys get time to write everything,ES2016b
+628.85,629.26,C,Yeah,ES2016b
+629.05,629.26,D,that you,ES2016b
+629.26,629.26,C,.,ES2016b
+629.26,630.52,D,needed ? 'Kay .,ES2016b
+633.32,827.16,C,"Having just listened to what Corinne just said , I'll draw on some of the things as well . Some things that sort of relevant to what I wanna say . 'Kay so I'm just gonna yeah approach the technical functions design . Um the method I used was to explore the uh technical functions of a remote control . And t s simplest approach that I came to is is to change , programme and operate an electronic device remotely . I mean that's an obvious thing to say , but it's not attached to the device that you want to control . Um I had some things sent to me . Not very much . To look at similar devices . Um defined in some them . And then the personal preferences that I will suggest . Um we discussed a universal one . Um like it's just been brought up again then . But I think a universal remote control is actually quite a difficult object to design , and po possibly within maybe the budget that we do it , um because you'd need to know all the spef specifications of a all the like electronic companies . I'm not sure have you ever come across a universal remote control yourself , but you have to i they're a nightmare to use . You have to set them , reset them to everything . Um and that would only add buttons . Whereas I think the aim is to take away buttons . So I think it'd be better maybe to concentrate on maybe just a universal one for T_V_s . Um or maybe just one that you could we could design and then different people , manufacturers could use it to set to their specifications , if if the aim is to get something that's unique in design . Um Okay here here's just two pictures of remote controls . They're just simple T_V_ remote controls . But one is uh user-centred . That is the one on the left . And you can straight away see there's less buttons . And the other one is engineer-centred where that's more uh specified for the sort of the elaborate piece of equipment it's trying to control um which appeals more to the product that we want , and on what the have said and the market research and stuff probably looking at something that should be user-centred . Fewer buttons , simpler to use , and if ten percent um is hidden away if ten percent is what's used , maybe the other fifty percent , the buttons that are used very rarely like programming , they could be hidden maybe under some remote controls you might have come across have maybe a little flip thi thing where they're hidden away . And the main buttons are the ones you or the ones you come across . Um and finally , um uh sort I've sort of covered that , our product I think should be user interface orientated . Um Like I said to concentrate on T_V_ remote control , a universal remote might be too complex . Um and as what it , the major findings market researchers have said , it's the image and the appearance that people di dislike . So that we should concentrate on something that would set a trend . And then and change the fashion of remote controls . And that's it .",ES2016b
+840.6,842.02,B,cable there . Thank you .,ES2016b
+848.84,852.07,A,What was your last conclusion on that one ? Focus on uh,ES2016b
+852.0,852.21,C,On,ES2016b
+852.07,852.21,A,the i,ES2016b
+852.21,853.51,C,something on the image of it,ES2016b
+853.36,853.62,A,the image,ES2016b
+853.51,853.81,C,. Uh,ES2016b
+853.62,853.95,A,of it,ES2016b
+853.81,853.96,C,the,ES2016b
+853.95,853.95,A,.,ES2016b
+853.96,855.26,C,f the actual design .,ES2016b
+855.36,857.2,A,'Kay . Good . Good .,ES2016b
+907.09,1172.2,B,"Okay . Gonna talk to you about the working design of the interiors basically which is what dictates the design the both the interface basically and the outer appearance because this is all the stuff that needs to go in there . Right . So unfortunately the people who were supposed to do this little presentation for me obviously were too drunk to actually accomplish it , so um I'm going to do a lot of the stuff on the board . Um just This is the basic basic premise of a remote control . Um the basic function is to send messages to another system . Okay so much is clear . An energy source feeds an integrated circuit , like a chip , that can compose messages . Often in the form of infrared bits . This is the most mostly used . Um there's uh also some sound systems but infrared is the better or the more more used system . Um parts are cheaper as well . A user interface controls the chip and accordingly the messages . This is where my people screwed up basically . So I'm going to explain that on the board rather . Um what we have is different components that obviously need to go in there . We'll start with an energy source . Right . Um which is usually a battery right ? Since it's not feasible to add a cable to that . This energy source of course is connected to the the user interface itself . Uh which can be buttons , whatever , which in fact controls a chip . Right ? This is the user interface and there we have the chip . Um the way this goes normally is that this chip then controls an infrared lamp . That sends out the signal . Of course the signal differs accordingly . Um depending on what the chip tells the infrared lan lamp . And Of course that's controlled , the chip itself is controlled by the user interface . The way you normally normally do it is that you add a little device such as a lamp to the whole thing as well , so that you know that it's working basically . You press something , you get a response . Which is also comparatively um important on one of those devices . Now this , what we're talking about here , or what I think should be discussed are these two components mostly . The the uh energy source for one thing can be altered . What we probably cannot alter is of course the infrared , the sending device basically , the infrared lamp . We cannot change the chip which controls the infrared lamp . Right ? These two are components that we have to use , and these are dictated by the whole function of the whole thing . Um the lamp can be put onto the desi the device . It c it doesn't have to be there . This can be discussed as well . The user interface . That's something we can also discuss . Um as we've heard uh speech recognition is the hype obviously in the moment . Speech recognition um interface , we don't know that . Or if we just do the usual button thing . Or we have a touch pad or something like that that's something we can discuss . And of course the energy source . Batteries . Solar cells . Who knows ?",ES2016b
+1177.69,1191.04,B,"Of course it's always a question whether these these components are in fact available cheap enough , developed enough . But that's like I s I suppose rather up to marketing , and not to",ES2016b
+1193.51,1195.05,A,So we could,ES2016b
+1194.05,1195.35,B,to the industrial design,ES2016b
+1195.05,1195.64,A,the the,ES2016b
+1195.35,1196.04,B,department,ES2016b
+1195.64,1196.44,A,the more complex,ES2016b
+1196.04,1196.04,B,.,ES2016b
+1196.44,1197.74,A,"we make it of course , the more",ES2016b
+1197.73,1198.32,B,Expensive,ES2016b
+1197.74,1198.5,A,expensive,ES2016b
+1198.32,1200.31,B,it's gonna be get uh . Yeah .,ES2016b
+1200.63,1207.39,A,But people have said that they would well younger generations of people have said that they would pay more for a speech recognition,ES2016b
+1207.37,1208.1,D,Mm-hmm,ES2016b
+1207.39,1208.83,A,remote,ES2016b
+1208.1,1208.1,D,.,ES2016b
+1208.83,1209.33,A,. So,ES2016b
+1210.13,1210.45,B,Right,ES2016b
+1210.42,1211.73,A,possibly,ES2016b
+1210.45,1210.45,B,.,ES2016b
+1211.73,1213.01,A,it might be worth the investment .,ES2016b
+1213.12,1223.24,C,I think speech recognition was uh one of those things where um they have to be really good for them to work . 'Cause sometimes you find yourself just saying things over and o,ES2016b
+1223.03,1223.66,D,Yeah,ES2016b
+1223.24,1223.71,C,if it's on,ES2016b
+1223.66,1223.66,D,.,ES2016b
+1223.71,1224.27,C,your phone .,ES2016b
+1224.36,1224.88,A,I agree .,ES2016b
+1226.01,1226.17,C,And,ES2016b
+1226.07,1226.81,A,Well,ES2016b
+1226.17,1232.25,C,you need to sort of take into light languages and then different dialects I suppose as well .,ES2016b
+1233.28,1245.68,A,"I myself I find , when you , h when there's something like spee speech recognition . Like uh you call on the phone and you try to change your telephone or power or something . Sometimes they have a a speech recognition",ES2016b
+1245.47,1245.71,C,Yeah,ES2016b
+1245.68,1245.77,A,on,ES2016b
+1245.71,1245.71,C,.,ES2016b
+1245.77,1257.78,A,"the other end , and you say one for this , and you find yours , like you said , saying the same thing over and over and over . I find myself , especially if I'm in a crowd of people , looking really silly",ES2016b
+1257.14,1257.44,C,Yeah .,ES2016b
+1257.78,1261.45,A,. So maybe if you're sitting on your couch with a bunch of people then,ES2016b
+1263.06,1263.17,C,And,ES2016b
+1263.11,1263.28,A,you,ES2016b
+1263.17,1263.33,C,wou,ES2016b
+1263.28,1263.4,A,know,ES2016b
+1263.33,1263.4,C,I,ES2016b
+1263.4,1265.33,A,", you",ES2016b
+1263.4,1269.68,C,don't know if would would you want to keep saying stuff if you were watching stuff . If you were watching something would you sort of be wanting,ES2016b
+1269.65,1271.02,A,Volume up . Volume,ES2016b
+1271.01,1271.32,C,Yeah,ES2016b
+1271.02,1272.09,A,down,ES2016b
+1271.32,1271.32,C,.,ES2016b
+1272.09,1275.98,A,". Change the channel , you know channel up , channel down ? I I don't know .",ES2016b
+1276.69,1289.35,D,"Another thing about these figures is ninety one percent of the youngest age groups said they'd do it , but probably a lot of them that's actually their parents money . Like I don't know if they would actually go out and purchase this themselves",ES2016b
+1288.89,1289.45,C,I think,ES2016b
+1289.35,1290.48,D,", a fifteen year old you know",ES2016b
+1290.44,1290.55,C,As,ES2016b
+1290.48,1290.48,D,.,ES2016b
+1290.55,1293.5,C,well it'd be j the gimmick factor,ES2016b
+1292.88,1293.5,A,Mm-hmm,ES2016b
+1293.42,1293.86,D,Yeah,ES2016b
+1293.5,1293.5,A,.,ES2016b
+1293.5,1294.04,C,for the younger,ES2016b
+1293.86,1293.86,D,.,ES2016b
+1294.04,1295.8,C,people . But practically I don't,ES2016b
+1295.8,1296.01,A,It's,ES2016b
+1295.8,1296.1,C,think it's,ES2016b
+1296.01,1299.18,A,"a , it's a gimmick factor that they like at first , and",ES2016b
+1299.0,1300.25,C,Yeah . It'll wear off .,ES2016b
+1300.3,1301.41,D,Gets old yeah .,ES2016b
+1306.06,1311.04,A,Okay . Um Let's see here,ES2016b
+1310.6,1312.54,C,Do you wanna put your,ES2016b
+1311.04,1311.04,A,.,ES2016b
+1312.54,1313.35,C,cord back in ?,ES2016b
+1313.62,1314.44,A,Yeah I guess so,ES2016b
+1314.33,1315.39,B,Oh right,ES2016b
+1314.44,1314.44,A,.,ES2016b
+1315.39,1315.39,B,.,ES2016b
+1315.67,1316.34,A,Trade you .,ES2016b
+1316.68,1318.82,B,go,ES2016b
+1318.8,1318.95,A,Now,ES2016b
+1318.82,1318.82,B,.,ES2016b
+1318.95,1351.11,A,"I was sent a couple of things to modify our uh new requirements . Um the remote's only gonna be for the television , which is good because we already decided y your your research showed that uh not only is a universal remote more complicated , it's more cost , more costly . And your re uh research showed that you know most of the people don't even use it . I think",ES2016b
+1350.74,1351.3,D,Mm,ES2016b
+1351.11,1351.42,A,uh you,ES2016b
+1351.3,1351.3,D,.,ES2016b
+1351.42,1434.47,A,"said fifty percent of the people only use half the or ten percent of the buttons . So if we remove the universal remote then that solves that problem . Um no teletext . Um So we don't have to worry about that . Um but we do have to use the the company wants us to incorporate the corporate colour and our slogan , which is we put the fashion in electronics . And our corporate colours are grey and yellow . And we could probably get away with black too but So those are the three um the three new requirements that that I was told we need to use . Um from all all three of your uh presentations , I think that we were on the right track a lot in our last meeting . Um We want something that looks good . Um we want something that's simple . We want something that you can find easily . Um And the speech recognition I I guess is kind of uh give or take . It's gonna cost more . S",ES2016b
+1434.35,1434.94,B,Mm-hmm,ES2016b
+1434.47,1434.95,A,the young,ES2016b
+1434.94,1434.94,B,.,ES2016b
+1434.95,1455.96,A,"the younger people say that they like it . But um it's probably , I would say , probably not worth the investment at this point in time . So maybe we should just do away with speech recognition . Um And that way we can focus on our form .",ES2016b
+1457.0,1480.81,C,"I did have have a thought about the sort of the tracking thing . Is that if it came with maybe a holder or holster , whatever you wanna call it . Um that you you should put it back in . Your remote . But if you don't put it back in , you press something like a little button on that , and that just sort of sends out a beep to find where it is or something . Just by infrared . That shouldn't be too complex I would've thought .",ES2016b
+1482.71,1486.12,A,"That'd be , that'd be good if we were going with our our ball .",ES2016b
+1486.33,1487.49,C,Yeah it would be quite good . The ball,ES2016b
+1487.24,1487.74,A,Or or,ES2016b
+1487.49,1487.78,C,could sit,ES2016b
+1487.74,1488.01,A,with,ES2016b
+1487.78,1487.97,C,on a,ES2016b
+1488.01,1488.57,A,you know I guess,ES2016b
+1488.55,1489.18,D,Mm,ES2016b
+1488.57,1489.22,A,with any form,ES2016b
+1489.18,1489.18,D,.,ES2016b
+1489.22,1493.54,A,that that would be good . You know that could be the charger . For,ES2016b
+1493.32,1493.61,C,Yeah,ES2016b
+1493.54,1493.74,A,you,ES2016b
+1493.61,1493.61,C,.,ES2016b
+1493.74,1505.34,A,"know we could use rechargeable batteries in the remote . And that would be or solar . Or you know However , however you wanted to go about it , the holder could also be the charging unit",ES2016b
+1504.8,1505.03,C,Yeah .,ES2016b
+1505.34,1513.79,A,. Um With the locator button . Um and if it were the ball you'd no longer have to have a flat space on it .,ES2016b
+1514.01,1514.41,C,Yeah .,ES2016b
+1515.78,1516.94,A,Um,ES2016b
+1516.4,1516.97,B,Well you still,ES2016b
+1516.94,1517.1,A,like,ES2016b
+1516.97,1517.93,B,do,ES2016b
+1517.1,1518.28,A,if we still have the,ES2016b
+1517.93,1518.76,B,. You s you still,ES2016b
+1518.28,1519.62,A,how to hold on to it and,ES2016b
+1520.86,1523.79,B,W yeah . You put it on t on the couch table . While you're watching,ES2016b
+1523.65,1524.02,D,Rolls,ES2016b
+1523.79,1523.95,B,", it's",ES2016b
+1523.93,1524.08,A,It's,ES2016b
+1523.95,1524.12,B,gonna,ES2016b
+1524.02,1524.66,D,away,ES2016b
+1524.08,1524.25,A,gonna,ES2016b
+1524.12,1524.39,B,roll,ES2016b
+1524.25,1524.46,A,roll,ES2016b
+1524.39,1524.97,B,off,ES2016b
+1524.46,1524.9,A,away,ES2016b
+1524.66,1525.01,D,yeah,ES2016b
+1524.9,1524.9,A,.,ES2016b
+1524.97,1525.57,B,. So,ES2016b
+1525.01,1525.01,D,.,ES2016b
+1525.57,1527.14,B,that's not an issue really .,ES2016b
+1547.45,1572.81,A,Um So I guess after the meeting we'll have some questionnaires . And uh and some summaries for for what's going on . Um then we'll take lunch . Then we can come back and uh work on our individual work . Um I'll do the minutes .,ES2016b
+1577.86,1579.39,A,Uh let's see .,ES2016b
+1584.48,1594.47,A,"It looks like you're already on your way for uh working with the components . Um chips , the what chips we need and what",ES2016b
+1594.234,1594.234,B,.,ES2016b
+1594.47,1608.21,A,"uh you know how to power it and whatnot . User interface concept , we want it to be something simple .",ES2016b
+1608.8,1609.17,C,Yeah .,ES2016b
+1609.59,1629.3,A,"Um Minimal number of buttons . I guess our , I guess our main um main thing that we should focus on until then is probably deciding on a certain look , you know .",ES2016b
+1630.85,1631.23,C,Yeah .,ES2016b
+1633.02,1635.12,B,Right . That's,ES2016b
+1636.92,1644.03,A,Did you have time earlier to to work on that . Did you guys feel you have enough time in between our meetings to get,ES2016b
+1643.89,1644.09,D,Not,ES2016b
+1644.03,1644.45,A,everything,ES2016b
+1644.09,1645.43,D,really,ES2016b
+1644.45,1645.87,A,done that you need to get done,ES2016b
+1645.43,1645.43,D,.,ES2016b
+1645.87,1645.87,A,?,ES2016b
+1647.77,1652.74,C,"I'll yeah I'll have a look , try look at the actual appearance in the next break .",ES2016b
+1656.08,1656.32,A,'Kay,ES2016b
+1656.08,1656.53,C,I th I,ES2016b
+1656.32,1656.32,A,.,ES2016b
+1656.53,1660.69,C,I do still think it needs to be something that is ultimately one-handed . The ball,ES2016b
+1660.52,1660.76,D,Mm,ES2016b
+1660.69,1660.99,C,is probably,ES2016b
+1660.76,1660.76,D,.,ES2016b
+1660.99,1664.99,C,not a good idea . And even something that's held like that might be difficult,ES2016b
+1664.44,1664.78,A,Mm-hmm .,ES2016b
+1664.99,1675.07,C,". So that I think it still has to be a variation . On maybe a a rect on a rectangle but maybe not necessarily as boring , as",ES2016b
+1675.05,1675.42,D,Mm,ES2016b
+1675.07,1675.47,C,plain as,ES2016b
+1675.42,1675.42,D,.,ES2016b
+1675.47,1676.19,C,a rectangle .,ES2016b
+1678.57,1710.69,A,"Um Shall we maybe shoot for a a specific uh target group ? That way we could l I mean if it were , if we were shooting for young guys then it's um a certain look to the remote . Or girls or older people ? Um Would that you think that would help us find um a specific form ? That we would would wanna pick out ?",ES2016b
+1713.34,1718.69,C,D I don't know if that might cope with like the trend-watching,ES2016b
+1718.48,1719.0,D,Mm,ES2016b
+1718.69,1719.15,C,. I find,ES2016b
+1719.0,1719.0,D,.,ES2016b
+1719.15,1720.06,C,anything more on that .,ES2016b
+1721.54,1726.05,D,Yeah not yet but maybe by the next meeting we'll have some info on that .,ES2016b
+1731.54,1732.11,A,'Kay .,ES2016b
+1741.57,1749.18,A,So um we know that the remote's gonna have to be we'll just say we've got a colour scheme for it,ES2016b
+1748.72,1749.02,C,Yeah .,ES2016b
+1749.18,1753.76,A,". Um yellow and you know yellow it's nice and bright , with the",ES2016b
+1753.7,1754.11,B,Mm,ES2016b
+1753.76,1754.13,A,buttons,ES2016b
+1754.11,1754.11,B,.,ES2016b
+1754.13,1761.53,A,"being grey or black . And our slogan pasted somewhere on it , on the the bottom",ES2016b
+1761.2,1761.85,C,Bottom perhaps,ES2016b
+1761.53,1762.04,A,or the,ES2016b
+1761.85,1762.32,C,yeah,ES2016b
+1762.04,1763.4,A,you know,ES2016b
+1762.32,1762.32,C,.,ES2016b
+1763.4,1764.46,A,. Um,ES2016b
+1772.8,1810.77,A,Maybe we could sketch a so basically all of our remotes all of our typical remotes now are just kind of a rectangular sort . You know . Um maybe we could flare it or something . You know . So it's more of course this will look like a bone then . go ahead and erase this . Um,ES2016b
+1818.45,1822.18,A,Hope everyone memorised that uh,ES2016b
+1820.79,1829.36,C,"You I mean it might be to look at sort of the the shape and trend of like things like mobile phones , and the shapes that the they've been going",ES2016b
+1828.32,1828.89,A,Yeah,ES2016b
+1828.81,1829.22,D,Mm,ES2016b
+1828.89,1829.59,A,. Yeah,ES2016b
+1829.22,1829.22,D,.,ES2016b
+1829.36,1829.71,C,. They've gone,ES2016b
+1829.59,1829.59,A,.,ES2016b
+1829.71,1835.6,C,"from big brick block things , which is a remote control is , to sort of slinky small things .",ES2016b
+1835.86,1842.75,A,Yeah everybody's got a mobile phone right ? Except for me now . Uh,ES2016b
+1847.93,1854.71,A,"But they are all , you know , mobile phones um they've kind of taken a turn to where they're really small",ES2016b
+1854.29,1854.72,C,Yeah,ES2016b
+1854.71,1855.89,A,. Um,ES2016b
+1854.72,1854.72,C,.,ES2016b
+1855.89,1857.82,A,which may defeat our purpose for,ES2016b
+1857.66,1857.86,D,Mm,ES2016b
+1857.82,1858.02,A,being,ES2016b
+1857.86,1857.86,D,.,ES2016b
+1858.02,1861.05,A,able to locate our remote all the time,ES2016b
+1859.55,1859.91,B,Right .,ES2016b
+1861.05,1894.84,A,. But then again you don't want you know like the first mobile phone that was this big and you had a handbag to carry it around in . Um So we've got basically what remotes look like now is kind of what we're what we're stuck with . Um Maybe we could go with a square or something . Um,ES2016b
+1900.62,1900.79,B,Hm .,ES2016b
+1902.21,1924.46,A,"Um you know with minimal number of buttons . I guess you've got you know one through nine . For typing in your channels . Uh you've got volume , up and down . Channel up and down .",ES2016b
+1926.45,1927.01,D,Power .,ES2016b
+1927.41,1933.53,A,Power . Usually at the top . Um a mute .,ES2016b
+1939.41,1941.18,B,That's the classical,ES2016b
+1941.02,1941.74,A,That's,ES2016b
+1941.18,1941.77,B,design,ES2016b
+1941.74,1941.99,A,that's,ES2016b
+1941.77,1941.77,B,.,ES2016b
+1941.99,1949.89,A,"pretty much all you need I think . Um A menu button , maybe .",ES2016b
+1951.37,1951.74,B,Right .,ES2016b
+1952.1,1972.89,A,"So you know . If you , if we want the remote to do other things like um or I guess the T_V_ to be able to change the tint and the colour and you know all those kind of things that are built into T_V_s , we just have that under one standard menu button where you go in , press the menu button , scroll up and down to select it .",ES2016b
+1972.97,1973.32,D,Yeah .,ES2016b
+1974.91,1975.87,B,Yeah,ES2016b
+1975.46,1975.99,A,Um,ES2016b
+1975.87,1981.85,B,. Talking of which maybe a scrolling function is not not too bad .,ES2016b
+1981.92,1983.44,A,'Kay so,ES2016b
+1983.42,1984.84,B,It's Talk,ES2016b
+1984.69,1985.89,A,Um,ES2016b
+1984.84,1998.51,B,"about maybe f look at that from the side , there maybe . Which is technically the easiest option . Would probably be like a scrolling , little scrolling wheel like this",ES2016b
+1998.14,1998.49,A,Mm-hmm .,ES2016b
+1998.51,2000.22,B,. Yeah . Yeah . Yeah,ES2016b
+1999.88,2000.44,A,Like a wheel,ES2016b
+2000.22,2000.46,B,. So,ES2016b
+2000.44,2000.53,A,on,ES2016b
+2000.46,2000.46,B,.,ES2016b
+2000.53,2001.25,A,your mouse .,ES2016b
+2001.47,2002.87,B,"Yeah , sort of like that",ES2016b
+2002.38,2003.08,A,Sort of,ES2016b
+2002.87,2003.14,B,. You can,ES2016b
+2003.08,2003.08,A,.,ES2016b
+2003.14,2014.32,B,"even if we're coming from mice , we can even add a click function , where you , in order to verify the information you just press it down . Right",ES2016b
+2013.79,2014.62,A,'S a good idea,ES2016b
+2014.32,2014.63,B,. Also,ES2016b
+2014.62,2014.62,A,.,ES2016b
+2014.63,2035.9,B,"when it comes to the ergonomics of the whole thing , if you wanna make it square for the looks of it , then maybe to make it more comfortable to hold the whole thing , you add a little bulge down here . Just which maybe from an engineering point this could be holding the the batteries and so on .",ES2016b
+2036.0,2036.31,A,Mm-hmm .,ES2016b
+2037.73,2039.14,B,I know . You know what,ES2016b
+2039.14,2039.41,A,Look,ES2016b
+2039.14,2039.48,B,I'm getting,ES2016b
+2039.41,2039.71,A,g,ES2016b
+2039.48,2039.96,B,at here,ES2016b
+2039.71,2040.12,A,yeah,ES2016b
+2039.96,2040.3,B,", fel",ES2016b
+2040.1,2040.38,D,Mm-hmm,ES2016b
+2040.12,2040.32,A,. Looks,ES2016b
+2040.3,2040.64,B,look,ES2016b
+2040.32,2040.93,A,good,ES2016b
+2040.38,2040.38,D,.,ES2016b
+2040.64,2041.0,B,at it from,ES2016b
+2040.93,2040.93,A,.,ES2016b
+2041.0,2050.06,B,the side . It's like that . Right . Uh Then you hold it in your hand like this . And,ES2016b
+2049.81,2050.85,C,Yes,ES2016b
+2050.06,2051.45,B,maybe you bring the buttons,ES2016b
+2050.85,2051.2,C,s,ES2016b
+2051.45,2055.58,B,nearer to the or the imp more important buttons nearer to the,ES2016b
+2055.34,2055.59,A,To the,ES2016b
+2055.58,2055.71,B,to,ES2016b
+2055.59,2056.37,A,thumb,ES2016b
+2055.71,2056.68,B,the side,ES2016b
+2056.36,2056.48,C,To,ES2016b
+2056.37,2056.88,A,. Yeah,ES2016b
+2056.48,2056.97,C,the thumb,ES2016b
+2056.68,2057.49,B,. Right,ES2016b
+2056.88,2056.88,A,.,ES2016b
+2056.97,2058.01,C,yeah,ES2016b
+2057.49,2057.77,B,. Mm .,ES2016b
+2058.01,2067.31,C,". Maybe the buttons could like uh decrease in s the bigger ones you know they could actually be bigger in size than the ones that are less important , the smaller here .",ES2016b
+2068.18,2072.97,B,"Right . You can also have it , maybe , talking about mobile phones again , sliding open .",ES2016b
+2074.12,2074.69,C,Yeah,ES2016b
+2074.46,2074.92,B,With the,ES2016b
+2074.69,2074.69,C,.,ES2016b
+2074.92,2076.62,B,lesser used functions,ES2016b
+2076.59,2077.48,C,Behind,ES2016b
+2076.62,2077.6,B,"on this part , and",ES2016b
+2077.48,2077.95,C,. Definitely,ES2016b
+2077.6,2078.75,B,then it slides,ES2016b
+2077.95,2077.95,C,.,ES2016b
+2078.75,2081.16,B,into that part . And out,ES2016b
+2080.76,2081.2,C,just like,ES2016b
+2081.16,2081.16,B,.,ES2016b
+2081.2,2089.6,C,o on a sort of side view . Something that you know it would sort of fit in the hand better . So you know you just sort of have your hand,ES2016b
+2089.62,2091.72,B,"Mm well I was just thinking , this",ES2016b
+2091.41,2092.06,C,Yeah,ES2016b
+2091.72,2092.28,B,this of course,ES2016b
+2092.06,2092.34,C,. Right on,ES2016b
+2092.28,2092.87,B,causes,ES2016b
+2092.34,2094.27,C,the and your thumb would be up here type thing .,ES2016b
+2094.32,2099.39,B,causes a problem um for left or right-handed people actually,ES2016b
+2098.66,2099.59,C,Yeah that's also true,ES2016b
+2099.39,2099.76,B,. So,ES2016b
+2099.59,2099.59,C,.,ES2016b
+2099.76,2099.76,B,.,ES2016b
+2102.74,2104.7,C,instantly sort of always going for the right-handed person .,ES2016b
+2104.8,2105.13,B,Right .,ES2016b
+2107.41,2109.81,C,But I mean the older so,ES2016b
+2109.78,2114.08,A,"Yeah is everyone who in here's right-handed , left-handed",ES2016b
+2113.86,2114.52,D,Right,ES2016b
+2114.08,2114.39,A,? You guys,ES2016b
+2114.36,2115.03,B,Right,ES2016b
+2114.39,2114.53,A,all,ES2016b
+2114.52,2114.52,D,.,ES2016b
+2114.53,2115.41,A,right-handed,ES2016b
+2114.64,2115.35,C,Right-handed,ES2016b
+2115.03,2115.03,B,.,ES2016b
+2115.35,2115.63,C,", yeah",ES2016b
+2115.41,2115.84,A,? Yeah,ES2016b
+2115.63,2115.63,C,.,ES2016b
+2115.84,2118.48,A,. So I'm left-handed but,ES2016b
+2117.84,2118.15,D,Uh-huh .,ES2016b
+2118.48,2122.05,A,"I , so I can say that most things are designed for right-handed people .",ES2016b
+2123.03,2123.84,B,That's right,ES2016b
+2123.8,2123.99,A,Like,ES2016b
+2123.84,2123.84,B,.,ES2016b
+2123.99,2127.37,A,the written language . Or English .,ES2016b
+2127.39,2132.46,D,Maybe you could buy like a special left-handed version of the remote,ES2016b
+2131.6,2134.06,A,Maybe . Ow,ES2016b
+2132.46,2133.16,D,. Special order .,ES2016b
+2134.06,2138.06,A,. I would say I mean it should be probably designed for a right-handed p person .,ES2016b
+2138.13,2138.68,D,Yeah .,ES2016b
+2139.51,2164.36,A,"Um but that's that's good . That's w I think we've got a kind of a good plan there . Um At least for what buttons we're gonna use . Um So we've got uh I like the scroll , the scroll action and the",ES2016b
+2166.42,2167.42,C,I mean I'm just,ES2016b
+2167.147,2167.147,A,.,ES2016b
+2167.42,2202.66,C,"just thinking maybe if it was um circular um with the sort of that sort of the sort of early idea we had , with the way that was more like that , whereas this is just a one-handed thing that you sort of almost wrap round the thumb . So you'd have your , you'd put your hand into there with the thumb there . And then your thumb would do you'd have all the buttons sort of round here . And that I think could work",ES2016b
+2202.23,2203.41,A,Yeah,ES2016b
+2202.66,2204.33,C,. On any hand,ES2016b
+2203.41,2204.68,A,. Kinda like holding a,ES2016b
+2204.33,2206.74,C,. If you just had it like wrapped round there . Left or right .,ES2016b
+2207.29,2207.47,D,Mm .,ES2016b
+2209.59,2213.44,B,Right . That minimises it size-wise,ES2016b
+2213.37,2213.82,C,Minimise,ES2016b
+2213.44,2214.32,B,as well,ES2016b
+2213.82,2214.42,C,its size . It could,ES2016b
+2214.32,2214.32,B,.,ES2016b
+2214.42,2215.41,C,be you know really quite,ES2016b
+2215.4,2215.69,B,Mm,ES2016b
+2215.41,2216.06,C,small,ES2016b
+2215.69,2215.69,B,.,ES2016b
+2216.06,2216.06,C,.,ES2016b
+2218.79,2238.77,B,"Then there's maybe another point of making it a two-in-one kind of thing . If we have a smaller a smaller device that actually fits into the big one . You give it the full functions in here , and just a couple of functions in there",ES2016b
+2238.19,2238.6,C,Yeah .,ES2016b
+2238.75,2239.06,D,Hmm,ES2016b
+2238.77,2239.48,B,. Like your,ES2016b
+2239.06,2239.06,D,.,ES2016b
+2239.48,2240.8,B,zap zapping,ES2016b
+2240.48,2240.84,C,Zapping,ES2016b
+2240.8,2241.47,B,device,ES2016b
+2240.84,2241.47,C,functions .,ES2016b
+2241.47,2247.1,B,"is just u channels up-down , uh volume , and on-off . That's it .",ES2016b
+2248.13,2248.31,D,Could,ES2016b
+2248.31,2249.26,A,Yeah,ES2016b
+2248.31,2248.72,D,be good,ES2016b
+2248.52,2251.74,B,Maybe,ES2016b
+2248.72,2248.72,D,.,ES2016b
+2249.26,2249.26,A,.,ES2016b
+2251.74,2251.74,B,.,ES2016b
+2282.28,2293.08,A,So two remotes in one . But then would be easier to lose one or the other .,ES2016b
+2293.28,2305.29,B,"That's right . Means the big one has to be sufficiently big . And perhaps heavy , so you can't move it around . Make it a piece of furniture",ES2016b
+2303.05,2306.09,D,Yeah,ES2016b
+2303.75,2305.45,A,It actually is your coffee table,ES2016b
+2305.29,2306.1,B,. yes,ES2016b
+2305.45,2305.45,A,.,ES2016b
+2306.09,2306.73,D,", yeah",ES2016b
+2306.1,2306.97,B,". Yes , there you go",ES2016b
+2306.73,2306.73,D,.,ES2016b
+2306.97,2312.7,B,. Or a statue or something .,ES2016b
+2314.84,2334.88,A,Okay . Well we need to finish up here . Um So for the next So for the next um before the next meeting w uh sh shall we work on you're watching trends,ES2016b
+2334.72,2335.59,D,Mm-hmm,ES2016b
+2334.88,2335.56,A,to see what,ES2016b
+2335.32,2335.57,C,Yep,ES2016b
+2335.56,2335.68,A,what,ES2016b
+2335.57,2335.57,C,.,ES2016b
+2335.59,2335.59,D,.,ES2016b
+2335.68,2344.29,A,kind of new information we've got going on . Um Manuel you're going to work on the components,ES2016b
+2344.23,2344.87,B,Right,ES2016b
+2344.29,2344.97,A,for for,ES2016b
+2344.87,2344.87,B,.,ES2016b
+2344.97,2359.42,A,what we're gonna use . Let's go with our our uh rounded kind of fit in your hand let's explore uh the the uh possibility of having the two-piece . So one for the,ES2016b
+2359.41,2359.77,B,Alright,ES2016b
+2359.42,2359.79,A,the quick,ES2016b
+2359.77,2359.77,B,.,ES2016b
+2359.79,2365.41,A,zapping um and possibly one you know with just that rounded part,ES2016b
+2365.17,2365.39,C,Yeah .,ES2016b
+2365.41,2376.37,A,that fits into your hand . Um And Ryan you work on um how how well they'll work,ES2016b
+2376.32,2376.47,C,How,ES2016b
+2376.37,2376.65,A,with,ES2016b
+2376.47,2376.74,C,well it'll,ES2016b
+2376.65,2377.13,A,the us,ES2016b
+2376.74,2377.41,C,work yeah,ES2016b
+2377.13,2377.42,A,with the,ES2016b
+2377.41,2377.41,C,.,ES2016b
+2377.42,2387.37,A,user . So both of those concepts . And uh okay I think we made some good progress here,ES2016b
+2386.8,2387.4,B,Alright,ES2016b
+2387.37,2387.73,A,. see,ES2016b
+2387.4,2387.4,B,.,ES2016b
+2387.73,2403.53,A,you in I dunno . I gu I guess we'll take lunch in about uh half an hour . Or I guess we'll be taking lunch shortly and then then in about half an hour after that we'll probably have another meeting .,ES2016b
+2403.69,2404.14,C,Yeah,ES2016b
+2403.72,2404.77,B,Alright,ES2016b
+2404.14,2404.14,C,.,ES2016b
+2404.77,2404.77,B,.,ES2016b
+2405.6,2406.03,A,Okay .,ES2016b
+31.85,32.83,A,Okay .,ES2016c
+41.095,41.095,D,.,ES2016c
+57.09,62.08,A,Right . Okay .,ES2016c
+72.12,76.29,A,Alright . Is everyone here,ES2016c
+75.05,77.2,D,Yep,ES2016c
+75.73,75.98,C,Yep .,ES2016c
+76.29,77.34,A,? Okay,ES2016c
+77.2,77.2,D,.,ES2016c
+77.34,357.37,A,". This is our conceptual design meeting . And I'll just take a few minutes and uh go through the previous minutes . Um then each of you will have your presentation , um and then we will need to make a decision on the concept for the remote control . And then we'll have uh forty minutes for finishing up . Um I'll go through the mee through the minutes first . Um , we just refreshed our our uh goal of making the finest remote control available . Um we decided that , or we know that we need to use company colours , company logo . Um and our Marketing Expert uh gave us some i uh information from interviews with a hundred different remote users . Um with some statistics that backed basically what we were thinking before . People thought their remotes were ugly , um um that remotes zap a lot . Um they only use uh a finite amount of buttons . Um and that they often lose the it's easy to lose a remote . Um which were all things we were thinking we would wanna make it simple . Um And uh some sort of locator . Either a button or tracking device . Um And that it should look different than what's out there . Um Kind of mixed mixed response on the speech recognition . The younger people said they wanted it , older people did not . Um uh I think we decided that um the expense was not necessarily worth it , and that it was probably a gimmick , that um would increasingly wear on the consumers' nerves . Um Then the User Interface Designer um explored some of the technical functions of the remote . Um the simple versus the um the complex . The simple one being better for a user , the complex better for an engineer . Um Um and some personal preferences that were found in that would be that it should be a user-oriented remote , something simple . Um and that we didn't wanna go with a universal remote , because uh increasing cost and increasing complexity . Um we would just have a T_V_ remote . Um and that we should also focus on the appearance of the remote . Have it s be something that looks different . And finally our um Industrial Designer uh gave us a rundown of how the remote will work . Um from energy source , um uh what we would use . Batteries because we don't wanna have a a cable . Um How that would power the remote and the lamp . If we were to to have one . Uh um the user interface then would connect to a chip , which would work with the infrared controls uh to send the signal to the T_V_ . Um I believe then we came up with a couple of ideas for what we think the design of the remote will be . Um Um something that will fit into uh easily into someone's hand . And with a , just a few buttons . Just the basics . And with a scrolling um function also . Okay and I will leave that , leave it at that . So Marketing",ES2016c
+356.75,357.28,D,Okay .,ES2016c
+357.37,360.2,A,? We're watching trends,ES2016c
+358.82,360.8,D,Yep . Can I have your,ES2016c
+360.2,360.98,A,. I suppose,ES2016c
+360.8,361.28,D,cable,ES2016c
+360.98,361.43,A,that you can,ES2016c
+361.28,363.17,D,please,ES2016c
+361.43,362.28,A,have this .,ES2016c
+363.17,363.91,D,? Thanks .,ES2016c
+388.18,542.02,D,"Okay so I was looking at trend-watching . Um unfortunately I wasn't given too much information . I was given a brief executive summary , and then an update on some recent fashion trends that we might like to look at . And then I'll just tell you some personal preferences that I got from that . Um okay the most important finding was that the fancy look-and-feel seems to be twice as important to the users as the current functional look-and-feel design , which I think we've kind of already discussed before . Um the second most important finding was that the remote should be technologically innovative . And again these are all things we've kind of already come up with on our own , but this just backs it up . And thirdly the remote would be easy to use . As far as fashion update , we've learned that fruits and vegetables will be the most important theme for cloths , shoes and furniture . So that might be a bit of a challenge to incorporate this into our remote , but we can try . Um and also , as opposed to last year , this year the material is expected to be spongy in feel . Okay so from that um , as we've already said , we need to focus on a fancy look-and-feel . Um I think we've already discovered that it's kind of hard to go away from the traditional rectangular design . But I think that , even if it's very subtle , we need to kind of trick our consumers , so they at least get the idea that they're getting something that's new and modern and sleek and Whether it's through the shape or the colours or all of that . Um for technologically innovative , we've talked about the tracking device . We brought up the idea of having two pieces , which we could discuss further . And Manuel had suggested um the energy source and the user interface , discussing some of those , um that we could change a little bit . We need to keep it simple , have limited buttons , which I think the two piece idea might be really beneficial for . Um we need to incorporate this fashion trend of fruits and vegetables . I don't know , I mean I guess the two options are if we had our remote in the shape of a fruit or vegetable",ES2016c
+541.05,542.43,C,Oh it was sort of banana shaped,ES2016c
+542.02,542.68,D,. Yeah,ES2016c
+542.13,542.61,A,A banana,ES2016c
+542.43,542.43,C,.,ES2016c
+542.61,542.98,A,shape,ES2016c
+542.68,543.31,D,. Yeah,ES2016c
+542.98,542.98,A,?,ES2016c
+543.31,585.68,D,". Right . Or with exterior designs . But my question is , I mean the stereotypically speaking , you kind of picture males with their remote controls , and I'm not sure how they'd feel about having fruity logos on the outside . So maybe we could have something that's somewhat removable , or I don't know , different options for female , male target groups . And then the spongy feel . I guess we could look at mobile phones and other technology that's out there . C and look at different types of material that might please our users who want spongy-feeling remote controls . So that's that .",ES2016c
+586.69,587.85,A,So possibly,ES2016c
+587.47,587.88,B,Alright,ES2016c
+587.85,588.13,A,like,ES2016c
+587.88,587.88,B,.,ES2016c
+588.13,594.96,A,"a uh , sorry , just to butt in for a second . Possibly uh like a cover like they have for mobile phones",ES2016c
+594.37,595.44,D,That's what I was thinking,ES2016c
+594.96,594.96,A,?,ES2016c
+595.09,595.53,C,Those like,ES2016c
+595.44,596.4,D,yeah,ES2016c
+595.53,596.53,C,", yeah",ES2016c
+596.4,596.4,D,.,ES2016c
+596.53,597.16,C,", sort of spongy",ES2016c
+596.86,597.43,A,You have one,ES2016c
+597.16,597.96,C,ones,ES2016c
+597.43,597.99,A,with a,ES2016c
+597.96,597.96,C,.,ES2016c
+597.99,601.95,A,"flag , and one with a banana and one that's a spongy",ES2016c
+602.44,604.35,D,Yeah . So,ES2016c
+603.27,605.88,A,feel to it,ES2016c
+604.35,605.89,D,when you buy your remote you can buy,ES2016c
+605.88,606.49,A,. You can,ES2016c
+607.09,608.17,D,various coverings,ES2016c
+607.87,608.41,A,Mm various,ES2016c
+608.07,608.26,C,What's,ES2016c
+608.17,608.17,D,.,ES2016c
+608.26,609.03,C,it called,ES2016c
+608.41,608.88,A,covers .,ES2016c
+609.03,612.16,C,? Cust you,ES2016c
+611.7,612.32,D,Personalise,ES2016c
+612.16,612.76,C,personalised,ES2016c
+612.32,612.96,D,your remote,ES2016c
+612.76,613.12,C,", yeah",ES2016c
+612.96,612.96,D,.,ES2016c
+613.12,613.12,C,.,ES2016c
+619.97,622.47,A,We could leave that to the cover department,ES2016c
+621.97,624.34,C,Yeah,ES2016c
+622.47,622.47,A,.,ES2016c
+624.34,624.34,C,.,ES2016c
+624.53,625.22,D,Mm-hmm .,ES2016c
+627.6,629.67,A,We all know they've got nothing to do all day .,ES2016c
+650.1,919.0,C,"Okay . Why can't I see the crazy . Um yeah I talking about the interface concept and how the customer relates to , will use the , consumer will use the actual device . Um so I've looked at some of the stuff I was sent , um , try and get some inspiration . But keep in mind that our own ideas that we had . Um I was sent some information from the company saying that they , the technology department have devised a new speech recognition technology , where you can program questions into such devices . They gave an example of a coffee machine where you program a question , you program the answer , and the machine responds accordingly . Um okay . There's different ways of a user can use products l like a remote . Um there's a graphical use , where you you look at pictures and well on a screen . A command line where you obviously type things in , and you get a response . Um and then it ju that's just to point out the sort of inconsistent u sort of use of interface in remotes . You can't really see that picture well , but there's various different remotes , once again with lots of different buttons on , making it more complicated . So , then I had a look at new products that are on the market . Not necessarily remote controls but ones that you'll recognise . Um this is the voice , there is a voice recognition remote control , which can control mus multiple devices . I have a there is a picture . You surf your favourite channels uh with your voice . Store up to eighty speech samples , controls four devices , T_V_ , cable , satellite , V_C_R_ , D_V_D_ and audio . And you can record your own v verbal labels , that are connected to remote control functions . So the technology is there . Um the one on the left is very similar to what we drew up on the board in the previous meeting , where there has scroll down functions on the side . You can sort of just make those out . And then on the right is obviously an iPod , which is you know possibly one of the simplest things to use out there , and really is , and all that is is just a a nice big scroll menu that y you sort of go through . That is a possibility . And nothing's simpler really . Um then there's things like this , which is a a a kid's remote , where the the parents have the facility to control and program what children can watch before . So the remote control it o only allows them to access the channels that their parents want them to watch . And um it means that th children have a novelty of having their own remote control . So I don't know if there's a possibility of having one remote contr you know like we just had two components , maybe it can have more components you know , different remotes . Um the point made at the end there here is that you have to be sort of be need to be clear on your um devices , as to what , you know , things you use . Sometimes an arrow pointing down , which may suggest volume down , could become confused just as a V_ for volume . Just little things like that , which would need to be made clear in the design . Um I think , d carrying on from what I've already said , a user friendly remote with minimum buttons . Maybe we've so suggested this two-part thing , where if it was to have a speech recognition thing , you could maybe control that on the do it or program all that on the control bit . And then just have the simple sort of hand-held thing that we sort of devised earlier , as the actual remote . Um I don't it could be a graphical display , the actual remote contr the actual control port maybe could have like an iPod where you just sort of control through the menus . Stuff like gets more and more compli complicated . And then the the hand-held bit should be ergonomically designed . And that is it . Why am I Oh yeah . Just . Where are we ? Uh . Just to sort of show you . M they've even got things like that . Huge things . Which is just for your gr ninety year old grandma yeah ?",ES2016c
+919.58,921.16,B,That's industrial design,ES2016c
+921.02,922.28,C,Yeah,ES2016c
+921.16,922.36,B,"for cranes , stuff like",ES2016c
+922.28,922.54,C,. Yeah,ES2016c
+922.36,922.59,B,that,ES2016c
+922.54,922.54,C,.,ES2016c
+922.59,922.59,B,.,ES2016c
+923.35,925.61,D,Dunno,ES2016c
+924.78,925.0,C,And,ES2016c
+924.86,925.07,B,Makes,ES2016c
+925.0,925.71,C,that,ES2016c
+925.07,925.82,B,sense,ES2016c
+925.61,925.61,D,.,ES2016c
+925.71,926.09,C,yeah,ES2016c
+925.76,926.02,A,Notice,ES2016c
+925.82,926.21,B,", makes sense",ES2016c
+926.02,926.13,A,the,ES2016c
+926.09,926.09,C,.,ES2016c
+926.13,926.39,A,giant,ES2016c
+926.21,926.21,B,.,ES2016c
+926.39,928.15,A,dog bone shape ? Also,ES2016c
+928.06,928.57,C,Yeah,ES2016c
+928.15,928.95,A,good for,ES2016c
+928.57,929.28,C,. See,ES2016c
+928.95,929.42,A,animals,ES2016c
+929.28,929.28,C,.,ES2016c
+929.42,929.42,A,.,ES2016c
+930.86,931.3,C,things .,ES2016c
+937.593,941.46,C,. Why's my screen,ES2016c
+940.3,941.47,B,Uh,ES2016c
+941.46,941.95,C,crazy ?,ES2016c
+945.08,1218.81,B,"Well let's see . I'm going to bore you with a couple of descriptions of the interior . Just to to make it more obvious what we have to fit in there , and that we do have to fit the stuff in there . I've more information on possible materials um as well . What we can and cannot do . Um but let's just wait for this to load up and I'll show you what we're talking about here . Okay . The details of the components' design , as you can see there , what we have is the board , main board of the remote control . The underside , that's pretty cheap piece of of technology really top left side you can see the chip , which is the , what we were talking about , this was is the device to recognise the signals the input , and it passes it on to a row of um further transistors and stuff like that on the right side that actually amplify the signal , which later on is being , is being transferred to a infrared lamp which then um of course shines infrared light onto the television which then will recognise what signal um it's getting and will do what you tell it . Um So much for the the workings of the of the uh remote control itself . Its job is to wait for you to press a key , then to translate that key press into infrared light signals , um that are received by the television . When you press a key um you complete a specific connection . The chip senses the connection and knows what button you pressed . It produces a morse code line signal specific to that button . Right . Pretty clear . Transistor amplifies the signal and then sends the m sends the signal to the L_E_D_ which translates the signal into infrared light . The sensor in the T_V_ can see the infrared light , and seeing the signal reacts appropriately . This is the circuit board from the other side . Um the lower part of it , I don't know if you can see that properly , with the green greenish board is is what we what we saw in the first the first slide just flipped over . Um you can see the circuit board itself . That's the cheapest uh way to make electronic connections basically on the market . Um what you do is you have , don't have cables , but you have the connections actually in these in these lines on the on the board . These are the actual keys that are being pressed . They close the electric circuit . That then sends the signal to the chip on the other side . That would be behind here . Um which uh sends it over to the transistors and all that stuff that amplify the signal and all that is being sent to the infrared lamp up there . Now as you can see this is the the rubber button version of it . Um the way it works is that you have the keys here . The rubber button has a little metal uh plate on the other side , which closes the circuit here . And thus gives on the signal . Now this is the simple version . Um we are talking um this this the simple and cheapest version at the same time . We are talking something more complicated of course , it's going to be more expensive as well . And not only that . Um we are also restricted in the use of our outer shell , or in the material that we could use for our outer shell . Um I've gotten some information that we could use for the case material plastic , rubber , as well . Um rubber that is used in these anti-stress balls . So it's pretty squishy . That would",ES2016c
+1217.75,1218.29,D,Spongy ?,ES2016c
+1218.81,1224.97,B,"that would serve that purpose . Um we could also use wood , or titanium .",ES2016c
+1227.57,1234.24,A,What's the approximate per hundred thousand for the titanium,ES2016c
+1231.13,1234.37,B,Oh fya I don't have an information on that,ES2016c
+1234.24,1234.24,A,?,ES2016c
+1234.37,1316.54,B,". However our company obviously can provide us with uh with the titanium , so I assume , I'm , I was given an okay to use it . It certainly is an expensive material , I'm aware of that , but I was given an okay . But there are certain restrictions to certain materials . Now let's first go through the list with the materials . So we what we can use is plastic , rubber , wood and titanium . Can also mix these . Um as for the energy source , um we were talking about that shortly in the other meeting . Um what we could use is , or what I was offered , or what we could use , is a basic bateer battery . Right ? Uh a dynamo . Interestingly enough . Um we could use solar cells . Or a device that was not n not further specified that provides kinetic energy . Such as like watches you know . Where you just move them m move the the actual device and this pr uh provides it with with uh some energy . So um obviously I personally have to say that dynamo is",ES2016c
+1316.14,1316.78,C,Mm,ES2016c
+1316.54,1316.83,B,out of,ES2016c
+1316.78,1316.78,C,.,ES2016c
+1316.83,1327.6,B,"the question really . You don't wanna wind up your remote control before you can use it right ? Um solar cell is interesting . May fail though , every here and there .",ES2016c
+1328.22,1330.15,C,Would you have to leave it by the window,ES2016c
+1329.58,1330.16,B,Mm,ES2016c
+1330.15,1331.38,C,? yeah,ES2016c
+1330.16,1331.8,B,. Yeah . Or,ES2016c
+1331.38,1331.38,C,.,ES2016c
+1331.8,1333.87,B,"you know you lose it , it lies behind the couch",ES2016c
+1333.85,1334.27,C,Yeah,ES2016c
+1333.87,1334.38,B,for a week,ES2016c
+1334.27,1334.27,C,.,ES2016c
+1334.38,1336.76,B,and yeah mm . Always,ES2016c
+1336.55,1336.85,A,Works,ES2016c
+1336.76,1337.57,B,the,ES2016c
+1336.85,1337.86,A,well in Arizona,ES2016c
+1337.57,1337.72,B,you,ES2016c
+1337.86,1338.73,A,but in,ES2016c
+1338.65,1339.77,B,But,ES2016c
+1338.73,1339.93,A,Edinburgh,ES2016c
+1339.2,1339.81,D,Y probably,ES2016c
+1339.77,1341.85,B,exactly,ES2016c
+1339.81,1340.04,C,Yeah,ES2016c
+1339.81,1340.14,D,not,ES2016c
+1339.93,1340.22,A,not,ES2016c
+1340.04,1340.04,C,.,ES2016c
+1340.14,1340.74,D,yeah,ES2016c
+1340.22,1340.94,A,so,ES2016c
+1340.74,1340.74,D,.,ES2016c
+1341.85,1490.02,B,". Um the kinetic energy thing um might work , um but the same problem . You leave it lying around and you first have to shake it before it it starts to work . So I'd say what we're stuck with really is um the basic battery . Which also makes a base station basically obsolete . We don't need that then . Um However our interface options are push-buttons . In which uh in the production of which or in manufacture of which um our company is expert . Um However we've discussed that scroll wheels are a better option . And they are possible . We have an okay for scroll wheels . Okay . Um however when it comes to the scroll wheel of the iPod I've one big objection and that is that we have to fit an L_C_D_ into the remote control as well . This however may exclude certain um materials . If you have a squishy uh kind of remote control , then an L_C_D_ screen may be affected by the movement . Hence we might not be able to put it in there . So um There's also restrictions to , when it comes to the chip . If we have a more sophistic uh sophisticated scroll wheel rather than this very basic uh set-up that we that I've just presented , um the chip has to be more s more sophisticated and thus more expensive as well . I don't have any details to , when it comes to the cost but um it will be a significant difference . I'd rather say drop the titanium and therefore let's have a more sophisticated chip , but that's not up to me to decide really . So that's for the for the scroll wheel . Um it limits our choice and squishy is hip , so I'd say rather not go for for that . Let's see now . Um um solar cells cannot be used on a curved or latex um surface or um remote control . But obviously that's not our problem um since we have decided or against solar cells , I assume right",ES2016c
+1489.87,1490.16,D,Mm,ES2016c
+1490.02,1490.96,B,? Or,ES2016c
+1490.16,1490.16,D,.,ES2016c
+1490.96,1491.06,B,is,ES2016c
+1490.98,1491.48,C,Yeah,ES2016c
+1491.06,1492.22,B,anybody still,ES2016c
+1491.48,1491.48,C,.,ES2016c
+1491.95,1492.23,A,No,ES2016c
+1492.22,1492.57,B,alright,ES2016c
+1492.23,1492.99,A,I think,ES2016c
+1492.35,1492.99,D,No,ES2016c
+1492.57,1492.57,B,.,ES2016c
+1492.99,1493.35,D,. Hmm,ES2016c
+1492.99,1493.78,A,I think batteries,ES2016c
+1493.35,1493.35,D,.,ES2016c
+1493.78,1494.8,A,are probably the way to go .,ES2016c
+1494.9,1495.82,B,Alright,ES2016c
+1494.99,1495.22,C,Yeah .,ES2016c
+1495.82,1528.27,B,. Uh which makes it very conventional but therefore traditional I assume . Um Um With the titanium um we cannot make it a curved design . We would just be able to make it flat and and um yeah a straight design pretty much . Which I assume would exclude uh some of the more sophisticated versions .,ES2016c
+1534.32,1543.13,C,Would the sort of spongy and the the plasticky thing y you can get those mobile phones that initially have a it is plastic but then they have sort of,ES2016c
+1543.09,1544.01,D,Mm,ES2016c
+1543.13,1544.09,C,a a,ES2016c
+1544.01,1544.15,D,. Like,ES2016c
+1544.09,1544.72,C,s,ES2016c
+1544.15,1545.31,D,a covering,ES2016c
+1544.72,1545.33,C,a cover on it,ES2016c
+1545.31,1545.97,D,. Yeah,ES2016c
+1545.33,1546.1,C,which is just,ES2016c
+1545.97,1545.97,D,.,ES2016c
+1546.1,1553.8,C,sort of soft and stuff . So I don't know if that would still be possible to have you know in plastic . But then where do people hold it ? Just,ES2016c
+1553.62,1554.31,A,Yeah,ES2016c
+1553.8,1554.8,C,all be sort of spongy,ES2016c
+1554.31,1554.31,A,.,ES2016c
+1554.8,1554.8,C,.,ES2016c
+1560.32,1563.67,D,"The we can have the fruits and vegetables on the spongy parts , so they can remove it .",ES2016c
+1571.01,1577.81,C,"So you as the the possibility of having a a graphical display on it , like a screen ? Like the",ES2016c
+1577.74,1577.92,B,You,ES2016c
+1577.81,1578.47,C,iPod,ES2016c
+1577.92,1578.54,B,can have an,ES2016c
+1578.47,1578.47,C,?,ES2016c
+1578.54,1583.98,B,L_C_D_ screen . Um but therefore no rubber will be used,ES2016c
+1582.99,1583.37,C,Right .,ES2016c
+1583.98,1621.56,B,". Alright ? So plastic yes , titanium yes , but this will of course influence the form . With plastic , as I understand it , you can use any form . Um latex is tricky . Or rubber and um and titanium also seems to be tricky when it comes to the form . So the way to go is if you want a scroll wheel you either make it flat and angular , uh add an L_C_D_ screen , and um then you can basically choose either plastic or titanium",ES2016c
+1621.2,1623.19,C,Yeah,ES2016c
+1621.56,1623.45,B,. Or wood even,ES2016c
+1623.19,1623.19,C,.,ES2016c
+1623.45,1629.35,B,". Um if you wanna make it a particular shape , use plastic . Add",ES2016c
+1629.04,1629.47,C,Yeah,ES2016c
+1629.35,1629.47,B,an,ES2016c
+1629.47,1629.47,C,.,ES2016c
+1629.47,1640.7,B,"L_C_D_ screen , add a scroll wheel , that'll be fine . Or make it just push-buttons . Basically plastic gives you the b biggest variety of of options . Maybe not the nicest feel . Or not much",ES2016c
+1640.63,1640.82,A,So,ES2016c
+1640.7,1641.41,B,originality,ES2016c
+1640.82,1641.5,A,the ru,ES2016c
+1641.41,1641.84,B,really,ES2016c
+1641.5,1641.93,A,wait the,ES2016c
+1641.84,1641.84,B,.,ES2016c
+1641.93,1645.61,A,rubbery we can shape it however we want ? Or the rubbery we cannot ?,ES2016c
+1646.61,1649.65,B,With rubber we could uh sh pretty much shape it the way we wanted,ES2016c
+1649.42,1649.63,A,'Kay .,ES2016c
+1649.65,1652.15,B,"it , but we cannot add scroll wheels , and we cannot",ES2016c
+1651.75,1652.2,A,Mm,ES2016c
+1652.15,1652.57,B,add,ES2016c
+1652.2,1652.2,A,.,ES2016c
+1652.57,1653.38,B,an L_C_D_ screen .,ES2016c
+1653.5,1653.78,D,Mm .,ES2016c
+1655.01,1657.2,A,Mm,ES2016c
+1656.71,1657.29,B,That's the tricky,ES2016c
+1657.2,1657.2,A,.,ES2016c
+1657.29,1657.7,B,thing .,ES2016c
+1668.42,1681.41,C,"Could we not you know have a shape with a scroll and the screen , and then j just sort of that initial shape we had , just which is uh sort of banana-esque . So that's thing if we did it yellow",ES2016c
+1681.08,1681.49,A,Yeah,ES2016c
+1681.41,1681.74,C,. And,ES2016c
+1681.49,1681.49,A,.,ES2016c
+1681.74,1692.11,C,um you know you just p stick on just sort of rubber things that that sort of grip the thumb bit . They wouldn't have any they're just on the exterior . They wouldn't be necessary to the actual shape of the thing .,ES2016c
+1697.28,1701.44,A,"Is that an option , a plastic shell with a rubbery coating on at",ES2016c
+1701.29,1702.78,B,S,ES2016c
+1701.44,1702.81,A,certain spots,ES2016c
+1702.78,1703.24,B,Certainly,ES2016c
+1702.81,1702.81,A,?,ES2016c
+1703.24,1708.79,B,can be done yes . Um yeah . if that doesn't affect,ES2016c
+1708.6,1708.88,C,Yeah,ES2016c
+1708.79,1708.88,B,the,ES2016c
+1708.88,1708.88,C,.,ES2016c
+1708.88,1716.33,B,functional side of it all . Like say just the underside or so then it can be done . I assume . Yeah .,ES2016c
+1727.49,1747.36,B,So The fruit design um How about um affecting the surface of the actual um remote control ? Say we don't make it p a particular fruit shape,ES2016c
+1746.8,1747.16,D,Mm .,ES2016c
+1747.36,1755.47,B,"obviously , but uh give it like the surface of an orange , banana , whatever . You name it .",ES2016c
+1755.96,1756.37,C,Mm .,ES2016c
+1757.54,1757.66,A,What,ES2016c
+1757.55,1757.89,B,Just,ES2016c
+1757.66,1757.94,A,about a,ES2016c
+1757.89,1758.83,B,design-wise,ES2016c
+1757.94,1759.69,A,smell,ES2016c
+1758.83,1758.83,B,.,ES2016c
+1759.69,1763.38,A,? T to the remote,ES2016c
+1760.66,1761.66,B,Mm . Nice one .,ES2016c
+1762.36,1763.48,C,You could just sell it in different,ES2016c
+1763.38,1763.38,A,?,ES2016c
+1763.48,1766.55,C,colours as well I suppose . In different,ES2016c
+1766.46,1766.78,D,Bright,ES2016c
+1766.55,1766.85,C,ye,ES2016c
+1766.78,1767.38,D,citrus,ES2016c
+1766.85,1768.16,C,yellows,ES2016c
+1767.38,1769.1,D,colours yeah,ES2016c
+1768.12,1768.19,B,Mm,ES2016c
+1768.16,1768.24,C,. I,ES2016c
+1768.19,1768.19,B,.,ES2016c
+1768.24,1769.13,C,don't suppose we have to stick,ES2016c
+1769.1,1769.1,D,.,ES2016c
+1769.13,1769.52,C,to,ES2016c
+1769.51,1769.68,B,Well,ES2016c
+1769.52,1769.9,C,co,ES2016c
+1769.68,1770.74,B,we we're supposed to stick,ES2016c
+1770.64,1770.91,C,Stick,ES2016c
+1770.74,1771.53,B,to,ES2016c
+1770.91,1771.94,C,to the colours yeah,ES2016c
+1771.53,1772.01,B,the,ES2016c
+1771.67,1772.53,D,Oh yeah,ES2016c
+1771.94,1771.94,C,.,ES2016c
+1772.01,1772.77,B,company colours,ES2016c
+1772.53,1772.9,D,. Yellow,ES2016c
+1772.77,1772.91,B,though,ES2016c
+1772.9,1773.2,D,and,ES2016c
+1772.91,1773.25,B,", that's",ES2016c
+1773.2,1773.57,D,grey,ES2016c
+1773.25,1773.66,B,yellow and,ES2016c
+1773.57,1773.57,D,.,ES2016c
+1773.66,1774.86,B,grey,ES2016c
+1773.85,1775.14,A,Yellow and grey,ES2016c
+1774.86,1775.4,B,. So,ES2016c
+1775.14,1775.14,A,.,ES2016c
+1775.4,1778.24,B,"what have we , lemon , banana , is",ES2016c
+1778.8,1780.67,C,Mm grapefruit,ES2016c
+1779.39,1780.05,A,Grapefruit .,ES2016c
+1780.21,1781.4,B,Grapefruit,ES2016c
+1780.67,1780.67,C,.,ES2016c
+1781.4,1790.48,B,"is what we'd go for , when it comes to the outer appearance perhaps . But mm .",ES2016c
+1792.16,1799.2,A,"I would say , if I were to make a decision , I would probably put the fruit aspect at the lower",ES2016c
+1799.05,1799.36,C,Yeah,ES2016c
+1799.2,1799.48,A,lower,ES2016c
+1799.36,1799.36,C,.,ES2016c
+1799.48,1802.42,A,end of the spectrum of of importance .,ES2016c
+1802.801,1802.801,C,.,ES2016c
+1804.0,1804.47,A,Um,ES2016c
+1804.17,1807.44,D,"I think having a shape could be a little ridiculous , like",ES2016c
+1807.54,1807.81,C,Yeah .,ES2016c
+1808.06,1810.04,B,Well we have it banana-shaped,ES2016c
+1809.58,1810.15,D,Well we kinda,ES2016c
+1810.04,1810.74,B,already,ES2016c
+1810.15,1810.81,D,do yeah,ES2016c
+1810.47,1810.79,C,Yeah,ES2016c
+1810.74,1810.95,B,", kind",ES2016c
+1810.79,1810.79,C,.,ES2016c
+1810.81,1810.81,D,.,ES2016c
+1810.95,1811.5,B,of . So,ES2016c
+1814.69,1819.49,A,Well perhaps the implied shape will be enough to lure that,ES2016c
+1818.72,1819.0,C,Yeah .,ES2016c
+1819.49,1821.72,A,fruit-minded remote,ES2016c
+1821.15,1822.38,D,And if it's yellow,ES2016c
+1821.72,1822.87,A,buyer,ES2016c
+1822.38,1822.38,D,?,ES2016c
+1822.87,1822.87,A,.,ES2016c
+1823.25,1823.76,B,Right .,ES2016c
+1824.01,1826.0,C,"and if it if it was done yellow , which",ES2016c
+1825.92,1826.22,A,It's,ES2016c
+1826.0,1826.51,C,is a company,ES2016c
+1826.22,1827.39,A,it's yellow,ES2016c
+1826.51,1826.75,C,colour,ES2016c
+1826.55,1826.94,B,I it's,ES2016c
+1826.75,1826.75,C,.,ES2016c
+1826.94,1827.46,B,yellow,ES2016c
+1827.39,1827.61,A,. It's,ES2016c
+1827.41,1827.59,D,Grey,ES2016c
+1827.46,1827.46,B,.,ES2016c
+1827.59,1828.37,D,buttons,ES2016c
+1827.61,1828.31,A,curved .,ES2016c
+1828.37,1828.69,D,yeah .,ES2016c
+1829.36,1829.77,B,Well so why,ES2016c
+1829.75,1830.08,A,It's,ES2016c
+1829.77,1830.11,B,not add,ES2016c
+1830.08,1830.33,A,sort,ES2016c
+1830.11,1830.46,B,a couple,ES2016c
+1830.33,1831.41,A,of,ES2016c
+1830.46,1831.48,B,of grey stripes and make,ES2016c
+1831.41,1831.68,A,couple,ES2016c
+1831.48,1831.77,B,it look,ES2016c
+1831.68,1832.13,A,of,ES2016c
+1831.77,1832.91,B,like a banana,ES2016c
+1832.13,1832.45,A,couple,ES2016c
+1832.29,1833.53,C,Yeah,ES2016c
+1832.45,1834.79,A,of grey stripes,ES2016c
+1832.91,1832.91,B,?,ES2016c
+1833.53,1833.53,C,.,ES2016c
+1834.79,1837.83,A,. We could put the grey stripes on the bottom so that that person,ES2016c
+1837.51,1838.05,C,On the,ES2016c
+1837.83,1838.05,A,could,ES2016c
+1838.05,1838.16,C,the,ES2016c
+1838.05,1838.28,A,turn,ES2016c
+1838.16,1838.33,C,gr,ES2016c
+1838.28,1838.37,A,it,ES2016c
+1838.33,1838.5,C,the,ES2016c
+1838.37,1839.42,A,over,ES2016c
+1838.5,1839.98,C,rubbery grips could be,ES2016c
+1839.42,1840.1,A,. It would look like,ES2016c
+1839.98,1840.27,C,grey,ES2016c
+1840.1,1840.6,A,a banana,ES2016c
+1840.27,1840.27,C,.,ES2016c
+1840.53,1840.92,D,Mm,ES2016c
+1840.6,1841.04,A,just sitting,ES2016c
+1840.92,1840.92,D,.,ES2016c
+1841.04,1841.76,A,on their table .,ES2016c
+1841.99,1842.34,C,Yeah .,ES2016c
+1842.54,1842.93,B,There you go .,ES2016c
+1843.11,1847.61,A,Rather than rather th,ES2016c
+1845.19,1849.98,C,It could and then you could actually h put the banana-shaped thing on the fruit bowl,ES2016c
+1849.59,1850.27,D,Oh,ES2016c
+1849.98,1850.48,C,", on the coffee",ES2016c
+1850.27,1850.27,D,.,ES2016c
+1850.48,1851.99,C,"table , and then people would always know where it was",ES2016c
+1851.87,1852.18,A,Maybe,ES2016c
+1851.99,1851.99,C,.,ES2016c
+1852.18,1853.31,A,the holder,ES2016c
+1852.56,1853.65,D,Nice,ES2016c
+1853.31,1853.67,A,", if we were",ES2016c
+1853.65,1853.81,D,. Could,ES2016c
+1853.67,1853.89,A,to have,ES2016c
+1853.81,1853.94,D,look,ES2016c
+1853.89,1853.95,A,a,ES2016c
+1853.94,1854.11,D,like,ES2016c
+1853.95,1854.35,A,holder,ES2016c
+1854.11,1854.43,D,a fruit,ES2016c
+1854.35,1854.43,A,", it",ES2016c
+1854.43,1854.81,D,bowl,ES2016c
+1854.43,1855.18,A,could be shaped,ES2016c
+1854.81,1854.81,D,.,ES2016c
+1854.88,1855.3,B,It could,ES2016c
+1855.18,1855.36,A,like,ES2016c
+1855.3,1855.48,B,be,ES2016c
+1855.36,1856.27,A,a fruit,ES2016c
+1855.48,1862.4,B,an ape,ES2016c
+1856.27,1859.26,A,. Could,ES2016c
+1858.82,1859.06,C,Yeah .,ES2016c
+1859.26,1862.64,A,"be , it could be an ape or a fruit bowl",ES2016c
+1862.4,1862.4,B,.,ES2016c
+1862.64,1862.83,A,. Hey we,ES2016c
+1862.76,1863.01,C,Yeah,ES2016c
+1862.83,1863.13,A,could have,ES2016c
+1863.01,1863.01,C,.,ES2016c
+1863.13,1864.9,A,a variety of options here .,ES2016c
+1867.7,1868.02,D,'Kay .,ES2016c
+1869.63,1869.88,B,Yeah .,ES2016c
+1870.44,1872.76,A,Do you have more to your presentation ?,ES2016c
+1874.22,1877.5,B,That's pretty much it . I informed you about the materials,ES2016c
+1876.77,1876.96,A,Oh .,ES2016c
+1877.5,1882.97,B,", what the interior has to look like , and what the limitations to certain materials are on there you go .",ES2016c
+1883.17,1885.34,A,Okay . I'm gonna plug in here real quick,ES2016c
+1885.28,1885.65,B,Sure,ES2016c
+1885.34,1886.13,A,. If,ES2016c
+1885.65,1887.04,B,. Hang on,ES2016c
+1886.13,1886.69,A,I could .,ES2016c
+1887.04,1888.73,B,. There you go .,ES2016c
+1893.06,1901.71,A,Like I said we have to make a decision on a couple of these items here . Um ow . Ow .,ES2016c
+1913.61,1917.48,D,So is the two piece idea out ? Or have we not decided ?,ES2016c
+1919.06,1926.34,C,Well we sort of rid of that because gonna use a battery . And the base station might not be necessary,ES2016c
+1926.28,1926.55,D,Oh,ES2016c
+1926.34,1926.34,C,.,ES2016c
+1926.55,1927.48,D,right okay .,ES2016c
+1927.89,1930.05,B,Well we can still design a two-piece,ES2016c
+1929.76,1930.57,C,Yeah,ES2016c
+1930.05,1931.31,B,uh remote,ES2016c
+1930.57,1930.57,C,.,ES2016c
+1931.31,1935.14,B,"um without having a base , having one of them be a base station",ES2016c
+1934.8,1935.19,C,Yeah,ES2016c
+1935.14,1935.44,B,", but",ES2016c
+1935.19,1935.19,C,.,ES2016c
+1935.44,1941.48,B,"just have it be an optional either big remote with lots of functions , or you take",ES2016c
+1941.24,1941.61,D,Mm,ES2016c
+1941.48,1941.73,B,out,ES2016c
+1941.61,1941.61,D,.,ES2016c
+1941.73,1948.91,B,the smaller piece . We can still do that . However of course this would be like designing two remotes pretty much,ES2016c
+1948.43,1948.88,A,Mm-hmm .,ES2016c
+1948.91,1966.76,B,". So um which then , as I understand it , would probably limit the , limit again the the the use of certain materials , because they would be too expensive . Say like have a scroll wheel and uh on both of them , or have an L_C_D_ screen and so on so on",ES2016c
+1966.68,1967.05,D,Mm,ES2016c
+1966.76,1967.25,B,. You'd probably,ES2016c
+1967.05,1967.05,D,.,ES2016c
+1967.25,1972.58,B,have to stick rather with a just traditional rubber button design which we saw there .,ES2016c
+1972.66,1975.63,D,Mm .,ES2016c
+1975.66,1977.63,B,"But could be done , of course .",ES2016c
+1978.15,2021.54,A,"Okay . Uh so these are the decisions that we do need to make by the end of this meeting . Um for our components concept we need to come up with the energy source , um the chip-on-print , and the case . Probably case um material . And probably a shape also . Um and then for the user interface concept we need to decide what the tape , what , what the type is . And what kind of supplements we'll have . Um Energy source I think we've , I think we've decided batteries , although not exciting , are probably our best bet .",ES2016c
+2021.91,2022.26,B,Right .,ES2016c
+2022.79,2024.55,A,And we have five minutes .,ES2016c
+2024.89,2037.35,B,"Okay when it comes to the chip-on-print , as I said , the the more advanced features you want , um the fancier the chip has to be and the more expensive . Uh if you want just a normal button version , the chip-on-print",ES2016c
+2036.84,2037.27,D,Mm .,ES2016c
+2037.35,2040.48,B,is gonna be a cheap one . Right,ES2016c
+2040.21,2040.54,A,'Kay,ES2016c
+2040.48,2040.48,B,?,ES2016c
+2040.54,2063.97,A,". So Um I guess we should pick the case then . If we go with the plasticky case , or the the plastic case , um then the chip-on-print is still kind of , we could have either or . We could have a complex one or a a non-complex",ES2016c
+2063.76,2064.15,B,Yeah,ES2016c
+2063.97,2064.62,A,. But,ES2016c
+2064.15,2064.15,B,.,ES2016c
+2064.62,2069.47,A,did we decide that the rubbery feel was important enough to us ?,ES2016c
+2070.12,2071.89,D,"Well what about what you said , like putting",ES2016c
+2071.62,2073.19,C,Just,ES2016c
+2071.89,2072.4,D,the,ES2016c
+2073.19,2073.45,C,just,ES2016c
+2073.42,2073.79,D,finger,ES2016c
+2073.45,2074.26,C,maybe,ES2016c
+2073.79,2074.47,D,grips,ES2016c
+2074.26,2075.06,C,yeah,ES2016c
+2074.47,2074.97,D,just,ES2016c
+2074.729,2074.729,A,.,ES2016c
+2074.97,2075.08,D,on,ES2016c
+2075.06,2075.24,C,. Just,ES2016c
+2075.08,2075.3,D,top,ES2016c
+2075.24,2075.47,C,a little,ES2016c
+2075.3,2076.15,D,of the plastic,ES2016c
+2075.47,2076.13,C,bit of .,ES2016c
+2076.15,2076.15,D,?,ES2016c
+2077.01,2081.21,A,"Okay . So we would , we would have the L_C_D_ screen ?",ES2016c
+2082.88,2086.21,B,"as long as the pla uh the rubber is nowhere near the controls , yes .",ES2016c
+2086.6,2094.6,A,"'Kay . So I guess the case would be plastic , with",ES2016c
+2100.14,2103.8,A,Perhaps that's not even enough rubber to qualify as being part of it . It's,ES2016c
+2103.75,2104.11,C,Yeah,ES2016c
+2103.8,2104.22,A,more of a,ES2016c
+2104.11,2104.11,C,.,ES2016c
+2104.22,2105.12,A,su it's more of a,ES2016c
+2105.102,2105.102,B,.,ES2016c
+2105.12,2105.98,A,supplement maybe .,ES2016c
+2106.05,2106.46,D,Yeah,ES2016c
+2106.2,2106.78,B,M more,ES2016c
+2106.46,2106.46,D,.,ES2016c
+2106.78,2109.8,B,of a l lamination perhaps,ES2016c
+2108.53,2109.04,C,Yeah .,ES2016c
+2109.8,2109.8,B,.,ES2016c
+2125.37,2127.96,D,"So then for the scroll , are we going for the iPod type ?",ES2016c
+2129.21,2130.08,C,Yeah I think so,ES2016c
+2130.04,2130.4,D,Yeah,ES2016c
+2130.08,2130.41,C,. I think,ES2016c
+2130.4,2130.71,D,? Okay .,ES2016c
+2136.98,2141.08,A,Which will require a more expensive chip-on-print right ?,ES2016c
+2141.85,2142.86,B,Yes . It does .,ES2016c
+2143.46,2144.14,A,'Kay . So,ES2016c
+2210.58,2216.64,A,"I guess that , is that , is that about it ? So we have a good idea of what we're gonna need to to do on this ?",ES2016c
+2217.64,2217.86,B,Right .,ES2016c
+2218.62,2242.01,A,Um okay so we will have another meeting in thirty minutes . Um Here's what's gonna be going on . Um Um Ryan you'll be working on the user interface design . Um Manuel you'll be working on the look-and-feel design .,ES2016c
+2242.49,2242.84,B,Right .,ES2016c
+2246.4,2276.08,A,"Corrine we'll want a product evaluation . And the two of you get to play with the uh modelling components and uh maybe and and get us a prototype . Which should go along well with your look-and-feel design and your interface . So that basically just be working on the prototype , uh we'll accomplish your other two actions .",ES2016c
+2297.9,2305.15,A,Alright . Okay . Let's do it .,ES2016c
+14.16,18.72,A,Yep . Soon as I get this .,ES2016d
+27.93,177.4,A,"Okay . This is our last meeting . Um I'll go ahead and go through the minutes from the previous meeting . Uh and then we'll have a , the prototype presentation . Um then we will um do an evaluation . Uh or we'll see what , what we need to have under the criteria for the evaluation . Then we'll go through the finance and see if we fall within the budget . Um then we'll do the evaluation , and then we can finish up after that with um any changes that we'll need to make , or hopefully everything will fall right in line . Um let's see , minutes from the last meeting . Um we looked at uh the the trends . We had uh the fashion trends that people want a fancy look-and-feel . It was twice as important as anything else . Um they liked fruit and vegetables in the new styles . Um and a spongy feel . So we were talking about trying to incorporate those into our prototype . Um they wanted limited buttons and simplicity . Um then we looked at the uh the method for coming up with our own remote . Um looking at other other devices . Um the iPod , we really liked the look of that . Um we also had uh the kid's remote for a simple idea . Um a two part remote , which was what were were originally looking at . Uh and then um there was talk of spee uh speech recognition um becoming more uh predominant and easier to use . But I think we've still decided not to go with that . Then we looked at the components um the materials for the case , the different energy sources , the different types of chips , um and made a decision on what we were going to use to make our remote . Um and basically how , what were making for the prototype . So I'm going to leave it at that and let you guys take over .",ES2016d
+178.69,180.39,C,The prototype discussion .,ES2016d
+180.5,182.85,A,The prototype yeah . Do you need a this ?,ES2016d
+183.54,184.32,C,No .,ES2016d
+184.45,184.79,A,Okay .,ES2016d
+185.89,186.13,C,There,ES2016d
+185.91,186.23,B,Can try,ES2016d
+186.13,186.31,C,is,ES2016d
+186.23,186.37,B,to,ES2016d
+186.31,186.51,C,our,ES2016d
+186.37,186.72,B,plug,ES2016d
+186.51,187.99,C,remo,ES2016d
+186.72,187.43,B,that in there but,ES2016d
+187.99,225.06,C,"the banana . Um yeah basically we we st went with the colour yellow . Um working on the principle of a fruit which was mentioned , it's basically designed around a banana . Um but it would be held in such a fashion , where it is , obviously it wouldn't be that floppy 'cause this would be hard plastic . These would be like the rubber , the rubber grips . So that's so that would hopefully help with grip , or like the ergonomics of it . Um but all the controlling would be done with this scroll wheel . You have to use your imagination a little bit . And this here represents the screen , where",ES2016d
+225.01,225.26,A,Very,ES2016d
+225.06,225.56,C,you,ES2016d
+225.26,225.62,A,nice,ES2016d
+225.56,225.74,C,", where",ES2016d
+225.62,225.62,A,.,ES2016d
+225.74,264.84,C,"you'd go through . And the the simplest functions would be um almost identical to an iPod , where that one way ch through channels , that way th other way through channels . Volume up and down . And then to access the more complicated functions you'd you sorta go , you press that and go through the menus . It's that that simple . That just represents the infrared uh beam . That's a simple on and off switch . Um I don't know , we could use the voice . T that blue bits should be yellow , d that that'd be where the batteries would be I suppose . And um that's about it . It's as simple as you , we could make it really . Is there anything",ES2016d
+264.7,265.33,B,Right,ES2016d
+264.84,265.21,C,you want to add ?,ES2016d
+265.33,282.04,B,". That's what we have there . That's plastic . Plastic covered with rubber . We might uh add some more underneath here . Maybe give it , give it a form . I mean you're supposed to hold it like that , but um just if you grab it , take",ES2016d
+281.96,282.37,C,Yeah,ES2016d
+282.04,282.76,B,it from somewhere,ES2016d
+282.37,283.13,C,. Doesn't make much,ES2016d
+282.76,283.24,B,", so",ES2016d
+282.77,283.47,A,Mm-hmm,ES2016d
+283.13,283.28,C,make,ES2016d
+283.24,283.76,B,yeah,ES2016d
+283.28,283.75,C,much difference,ES2016d
+283.47,283.47,A,.,ES2016d
+283.75,283.84,C,. You,ES2016d
+283.76,283.88,B,", you",ES2016d
+283.84,283.93,C,could,ES2016d
+283.88,284.0,B,have,ES2016d
+283.93,284.1,C,work,ES2016d
+284.0,284.2,B,some,ES2016d
+284.1,284.6,C,left-handed,ES2016d
+284.2,284.81,B,rub,ES2016d
+284.6,285.14,C,or right-handed,ES2016d
+284.81,285.81,B,yeah,ES2016d
+285.14,285.63,C,I suppose .,ES2016d
+285.81,289.85,B,". Exactly , use both . Might as well",ES2016d
+289.35,289.85,C,T the,ES2016d
+289.85,290.03,B,think,ES2016d
+289.85,290.11,C,actual,ES2016d
+290.03,290.4,B,about,ES2016d
+290.11,293.04,C,thing might be smaller,ES2016d
+291.32,293.06,B,Th think about the button as,ES2016d
+293.04,293.32,C,. Yeah,ES2016d
+293.06,293.68,B,well . Like,ES2016d
+293.32,293.32,C,.,ES2016d
+293.68,297.55,B,either put either one one on either side or,ES2016d
+298.2,298.81,A,What but what's,ES2016d
+298.59,298.84,B,not,ES2016d
+298.81,298.98,A,that,ES2016d
+298.84,298.99,B,do,ES2016d
+298.98,299.52,A,button,ES2016d
+298.99,299.88,B,it at all,ES2016d
+299.51,299.75,C,Just,ES2016d
+299.52,299.52,A,?,ES2016d
+299.75,299.95,C,the on,ES2016d
+299.88,300.03,B,. It's,ES2016d
+299.95,300.1,C,and,ES2016d
+300.03,300.41,B,a quick,ES2016d
+300.1,300.33,C,off .,ES2016d
+300.4,300.75,A,Uh,ES2016d
+300.41,301.0,B,on-off,ES2016d
+300.75,300.96,A,", 'kay .",ES2016d
+301.0,306.38,B,button . That's um yeah I think it's pretty important . So you don't have to fiddle with that .,ES2016d
+307.43,307.87,A,'Kay,ES2016d
+307.81,308.66,B,Right,ES2016d
+307.87,307.87,A,.,ES2016d
+308.66,313.87,B,? Um that's not um I'd say a bit smaller would probably be nice,ES2016d
+313.83,314.32,C,Yeah,ES2016d
+313.87,314.79,B,. You,ES2016d
+314.32,314.32,C,.,ES2016d
+314.79,316.79,B,wanna play with that over there . There you go .,ES2016d
+316.92,319.55,C,It's you know it's flimsy 'cause it's made out of heavy Play-Doh,ES2016d
+319.35,319.7,A,Would you like,ES2016d
+319.55,319.78,C,", but",ES2016d
+319.65,320.2,B,Right,ES2016d
+319.7,320.17,A,to uh,ES2016d
+320.2,320.2,B,.,ES2016d
+320.85,321.71,D,Pretty impressive .,ES2016d
+323.04,323.9,A,Well done .,ES2016d
+326.75,327.75,D,Kind of a banana .,ES2016d
+328.65,335.15,C,And whether or not it would fall into the cost everything I suppose . With the scroll and the L_C_D_ .,ES2016d
+336.34,344.01,A,Well luckily we are going to find out . Or not luckily . Um do you have a,ES2016d
+343.37,344.91,D,I,ES2016d
+344.01,345.41,A,marketing,ES2016d
+344.91,345.5,D,do,ES2016d
+345.41,346.0,A,presentation,ES2016d
+345.5,345.5,D,.,ES2016d
+346.0,346.51,A,for us .,ES2016d
+351.71,360.06,D,Okay . You guys are gonna help me do an evaluation of the criteria . Um .,ES2016d
+379.95,417.5,D,Okay . So first I'll just discuss some of the criteria that I found . Just based on the past trend reports that I was looking at earlier . And then we'll do a group evaluation of the prototype . And then we will calculate the average score to see how we did . Um so the criteria we're gonna be looking at are the complaints um that we heard from the users who were interviewed earlier . So we're gonna be doing it based on a seven point scale .,ES2016d
+422.68,451.7,D,"And one is going to mean true , that we did actually achieve that . With seven being false , we did not achieve that . . Okay . So for the first one , we need to decide , did we solved the problem of the users who complained about an ugly remote ?",ES2016d
+452.144,452.144,B,.,ES2016d
+452.31,453.63,A,I think it's definitely,ES2016d
+453.19,453.35,D,Mm .,ES2016d
+453.63,454.62,A,different than anything else,ES2016d
+454.51,455.17,C,Yeah,ES2016d
+454.62,455.58,A,out there,ES2016d
+455.17,455.17,C,.,ES2016d
+455.58,459.17,A,". So if they think that what is out there is ugly , then yes",ES2016d
+459.1,459.27,C,I,ES2016d
+459.17,459.29,A,I,ES2016d
+459.27,459.73,C,would,ES2016d
+459.29,459.95,A,would say,ES2016d
+459.73,459.73,C,.,ES2016d
+459.95,461.71,A,", I would say most definitely . It's bright .",ES2016d
+461.76,462.64,C,It's bright . It's,ES2016d
+463.03,464.72,A,It still has your traditional black .,ES2016d
+464.96,468.87,C,It's curved . It's not there's no sharp angles to,ES2016d
+468.85,469.4,A,Yep,ES2016d
+468.87,469.08,C,it .,ES2016d
+469.4,470.15,A,", not angular .",ES2016d
+470.8,470.93,D,Mm .,ES2016d
+471.37,482.39,B,"I'd say , when it comes to the ergonomics , the form and stuff , yes that's definitely more beautiful than your average . However the colour",ES2016d
+482.19,482.49,D,Yeah I think,ES2016d
+482.39,482.52,B,", we",ES2016d
+482.49,482.56,D,the,ES2016d
+482.52,482.66,B,don't,ES2016d
+482.56,483.02,D,colours,ES2016d
+482.66,483.05,B,have a say,ES2016d
+483.02,483.63,D,detract,ES2016d
+483.05,483.46,B,in that .,ES2016d
+483.63,484.25,D,a little,ES2016d
+483.92,484.38,C,Some people,ES2016d
+484.25,484.63,D,bit,ES2016d
+484.38,484.59,C,might,ES2016d
+484.42,484.77,B,That has,ES2016d
+484.59,484.77,C,say,ES2016d
+484.63,484.63,D,.,ES2016d
+484.77,485.24,B,been,ES2016d
+484.77,485.06,C,it . Yeah .,ES2016d
+485.24,486.28,B,", that has been dictated",ES2016d
+486.28,487.1,A,Mm,ES2016d
+486.28,487.29,B,pretty much by the company,ES2016d
+487.1,487.1,A,.,ES2016d
+487.29,488.53,B,. So,ES2016d
+487.63,488.35,D,That's true .,ES2016d
+488.53,488.98,B,uh,ES2016d
+488.55,488.9,A,Yep .,ES2016d
+488.98,495.33,B,"to answer that honestly I would rather say like uh , we have not solved the problem completely with",ES2016d
+495.28,495.81,D,Yeah,ES2016d
+495.33,496.17,B,the ugly remote,ES2016d
+495.81,495.81,D,.,ES2016d
+496.17,499.31,B,"because the colour is ugly , definitely",ES2016d
+498.43,498.75,C,Yeah .,ES2016d
+499.31,505.45,B,. 'S nothing you can say about that . I mean I much prefer something like brushed chrome,ES2016d
+504.81,505.1,C,Yeah .,ES2016d
+505.45,506.46,B,with that form . But,ES2016d
+507.36,509.7,A,Yeah something more modern to go,ES2016d
+509.33,509.79,B,Right,ES2016d
+509.7,509.91,A,a,ES2016d
+509.79,509.79,B,.,ES2016d
+509.91,511.73,A,a modern colour to go with the modern form .,ES2016d
+511.9,523.6,B,Right . It's different . You don't want your uh three feet huge L_C_D_ dis display in your living room that's hanging from the wall to be controlled with something like that .,ES2016d
+525.64,534.82,D,"Um okay so , do you think , since we This was a a sign criteria , do you think maybe we should put it somewhere in the middle then ? Does",ES2016d
+534.14,534.53,B,Yeah .,ES2016d
+534.82,535.64,D,that sound good,ES2016d
+535.57,535.89,A,Yeah,ES2016d
+535.64,535.64,D,?,ES2016d
+535.78,536.21,C,Yeah,ES2016d
+535.89,535.89,A,.,ES2016d
+536.21,536.21,C,.,ES2016d
+537.23,538.64,D,What do you think ? Three ? Four ?,ES2016d
+540.88,541.04,A,I,ES2016d
+540.92,543.84,D,Five,ES2016d
+541.04,545.02,A,would say four,ES2016d
+543.84,544.09,D,? Four,ES2016d
+543.97,546.31,B,Yeah,ES2016d
+544.09,544.89,D,is fair . Okay .,ES2016d
+545.02,546.81,A,. Very non-committal,ES2016d
+546.31,546.31,B,.,ES2016d
+546.81,547.17,A,", four .",ES2016d
+547.58,553.26,D,"Okay , the second one . Did we make it simple for new users ?",ES2016d
+554.48,556.75,B,"It's very intuitive , I think yeah .",ES2016d
+556.95,560.63,C,"Yeah . I think that was the main aim , one of the main aims that we had",ES2016d
+560.57,560.93,B,S,ES2016d
+560.63,560.63,C,.,ES2016d
+560.93,561.58,B,give it a one .,ES2016d
+561.84,562.88,D,One,ES2016d
+562.37,562.6,A,Yeah .,ES2016d
+562.88,571.63,D,", 'kay . Okay . Um , do the controls now match the operating behaviour of the users ?",ES2016d
+572.88,573.56,C,Uh yeah,ES2016d
+573.5,573.66,D,I'd,ES2016d
+573.56,573.71,C,. 'Cause,ES2016d
+573.66,573.79,D,say,ES2016d
+573.71,574.19,C,we've,ES2016d
+573.79,574.09,D,that,ES2016d
+574.19,577.74,C,"we've brought it down to basically four controls most common , which",ES2016d
+577.73,578.1,B,Right,ES2016d
+577.74,578.23,C,are,ES2016d
+578.07,578.56,A,Mm-hmm,ES2016d
+578.1,578.1,B,.,ES2016d
+578.23,578.64,C,channel and,ES2016d
+578.56,578.56,A,.,ES2016d
+578.64,584.04,C,"volume . And then the other ones are just a matter of just going , just",ES2016d
+584.01,584.59,A,S,ES2016d
+584.04,585.66,C,scrolling further,ES2016d
+584.59,585.81,A,scrolling through and selecting,ES2016d
+585.66,585.9,C,. Yeah,ES2016d
+585.81,586.11,A,a few,ES2016d
+585.9,585.9,C,.,ES2016d
+586.11,586.11,A,.,ES2016d
+586.3,586.76,B,Right .,ES2016d
+587.94,588.98,D,So one,ES2016d
+588.22,588.87,B,So that's a one .,ES2016d
+588.98,591.04,D,? Yeah,ES2016d
+589.3,590.15,A,I think that's a one .,ES2016d
+591.04,604.17,D,? Okay . Okay um the fourth one . How about the problem of a remote being easily lost ? One of the number one,ES2016d
+604.16,604.55,B,Something,ES2016d
+604.17,604.81,D,complaints,ES2016d
+604.55,604.82,B,that,ES2016d
+604.81,604.81,D,.,ES2016d
+604.82,606.95,B,big and that yellow you just don't lose anymore,ES2016d
+606.76,607.55,C,Yeah,ES2016d
+606.95,606.95,B,.,ES2016d
+607.46,607.66,D,Whether,ES2016d
+607.55,607.76,C,. It's,ES2016d
+607.66,607.8,D,you,ES2016d
+607.76,608.1,C,bright,ES2016d
+607.8,608.22,D,want to,ES2016d
+608.1,608.51,C,yellow,ES2016d
+608.22,608.66,D,or not,ES2016d
+608.51,608.73,C,. Bright,ES2016d
+608.66,608.79,D,", you're",ES2016d
+608.73,609.02,C,yellow's,ES2016d
+608.79,609.08,D,not,ES2016d
+609.02,609.23,C,hard,ES2016d
+609.08,609.24,D,gonna,ES2016d
+609.23,609.35,C,to,ES2016d
+609.24,609.49,D,lose,ES2016d
+609.35,610.23,C,lose,ES2016d
+609.49,610.35,D,it,ES2016d
+610.23,610.4,C,. But,ES2016d
+610.35,610.35,D,.,ES2016d
+610.4,620.25,C,"um if we were to , if we were , that , the speech recognition . That , we could maybe just use that solely for the the finding thing . That was what we'd we'd mentioned",ES2016d
+619.85,620.3,A,So if,ES2016d
+620.25,620.25,C,.,ES2016d
+620.3,623.2,A,we incorporate speech recognition into it then it,ES2016d
+622.98,623.26,C,Just,ES2016d
+623.2,623.36,A,could,ES2016d
+623.26,626.21,C,"just to use , to find it when it was lost . But like I said , like I",ES2016d
+626.2,626.43,B,Oops,ES2016d
+626.21,626.59,C,don't think,ES2016d
+626.43,626.43,B,.,ES2016d
+626.59,629.3,C,you'd lose something so yellow so easily . And it's,ES2016d
+629.25,629.33,B,Hmm,ES2016d
+629.3,629.42,C,not,ES2016d
+629.33,629.33,B,.,ES2016d
+629.42,634.17,C,"gonna fall , like a rectangle would slip down behind things . That's gonna be a difficult shape to",ES2016d
+635.15,635.69,B,Well,ES2016d
+635.65,635.77,A,And,ES2016d
+635.69,636.27,B,what,ES2016d
+635.77,637.22,A,it is quite bright and,ES2016d
+636.94,640.14,C,"Yeah . Maybe in the middle again , three or four or something ?",ES2016d
+640.54,640.88,B,S,ES2016d
+640.79,641.03,D,Okay,ES2016d
+640.91,641.34,A,Uh,ES2016d
+641.03,641.03,D,.,ES2016d
+641.75,645.46,C,I mean you know loo losing things is one of those things that people can lose,ES2016d
+645.16,645.47,A,Yeah,ES2016d
+645.46,645.5,C,", I",ES2016d
+645.47,645.47,A,.,ES2016d
+645.5,648.21,C,mean a million ways . You can pick it up and walk away with it and then you've lost it .,ES2016d
+648.34,648.79,D,That's true,ES2016d
+648.59,648.93,B,Mm,ES2016d
+648.79,648.79,D,.,ES2016d
+648.93,648.93,B,.,ES2016d
+649.76,650.29,A,But if we do,ES2016d
+650.12,650.36,D,Mm,ES2016d
+650.29,650.45,A,go,ES2016d
+650.36,650.36,D,.,ES2016d
+650.45,654.39,A,"with the , with the speech recognition , then it , then our scale goes up quite a bit",ES2016d
+654.29,654.48,B,Oh,ES2016d
+654.39,654.54,A,I,ES2016d
+654.48,654.92,B,yeah,ES2016d
+654.54,654.77,A,think .,ES2016d
+654.9,655.58,C,Yeah,ES2016d
+654.92,656.34,B,. You probably,ES2016d
+655.51,655.85,A,Probably,ES2016d
+655.58,655.58,C,.,ES2016d
+655.85,662.76,A,two . You know . If we eliminate the fact that you know it's impossible to guarantee that it's not gonna be lost,ES2016d
+662.37,662.79,C,Yeah,ES2016d
+662.76,662.97,A,then,ES2016d
+662.79,662.79,C,.,ES2016d
+663.22,663.56,B,Mm .,ES2016d
+664.4,675.4,A,"I'd say two . With the speech recognition , which of course may be changed depending on budget .",ES2016d
+675.71,676.18,C,Yeah .,ES2016d
+676.74,686.9,B,Y you could add an extra feature actually . Which makes this thing raise hell when you remove it too far from the television .,ES2016d
+687.45,687.69,C,Yeah .,ES2016d
+689.87,693.11,B,We could add that but that's nothing we have thought of,ES2016d
+693.08,693.68,A,Which,ES2016d
+693.11,693.67,B,so far .,ES2016d
+693.68,696.06,A,", which may be cheaper than speech recognition if it",ES2016d
+696.02,696.86,B,Yes,ES2016d
+696.06,696.75,A,were just a,ES2016d
+696.86,696.86,B,.,ES2016d
+697.11,697.81,C,Yeah true . But,ES2016d
+697.73,698.28,D,Annoying,ES2016d
+697.81,698.43,C,I mean d just,ES2016d
+698.28,698.71,D,alarm,ES2016d
+698.43,699.08,C,those whistling,ES2016d
+698.71,699.51,D,or something,ES2016d
+699.08,699.57,C,", clapping",ES2016d
+699.51,700.02,D,? Yeah,ES2016d
+699.56,699.97,B,It's,ES2016d
+699.57,700.01,C,key rings,ES2016d
+699.97,700.91,B,it's,ES2016d
+700.01,700.36,C,you,ES2016d
+700.02,700.02,D,.,ES2016d
+700.36,701.8,C,have . They're cheap . So it can't be that,ES2016d
+702.49,704.16,B,Um the it's based,ES2016d
+703.91,704.46,C,expensive,ES2016d
+704.16,704.87,B,on this anti,ES2016d
+704.46,704.46,C,.,ES2016d
+704.87,705.8,B,anti-theft,ES2016d
+705.36,705.86,A,Some sort of,ES2016d
+705.73,706.18,C,Yeah,ES2016d
+705.8,706.57,B,technology,ES2016d
+705.86,706.71,A,proximity,ES2016d
+706.18,706.18,C,.,ES2016d
+706.57,712.88,B,"for suitcases and stuff , where you have one piece that's attached to your luggage , another piece that starts beeping . That can't cost much .",ES2016d
+713.01,713.24,C,Yeah .,ES2016d
+714.01,721.52,B,"So that can also easily be integrated because these things are small enough to to hide , so you have one piece , you have to glue somewhere behind",ES2016d
+721.19,721.55,C,stick it,ES2016d
+721.52,722.11,B,your,ES2016d
+721.55,723.4,C,on the T_V_,ES2016d
+722.11,723.5,B,stick it behind your T_V_,ES2016d
+723.4,723.4,C,.,ES2016d
+723.5,724.08,B,and the other,ES2016d
+724.89,729.75,A,Pray that you don't accidentally lose that piece,ES2016d
+727.57,730.41,B,Right . That'd be tough then,ES2016d
+729.75,729.75,A,.,ES2016d
+730.41,737.82,B,". Well also your remote would uh alarm you if somebody stole you t your television , yeah . Ran off with it without taking the beautiful remote control .",ES2016d
+738.07,740.04,C,Yeah .,ES2016d
+740.71,745.26,D,So . Are we adding one of these two features,ES2016d
+745.13,745.38,B,Let's,ES2016d
+745.26,745.59,D,? gonna,ES2016d
+745.38,745.65,B,add,ES2016d
+745.59,746.31,D,say,ES2016d
+745.65,746.4,B,one of those features,ES2016d
+746.31,746.78,D,okay,ES2016d
+746.4,749.24,B,and say yes,ES2016d
+746.78,746.78,D,.,ES2016d
+747.4,747.72,A,Okay .,ES2016d
+747.99,749.93,D,So we're back to a one,ES2016d
+749.24,749.24,B,.,ES2016d
+749.93,750.85,D,? Or a two,ES2016d
+750.34,750.69,C,Two .,ES2016d
+750.73,751.33,B,Two,ES2016d
+750.85,751.21,D,? Two,ES2016d
+751.05,751.21,A,Two .,ES2016d
+751.21,751.33,D,", 'kay",ES2016d
+751.33,751.33,B,.,ES2016d
+751.33,756.36,D,. Okay . Are we technologically innovative ?,ES2016d
+758.64,759.11,B,Uh,ES2016d
+759.66,762.22,C,I'd say so . Uh don't get many mo,ES2016d
+761.97,762.29,B,It's all,ES2016d
+762.22,762.45,C,remote,ES2016d
+762.29,762.66,B,just,ES2016d
+762.45,765.62,C,controls with screens on .,ES2016d
+765.86,767.4,B,It's all just stolen technology,ES2016d
+766.91,767.08,C,Yeah,ES2016d
+766.96,767.29,D,From,ES2016d
+767.08,767.66,C,it's stolen,ES2016d
+767.29,767.88,D,iPod,ES2016d
+767.4,767.77,B,when it,ES2016d
+767.66,768.47,C,technology,ES2016d
+767.77,768.0,B,comes,ES2016d
+767.82,768.54,A,It's,ES2016d
+767.88,768.5,D,yeah,ES2016d
+768.0,770.45,B,down to,ES2016d
+768.47,768.6,C,. But,ES2016d
+768.5,768.5,D,.,ES2016d
+768.6,769.36,C,we have .,ES2016d
+770.07,770.21,A,But,ES2016d
+770.17,770.29,D,But,ES2016d
+770.21,770.39,A,there's,ES2016d
+770.29,770.42,D,for,ES2016d
+770.39,770.57,A,not,ES2016d
+770.42,771.62,D,remotes,ES2016d
+770.45,773.55,B,right,ES2016d
+770.57,771.66,A,"a lot of yellow , there's",ES2016d
+771.62,771.97,D,yeah,ES2016d
+771.66,772.13,A,not a lotta,ES2016d
+771.97,771.97,D,.,ES2016d
+772.13,773.7,A,yellow . Course,ES2016d
+773.51,773.67,C,Fa,ES2016d
+773.55,774.21,B,right,ES2016d
+773.7,774.23,A,that wasn't,ES2016d
+774.21,774.7,B,right,ES2016d
+774.23,774.77,A,really,ES2016d
+774.7,775.62,B,right,ES2016d
+774.77,775.79,A,we were kinda forced to take,ES2016d
+775.62,775.62,B,.,ES2016d
+775.79,776.38,A,that colour .,ES2016d
+777.79,779.27,D,Two ? Three ?,ES2016d
+780.44,781.25,A,I don't know that we,ES2016d
+781.07,781.38,C,'cause it's,ES2016d
+781.25,781.46,A,are,ES2016d
+781.38,782.07,C,stolen,ES2016d
+781.46,782.24,A,that innovative,ES2016d
+782.07,782.32,C,. No,ES2016d
+782.24,782.35,A,", to",ES2016d
+782.32,782.51,C,maybe,ES2016d
+782.35,782.58,A,tell you,ES2016d
+782.51,782.68,C,not,ES2016d
+782.58,782.65,A,the,ES2016d
+782.62,782.98,B,Yeah,ES2016d
+782.65,783.6,A,truth,ES2016d
+782.68,782.68,C,.,ES2016d
+782.98,783.61,B,not really,ES2016d
+783.6,783.6,A,.,ES2016d
+783.61,783.61,B,.,ES2016d
+783.91,786.49,D,But how many remotes do you see like this ? Not,ES2016d
+786.45,786.57,A,If,ES2016d
+786.49,786.63,D,so,ES2016d
+786.57,786.7,A,we,ES2016d
+786.63,787.17,D,many,ES2016d
+786.7,787.96,A,added the screaming,ES2016d
+787.17,787.17,D,.,ES2016d
+787.96,792.41,A,factor then we go up,ES2016d
+791.98,792.45,B,Right,ES2016d
+792.41,793.45,A,. Um,ES2016d
+792.45,792.45,B,.,ES2016d
+793.45,795.81,A,I would say we're probably at four .,ES2016d
+795.97,803.26,D,Really ? Okay . That's gonna hurt us . Okay . Um spongy material ?,ES2016d
+803.68,805.14,B,Yeah well you have that,ES2016d
+804.53,805.5,A,We have some spongy,ES2016d
+805.14,805.41,B,", kind",ES2016d
+805.16,805.43,C,Yeah,ES2016d
+805.41,805.89,B,of,ES2016d
+805.43,805.56,C,as,ES2016d
+805.5,805.75,A,", yeah",ES2016d
+805.56,805.79,C,much,ES2016d
+805.75,805.75,A,.,ES2016d
+805.79,806.85,C,as,ES2016d
+805.89,806.63,B,", sort of .",ES2016d
+806.85,808.77,C,"as needed , I think .",ES2016d
+811.59,811.99,D,'Kay .,ES2016d
+812.74,813.99,B,It's not a one though,ES2016d
+813.92,814.34,A,No,ES2016d
+813.99,814.38,B,. One would,ES2016d
+814.34,814.34,A,.,ES2016d
+814.38,815.21,B,be the whole thing,ES2016d
+815.38,817.7,A,Yeah . Because it's only got,ES2016d
+816.65,817.79,B,to fold and stuff,ES2016d
+817.7,818.36,A,what,ES2016d
+817.79,817.79,B,.,ES2016d
+818.36,821.22,A,", these parts are the grips and perhaps the back side the",ES2016d
+821.1,821.47,B,Yeah,ES2016d
+821.22,821.59,A,bottom,ES2016d
+821.47,821.47,B,.,ES2016d
+821.59,822.17,A,the underneath on,ES2016d
+822.1,822.53,C,Yeah,ES2016d
+822.17,822.59,A,the back,ES2016d
+822.53,822.53,C,.,ES2016d
+822.59,822.59,A,.,ES2016d
+823.19,824.79,B,So that's a four at,ES2016d
+824.67,825.18,A,Probably,ES2016d
+824.79,825.67,B,most,ES2016d
+825.18,826.01,A,a four,ES2016d
+825.67,825.67,B,.,ES2016d
+826.01,826.59,A,at most .,ES2016d
+829.05,829.27,D,And,ES2016d
+829.13,829.54,A,Possibly,ES2016d
+829.27,830.84,D,lastly,ES2016d
+829.54,830.32,A,even a five .,ES2016d
+830.84,833.64,D,", did we put the fashion in electronics ?",ES2016d
+835.06,836.75,B,Y yes,ES2016d
+835.97,836.26,D,I'd,ES2016d
+836.03,836.26,C,Yeah,ES2016d
+836.26,836.48,D,say,ES2016d
+836.26,836.26,C,.,ES2016d
+836.48,837.27,D,we did,ES2016d
+836.67,836.8,A,If,ES2016d
+836.75,837.07,B,. More,ES2016d
+836.8,837.4,A,your fashion,ES2016d
+837.27,837.27,D,.,ES2016d
+837.4,841.01,A,"is b is Carmen Miranda , you betcha",ES2016d
+839.46,841.03,C,Yeah,ES2016d
+841.01,841.01,A,.,ES2016d
+841.03,841.03,C,.,ES2016d
+842.15,844.93,B,Well the recent fashion is rather displayed in the,ES2016d
+844.62,844.91,C,On the,ES2016d
+844.93,846.09,B,in the L_C_D_ and,ES2016d
+846.01,846.16,A,It's,ES2016d
+846.09,846.17,B,the,ES2016d
+846.16,846.46,A,true,ES2016d
+846.17,846.51,B,way you,ES2016d
+846.46,846.46,A,.,ES2016d
+846.51,847.8,B,operate it than,ES2016d
+847.52,848.05,C,Yeah,ES2016d
+847.8,848.37,B,the form,ES2016d
+848.05,848.05,C,.,ES2016d
+848.37,850.25,B,"and the colour , but it definitely is",ES2016d
+850.05,852.0,C,"Be what we were told , and they'd say yeah , definitely .",ES2016d
+852.448,852.448,B,.,ES2016d
+852.68,867.93,D,'Kay . Alright . Now we just gotta calculate . Six eight twelve sixteen . Seventeen divided by s,ES2016d
+870.23,870.64,A,Seven,ES2016d
+870.449,870.449,C,.,ES2016d
+870.64,871.01,A,is,ES2016d
+871.37,871.45,D,Eight .,ES2016d
+872.85,873.47,A,Two point,ES2016d
+882.17,883.39,A,two point four,ES2016d
+882.87,883.44,C,Is that some long,ES2016d
+883.39,883.39,A,?,ES2016d
+883.44,885.05,C,division ? No .,ES2016d
+885.5,885.88,D,Well I haven't,ES2016d
+885.73,886.13,A,Something,ES2016d
+885.88,886.5,D,done math,ES2016d
+886.13,886.13,A,.,ES2016d
+886.5,892.17,D,in years . What two I dunno .,ES2016d
+892.36,894.49,C,"Just , I'm sure there's a",ES2016d
+893.55,894.51,D,Okay we'll say two point,ES2016d
+894.49,894.49,C,.,ES2016d
+894.51,899.29,D,four two . Right ? How does that look ?,ES2016d
+900.58,905.32,B,I'm impressed . I can't do that without a calculator,ES2016d
+902.35,904.01,C,No I can't do long,ES2016d
+903.96,904.11,D,It's,ES2016d
+904.01,904.22,C,very,ES2016d
+904.11,904.33,D,been,ES2016d
+904.22,905.13,C,impressive,ES2016d
+904.33,905.36,D,a while,ES2016d
+905.13,905.13,C,.,ES2016d
+905.32,905.32,B,.,ES2016d
+905.36,905.36,D,.,ES2016d
+910.85,918.19,A,And what what is the acceptable criteria ? Is there like a scale that we have to hit,ES2016d
+918.1,918.41,D,Oh,ES2016d
+918.19,918.19,A,?,ES2016d
+918.41,925.51,D,no . They just told me to pick my own criteria and have you guys evaluate it basically .,ES2016d
+926.89,927.84,A,Alright then .,ES2016d
+930.87,931.72,D,So that's that .,ES2016d
+935.07,952.31,A,"Okay . Well , let's see . Now we get to do the budget numbers . You didn't know that you were gonna have a budget . But we do . Okay",ES2016d
+951.98,953.05,C,Yeah . Yeah,ES2016d
+952.31,952.31,A,.,ES2016d
+953.05,957.94,C,so . You'd been going a long time dividing that . It's two point four two eight five se it just keeps going on .,ES2016d
+957.97,959.0,D,Oh my god . Okay .,ES2016d
+959.07,960.32,C,Two point four two basically .,ES2016d
+960.92,963.36,D,Yeah we'll go with that . Not,ES2016d
+963.27,963.84,A,So,ES2016d
+963.36,964.3,D,too shabby,ES2016d
+963.84,964.37,A,I have,ES2016d
+964.3,964.3,D,.,ES2016d
+964.37,964.96,A,here,ES2016d
+964.92,965.31,B,Fifty,ES2016d
+964.96,965.21,A,an,ES2016d
+965.31,967.42,B,"percent , you're kidding",ES2016d
+966.83,967.24,A,Yeah .,ES2016d
+967.42,969.33,B,. P,ES2016d
+968.41,972.46,A,We want a fifty percent profit on this . Oh you can't really see that very well .,ES2016d
+973.06,974.49,C,Charge about three hundred quid for it .,ES2016d
+975.92,979.83,A,"Twelve and a half Euros is what supposed to cost us . Okay , so",ES2016d
+980.8,981.43,B,It's too much .,ES2016d
+982.45,983.2,A,Well let's,ES2016d
+983.13,983.74,B,Um,ES2016d
+983.2,987.08,A,see . The f the Wonder if I can make this,ES2016d
+991.84,992.13,B,Uh,ES2016d
+992.84,992.99,A,What the,ES2016d
+1003.01,1018.84,A,"Oh it won't let me do that . Okay . Alright so at top , I don't know if you guys can read that or not . I can't 'cause I don't have my glasses on , but so we've got the energy source . There's uh",ES2016d
+1018.67,1019.0,B,Battery,ES2016d
+1018.84,1020.19,A,four,ES2016d
+1019.0,1019.0,B,.,ES2016d
+1020.19,1046.33,A,", five , six categories . We have energy source , electronics , case . Then we have case material supplements , interface type , and then button supplements . Okay so Uh first of all energy source , we picked battery . Um and how many batteries do we think this will probably take ? Probably some e either two or four .",ES2016d
+1047.46,1047.84,B,Two .,ES2016d
+1048.08,1053.37,A,Two ? Like it,ES2016d
+1052.67,1053.42,B,At four it's,ES2016d
+1053.37,1053.37,A,.,ES2016d
+1053.42,1061.15,B,"gonna be too heavy , so that that's not our problem . People can change it every month . They won't",ES2016d
+1061.08,1062.11,A,Excellent,ES2016d
+1061.15,1062.13,B,know until after,ES2016d
+1062.11,1062.11,A,.,ES2016d
+1062.13,1062.78,B,they bought it .,ES2016d
+1064.03,1075.34,A,"This is consumerism . Alright so for the electronics our choices are simpl simple chip-on-print , regular chip-on-print , advanced chip-on-print , sample sensor",ES2016d
+1074.55,1074.55,B,.,ES2016d
+1075.34,1076.53,A,", sample speaker .",ES2016d
+1077.46,1078.77,C,We're advanced chip are we,ES2016d
+1078.7,1078.96,B,That's,ES2016d
+1078.77,1078.77,C,?,ES2016d
+1078.96,1080.39,B,"the advanced chip-on-print , yeah .",ES2016d
+1080.76,1091.47,A,"'Kay , we have one of those . 'Kay then the case is a Probably it's double",ES2016d
+1091.37,1091.6,B,Double,ES2016d
+1091.47,1092.17,A,curved,ES2016d
+1091.6,1092.63,B,"curved , yes",ES2016d
+1092.17,1092.17,A,.,ES2016d
+1092.63,1092.63,B,.,ES2016d
+1097.28,1099.88,A,Case materials are,ES2016d
+1099.17,1099.95,B,Plastic,ES2016d
+1099.88,1100.8,A,plastic,ES2016d
+1099.95,1099.95,B,.,ES2016d
+1100.8,1107.15,A,". Um I guess it's two , since one for the top , one for the bottom",ES2016d
+1106.56,1107.66,B,N,ES2016d
+1107.15,1107.76,A,. Is that right or is,ES2016d
+1107.66,1108.88,B,no,ES2016d
+1107.76,1108.6,A,it just one ?,ES2016d
+1108.88,1109.56,B,. No that's just,ES2016d
+1109.4,1109.59,A,Maybe,ES2016d
+1109.56,1109.93,B,one,ES2016d
+1109.59,1110.04,A,it's one,ES2016d
+1109.93,1109.93,B,.,ES2016d
+1110.04,1110.69,A,because of the,ES2016d
+1111.49,1114.33,B,"It's just one mo single mould , we can do that",ES2016d
+1114.21,1114.58,A,'Kay,ES2016d
+1114.33,1114.33,B,.,ES2016d
+1114.37,1114.82,C,Yeah,ES2016d
+1114.58,1114.58,A,.,ES2016d
+1114.82,1114.95,C,yeah .,ES2016d
+1115.2,1116.79,D,Right .,ES2016d
+1117.01,1119.55,A,"I guess it doesn't matter 'cause the price on that one is zero , which",ES2016d
+1119.43,1120.26,B,Exactly,ES2016d
+1119.55,1121.18,A,is nice,ES2016d
+1119.81,1120.17,D,Oh .,ES2016d
+1120.26,1120.77,B,", right .",ES2016d
+1121.18,1122.27,A,. Special colour ?,ES2016d
+1122.98,1124.62,B,That's not a special colour,ES2016d
+1124.32,1124.62,D,Bright,ES2016d
+1124.62,1124.75,B,. It's,ES2016d
+1124.62,1125.36,D,yellow,ES2016d
+1124.75,1125.45,B,a specially,ES2016d
+1125.36,1125.36,D,.,ES2016d
+1125.45,1127.37,B,"ugly colour , but it's not special .",ES2016d
+1128.79,1130.57,A,Interface type . We have pushbutton,ES2016d
+1130.05,1130.41,C,S,ES2016d
+1130.57,1132.67,A,", scroll-wheel interface",ES2016d
+1132.63,1133.69,B,S,ES2016d
+1132.67,1135.07,A,", integrated scroll-wheel pushbutton , and",ES2016d
+1135.02,1135.55,C,That's,ES2016d
+1135.07,1136.78,A,an L_C_D_ display .,ES2016d
+1136.88,1137.24,C,Yeah .,ES2016d
+1138.63,1141.95,A,So we actually have the L_C_D_ display,ES2016d
+1142.29,1142.67,C,And then,ES2016d
+1143.04,1144.51,A,and then is it the integrated or,ES2016d
+1144.43,1144.6,C,I'd,ES2016d
+1144.51,1144.63,A,is,ES2016d
+1144.6,1144.87,C,say,ES2016d
+1144.63,1145.02,A,it,ES2016d
+1144.87,1145.55,C,the integrated,ES2016d
+1145.55,1146.32,B,Yes,ES2016d
+1145.55,1145.55,C,.,ES2016d
+1146.0,1146.59,A,Yeah,ES2016d
+1146.32,1147.05,B,unfortunately,ES2016d
+1146.59,1146.59,A,.,ES2016d
+1147.05,1147.05,B,.,ES2016d
+1149.1,1152.21,A,'Kay . Button supplement ? Special colour,ES2016d
+1151.49,1151.73,C,Mm .,ES2016d
+1152.21,1157.72,A,? Um special form ? Special material .,ES2016d
+1158.45,1163.61,B,We could of course make the buttons wood . Say mahogany or so,ES2016d
+1165.0,1167.03,D,It'd look really lovely,ES2016d
+1166.22,1167.27,A,Or titanium,ES2016d
+1166.35,1167.72,B,Mm-hmm or titanium,ES2016d
+1167.03,1167.42,D,. Yeah,ES2016d
+1167.27,1167.62,A,. They cost,ES2016d
+1167.42,1167.42,D,.,ES2016d
+1167.62,1167.73,A,us,ES2016d
+1167.72,1167.72,B,.,ES2016d
+1167.73,1168.34,A,all the same,ES2016d
+1167.93,1168.63,C,remote,ES2016d
+1168.34,1168.34,A,.,ES2016d
+1168.63,1169.62,C,control,ES2016d
+1168.79,1169.15,B,Uh,ES2016d
+1169.12,1169.29,A,Well,ES2016d
+1169.15,1169.48,B,just,ES2016d
+1169.29,1169.93,A,we only have,ES2016d
+1169.62,1169.62,C,.,ES2016d
+1169.93,1172.57,A,"one button so really we shouldn't be charged , we",ES2016d
+1172.52,1172.86,C,No,ES2016d
+1172.57,1173.01,A,shouldn't,ES2016d
+1172.86,1173.08,C,that's,ES2016d
+1173.01,1173.12,A,be,ES2016d
+1173.08,1173.25,C,getting,ES2016d
+1173.12,1173.61,A,charged,ES2016d
+1173.25,1173.38,C,a bit,ES2016d
+1173.61,1174.36,A,anything for,ES2016d
+1174.29,1174.71,C,tiny,ES2016d
+1174.36,1175.06,A,the,ES2016d
+1174.71,1174.71,C,.,ES2016d
+1175.06,1177.65,A,the button supplements . Um,ES2016d
+1177.98,1179.07,C,Yeah . I'd ignore that .,ES2016d
+1179.99,1180.65,D,Leave it blank .,ES2016d
+1180.89,1193.09,A,Okay . We're gonna leave that one blank because we run on a L_C_D_ and scroll . So our total is fifteen point five . Which I believe,ES2016d
+1192.37,1193.2,B,Yeah that's too much,ES2016d
+1193.09,1193.68,A,is,ES2016d
+1193.2,1193.2,B,.,ES2016d
+1194.92,1196.82,A,by three Euros over .,ES2016d
+1198.35,1205.25,B,It's hard to believe . So we'll go for the hand dynamo huh ?,ES2016d
+1207.79,1209.89,A,So the only thing better than um,ES2016d
+1209.88,1210.06,C,If,ES2016d
+1209.89,1210.82,A,a banana-shaped,ES2016d
+1210.06,1210.21,C,it w,ES2016d
+1210.82,1212.56,A,remote is one that you shake .,ES2016d
+1212.63,1223.99,C,What if we completely took out the the one single button we've got on . And just had a scroll wheel interface . And the L_C_D_ display . I suppose the L_C_D_ C_ display's the one that's pushing it up a bit though .,ES2016d
+1227.51,1231.68,A,Yeah 'cause the Well 'cause we have to have both right ?,ES2016d
+1231.87,1232.24,C,Yeah .,ES2016d
+1233.5,1237.35,B,"I mean let's let's face it , it also depends on the software on the",ES2016d
+1237.28,1237.65,C,Yeah,ES2016d
+1237.35,1238.09,B,on the television,ES2016d
+1237.65,1237.65,C,.,ES2016d
+1238.09,1245.32,B,. You can have the the information that this thing transmits be being displayed on the on the screen,ES2016d
+1244.75,1245.17,A,Mm-hmm .,ES2016d
+1245.32,1246.75,B,. So s yeah let's take,ES2016d
+1246.74,1246.97,C,Yeah,ES2016d
+1246.75,1247.48,B,away the,ES2016d
+1246.97,1249.25,C,you could maybe take out the L_C_D_ dis display,ES2016d
+1248.84,1249.39,B,Yeah,ES2016d
+1249.25,1249.66,C,even,ES2016d
+1249.39,1249.71,B,. Yeah,ES2016d
+1249.66,1249.77,C,", if",ES2016d
+1249.71,1249.71,B,.,ES2016d
+1249.77,1253.29,C,it if it comes up on the computer itsel on the T_V_ itself .,ES2016d
+1253.73,1254.03,B,Right .,ES2016d
+1254.37,1256.37,A,So we may not need the L_C_D_ display ?,ES2016d
+1256.42,1257.84,C,Uh that is possible yeah .,ES2016d
+1259.22,1265.76,B,Right . We may not need it . There you go,ES2016d
+1265.64,1265.85,A,Well there,ES2016d
+1265.76,1266.13,B,. Perfect,ES2016d
+1265.85,1266.64,A,we go,ES2016d
+1266.13,1266.13,B,.,ES2016d
+1266.18,1266.55,C,There we go .,ES2016d
+1266.64,1266.97,A,. Twelve,ES2016d
+1266.87,1267.56,D,Perfect,ES2016d
+1266.97,1267.55,A,point five .,ES2016d
+1267.56,1267.56,D,.,ES2016d
+1269.93,1274.77,A,Okay . So we just remove our,ES2016d
+1275.5,1276.66,C,Screen,ES2016d
+1276.11,1277.05,A,screen here,ES2016d
+1276.66,1277.22,C,. Make it a bigger,ES2016d
+1277.05,1277.05,A,.,ES2016d
+1277.22,1280.18,C,dial . Easier to use . Even easier to use then .,ES2016d
+1282.72,1286.01,A,Besides look at what the L_C_D_ does to our lovely remote .,ES2016d
+1286.57,1288.15,B,"Okay , the",ES2016d
+1287.86,1289.85,A,Back to the design room boys .,ES2016d
+1289.94,1295.25,B,So we can just take away a heck of a lot of the,ES2016d
+1294.928,1294.928,D,.,ES2016d
+1295.25,1295.63,B,there you go .,ES2016d
+1297.65,1299.24,D,What's the blue part,ES2016d
+1298.27,1299.38,B,central,ES2016d
+1298.6,1299.58,C,That was just,ES2016d
+1299.24,1299.56,D,? Oh that's,ES2016d
+1299.38,1299.66,B,? Oh that's,ES2016d
+1299.56,1299.64,D,the,ES2016d
+1299.58,1299.7,C,we,ES2016d
+1299.64,1300.96,D,batteries,ES2016d
+1299.66,1300.14,B,just,ES2016d
+1299.7,1301.72,C,ran out of yellow,ES2016d
+1300.14,1301.11,B,yeah,ES2016d
+1300.96,1302.61,D,. Okay,ES2016d
+1301.11,1301.11,B,.,ES2016d
+1301.72,1301.72,C,.,ES2016d
+1302.61,1302.61,D,.,ES2016d
+1303.94,1305.0,B,There you go,ES2016d
+1304.36,1305.29,C,There you go,ES2016d
+1305.0,1305.22,B,. Oops .,ES2016d
+1305.29,1305.98,C,. Even simpler .,ES2016d
+1308.13,1309.2,D,Looks more like a banana .,ES2016d
+1309.69,1311.27,C,Yeah . For all those,ES2016d
+1311.22,1311.33,B,There,ES2016d
+1311.27,1311.55,C,fruit,ES2016d
+1311.33,1311.57,B,you go,ES2016d
+1311.55,1311.81,C,lovers,ES2016d
+1311.57,1311.96,B,. One more,ES2016d
+1311.81,1311.97,C,out,ES2016d
+1311.96,1312.57,B,criteria,ES2016d
+1311.97,1312.52,C,there .,ES2016d
+1312.57,1312.57,B,.,ES2016d
+1314.74,1321.82,A,Okay so the costs under twelve point five Euro . Was no . We redesigned it,ES2016d
+1321.65,1322.22,C,Yeah,ES2016d
+1321.82,1323.39,A,. Now it's yes,ES2016d
+1322.22,1322.22,C,.,ES2016d
+1323.39,1348.75,A,". Next slide . Project evaluation . Uh project process , satisfaction with , for example , room for creativity , leadership , teamwork , means , new ideas found . Um So I guess that Let's see here .",ES2016d
+1363.84,1370.85,A,I think that perhaps the project evaluation's just supposed to be completed by me . But I'd like to hear your thoughts .,ES2016d
+1377.07,1377.94,D,Trying to fill in some,ES2016d
+1377.8,1378.1,B,Fair,ES2016d
+1377.94,1378.25,D,time,ES2016d
+1378.1,1382.15,B,enough,ES2016d
+1378.25,1381.24,D,there .,ES2016d
+1382.15,1382.15,B,.,ES2016d
+1382.22,1384.84,A,Uh h what did you think of our project process ?,ES2016d
+1387.96,1388.26,C,I think,ES2016d
+1388.19,1388.78,B,Great,ES2016d
+1388.26,1388.79,C,we did,ES2016d
+1388.78,1388.78,B,.,ES2016d
+1388.79,1390.6,C,yeah I think we did quite well,ES2016d
+1390.03,1390.47,B,Yeah .,ES2016d
+1390.6,1391.48,C,. Um,ES2016d
+1390.69,1391.09,A,Good,ES2016d
+1390.9,1394.53,D,Good teamwork,ES2016d
+1391.09,1391.09,A,.,ES2016d
+1391.75,1393.7,B,"Just half a day , you have a remote",ES2016d
+1393.68,1394.82,C,Yeah,ES2016d
+1393.7,1394.52,B,. There you go .,ES2016d
+1394.53,1394.53,D,.,ES2016d
+1394.82,1395.99,C,. Right from the start of the day .,ES2016d
+1397.31,1397.74,A,Yeah I,ES2016d
+1397.69,1397.79,C,We,ES2016d
+1397.74,1398.08,A,think,ES2016d
+1397.79,1399.76,C,sort of knew where we were going straight away I thought,ES2016d
+1399.51,1399.91,A,we,ES2016d
+1399.76,1399.76,C,.,ES2016d
+1399.91,1440.59,A,st we started off a little little weak . Our leadership was quite weak in the beginning . Um um But as the day went along we had more idea of what we were doing . Um room for creativity ? There was that . Um I think we tried a lotta different things and um I think it was um interesting as you guys brought up more um information and studies that we were right on with a lot of those things . Um you guys worked together well as a team . And um the means ? Which,ES2016d
+1440.4,1441.33,C,Yeah,ES2016d
+1440.59,1441.42,A,was the whiteboard,ES2016d
+1441.33,1441.46,C,. We've,ES2016d
+1441.42,1441.52,A,and,ES2016d
+1441.46,1441.69,C,used,ES2016d
+1441.52,1442.27,A,the pens,ES2016d
+1441.69,1442.19,C,the whiteboard .,ES2016d
+1442.27,1442.27,A,.,ES2016d
+1442.61,1443.41,B,Super super .,ES2016d
+1443.8,1445.87,A,I had some problem with the pen I think,ES2016d
+1445.6,1445.91,D,Minus,ES2016d
+1445.87,1447.84,A,", but",ES2016d
+1445.91,1447.81,D,your PowerPoint fiasco,ES2016d
+1447.8,1448.32,B,Well,ES2016d
+1447.81,1447.81,D,.,ES2016d
+1447.84,1448.35,A,minus your,ES2016d
+1448.32,1448.48,B,that's,ES2016d
+1448.35,1448.56,A,p,ES2016d
+1448.48,1449.39,B,not my fault . That's,ES2016d
+1449.3,1449.54,D,No,ES2016d
+1449.39,1449.92,B,obviously,ES2016d
+1449.54,1449.99,D,I know,ES2016d
+1449.92,1450.01,B,the,ES2016d
+1449.99,1451.2,D,. I'm,ES2016d
+1450.01,1451.82,B,people I work for uh,ES2016d
+1451.2,1451.99,D,yeah,ES2016d
+1451.21,1451.45,A,Well,ES2016d
+1451.82,1452.13,B,that work,ES2016d
+1451.99,1454.78,D,. Incom,ES2016d
+1452.13,1455.74,B,"for me , uh they've just you know Heads",ES2016d
+1455.55,1456.28,A,Have a,ES2016d
+1455.74,1456.48,B,"are gonna roll , believe",ES2016d
+1456.28,1456.54,A,we,ES2016d
+1456.48,1456.9,B,me,ES2016d
+1456.54,1457.02,A,have a list,ES2016d
+1456.9,1456.9,B,.,ES2016d
+1457.02,1458.78,A,of employees that you would like fired .,ES2016d
+1459.1,1459.95,B,Yes yes .,ES2016d
+1460.43,1463.89,A,Okay . N new ideas found ? Um,ES2016d
+1464.47,1466.22,D,Mm . Kinda .,ES2016d
+1466.79,1470.54,A,Yes for the remote . Maybe no not f for,ES2016d
+1471.02,1472.07,C,Technology used .,ES2016d
+1472.09,1486.98,A,technology . Alright . Closing . Costs are within the budget . Project is evaluated . Um complete the final questionnaire and meeting summary . That's it .,ES2016d
+1487.28,1487.76,C,Excellent .,ES2016d
+1490.7,1493.87,A,And I still have to do my minutes for the last meeting .,ES2016d
+1498.94,1507.89,A,Actually . Um so there will probably be another questionnaire coming up .,ES2016d
+1509.57,1510.04,D,We might have,ES2016d
+1509.99,1510.15,A,And,ES2016d
+1510.04,1510.47,D,a while,ES2016d
+1510.15,1510.53,A,then we'll have,ES2016d
+1510.47,1511.76,D,though,ES2016d
+1510.53,1511.85,A,to check with the,ES2016d
+1511.2,1511.2,B,.,ES2016d
+1511.76,1511.76,D,.,ES2016d
+1511.85,1516.6,A,"main boss whether we can , what goes on after that . But that's the end of our meeting .",ES2016d
