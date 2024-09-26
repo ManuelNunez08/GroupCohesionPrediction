@@ -18,11 +18,12 @@ document.addEventListener("DOMContentLoaded", function() {
         const selectedOption = this.options[this.selectedIndex];
         const questionValue = selectedOption.value;
 
-        if (questionValue.startsWith('S') || questionValue.startsWith('T') || questionValue.startsWith('M')) {
-            selectQuestion(questionValue, selectedOption);
-        } else {
+        if (questionValue == "Social Cohesion" || questionValue == "Task Cohesion" || questionValue == "General Cohesion") {
             selectCategory(questionValue, selectedOption);
         }
+        else if (questionValue.startsWith('S') || questionValue.startsWith('T') || questionValue.startsWith('M')) {
+            selectQuestion(questionValue, selectedOption);
+        } 
     }
 
 

@@ -106,6 +106,8 @@ def data_proc():
     model_metadata['data_parameters']['max_std'] =  3.0
     model_metadata['data_parameters']['min_kappa'] = -0.3
 
+    print("Session data after data_proc load:\n ", session['model_metadata'])
+
     if model_metadata['question']:
         model_metadata['question_prompt'] = questions_dict[model_metadata['question']]
     else:
