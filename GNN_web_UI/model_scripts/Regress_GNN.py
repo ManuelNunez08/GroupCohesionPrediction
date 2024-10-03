@@ -13,7 +13,7 @@ from torch_geometric.data import Data, Dataset
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from torch_geometric.nn import GATConv, global_mean_pool
+from torch_geometric.nn import GATConv, GlobalAttention
 
 # for training process 
 from sklearn.model_selection import KFold
@@ -47,8 +47,16 @@ class CohesionGNN(torch.nn.Module):
         self.target_size = target_size
         self.dropout = dropout
 
+        # GAT convolution layer
         self.conv1 = GATConv(self.num_features, self.hidden_size, edge_dim=NUM_EDGE_FEATURES)
         
+        # Attention mechanism for global graph-level pooling
+        self.att = nn.Linear(self.hidden_size, 1)  # To compute attention scores
+        
+        # Global attention pooling layer
+        self.global_att_pool = GlobalAttention(self.att)
+        
+        # Linear layer for binary classification (output size 1 for binary labels)
         self.linear = nn.Linear(self.hidden_size, self.target_size)
         
     def forward(self, data):
@@ -59,13 +67,14 @@ class CohesionGNN(torch.nn.Module):
         x = F.relu(x)
         x = F.dropout(x, p=self.dropout, training=self.training)
         
-        # Global mean pooling: aggregates node embeddings 
-        x = global_mean_pool(x, batch)  
+        # Graph attention pooling to aggregate node embeddings into graph-level representation
+        x = self.global_att_pool(x, batch)    
         
         # Apply final linear layer for regression
         x = self.linear(x)  
         
         return x 
+
 
 
 
