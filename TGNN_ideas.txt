@@ -1,0 +1,10 @@
+
+
+Now that we have an exciting new TGNN architecture, lets decide what to do with it. Cohesion datasets are scant, annotations are not consistent across datasets, and the 
+concept as a whole is not used to test current automatic conversational assesment. 
+
+I have the thougght/reead of the following cahllenges that recent work addresses: 
+1. Dialougue summarization 
+2. Node/Graph level Emotion Classification
+3. Node response prediction 
+
