@@ -179,6 +179,47 @@ class SIMPT(nn.Module):
 ##############################################################################################################################################
 '''
 
+class ConversationRefinerTransformer(nn.Module):
+    def __init__(self, embedding_dim=7, num_heads=1, num_layers=1):
+        super(ConversationRefinerTransformer, self).__init__()
+        
+        # Transformer encoder
+        encoder_layer = nn.TransformerEncoderLayer(d_model=embedding_dim, nhead=num_heads)
+        self.transformer_encoder = nn.TransformerEncoder(encoder_layer, num_layers=num_layers)
+
+    def forward(self, subgraph_outputs):
+        """
+        subgraph_puputs: List of tensors, where each tensor is a sequence of conversation embeddings
+        of shape (seq_length, embedding_dim). Each subgraph is processed through the transformer.
+        """
+        refined_subgraph_outputs = []  # List to collect refined embeddings for each subgraph
+
+        for subgraph in subgraph_outputs:
+            subgraph = torch.stack(subgraph)
+            # Ensure input is a tensor and has batch dimension (1, seq_length, embedding_dim)
+            conversation_embeddings = subgraph # Add batch dimension
+
+            # Transpose input to match expected shape for transformer (seq_length, batch_size, embedding_dim)
+            conversation_embeddings = conversation_embeddings.transpose(0, 1)
+
+            # Pass through the transformer
+            refined_embeddings = self.transformer_encoder(conversation_embeddings)
+
+            # Transpose back to (batch_size, seq_length, embedding_dim) and remove batch dimension
+            refined_embeddings = refined_embeddings.transpose(0, 1).squeeze(0)
+            
+            # Add refined embeddings to the list
+            refined_subgraph_outputs.append(refined_embeddings)
+
+        refined_subgraph_outputs = [
+            tensor.unsqueeze(1) if tensor.dim() == 2 else tensor
+            for tensor in refined_subgraph_outputs
+        ]
+        combined_embeddings = torch.cat(refined_subgraph_outputs, dim=0) 
+
+        return combined_embeddings
+
+
 
 class TransformerForNextState(nn.Module):
     def __init__(self, embedding_dim=256, num_heads=4, num_layers=2):
@@ -212,10 +253,6 @@ class TransformerForNextState(nn.Module):
         padded_memory = torch.cat([new_memory_state, torch.zeros((batch_size, 768 - embedding_dim)).to(new_memory_state.device)], dim=-1)
 
         return padded_memory
-#         # Optionally, project to 768 dimensions
-#         projected_memory = self.scale_up_projection(new_memory_state)
-
-#         return projected_memory  # Shape: (batch_size, 768)
 
 
 
@@ -226,9 +263,12 @@ class ITERMEM(nn.Module):
         # GATConv for message passing
         self.gat_conv = GATConv(input_dim, hidden_dim, heads=num_heads, concat=False)
         
-        # RNN for memory contextualization 
-        self.rnn = RNNForNextState()
+        # Transformer for memory contextualization 
         self.transformer = TransformerForNextState()
+        
+        # Transformer for Output refinement
+        self.output_transformer = ConversationRefinerTransformer(embedding_dim = output_dim )
+        
 
         # layer to project speaker sentence embedding and memory into a single and memory state 
         self.speaker_projection = nn.Sequential(nn.Linear(768 * 2, 768), nn.ReLU())
@@ -270,7 +310,7 @@ class ITERMEM(nn.Module):
 
         subgraph_outputs = []
         num_graphs = batch.batch.unique().shape[0]
-
+        
         # Iterate through each graph in the batch 
         current_label_start = 0
         for i in range(num_graphs):
@@ -347,15 +387,55 @@ class ITERMEM(nn.Module):
             # Update the index where labels for current graph in batch start 
             current_label_start += len(subgraphs)
 
-            # After all iterations, append predictions for all subgraphs in current graph 
-            # subgraph_outputs += [self.classifier(self.global_att_pool(x)) for x in memory_states]
-
             # Use only the final speaker node embedding for classification instead of global pooling
-            subgraph_outputs += [self.classifier(speaker_node) for speaker_node in speaker_node_embeddings]
+            subgraph_outputs.append([self.classifier(speaker_node) for speaker_node in speaker_node_embeddings])
         
-        return torch.stack(subgraph_outputs, dim=0)  
+
+        # Refine conversation embeddings using the transformer model
+        refined_conversation_outputs = self.output_transformer(subgraph_outputs)  # Shape: (batch_size, seq_length, embedding_dim)
+        
+        return refined_conversation_outputs
+        # return torch.stack(refined_conversation_outputs, dim=0)  
+
+    
 
 
+'''
+################################################################################################################################
+
+                                        RANDOM FOREST CLASSIFIER FOR POST PROCESSING 
+
+
+################################################################################################################################
+'''
+    
+    
+    
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score
+
+def train_random_forest_on_probabilities(train_probs, train_labels, n_estimators=100):
+    # Initialize and train the Random Forest model
+    rf = RandomForestClassifier(n_estimators=n_estimators, random_state=42)
+    rf.fit(train_probs, train_labels)
+    return rf
+
+
+# Parts of training loop to be subbed back in 
+# if weighted_f1_score > best_f1_rm:
+#     best_f1_rm = weighted_f1_score
+#     best_model_state_rm = copy.deepcopy(model.state_dict())
+    
+# print('\nValidation Performance after Random Forest Post Processing:')
+# # Calculate and print weighted metrics
+# weighted_f1_score = f1_score(val_labels, val_preds, average='weighted')
+# weighted_accuracy = accuracy_score(val_labels, val_preds)
+# print(f"Weighted Accuracy (Overall): {weighted_accuracy:.4f}")
+# print(f"Weighted F1 Score (Overall): {weighted_f1_score:.4f}")
+
+# best_f1_model = ERC_working_models.ITERMEM(output_dim=7)
+# best_f1_model = best_f1_model.to(device)
+# best_f1_model.load_state_dict(best_model_state_rm)
 '''
 ##############################################################################################################################################
 
